@@ -10946,7 +10946,9 @@
     "oracle_id": "BP02-112",
     "is_dual_face": false,
     "name": "烈火の魔弾",
-    "alt_names": [],
+    "alt_names": [
+      "スパークルアサルト"
+    ],
     "class": "ニュートラル",
     "card_type": [
       "スペル"
@@ -10964,7 +10966,8 @@
     "canonical_print": "BP02-112",
     "prints": [
       "BP02-112",
-      "PR-047"
+      "PR-047",
+      "PR-406"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -84791,13 +84794,13 @@
       "BP05-T03"
     ],
     "mentions_by_name_contains": [
+      "BP08-004",
+      "BP08-005",
+      "BP19-004",
       "BP08-002",
       "BP08-003",
       "BP08-LD01",
-      "BP16-003",
-      "BP08-004",
-      "BP08-005",
-      "BP19-004"
+      "BP16-003"
     ]
   },
   {
@@ -97294,15 +97297,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012",
       "CP02-022",
       "CSD02C-001",
       "CSD02C-LD01",
       "ECP02-013",
-      "ECP02-014"
+      "ECP02-014",
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012"
     ]
   },
   {
@@ -116085,13 +116088,13 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-038",
+      "ECP02-026",
       "ECP02-027",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
       "ECP02-034",
-      "CP02-038",
-      "ECP02-026",
       "CP02-044"
     ]
   },
@@ -116639,11 +116642,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CSD02A-017",
-      "ECP02-049",
       "CSD02C-014",
       "CSD02C-015",
-      "ECP02-048"
+      "ECP02-048",
+      "CSD02A-017",
+      "ECP02-049"
     ]
   },
   {
@@ -116681,11 +116684,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CSD02A-017",
-      "ECP02-049",
       "CSD02C-014",
       "CSD02C-015",
-      "ECP02-048"
+      "ECP02-048",
+      "CSD02A-017",
+      "ECP02-049"
     ]
   },
   {
@@ -118930,37 +118933,6 @@
     "canonical_print": "PR-405",
     "prints": [
       "PR-405"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": []
-  },
-  {
-    "oracle_id": "PR-406",
-    "is_dual_face": false,
-    "name": "スパークルアサルト",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "傭兵"
-    ],
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "【クイック】\n相手のフォロワー1体を選ぶ。それに3ダメージ。それがエボルヴフォロワーなら、代わりに4ダメージ。",
-    "keywords": [
-      "クイック"
-    ],
-    "canonical_print": "PR-406",
-    "prints": [
-      "PR-406"
     ],
     "evolves_to": [],
     "evolved_from": [],
