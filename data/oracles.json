@@ -27054,7 +27054,9 @@
     "oracle_id": "BP06-056",
     "is_dual_face": false,
     "name": "銀氷のドラゴニュート・フィルレイン",
-    "alt_names": [],
+    "alt_names": [
+      "滄海の捕食者・沙花叉クロヱ"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -27073,47 +27075,14 @@
     "canonical_print": "BP06-056",
     "prints": [
       "BP06-056",
+      "BP06-057",
       "BP06-SL12",
+      "BP06-SP02",
       "BP06-U04",
       "SP01-027",
       "SP01-SL27",
       "SP01-SP17",
       "SP01-U15"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP06-061"
-    ],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": []
-  },
-  {
-    "oracle_id": "BP06-057",
-    "is_dual_face": false,
-    "name": "滄海の捕食者・沙花叉クロヱ",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "ドラゴニュート"
-    ],
-    "cost": 1,
-    "atk": 1,
-    "hp": 3,
-    "text": "【ファンファーレ】相手の場のフォロワー1体を選ぶ。それをアクトする。それは次の相手のスタートフェイズにスタンドしない。\n【ファンファーレ】【覚醒】状態なら、自分のデッキから『銀氷の吐息』1枚を探し、EXエリアに置く。",
-    "keywords": [
-      "ファンファーレ",
-      "覚醒"
-    ],
-    "canonical_print": "BP06-057",
-    "prints": [
-      "BP06-057",
-      "BP06-SP02"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -27233,7 +27202,9 @@
     "oracle_id": "BP06-061",
     "is_dual_face": false,
     "name": "銀氷の吐息",
-    "alt_names": [],
+    "alt_names": [
+      "お掃除しちゃうぞ♡"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "スペル"
@@ -27251,40 +27222,8 @@
     "canonical_print": "BP06-061",
     "prints": [
       "BP06-061",
+      "BP06-062",
       "PR-317"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP06-056"
-    ],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": []
-  },
-  {
-    "oracle_id": "BP06-062",
-    "is_dual_face": false,
-    "name": "お掃除しちゃうぞ♡",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "ドラゴニュート"
-    ],
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "これをプレイする際、【覚醒】状態なら、コストを-1する。\nアクト状態の相手の場のフォロワー1体を選ぶ。それを破壊する。自分の場に『銀氷のドラゴニュート・フィルレイン』がいるなら、それのリーダーに2ダメージ。",
-    "keywords": [
-      "覚醒"
-    ],
-    "canonical_print": "BP06-062",
-    "prints": [
-      "BP06-062"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -97170,16 +97109,16 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-023",
-      "CP02-024",
-      "CSD02A-001",
-      "CSD02A-LD01",
-      "ECP02-015",
       "CP02-022",
       "CSD02C-001",
       "CSD02C-LD01",
       "ECP02-013",
-      "ECP02-014"
+      "ECP02-014",
+      "CP02-023",
+      "CP02-024",
+      "CSD02A-001",
+      "CSD02A-LD01",
+      "ECP02-015"
     ]
   },
   {
@@ -116088,14 +116027,14 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-044",
       "CP02-038",
       "ECP02-026",
       "ECP02-027",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
-      "ECP02-034",
-      "CP02-044"
+      "ECP02-034"
     ]
   },
   {
