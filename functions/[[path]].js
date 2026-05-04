@@ -1,4 +1,6 @@
 export async function onRequest(context) {
+  console.log("FUNCTION HIT:", request.url)
+  
   const { request } = context
   const url = new URL(request.url)
 
