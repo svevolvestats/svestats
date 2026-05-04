@@ -3,7 +3,7 @@ export async function onRequest(context) {
     const { request } = context
     const url = new URL(request.url)
 
-    console.log(`Request: ${url.pathname}${url.search}`)
+    console.log(`Request: ${request.headers.get("user-agent")} ${url.pathname}${url.search}`)
  
     const ua = request.headers.get("user-agent") || ""
     const isBot = /discord|slack|twitter|facebook|kakao|bot/i.test(ua)
