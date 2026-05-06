@@ -1,0 +1,668 @@
+{
+  "period": {
+    "start": "2026-04-13",
+    "end": "2026-05-03"
+  },
+  "prev_period": "2026-03-30~2026-04-12",
+  "total_decks": 440,
+  "total_winners": 55,
+  "total_finalists": 110,
+  "archetypes": [
+    {
+      "id": "d0cc01",
+      "name": "八獄ロイヤル",
+      "class": "ロイヤル",
+      "count": 51,
+      "winner": 5,
+      "finalist": 13,
+      "top8_share": 0.1159,
+      "win_share": 0.0909,
+      "deck_rank": 0.16,
+      "top_cards": [
+        "潮流の砲手",
+        "荒波の副船長",
+        "アヴァリティア"
+      ]
+    },
+    {
+      "id": "2c8e7e",
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "count": 49,
+      "winner": 7,
+      "finalist": 13,
+      "top8_share": 0.1114,
+      "win_share": 0.1273,
+      "deck_rank": -0.18,
+      "top_cards": [
+        "ロイヤルクリスタリア・ティア",
+        "小さな勇士・スクナ",
+        "〔渚の花嫁〕新田美波"
+      ]
+    },
+    {
+      "id": "b99b1a",
+      "name": "宴楽ナイトメア",
+      "class": "ナイトメア",
+      "count": 33,
+      "winner": 6,
+      "finalist": 10,
+      "top8_share": 0.075,
+      "win_share": 0.1091,
+      "deck_rank": 0.48,
+      "top_cards": [
+        "デモンズドミネーター・ゼロヌア",
+        "ドアマンバット",
+        "ハンプティダンプティ"
+      ]
+    },
+    {
+      "id": "fcd6d2",
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 33,
+      "winner": 8,
+      "finalist": 11,
+      "top8_share": 0.075,
+      "win_share": 0.1455,
+      "deck_rank": 1.3,
+      "top_cards": [
+        "ユニ",
+        "ちぇるちぇる☆かあにばる",
+        "クロエ"
+      ]
+    },
+    {
+      "id": "580fdf",
+      "name": "ミロエルナイトメア",
+      "class": "ナイトメア",
+      "count": 24,
+      "winner": 1,
+      "finalist": 8,
+      "top8_share": 0.0545,
+      "win_share": 0.0182,
+      "deck_rank": -0.25,
+      "top_cards": [
+        "滅屍の執行者・ミロエル",
+        "形骸の看守",
+        "寒冷の死霊術師"
+      ]
+    },
+    {
+      "id": "4f8d49",
+      "name": "ゼラエル八獄ウィッチ",
+      "class": "ウィッチ",
+      "count": 21,
+      "winner": 4,
+      "finalist": 7,
+      "top8_share": 0.0477,
+      "win_share": 0.0727,
+      "deck_rank": 0.48,
+      "top_cards": [
+        "セレスティアルスフィア・ミリカ",
+        "マーシャルゴーレム",
+        "アズヴォルト"
+      ]
+    },
+    {
+      "id": "0bc572",
+      "name": "NCナイトメア",
+      "class": "ナイトメア",
+      "count": 21,
+      "winner": 2,
+      "finalist": 7,
+      "top8_share": 0.0477,
+      "win_share": 0.0364,
+      "deck_rank": 0.38,
+      "top_cards": [
+        "ストレイホロウ・イルガンノ",
+        "異形",
+        "ゴールドラッシュゴースト"
+      ]
+    },
+    {
+      "id": "59da69",
+      "name": "機械ウィッチ",
+      "class": "ウィッチ",
+      "count": 19,
+      "winner": 5,
+      "finalist": 7,
+      "top8_share": 0.0432,
+      "win_share": 0.0909,
+      "deck_rank": 2.21,
+      "top_cards": [
+        "蒼の反逆者・テトラ",
+        "清澄の蒼・テトラ",
+        "叡智の結実"
+      ]
+    },
+    {
+      "id": "a9f187",
+      "name": "八獄エルフ",
+      "class": "エルフ",
+      "count": 18,
+      "winner": 1,
+      "finalist": 3,
+      "top8_share": 0.0409,
+      "win_share": 0.0182,
+      "deck_rank": -0.56,
+      "top_cards": [
+        "若芽の組員",
+        "葉脈の舎弟頭",
+        "根際の刺客"
+      ]
+    },
+    {
+      "id": "ba0359",
+      "name": "八獄ウィッチ",
+      "class": "ウィッチ",
+      "count": 14,
+      "winner": 0,
+      "finalist": 2,
+      "top8_share": 0.0318,
+      "win_share": 0.0,
+      "deck_rank": -1.21,
+      "top_cards": [
+        "アズヴォルト",
+        "溶鉄の腹心",
+        "熱中の研究者"
+      ]
+    },
+    {
+      "id": "2a2c04",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 14,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0318,
+      "win_share": 0.0,
+      "deck_rank": -2.07,
+      "top_cards": [
+        "プロシードハート・オーキス",
+        "心有る共闘",
+        "パペットインヴァース"
+      ]
+    },
+    {
+      "id": "958c14",
+      "name": "真紅ナイトメア",
+      "class": "ナイトメア",
+      "count": 11,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.025,
+      "win_share": 0.0182,
+      "deck_rank": -1.64,
+      "top_cards": [
+        "クラッシュデビル・デモニア",
+        "欲望の信者",
+        "欲望の絶傑・ヴァーナレク"
+      ]
+    },
+    {
+      "id": "9fadc0",
+      "name": "天使ロイヤル",
+      "class": "ロイヤル",
+      "count": 11,
+      "winner": 5,
+      "finalist": 6,
+      "top8_share": 0.025,
+      "win_share": 0.0909,
+      "deck_rank": 4.27,
+      "top_cards": [
+        "フォーリンショット",
+        "天使の恩寵",
+        "グランスエンジェル"
+      ]
+    },
+    {
+      "id": "e79310",
+      "name": "アグロ簒奪ロイヤル",
+      "class": "ロイヤル",
+      "count": 10,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0227,
+      "win_share": 0.0182,
+      "deck_rank": -0.9,
+      "top_cards": [
+        "鮮やかな奪取",
+        "極意たる空絶",
+        "アヴァリティア"
+      ]
+    },
+    {
+      "id": "4ea4e2",
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "count": 9,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0205,
+      "win_share": 0.0182,
+      "deck_rank": -0.33,
+      "top_cards": [
+        "炎柱の竜人",
+        "炎髄の副会長・テンカ",
+        "暴竜・伊達政宗"
+      ]
+    },
+    {
+      "id": "9c9e3a",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 9,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0205,
+      "win_share": 0.0,
+      "deck_rank": -2.56,
+      "top_cards": [
+        "ミュースの料理人",
+        "希望導く聖乙女・ジャンヌ",
+        "デュアルカノンマザー・ラナ"
+      ]
+    },
+    {
+      "id": "e35f57",
+      "name": "7ドラゴン",
+      "class": "ドラゴン",
+      "count": 8,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0182,
+      "win_share": 0.0182,
+      "deck_rank": -0.12,
+      "top_cards": [
+        "荒波のドラグーン・ザハール",
+        "竜喰らう禁忌",
+        "蒼炎のドラゴニュート"
+      ]
+    },
+    {
+      "id": "976b57",
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "count": 8,
+      "winner": 0,
+      "finalist": 2,
+      "top8_share": 0.0182,
+      "win_share": 0.0,
+      "deck_rank": -1.0,
+      "top_cards": [
+        "射殺す輝き",
+        "悠久の絶望",
+        "信仰の一撃"
+      ]
+    },
+    {
+      "id": "d84539",
+      "name": "透京エルフ",
+      "class": "エルフ",
+      "count": 7,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0159,
+      "win_share": 0.0182,
+      "deck_rank": -0.71,
+      "top_cards": [
+        "魔汚区役所職員・災藤",
+        "浄樹の六銘伝・ロロ・ロニエ",
+        "樹正の木鐸・キョウ"
+      ]
+    },
+    {
+      "id": "cfdf29",
+      "name": "海洋ドラゴン",
+      "class": "ドラゴン",
+      "count": 7,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0159,
+      "win_share": 0.0182,
+      "deck_rank": 1.14,
+      "top_cards": [
+        "蒼海の裁き・ネプチューン",
+        "神魚・ディズレスタン",
+        "海神の威光"
+      ]
+    },
+    {
+      "id": "fe6faf",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 7,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0159,
+      "win_share": 0.0,
+      "deck_rank": -1.57,
+      "top_cards": [
+        "マンマル1号",
+        "創出の紫紺・エンネア",
+        "フロートボードマーセナリー"
+      ]
+    },
+    {
+      "id": "8e38b8",
+      "name": "八獄ドラゴン",
+      "class": "ドラゴン",
+      "count": 5,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0114,
+      "win_share": 0.0,
+      "deck_rank": -0.8,
+      "top_cards": [
+        "禁牙の執行者・ドラズエル",
+        "遊猟の咎人・アンテマリア",
+        "焦土の無頼漢"
+      ]
+    },
+    {
+      "id": "01421d",
+      "name": "カットスロートロイヤル",
+      "class": "ロイヤル",
+      "count": 5,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0114,
+      "win_share": 0.0,
+      "deck_rank": -0.6,
+      "top_cards": [
+        "機鋒の咎人・カットスロート",
+        "黒錆の下っ端",
+        "精錬の用心棒"
+      ]
+    },
+    {
+      "id": "55fa20",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 5,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.0114,
+      "win_share": 0.0364,
+      "deck_rank": 3.0,
+      "top_cards": [
+        "黄金の鐘",
+        "一角獣の祭壇",
+        "翼天の執行者・ウヌエル"
+      ]
+    },
+    {
+      "id": "dfaa56",
+      "name": "学園ウィッチ",
+      "class": "ウィッチ",
+      "count": 4,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0091,
+      "win_share": 0.0182,
+      "deck_rank": 1.25,
+      "top_cards": [
+        "魔術の始祖・マナリア",
+        "マナリアの知識",
+        "アドラブルティーチャー・ミラ"
+      ]
+    },
+    {
+      "id": "b73b0d",
+      "name": "カットスロートエルフ",
+      "class": "エルフ",
+      "count": 4,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0091,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "機鋒の咎人・カットスロート",
+        "黒錆の下っ端",
+        "精錬の用心棒"
+      ]
+    },
+    {
+      "id": "c46a71",
+      "name": "ミッドレンジプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 4,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0091,
+      "win_share": 0.0182,
+      "deck_rank": 3.0,
+      "top_cards": [
+        "ムイミ",
+        "イノリ",
+        "クローチェ"
+      ]
+    },
+    {
+      "id": "84962f",
+      "name": "カットスロートドラゴン",
+      "class": "ドラゴン",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0068,
+      "win_share": 0.0,
+      "deck_rank": -2.33,
+      "top_cards": [
+        "機鋒の咎人・カットスロート",
+        "黒錆の下っ端",
+        "精錬の用心棒"
+      ]
+    },
+    {
+      "id": "3d95d5",
+      "name": "カットスロートビショップ",
+      "class": "ビショップ",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0068,
+      "win_share": 0.0,
+      "deck_rank": -1.67,
+      "top_cards": [
+        "機鋒の咎人・カットスロート",
+        "黒錆の下っ端",
+        "溶鉄の腹心"
+      ]
+    },
+    {
+      "id": "71f17a",
+      "name": "アグロロイヤル",
+      "class": "ロイヤル",
+      "count": 3,
+      "winner": 0,
+      "finalist": 2,
+      "top8_share": 0.0068,
+      "win_share": 0.0,
+      "deck_rank": 2.0,
+      "top_cards": [
+        "静寂のアナテマ・ギルダリア",
+        "音速の機構・ララミア",
+        "白銀の騎士団長・エミリア"
+      ]
+    },
+    {
+      "id": "37dab9",
+      "name": "透京ロイヤル",
+      "class": "ロイヤル",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0068,
+      "win_share": 0.0,
+      "deck_rank": -3.67,
+      "top_cards": [
+        "隘路の調査員",
+        "全識の六銘伝・シンラ",
+        "ワイルドメディエーター・ガンマ"
+      ]
+    },
+    {
+      "id": "a0c53d",
+      "name": "魔法使いウィッチ",
+      "class": "ウィッチ",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0068,
+      "win_share": 0.0,
+      "deck_rank": -2.67,
+      "top_cards": [
+        "ラピッドファイア",
+        "真実の宣告",
+        "水晶の魔剣士"
+      ]
+    },
+    {
+      "id": "a0623d",
+      "name": "八獄ビショップ",
+      "class": "ビショップ",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0068,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "結盟の咎人・エルラーデ",
+        "誓約の幹部",
+        "戒律の諜報員"
+      ]
+    },
+    {
+      "id": "569f6a",
+      "name": "1コスプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": -3.5,
+      "top_cards": [
+        "レイ",
+        "ラビリスタ",
+        "ネフィ＝ネラ"
+      ]
+    },
+    {
+      "id": "64be48",
+      "name": "守護ビショップ",
+      "class": "ビショップ",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": -2.5,
+      "top_cards": [
+        "熟達の翼戦士",
+        "聖騎士・ヘクター",
+        "ブライトパラディン・ウィルバート"
+      ]
+    },
+    {
+      "id": "95d531",
+      "name": "ランプウマ娘",
+      "class": "ウマ娘 プリティーダービー",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "ネオユニヴァース",
+        "ジェンティルドンナ",
+        "ナリタブライアン"
+      ]
+    },
+    {
+      "id": "5823d6",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 1,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0023,
+      "win_share": 0.0182,
+      "deck_rank": 12.0,
+      "top_cards": [
+        "高貴なる闇夜・ヴァイト",
+        "バットノイズ",
+        "紅き血の女王・ヴァンピィ"
+      ]
+    },
+    {
+      "id": "b1d9b8",
+      "name": "カットスロートナイトメア",
+      "class": "ナイトメア",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0023,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "機鋒の咎人・カットスロート",
+        "黒錆の下っ端",
+        "輪廻の統治者・ゼラエル"
+      ]
+    },
+    {
+      "id": "7706d5",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0023,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "鋼鉄と大地の神",
+        "輝ける剣撃",
+        "陽だまりの邂逅"
+      ]
+    },
+    {
+      "id": "0659bf",
+      "name": "オニオンウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0023,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "オニオン軍団",
+        "オニオン軍団の長・バーゼント",
+        "蒙昧なる術式"
+      ]
+    },
+    {
+      "id": "90b114",
+      "name": "横並びウマ娘",
+      "class": "ウマ娘 プリティーダービー",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0023,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "世界にもっと☆マーベラス",
+        "マヤノトップガン",
+        "〔桃色のバックショット〕ナリタトップロード"
+      ]
+    }
+  ]
+}
