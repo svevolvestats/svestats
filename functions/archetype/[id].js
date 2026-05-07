@@ -12,13 +12,14 @@ export async function onRequest(context) {
       ? `${origin}/data/archetypes/${period}`
       : `${origin}/data`
 
-    const [archetypes, oracles, prints] = await Promise.all([
-      fetchJson(`${dataBase}/archetypes.json`),
+    const [meta, oracles, prints] = await Promise.all([
+      fetchJson(`${dataBase}/meta.json`),
       fetchJson(`${origin}/data/oracles.json`),
       fetchJson(`${origin}/data/prints.json`),
     ])
 
-    const arch = archetypes[archId]
+    // winner/count/top_cards are in meta.archetypes[], not archetypes.json
+    const arch = meta.archetypes?.find(a => a.id === archId)
     if (!arch) throw new Error('not found')
 
     const printsMap = Object.fromEntries(prints.map(p => [p.cardno, p]))
