@@ -35,6 +35,6 @@ export async function onRequest(context) {
       pageUrl: `${origin}/card/${cardId}`,
     })
   } catch {
-    return fetch(new Request(`${origin}/`, { headers: request.headers }))
+    return context.env.ASSETS.fetch(new Request(`${origin}/index.html`))
   }
 }

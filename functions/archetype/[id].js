@@ -50,6 +50,6 @@ export async function onRequest(context) {
 
     return serveWithOG(context, { title, description: desc, imageUrl, pageUrl })
   } catch {
-    return fetch(new Request(`${origin}/`, { headers: request.headers }))
+    return context.env.ASSETS.fetch(new Request(`${origin}/index.html`))
   }
 }

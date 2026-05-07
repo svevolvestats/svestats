@@ -47,7 +47,8 @@ export function injectOG(html, { title, description, imageUrl, pageUrl }) {
 
 export async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin
-  const indexRes = await fetch(`${origin}/`)
+  // Use ASSETS binding to bypass Functions routing and get static HTML directly
+  const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`))
   const html = await indexRes.text()
   return new Response(injectOG(html, ogProps), {
     headers: {
