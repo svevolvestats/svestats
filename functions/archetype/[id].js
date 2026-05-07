@@ -40,9 +40,12 @@ export async function onRequest(context) {
     }
 
     const archName = arch.name || archId
-    const periodStr = period ? `(${period.replace('~', '〜')})` : ''
+    const p = meta.period ?? {}
+    const periodStr = p.start && p.end ? `(${p.start}〜${p.end})` : ''
     const title = `${archName}${periodStr} | エボルヴ統計局`
-    const desc = `優勝${arch.winner ?? 0}回 / TOP8 ${arch.count ?? 0}回 | Shadowverse EVOLVE`
+    const winPct = ((arch.win_share ?? 0) * 100).toFixed(2)
+    const top8Pct = ((arch.top8_share ?? 0) * 100).toFixed(2)
+    const desc = `優勝${arch.winner ?? 0}回(${winPct}%) | TOP8 ${arch.count ?? 0}回(${top8Pct}%)`
     const pageUrl = `${origin}/archetype/${archId}${period ? `?period=${encodeURIComponent(period)}` : ''}`
 
     return serveWithOG(context, { title, description: desc, imageUrl, pageUrl })
