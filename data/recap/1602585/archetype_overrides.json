@@ -1,0 +1,44 @@
+{
+  "auto_splits": [],
+  "splits": [
+    {
+      "source": "94fb47",
+      "rules": [
+        {
+          "required": ["アナスタシア"],
+          "name": "コンボエルフ"
+        },
+        {
+          "required": [],
+          "name": "八獄エルフ"
+        }
+      ]
+    },
+    {
+      "source": "96ad43",
+      "rules": [
+        {
+          "required": ["黄金の鐘"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    },
+    {
+      "source": "370cfb",
+      "rules": [
+        {
+          "required": ["ホマレ"],
+          "name": "ミッドレンジプリコネ"
+        },
+        {
+          "required": [],
+          "name": "スペルプリコネ"
+        }
+      ]
+    }
+  ]
+}
