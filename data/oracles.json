@@ -18912,7 +18912,9 @@
     "oracle_id": "BP04-057",
     "is_dual_face": false,
     "name": "水竜神の巫女",
-    "alt_names": [],
+    "alt_names": [
+      "紅の夜叉・カレン"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -18932,6 +18934,7 @@
     "canonical_print": "BP04-057",
     "prints": [
       "BP04-057",
+      "BP04-058",
       "BP04-SL10"
     ],
     "evolves_to": [],
@@ -18942,40 +18945,6 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "illustrator": "虹原"
-  },
-  {
-    "oracle_id": "BP04-058",
-    "is_dual_face": false,
-    "name": "紅の夜叉・カレン",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "竜使い"
-    ],
-    "title": null,
-    "cost": 3,
-    "atk": 3,
-    "hp": 4,
-    "text": "自分のエンドフェイズが来たとき、自分のリーダーは体力+1する。【覚醒】状態なら、代わりに体力+2する。\n【ファンファーレ】【覚醒】状態なら、これは攻撃力+1/体力+1する。自分のPP最大値を+1する。",
-    "keywords": [
-      "ファンファーレ",
-      "覚醒"
-    ],
-    "canonical_print": "BP04-058",
-    "prints": [
-      "BP04-058"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "illustrator": ""
   },
   {
     "oracle_id": "BP04-059",
@@ -102681,16 +102650,16 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-022",
-      "CSD02C-001",
-      "CSD02C-LD01",
-      "ECP02-013",
-      "ECP02-014",
       "CP02-023",
       "CP02-024",
       "CSD02A-001",
       "CSD02A-LD01",
-      "ECP02-015"
+      "ECP02-015",
+      "CP02-022",
+      "CSD02C-001",
+      "CSD02C-LD01",
+      "ECP02-013",
+      "ECP02-014"
     ],
     "illustrator": ""
   },
@@ -102728,15 +102697,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012",
       "CP02-023",
       "CP02-024",
       "CSD02A-001",
       "CSD02A-LD01",
-      "ECP02-015"
+      "ECP02-015",
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012"
     ],
     "illustrator": ""
   },
@@ -122708,14 +122677,14 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-038",
+      "ECP02-026",
+      "ECP02-027",
+      "CP02-044",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
-      "ECP02-034",
-      "CP02-044",
-      "CP02-038",
-      "ECP02-026",
-      "ECP02-027"
+      "ECP02-034"
     ],
     "illustrator": ""
   },
@@ -123297,11 +123266,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-081",
+      "ECP02-049",
       "CP02-083",
       "CP02-084",
-      "ECP02-048",
-      "CP02-081",
-      "ECP02-049"
+      "ECP02-048"
     ],
     "illustrator": ""
   },
@@ -123341,11 +123310,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-081",
+      "ECP02-049",
       "CP02-083",
       "CP02-084",
-      "ECP02-048",
-      "CP02-081",
-      "ECP02-049"
+      "ECP02-048"
     ],
     "illustrator": ""
   },
