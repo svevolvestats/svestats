@@ -24,7 +24,8 @@ export async function onRequest(context) {
       ? `${p.start}〜${p.end}`
       : (p.start || '')
     const title = `${meta.event_title} | エボルヴ統計局`
-    const desc = `${meta.total_decks}名参加（${dateStr}）大会結果・アーキタイプ分析`
+    const participantCount = meta.participants || meta.total_decks
+    const desc = `${participantCount}名参加（${dateStr}）大会結果・アーキタイプ分析`
     const pageUrl = `${origin}/recap?event=${resolvedEventId}`
 
     return serveWithOG(context, { title, description: desc, imageUrl: null, pageUrl })
