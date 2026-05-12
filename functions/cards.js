@@ -5,10 +5,10 @@ export async function onRequest(context) {
   const q = url.searchParams.get('q') || ''
 
   const qDisplay = q
-    .replace(/>=/g, '以上')
-    .replace(/<=/g, '以下')
-    .replace(/>/g, '超過')
-    .replace(/</g, '未満')
+    .replace(/([^<>=\s]*)>=(\d+)/g, '$1$2以上')
+    .replace(/([^<>=\s]*)<=(\d+)/g, '$1$2以下')
+    .replace(/([^<>=\s]*)>(\d+)/g, '$1$2超過')
+    .replace(/([^<>=\s]*)<(\d+)/g, '$1$2未満')
 
   const title = q
     ? `「${qDisplay}」の検索結果 | エボルヴ統計局`
