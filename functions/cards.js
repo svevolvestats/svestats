@@ -4,17 +4,22 @@ export async function onRequest(context) {
   const url = new URL(context.request.url)
   const q = url.searchParams.get('q') || ''
 
+  const qDisplay = q
+    .replace(/>=/g, '以上')
+    .replace(/<=/g, '以下')
+    .replace(/>/g, '超過')
+    .replace(/</g, '未満')
+
   const title = q
-    ? `「${q}」の検索結果 | エボルヴ統計局`
+    ? `「${qDisplay}」の検索結果 | エボルヴ統計局`
     : 'カード検索 | エボルヴ統計局'
   const description = q
-    ? `Shadowverse EVOLVE「${q}」のカード検索結果`
+    ? `Shadowverse EVOLVE「${qDisplay}」のカード検索結果`
     : 'Shadowverse EVOLVE カード検索'
 
   return serveWithOG(context, {
     title,
     description,
-    imageUrl: `${url.origin}/og-meta.png`,
     pageUrl: q ? `${url.origin}/cards?q=${encodeURIComponent(q)}` : `${url.origin}/cards`,
   })
 }
