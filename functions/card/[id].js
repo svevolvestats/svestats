@@ -13,16 +13,23 @@ export async function onRequest(context) {
 
     const printsMap = Object.fromEntries(prints.map(p => [p.cardno, p]))
 
-    // Look up by oracle_id first, then by cardno
+    // Case-insensitive lookup: find the canonical-cased id
+    const idLower = cardId.toLowerCase()
     let oracle = oracles.find(o => o.oracle_id === cardId)
+      || oracles.find(o => o.oracle_id.toLowerCase() === idLower)
+    let resolvedCardId = cardId
     if (!oracle) {
       const hit = printsMap[cardId]
-      if (hit) oracle = oracles.find(o => o.oracle_id === hit.oracle_id)
+        || prints.find(p => p.cardno.toLowerCase() === idLower)
+      if (hit) {
+        oracle = oracles.find(o => o.oracle_id === hit.oracle_id)
+        resolvedCardId = hit.cardno
+      }
     }
     if (!oracle) throw new Error('not found')
 
     // Use the specific print if accessed via cardno, otherwise canonical
-    const printCardno = printsMap[cardId] ? cardId : oracle.canonical_print
+    const printCardno = printsMap[resolvedCardId] ? resolvedCardId : oracle.canonical_print
     const print = printsMap[printCardno]
 
     const title = `${print?.name || oracle.name} | エボルヴ統計局`
