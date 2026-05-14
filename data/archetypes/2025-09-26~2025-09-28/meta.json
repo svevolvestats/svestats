@@ -1,0 +1,455 @@
+{
+  "period": {
+    "start": "2025-09-26",
+    "end": "2025-09-28"
+  },
+  "prev_period": "2025-09-08~2025-09-25",
+  "total_decks": 220,
+  "total_winners": 28,
+  "total_finalists": 56,
+  "event_title": null,
+  "archetypes": [
+    {
+      "id": "335874",
+      "name": "ナイトメア（紫紺の抵抗者・エンネア・ファースト・ワン）",
+      "class": "ナイトメア",
+      "count": 45,
+      "winner": 10,
+      "finalist": 15,
+      "top8_share": 0.2045,
+      "win_share": 0.3571,
+      "deck_rank": 1.2,
+      "top_cards": [
+        "紫紺の抵抗者・エンネア",
+        "ファースト・ワン",
+        "悠久の真紅・モノ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "4873be",
+      "name": "ナイトメア（奔放なる獄炎・ケルベロス・人外魔境・クリストフ）",
+      "class": "ナイトメア",
+      "count": 25,
+      "winner": 4,
+      "finalist": 9,
+      "top8_share": 0.1136,
+      "win_share": 0.1429,
+      "deck_rank": 0.88,
+      "top_cards": [
+        "奔放なる獄炎・ケルベロス",
+        "人外魔境・クリストフ",
+        "死期を視るもの・グレモリー"
+      ],
+      "prev_id": "9b9e78"
+    },
+    {
+      "id": "1bc0b3",
+      "name": "ウィッチ（天地の侵略者・ベルフォメット・極致の創造主・ベルフォメット）",
+      "class": "ウィッチ",
+      "count": 16,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.0727,
+      "win_share": 0.0714,
+      "deck_rank": -0.94,
+      "top_cards": [
+        "天地の侵略者・ベルフォメット",
+        "極致の創造主・ベルフォメット",
+        "蒼の反逆者・テトラ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "851f52",
+      "name": "ドラゴン（天威のドラグーン・灼熱のアナテマ・バーンドナイト）",
+      "class": "ドラゴン",
+      "count": 15,
+      "winner": 3,
+      "finalist": 6,
+      "top8_share": 0.0682,
+      "win_share": 0.1071,
+      "deck_rank": 0.73,
+      "top_cards": [
+        "天威のドラグーン",
+        "灼熱のアナテマ・バーンドナイト",
+        "蒼炎のドラゴニュート"
+      ],
+      "prev_id": "094475"
+    },
+    {
+      "id": "00b4a0",
+      "name": "アイドルマスター シンデレラガールズ（キラデコ☆パレード・〔我龍天征〕向井拓海）",
+      "class": "アイドルマスター シンデレラガールズ",
+      "count": 14,
+      "winner": 0,
+      "finalist": 6,
+      "top8_share": 0.0636,
+      "win_share": 0.0,
+      "deck_rank": 0.57,
+      "top_cards": [
+        "キラデコ☆パレード",
+        "〔我龍天征〕向井拓海",
+        "〔千夜一夜舞姫〕ナターリア"
+      ],
+      "prev_id": "ac45a3"
+    },
+    {
+      "id": "827f39",
+      "name": "ロイヤル（音速の機構・ララミア・忠義の剣士・エリカ）",
+      "class": "ロイヤル",
+      "count": 14,
+      "winner": 1,
+      "finalist": 4,
+      "top8_share": 0.0636,
+      "win_share": 0.0357,
+      "deck_rank": -0.5,
+      "top_cards": [
+        "音速の機構・ララミア",
+        "忠義の剣士・エリカ",
+        "空の指揮官・セリア"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "dfe18a",
+      "name": "エルフ（回帰する抱擁・ラティカ・スケアリートレント）",
+      "class": "エルフ",
+      "count": 11,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.05,
+      "win_share": 0.0357,
+      "deck_rank": -0.36,
+      "top_cards": [
+        "回帰する抱擁・ラティカ",
+        "スケアリートレント",
+        "大いなる回帰"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "71515e",
+      "name": "エルフ（小さな勇士・スクナ・〔渚の花嫁〕新田美波）",
+      "class": "エルフ",
+      "count": 11,
+      "winner": 3,
+      "finalist": 3,
+      "top8_share": 0.05,
+      "win_share": 0.1071,
+      "deck_rank": 1.18,
+      "top_cards": [
+        "小さな勇士・スクナ",
+        "〔渚の花嫁〕新田美波",
+        "優美な猫姉妹・シャム＆シャマ"
+      ],
+      "prev_id": "5e7bca"
+    },
+    {
+      "id": "0efe87",
+      "name": "ナイトメア（鮮血の首飾り・終幕の吸血鬼・ユリアス）",
+      "class": "ナイトメア",
+      "count": 9,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0409,
+      "win_share": 0.0,
+      "deck_rank": -1.33,
+      "top_cards": [
+        "鮮血の首飾り",
+        "終幕の吸血鬼・ユリアス",
+        "欲望の絶傑・ヴァーナレク"
+      ],
+      "prev_id": "79fc2f"
+    },
+    {
+      "id": "a23f15",
+      "name": "ビショップ（デバイスチューナー・オートマティックメイデン）",
+      "class": "ビショップ",
+      "count": 9,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.0409,
+      "win_share": 0.0714,
+      "deck_rank": 0.89,
+      "top_cards": [
+        "デバイスチューナー",
+        "オートマティックメイデン",
+        "機械鞭の僧侶"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "19a537",
+      "name": "アイドルマスター シンデレラガールズ（〔朱華色の夢〕藤原肇・〔シンデレラガール〕渋谷凛）",
+      "class": "アイドルマスター シンデレラガールズ",
+      "count": 8,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0364,
+      "win_share": 0.0,
+      "deck_rank": -1.0,
+      "top_cards": [
+        "〔朱華色の夢〕藤原肇",
+        "〔シンデレラガール〕渋谷凛",
+        "〔チャーミング・スウィート〕二宮飛鳥"
+      ],
+      "prev_id": "07f393"
+    },
+    {
+      "id": "5defe4",
+      "name": "ロイヤル（ワンダーコック・王たる光・ベイリオン）",
+      "class": "ロイヤル",
+      "count": 8,
+      "winner": 0,
+      "finalist": 2,
+      "top8_share": 0.0364,
+      "win_share": 0.0,
+      "deck_rank": -0.5,
+      "top_cards": [
+        "ワンダーコック",
+        "王たる光・ベイリオン",
+        "王の一閃"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "fa9280",
+      "name": "アイドルマスター シンデレラガールズ（〔紡ぐメメント・モリ〕黒埼ちとせ・〔individuals〕早坂美玲）",
+      "class": "アイドルマスター シンデレラガールズ",
+      "count": 6,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0273,
+      "win_share": 0.0,
+      "deck_rank": -1.33,
+      "top_cards": [
+        "〔紡ぐメメント・モリ〕黒埼ちとせ",
+        "〔individuals〕早坂美玲",
+        "〔カム・ウィズミー！〕乙倉悠貴"
+      ],
+      "prev_id": "166c8d"
+    },
+    {
+      "id": "30f083",
+      "name": "ロイヤル（帳場ガエル・天下の大泥棒・ジエモン）",
+      "class": "ロイヤル",
+      "count": 6,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0273,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "帳場ガエル",
+        "天下の大泥棒・ジエモン",
+        "艶やかなる太夫・ギンネ"
+      ],
+      "prev_id": "d414e1"
+    },
+    {
+      "id": "76e90a",
+      "name": "ウマ娘 プリティーダービー（シュヴァルグラン・〔マチタン☆アドベンチャー〕マチカネタンホイザ）",
+      "class": "ウマ娘 プリティーダービー",
+      "count": 4,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0182,
+      "win_share": 0.0,
+      "deck_rank": -1.25,
+      "top_cards": [
+        "シュヴァルグラン",
+        "〔マチタン☆アドベンチャー〕マチカネタンホイザ",
+        "エアシャカール"
+      ],
+      "prev_id": "4a5439"
+    },
+    {
+      "id": "7c920d",
+      "name": "ロイヤル（簒奪の絶傑・オクトリス・アサルトバンデッド）",
+      "class": "ロイヤル",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0182,
+      "win_share": 0.0,
+      "deck_rank": -4.5,
+      "top_cards": [
+        "簒奪の絶傑・オクトリス",
+        "アサルトバンデッド",
+        "極意たる空絶"
+      ],
+      "prev_id": "2e1c76"
+    },
+    {
+      "id": "62756b",
+      "name": "ビショップ（不思議な青空・アリス・希望導く聖乙女・ジャンヌ）",
+      "class": "ビショップ",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0136,
+      "win_share": 0.0,
+      "deck_rank": -2.67,
+      "top_cards": [
+        "不思議な青空・アリス",
+        "希望導く聖乙女・ジャンヌ",
+        "三日月の女神 ツクヨミ"
+      ],
+      "prev_id": "66ffd7"
+    },
+    {
+      "id": "51daec",
+      "name": "ロイヤル（反転する翼・ベルエンジェル・リア）",
+      "class": "ロイヤル",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0136,
+      "win_share": 0.0,
+      "deck_rank": -3.67,
+      "top_cards": [
+        "反転する翼",
+        "ベルエンジェル・リア",
+        "ベルエンジェル"
+      ],
+      "prev_id": "c910da"
+    },
+    {
+      "id": "cf9be2",
+      "name": "ドラゴン（竜の託宣・竜槍の戦士・ローウェン）",
+      "class": "ドラゴン",
+      "count": 2,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0091,
+      "win_share": 0.0357,
+      "deck_rank": 2.5,
+      "top_cards": [
+        "竜の託宣",
+        "竜槍の戦士・ローウェン",
+        "鷺沢文香"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "975c4a",
+      "name": "ウィッチ（魔術の始祖・マナリア・マナリアの知識）",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0045,
+      "win_share": 0.0357,
+      "deck_rank": 12.0,
+      "top_cards": [
+        "魔術の始祖・マナリア",
+        "マナリアの知識",
+        "レグニスロード・グレア"
+      ],
+      "prev_id": "6d142a"
+    },
+    {
+      "id": "5f3465",
+      "name": "ウィッチ（剥落の暴圧・真理の大文豪・ユキシマ）",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "剥落の暴圧",
+        "真理の大文豪・ユキシマ",
+        "ベルエンジェル・リア"
+      ],
+      "prev_id": "3af9eb"
+    },
+    {
+      "id": "4203b2",
+      "name": "カードファイト!! ヴァンガード（高速遊撃のイルカ兵・ストームライダー バシル）",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "高速遊撃のイルカ兵",
+        "ストームライダー バシル",
+        "輝石通信のラッコ兵"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "1e5fa9",
+      "name": "カードファイト!! ヴァンガード（バーニングホーン・ドラゴン・槍の化身 ター）",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "バーニングホーン・ドラゴン",
+        "槍の化身 ター",
+        "ドラゴンナイト ネハーレン"
+      ],
+      "prev_id": "9232b5"
+    },
+    {
+      "id": "bd0ee1",
+      "name": "ドラゴン（神魚・ディズレスタン・シャークウォーリアー）",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "神魚・ディズレスタン",
+        "シャークウォーリアー",
+        "トロピカルマーメイド"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "da6402",
+      "name": "ドラゴン（影の侵食・荒野の休息）",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "影の侵食",
+        "荒野の休息",
+        "勇躍の獣人・ジーナ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "657f26",
+      "name": "ビショップ（《世界》・ゼルガネイア・信仰の一撃）",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0045,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "《世界》・ゼルガネイア",
+        "信仰の一撃",
+        "天使の恩寵"
+      ],
+      "prev_id": "a3a33d"
+    }
+  ]
+}

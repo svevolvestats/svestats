@@ -1,0 +1,199 @@
+{
+  "_split_suggestions": {
+    "5a37a0": {
+      "name": "5a37a0",
+      "class": "ドラゴン",
+      "n": 42,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "迸る光明・アポロン",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "艶麗なる竜人・マリオン",
+              "y_ratio": 69,
+              "co_occur_pct": 14,
+              "diff_pct": -62
+            },
+            {
+              "y": "ダークドラグーン・フォルテ",
+              "y_ratio": 48,
+              "co_occur_pct": 7,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    },
+    "01b671": {
+      "name": "01b671",
+      "class": "アイドルマスター シンデレラガールズ",
+      "n": 32,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "岡崎泰葉",
+              "ratio": 84
+            }
+          ],
+          "drops": [
+            {
+              "y": "アナスタシア",
+              "y_ratio": 12,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "〔渚の花嫁〕新田美波",
+              "ratio": 22
+            }
+          ],
+          "drops": [
+            {
+              "y": "岡崎泰葉",
+              "y_ratio": 84,
+              "co_occur_pct": 9,
+              "diff_pct": -53
+            }
+          ]
+        }
+      ]
+    },
+    "f178be": {
+      "name": "f178be",
+      "class": "ナイトメア",
+      "n": 25,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "憧れの飛躍・イツルギ",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "一刀の幽鬼・カゲロウ",
+              "y_ratio": 60,
+              "co_occur_pct": 4,
+              "diff_pct": -57
+            },
+            {
+              "y": "魔将軍・ヘクター",
+              "y_ratio": 72,
+              "co_occur_pct": 8,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "868a1c": {
+      "name": "868a1c",
+      "class": "ロイヤル",
+      "n": 25,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "氷獄の顕現",
+              "ratio": 20
+            },
+            {
+              "name": "真理の騎士 ゴードン",
+              "ratio": 20
+            },
+            {
+              "name": "ワールドブレイク",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "簒奪の従者",
+              "y_ratio": 80,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "簒奪の信者",
+              "y_ratio": 80,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "空絶の崇拝者",
+              "y_ratio": 80,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            }
+          ]
+        }
+      ]
+    },
+    "49a27f": {
+      "name": "49a27f",
+      "class": "ビショップ",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "煌翼のフェザーフォルク・リノ",
+              "ratio": 36
+            }
+          ],
+          "drops": [
+            {
+              "y": "剛健の翼人",
+              "y_ratio": 64,
+              "co_occur_pct": 7,
+              "diff_pct": -69
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

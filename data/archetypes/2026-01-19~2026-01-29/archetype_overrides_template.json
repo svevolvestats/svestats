@@ -1,0 +1,104 @@
+{
+  "_split_suggestions": {
+    "1b7555": {
+      "name": "1b7555",
+      "class": "ナイトメア",
+      "n": 26,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "絶叫の沈黙・ルルナイ",
+              "ratio": 19
+            }
+          ],
+          "drops": [
+            {
+              "y": "大ツルハシの骸",
+              "y_ratio": 81,
+              "co_occur_pct": 4,
+              "diff_pct": -75
+            },
+            {
+              "y": "死期を視るもの・グレモリー",
+              "y_ratio": 88,
+              "co_occur_pct": 8,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "1e2d46": {
+      "name": "1e2d46",
+      "class": "エルフ",
+      "n": 19,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "九尾の決意",
+              "ratio": 32
+            },
+            {
+              "name": "宿命の狐火・セッカ",
+              "ratio": 32
+            }
+          ],
+          "drops": [
+            {
+              "y": "フロストクリスタリア・エリン",
+              "y_ratio": 68,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "ロイヤルクリスタリア・ティア",
+              "y_ratio": 74,
+              "co_occur_pct": 5,
+              "diff_pct": -83
+            },
+            {
+              "y": "ピュアクリスタリア・リリィ",
+              "y_ratio": 53,
+              "co_occur_pct": 0,
+              "diff_pct": -77
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "_split_suggestions": {
+    "289556": {
+      "name": "289556",
+      "class": "カードファイト!! ヴァンガード",
+      "n": 32,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "リザードランナー アンドゥー",
+              "ratio": 44
+            }
+          ],
+          "drops": [
+            {
+              "y": "リザードソルジャー コンロー",
+              "y_ratio": 56,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "リザードソルジャー ガンルー",
+              "ratio": 34
+            }
+          ],
+          "drops": [
+            {
+              "y": "約束の火 エルモ",
+              "y_ratio": 72,
+              "co_occur_pct": 9,
+              "diff_pct": -68
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "封竜 ブロケード",
+              "ratio": 34
+            }
+          ],
+          "drops": [
+            {
+              "y": "リザードランナー アンドゥー",
+              "y_ratio": 44,
+              "co_occur_pct": 3,
+              "diff_pct": -53
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ドラゴンモンク ゴジョー",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "ベリコウスティドラゴン",
+              "y_ratio": 59,
+              "co_occur_pct": 6,
+              "diff_pct": -52
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "希望の火 エルモ",
+              "ratio": 25
+            }
+          ],
+          "drops": [
+            {
+              "y": "従者 レアス",
+              "y_ratio": 75,
+              "co_occur_pct": 9,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "4ce28c": {
+      "name": "4ce28c",
+      "class": "カードファイト!! ヴァンガード",
+      "n": 12,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ダーク・キャット",
+              "ratio": 42
+            }
+          ],
+          "drops": [
+            {
+              "y": "邪眼の美姫 エウリュアレー",
+              "y_ratio": 67,
+              "co_occur_pct": 8,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

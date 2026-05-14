@@ -1,0 +1,235 @@
+{
+  "_split_suggestions": {
+    "49062f": {
+      "name": "49062f",
+      "class": "ドラゴン",
+      "n": 67,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "再臨のジェネシスドラゴン",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "ドラゴニックコール",
+              "y_ratio": 48,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ドラゴニュートの威圧",
+              "ratio": 31
+            }
+          ],
+          "drops": [
+            {
+              "y": "艶麗なる竜人・マリオン",
+              "y_ratio": 54,
+              "co_occur_pct": 6,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "c9f913": {
+      "name": "c9f913",
+      "class": "ナイトメア",
+      "n": 25,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "沈黙の絶傑・ルルナイ",
+              "ratio": 24
+            },
+            {
+              "name": "沈黙の詩",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "ゴールドラッシュゴースト",
+              "y_ratio": 60,
+              "co_occur_pct": 0,
+              "diff_pct": -79
+            },
+            {
+              "y": "ストレイホロウ・イルガンノ",
+              "y_ratio": 72,
+              "co_occur_pct": 4,
+              "diff_pct": -73
+            },
+            {
+              "y": "異形",
+              "y_ratio": 60,
+              "co_occur_pct": 4,
+              "diff_pct": -57
+            },
+            {
+              "y": "瞑地の天宮・ムカン",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            },
+            {
+              "y": "大ツルハシの骸",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ヴォイドリアライズ",
+              "ratio": 24
+            },
+            {
+              "name": "魔将軍・ヘクター",
+              "ratio": 24
+            },
+            {
+              "name": "大ツルハシの骸",
+              "ratio": 40
+            },
+            {
+              "name": "瞑地の天宮・ムカン",
+              "ratio": 40
+            },
+            {
+              "name": "バロン・ダブルフィール",
+              "ratio": 28
+            },
+            {
+              "name": "昏く淀む者・タルタロス",
+              "ratio": 32
+            }
+          ],
+          "drops": [
+            {
+              "y": "闇の賞金稼ぎ・バルト",
+              "y_ratio": 48,
+              "co_occur_pct": 0,
+              "diff_pct": -63
+            },
+            {
+              "y": "絶叫の沈黙・ルルナイ",
+              "y_ratio": 48,
+              "co_occur_pct": 0,
+              "diff_pct": -63
+            },
+            {
+              "y": "絶叫の崇拝者",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -58
+            },
+            {
+              "y": "ブラックスワン・オディール",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -58
+            }
+          ]
+        }
+      ]
+    },
+    "8d4323": {
+      "name": "8d4323",
+      "class": "ロイヤル",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "スパルタクス",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "星の鎧",
+              "y_ratio": 78,
+              "co_occur_pct": 6,
+              "diff_pct": -80
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "神弓の座天使・リリエル",
+              "ratio": 39
+            }
+          ],
+          "drops": [
+            {
+              "y": "簒奪の信者",
+              "y_ratio": 50,
+              "co_occur_pct": 6,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ナハトの私兵",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "神弓の座天使・リリエル",
+              "y_ratio": 39,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

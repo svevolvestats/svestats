@@ -1,0 +1,216 @@
+{
+  "_split_suggestions": {
+    "b028f9": {
+      "name": "b028f9",
+      "class": "ウィッチ",
+      "n": 31,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "天外の華・エレノア",
+              "ratio": 16
+            },
+            {
+              "name": "美麗なる術式",
+              "ratio": 16
+            },
+            {
+              "name": "真実の掟",
+              "ratio": 23
+            },
+            {
+              "name": "クラシカルソーサラー",
+              "ratio": 29
+            }
+          ],
+          "drops": [
+            {
+              "y": "フレイムデストロイヤー",
+              "y_ratio": 77,
+              "co_occur_pct": 0,
+              "diff_pct": -92
+            },
+            {
+              "y": "マジックオウル",
+              "y_ratio": 55,
+              "co_occur_pct": 0,
+              "diff_pct": -65
+            },
+            {
+              "y": "知恵の光",
+              "y_ratio": 52,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "フレイムデストロイヤー",
+              "ratio": 77
+            }
+          ],
+          "drops": [
+            {
+              "y": "クラシカルソーサラー",
+              "y_ratio": 29,
+              "co_occur_pct": 13,
+              "diff_pct": -55
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "烈火の魔弾",
+              "ratio": 26
+            }
+          ],
+          "drops": [
+            {
+              "y": "マジカルストラテジー",
+              "y_ratio": 87,
+              "co_occur_pct": 13,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "b9a71f": {
+      "name": "b9a71f",
+      "class": "ロイヤル",
+      "n": 26,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "メカニカルガンナー",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "ペルセウス",
+              "y_ratio": 46,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "《戦車》・オルオーン",
+              "ratio": 31
+            }
+          ],
+          "drops": [
+            {
+              "y": "フローラルフェンサー",
+              "y_ratio": 50,
+              "co_occur_pct": 4,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    },
+    "26ac4a": {
+      "name": "26ac4a",
+      "class": "ドラゴン",
+      "n": 19,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "竜の怒り",
+              "ratio": 47
+            }
+          ],
+          "drops": [
+            {
+              "y": "ドラゴニックメイル・ギルヴァ",
+              "y_ratio": 53,
+              "co_occur_pct": 11,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "《世界》・ゼルガネイア",
+              "ratio": 74
+            }
+          ],
+          "drops": [
+            {
+              "y": "灼熱の嵐",
+              "y_ratio": 21,
+              "co_occur_pct": 5,
+              "diff_pct": -53
+            }
+          ]
+        }
+      ]
+    },
+    "936710": {
+      "name": "936710",
+      "class": "エルフ",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "母なる君",
+              "ratio": 46
+            }
+          ],
+          "drops": [
+            {
+              "y": "すり替わり",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

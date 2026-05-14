@@ -1,0 +1,7463 @@
+{
+  "49062f": {
+    "name": "ドラゴン（オーブキャンサー・灼熱のアナテマ・バーンドナイト）",
+    "class": "ドラゴン",
+    "prev_id": null,
+    "cards": {
+      "オーブキャンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.561
+      },
+      "灼熱のアナテマ・バーンドナイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.561
+      },
+      "竜喰らう禁忌": {
+        "avg": 2.985,
+        "ratio": 1.0,
+        "rank": 0.569
+      },
+      "荒波のドラグーン・ザハール": {
+        "avg": 2.955,
+        "ratio": 0.985,
+        "rank": 0.557
+      },
+      "蒼炎のドラゴニュート": {
+        "avg": 2.925,
+        "ratio": 0.985,
+        "rank": 0.525
+      },
+      "パンプキンドラゴン": {
+        "avg": 2.91,
+        "ratio": 1.0,
+        "rank": 0.615
+      },
+      "天威のドラグーン": {
+        "avg": 2.881,
+        "ratio": 0.97,
+        "rank": 0.634
+      },
+      "猛火のティラノサウルス": {
+        "avg": 2.836,
+        "ratio": 0.955,
+        "rank": 0.601
+      },
+      "竜巫女の儀式": {
+        "avg": 2.448,
+        "ratio": 0.851,
+        "rank": 0.602
+      },
+      "《正義》・イランツァ": {
+        "avg": 2.269,
+        "ratio": 0.866,
+        "rank": 0.752
+      },
+      "サンダーロア": {
+        "avg": 2.239,
+        "ratio": 0.776,
+        "rank": 0.459
+      },
+      "雲海の騎竜兵": {
+        "avg": 1.552,
+        "ratio": 0.612,
+        "rank": 0.459
+      },
+      "艶麗なる竜人・マリオン": {
+        "avg": 1.493,
+        "ratio": 0.537,
+        "rank": 0.787
+      },
+      "ドラゴンイクシード・ギルヴァ": {
+        "avg": 1.313,
+        "ratio": 0.687,
+        "rank": 0.45
+      },
+      "ドラゴニックコール": {
+        "avg": 1.134,
+        "ratio": 0.478,
+        "rank": 0.497
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 0.791,
+        "ratio": 0.313,
+        "rank": 0.228
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 0.642,
+        "ratio": 0.299,
+        "rank": 0.519
+      },
+      "竜の託宣": {
+        "avg": 0.522,
+        "ratio": 0.179,
+        "rank": 0.201
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.403,
+        "ratio": 0.164,
+        "rank": 0.75
+      },
+      "金剛のパキケファロサウルス": {
+        "avg": 0.239,
+        "ratio": 0.09,
+        "rank": 0.227
+      },
+      "再臨のジェネシスドラゴン": {
+        "avg": 0.239,
+        "ratio": 0.119,
+        "rank": 0.769
+      },
+      "ブレイジングブレス": {
+        "avg": 0.194,
+        "ratio": 0.09,
+        "rank": 1.0
+      },
+      "ぶちあがれ感情": {
+        "avg": 0.179,
+        "ratio": 0.119,
+        "rank": 0.706
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 0.149,
+        "ratio": 0.09,
+        "rank": 0.316
+      },
+      "灼熱の嵐": {
+        "avg": 0.134,
+        "ratio": 0.06,
+        "rank": 0.424
+      },
+      "ブリザードハート・フィルレイン": {
+        "avg": 0.134,
+        "ratio": 0.045,
+        "rank": 0.0
+      },
+      "水辺のニンフ・シャロン": {
+        "avg": 0.104,
+        "ratio": 0.045,
+        "rank": 0.677
+      },
+      "気高き雷・ロマロニア": {
+        "avg": 0.09,
+        "ratio": 0.045,
+        "rank": 0.67
+      },
+      "覇道の竜翼・フォルテ": {
+        "avg": 0.09,
+        "ratio": 0.045,
+        "rank": 0.384
+      },
+      "銀氷の吹雪": {
+        "avg": 0.075,
+        "ratio": 0.045,
+        "rank": 0.212
+      },
+      "ドラゴンの卵": {
+        "avg": 0.045,
+        "ratio": 0.015,
+        "rank": 0.586
+      },
+      "竜の伝令": {
+        "avg": 0.045,
+        "ratio": 0.015,
+        "rank": 0.399
+      },
+      "万華の鳳凰": {
+        "avg": 0.045,
+        "ratio": 0.015,
+        "rank": 0.399
+      },
+      "覇道の君臨者・フォルテ": {
+        "avg": 0.045,
+        "ratio": 0.03,
+        "rank": 0.524
+      },
+      "エルコンドルパサー": {
+        "avg": 0.045,
+        "ratio": 0.015,
+        "rank": 0.835
+      },
+      "パッションチャンピオーナ！": {
+        "avg": 0.045,
+        "ratio": 0.015,
+        "rank": 0.835
+      },
+      "竜の翼": {
+        "avg": 0.03,
+        "ratio": 0.015,
+        "rank": 0.448
+      },
+      "ミニマムドラゴン": {
+        "avg": 0.03,
+        "ratio": 0.015,
+        "rank": 0.405
+      },
+      "最果ての罪・サタン": {
+        "avg": 0.015,
+        "ratio": 0.015,
+        "rank": 0.499
+      },
+      "ジャバウォック": {
+        "avg": 0.015,
+        "ratio": 0.015,
+        "rank": 0.499
+      },
+      "ワールドブレイク": {
+        "avg": 0.015,
+        "ratio": 0.015,
+        "rank": 0.499
+      },
+      "ジェネシスドラゴン": {
+        "avg": 0.015,
+        "ratio": 0.015,
+        "rank": 0.653
+      },
+      "オグリキャップ": {
+        "avg": 0.015,
+        "ratio": 0.015,
+        "rank": 0.477
+      }
+    },
+    "decks": [
+      {
+        "event": "1173989",
+        "deck_id": "6Y69K",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "くろいろ",
+        "friend_code": "COTEV",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "気高き雷・ロマロニア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1168503",
+        "deck_id": "18M5K",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ハレルヤ",
+        "friend_code": "QQCSC",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1179994",
+        "deck_id": "42NPX",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "アルパカ",
+        "friend_code": "WSSBX",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173854",
+        "deck_id": "7281T",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "イシのハラ",
+        "friend_code": "ZAIHS",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "水辺のニンフ・シャロン",
+            "flag": "in"
+          },
+          {
+            "name": "《世界》・ゼルガネイア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1186576",
+        "deck_id": "7EFX7",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "Roki",
+        "friend_code": "TLNUE",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173989",
+        "deck_id": "3PM57",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "劉宗武",
+        "friend_code": "EWJIR",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1203170",
+        "deck_id": "4FE6D",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "ムラカミ",
+        "friend_code": "CGZNR",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1186576",
+        "deck_id": "6NHFX",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "りあむ",
+        "friend_code": "",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1191953",
+        "deck_id": "3XPYP",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "ゾウさん",
+        "friend_code": "XMJWP",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ドラゴンの卵",
+            "flag": "in"
+          },
+          {
+            "name": "気高き雷・ロマロニア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1182691",
+        "deck_id": "7Q1N9",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "てむそ猫",
+        "friend_code": "HSVCV",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1196477",
+        "deck_id": "5MSXZ",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "らりぃ軍団　きら",
+        "friend_code": "DGYCM",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1179994",
+        "deck_id": "3QL9K",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "chibi",
+        "friend_code": "VOXNM",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1172761",
+        "deck_id": "7R28R",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "プルーン",
+        "friend_code": "OVJUM",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173989",
+        "deck_id": "54N4V",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "J.J",
+        "friend_code": "UWMGA",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1182691",
+        "deck_id": "750W5",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "カルム",
+        "friend_code": "AAQLX",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1168503",
+        "deck_id": "2VRZV",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "アモウ",
+        "friend_code": "ICPXB",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "金剛のパキケファロサウルス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1191953",
+        "deck_id": "5V63T",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "Emilia",
+        "friend_code": "GBJFD",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1179994",
+        "deck_id": "461GV",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "森の裏切り者(ラウ)",
+        "friend_code": "BDRIT",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ブリザードハート・フィルレイン",
+            "flag": "in"
+          },
+          {
+            "name": "銀氷の吹雪",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173989",
+        "deck_id": "6PJ2D",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "とげぴぃ",
+        "friend_code": "KAUYR",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "竜の伝令",
+            "flag": "in"
+          },
+          {
+            "name": "覇道の竜翼・フォルテ",
+            "flag": "in"
+          },
+          {
+            "name": "天威のドラグーン",
+            "flag": "out"
+          },
+          {
+            "name": "猛火のティラノサウルス",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1182691",
+        "deck_id": "1K93K",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "響",
+        "friend_code": "MAPRX",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "天威のドラグーン",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1167444",
+        "deck_id": "1TQ97",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "たいき",
+        "friend_code": "RISDP",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "水辺のニンフ・シャロン",
+            "flag": "in"
+          },
+          {
+            "name": "金剛のパキケファロサウルス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1203170",
+        "deck_id": "4PMJK",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "戊辰",
+        "friend_code": "OXQDS",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1196477",
+        "deck_id": "18CM1",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "ドラゴニック",
+        "friend_code": "LTQGL",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1167444",
+        "deck_id": "1LVKV",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "満雨",
+        "friend_code": "TRMXC",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "気高き雷・ロマロニア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1203170",
+        "deck_id": "1RKZP",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "yomi",
+        "friend_code": "JKJKR",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173854",
+        "deck_id": "3UC3X",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ヤクトロイヤー",
+        "friend_code": "PTIZR",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "万華の鳳凰",
+            "flag": "in"
+          },
+          {
+            "name": "竜の翼",
+            "flag": "in"
+          },
+          {
+            "name": "猛火のティラノサウルス",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1172761",
+        "deck_id": "5460V",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "AEぺぺろん",
+        "friend_code": "JPOXN",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1186576",
+        "deck_id": "X6V5",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "rurto",
+        "friend_code": "RAQWQ",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1193387",
+        "deck_id": "47MZ5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "りゅう",
+        "friend_code": "ILTJH",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "灼熱の嵐",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1168503",
+        "deck_id": "4XRUF",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ギターくん",
+        "friend_code": "JQTOM",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "金剛のパキケファロサウルス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1170900",
+        "deck_id": "4VK8X",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "たまぱ",
+        "friend_code": "OGXGQ",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1167548",
+        "deck_id": "43695",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "カルム",
+        "friend_code": "AAQLX",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1179526",
+        "deck_id": "747QT",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "奏音りょう",
+        "friend_code": "PQGUR",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1192334",
+        "deck_id": "738LF",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "しみこみダイコン",
+        "friend_code": "GOMHW",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1184067",
+        "deck_id": "4CLK5",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "Roki",
+        "friend_code": "TLNUE",
+        "venue": "アイランド",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          },
+          {
+            "name": "金剛のパキケファロサウルス",
+            "flag": "in"
+          },
+          {
+            "name": "蒼炎のドラゴニュート",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1163955",
+        "deck_id": "6WA67",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "２４０",
+        "friend_code": "EOPYB",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1185580",
+        "deck_id": "5ASPM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "nala",
+        "friend_code": "TEZIC",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1170900",
+        "deck_id": "74BFH",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "イグー",
+        "friend_code": "YBMDN",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1167548",
+        "deck_id": "6XUH5",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "きなこもち",
+        "friend_code": "KLGAH",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "エルコンドルパサー",
+            "flag": "in"
+          },
+          {
+            "name": "パッションチャンピオーナ！",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1201515",
+        "deck_id": "3EKUT",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "yu-ji",
+        "friend_code": "GJZIQ",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1198364",
+        "deck_id": "2D40X",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "ゆうさい",
+        "friend_code": "MBCEB",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1187566",
+        "deck_id": "1W0TD",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "いつと",
+        "friend_code": "BPMXC",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "灼熱の嵐",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1192334",
+        "deck_id": "6DBGF",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "J.J",
+        "friend_code": "UWMGA",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1191712",
+        "deck_id": "4FA6K",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "甘党",
+        "friend_code": "XDCCX",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1163955",
+        "deck_id": "1G0YT",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "きむら/からあげPros",
+        "friend_code": "MOQLJ",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "覇道の竜翼・フォルテ",
+            "flag": "in"
+          },
+          {
+            "name": "水辺のニンフ・シャロン",
+            "flag": "in"
+          },
+          {
+            "name": "猛火のティラノサウルス",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1192141",
+        "deck_id": "5D39M",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "らりぃ軍団　きら",
+        "friend_code": "DGYCM",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1185580",
+        "deck_id": "1C7HZ",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "よぴ",
+        "friend_code": "QSHXS",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "荒波のドラグーン・ザハール",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1170900",
+        "deck_id": "1ZX15",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "村田陸",
+        "friend_code": "OJRRP",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1201515",
+        "deck_id": "56MTV",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "セブン",
+        "friend_code": "LTLEF",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1191712",
+        "deck_id": "6FFWB",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "まこりん",
+        "friend_code": "MMIHU",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "覇道の君臨者・フォルテ",
+            "flag": "in"
+          },
+          {
+            "name": "金剛のパキケファロサウルス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1201515",
+        "deck_id": "68ZK5",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "ひじり",
+        "friend_code": "XGNHR",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "《世界》・ゼルガネイア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1185580",
+        "deck_id": "19MQ7",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "蓮華",
+        "friend_code": "AYXIV",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1187566",
+        "deck_id": "1R3PH",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "栞",
+        "friend_code": "KQRQY",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1179526",
+        "deck_id": "4X86X",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "TKD",
+        "friend_code": "ULRTP",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1191712",
+        "deck_id": "5F631",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "ラニグリ",
+        "friend_code": "YQJXC",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1192141",
+        "deck_id": "2SXPD",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "ミホのぼるボン",
+        "friend_code": "XMJWP",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "灼熱の嵐",
+            "flag": "in"
+          },
+          {
+            "name": "《世界》・ゼルガネイア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1185580",
+        "deck_id": "16CW7",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "もそ",
+        "friend_code": "WGNUL",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1170900",
+        "deck_id": "4YQ99",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "わぎゅう",
+        "friend_code": "CLSNT",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1201515",
+        "deck_id": "2J3GB",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "きらく",
+        "friend_code": "YJJDY",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "《世界》・ゼルガネイア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1187566",
+        "deck_id": "2THSB",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "マグネスティッチ",
+        "friend_code": "HDKYK",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1173852",
+        "deck_id": "1ALUK",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "waz",
+        "friend_code": "LFQUC",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ブリザードハート・フィルレイン",
+            "flag": "in"
+          },
+          {
+            "name": "銀氷の吹雪",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1163955",
+        "deck_id": "2KBNK",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "ケムッソ",
+        "friend_code": "KEJLG",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ミニマムドラゴン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1187306",
+        "deck_id": "1TYKR",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "満足",
+        "friend_code": "SOVNQ",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "オグリキャップ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1198364",
+        "deck_id": "387GK",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "鈴蘭",
+        "friend_code": "MSBCG",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1187306",
+        "deck_id": "2FMG7",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "なぼる",
+        "friend_code": "JOEOY",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ブリザードハート・フィルレイン",
+            "flag": "in"
+          },
+          {
+            "name": "銀氷の吹雪",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1185580",
+        "deck_id": "5F7PH",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "コタロー",
+        "friend_code": "IQTVF",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "金剛のパキケファロサウルス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1201515",
+        "deck_id": "6GJUB",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "chibi",
+        "friend_code": "VOXNM",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12"
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "再臨のジェネシスドラゴン",
+            "ratio": 12
+          }
+        ],
+        "drops": [
+          {
+            "y": "ドラゴニックコール",
+            "y_ratio": 48,
+            "co_occur_pct": 0,
+            "diff_pct": -54
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "ドラゴニュートの威圧",
+            "ratio": 31
+          }
+        ],
+        "drops": [
+          {
+            "y": "艶麗なる竜人・マリオン",
+            "y_ratio": 54,
+            "co_occur_pct": 6,
+            "diff_pct": -51
+          }
+        ]
+      }
+    ]
+  },
+  "c9f913": {
+    "name": "ナイトメア（死期を視るもの・グレモリー・人外魔境・クリストフ）",
+    "class": "ナイトメア",
+    "prev_id": "fb374c",
+    "cards": {
+      "死期を視るもの・グレモリー": {
+        "avg": 2.96,
+        "ratio": 1.0,
+        "rank": 0.483
+      },
+      "カオスルーラー・アイシィレンドリング": {
+        "avg": 2.96,
+        "ratio": 1.0,
+        "rank": 0.483
+      },
+      "デッドペナルティ": {
+        "avg": 2.88,
+        "ratio": 0.96,
+        "rank": 0.499
+      },
+      "人外魔境・クリストフ": {
+        "avg": 2.64,
+        "ratio": 0.92,
+        "rank": 0.471
+      },
+      "奔放なる獄炎・ケルベロス": {
+        "avg": 2.64,
+        "ratio": 0.92,
+        "rank": 0.462
+      },
+      "ストレイホロウ・イルガンノ": {
+        "avg": 2.16,
+        "ratio": 0.72,
+        "rank": 0.558
+      },
+      "ゴールドラッシュゴースト": {
+        "avg": 1.8,
+        "ratio": 0.6,
+        "rank": 0.66
+      },
+      "ソウルコンバージョン": {
+        "avg": 1.76,
+        "ratio": 0.76,
+        "rank": 0.587
+      },
+      "異形": {
+        "avg": 1.76,
+        "ratio": 0.6,
+        "rank": 0.509
+      },
+      "絶叫の沈黙・ルルナイ": {
+        "avg": 1.4,
+        "ratio": 0.48,
+        "rank": 0.202
+      },
+      "闇の賞金稼ぎ・バルト": {
+        "avg": 1.32,
+        "ratio": 0.48,
+        "rank": 0.339
+      },
+      "絶叫の崇拝者": {
+        "avg": 1.28,
+        "ratio": 0.44,
+        "rank": 0.0
+      },
+      "ポルターガイスト": {
+        "avg": 1.04,
+        "ratio": 0.36,
+        "rank": 0.024
+      },
+      "大ツルハシの骸": {
+        "avg": 0.96,
+        "ratio": 0.4,
+        "rank": 0.816
+      },
+      "憧れの飛躍・イツルギ": {
+        "avg": 0.96,
+        "ratio": 0.36,
+        "rank": 0.352
+      },
+      "瞑地の天宮・ムカン": {
+        "avg": 0.92,
+        "ratio": 0.4,
+        "rank": 1.0
+      },
+      "青薔薇の令嬢・セレス": {
+        "avg": 0.92,
+        "ratio": 0.32,
+        "rank": 0.113
+      },
+      "バロン・ダブルフィール": {
+        "avg": 0.76,
+        "ratio": 0.28,
+        "rank": 0.807
+      },
+      "昏く淀む者・タルタロス": {
+        "avg": 0.72,
+        "ratio": 0.32,
+        "rank": 0.76
+      },
+      "ヴォイドリアライズ": {
+        "avg": 0.68,
+        "ratio": 0.24,
+        "rank": 0.937
+      },
+      "沈黙の絶傑・ルルナイ": {
+        "avg": 0.68,
+        "ratio": 0.24,
+        "rank": 0.252
+      },
+      "ブラックスワン・オディール": {
+        "avg": 0.52,
+        "ratio": 0.44,
+        "rank": 0.249
+      },
+      "沈黙の詩": {
+        "avg": 0.44,
+        "ratio": 0.2,
+        "rank": 0.177
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.4,
+        "ratio": 0.16,
+        "rank": 0.612
+      },
+      "魔将軍・ヘクター": {
+        "avg": 0.36,
+        "ratio": 0.24,
+        "rank": 0.744
+      },
+      "夢のささやき": {
+        "avg": 0.36,
+        "ratio": 0.12,
+        "rank": 0.236
+      },
+      "ブラスター・ダーク": {
+        "avg": 0.36,
+        "ratio": 0.12,
+        "rank": 0.763
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 0.36,
+        "ratio": 0.16,
+        "rank": 0.226
+      },
+      "ベルエンジェル・リア": {
+        "avg": 0.36,
+        "ratio": 0.12,
+        "rank": 0.529
+      },
+      "一刀の幽鬼・カゲロウ": {
+        "avg": 0.32,
+        "ratio": 0.12,
+        "rank": 0.26
+      },
+      "スカルドリーマー": {
+        "avg": 0.28,
+        "ratio": 0.16,
+        "rank": 0.463
+      },
+      "《恋人》・ミルティオ": {
+        "avg": 0.24,
+        "ratio": 0.16,
+        "rank": 0.601
+      },
+      "轟": {
+        "avg": 0.2,
+        "ratio": 0.08,
+        "rank": 0.316
+      },
+      "魔眼の蛇神・メドゥーサ": {
+        "avg": 0.2,
+        "ratio": 0.08,
+        "rank": 0.354
+      },
+      "怨讐の絶叫": {
+        "avg": 0.2,
+        "ratio": 0.08,
+        "rank": 0.24
+      },
+      "魂の一刀": {
+        "avg": 0.16,
+        "ratio": 0.12,
+        "rank": 0.354
+      },
+      "魂の捕食": {
+        "avg": 0.12,
+        "ratio": 0.08,
+        "rank": 0.754
+      },
+      "冥守の戦士・カムラ": {
+        "avg": 0.12,
+        "ratio": 0.08,
+        "rank": 0.398
+      },
+      "片翼の悪魔・ピユラ": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.31
+      },
+      "ブラッドロード・ユヅキ": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.31
+      },
+      "エンドレスハンター・アラガヴィ": {
+        "avg": 0.12,
+        "ratio": 0.12,
+        "rank": 0.517
+      },
+      "ワンダーコック": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.265
+      },
+      "テラーバンケット・ギンセツ": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.31
+      },
+      "欲望の翼": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.976
+      },
+      "沈黙の従者": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.976
+      },
+      "絶大の唯我・マゼルベイン": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.976
+      },
+      "唯我の絶傑・マゼルベイン": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.976
+      },
+      "ヒシミラクル": {
+        "avg": 0.12,
+        "ratio": 0.04,
+        "rank": 0.31
+      },
+      "放浪する料理人": {
+        "avg": 0.08,
+        "ratio": 0.04,
+        "rank": 0.743
+      },
+      "真紅のローズクイーン": {
+        "avg": 0.08,
+        "ratio": 0.04,
+        "rank": 0.354
+      },
+      "ドゥラメンテ": {
+        "avg": 0.08,
+        "ratio": 0.08,
+        "rank": 0.338
+      },
+      "冒涜の墓場": {
+        "avg": 0.08,
+        "ratio": 0.04,
+        "rank": 0.322
+      },
+      "幽霊支配人・アーカス": {
+        "avg": 0.08,
+        "ratio": 0.04,
+        "rank": 0.322
+      },
+      "エンジェルバレッジ": {
+        "avg": 0.08,
+        "ratio": 0.04,
+        "rank": 0.354
+      },
+      "大妖狐・ギンセツ": {
+        "avg": 0.08,
+        "ratio": 0.04,
+        "rank": 0.354
+      },
+      "ワールドブレイク": {
+        "avg": 0.04,
+        "ratio": 0.04,
+        "rank": 0.462
+      },
+      "潰し宴": {
+        "avg": 0.04,
+        "ratio": 0.04,
+        "rank": 0.408
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.04,
+        "ratio": 0.04,
+        "rank": 0.39
+      }
+    },
+    "decks": [
+      {
+        "event": "1182691",
+        "deck_id": "28Y8T",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "きなこもち",
+        "friend_code": "KLGAH",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1193387",
+        "deck_id": "1QLVB",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ふぃる",
+        "friend_code": "DXDOL",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1167444",
+        "deck_id": "3L2CD",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "べるて",
+        "friend_code": "SNVFQ",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "放浪する料理人",
+            "flag": "in"
+          },
+          {
+            "name": "魂の捕食",
+            "flag": "in"
+          },
+          {
+            "name": "人外魔境・クリストフ",
+            "flag": "out"
+          },
+          {
+            "name": "奔放なる獄炎・ケルベロス",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1196477",
+        "deck_id": "3RBSM",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "鮫チキン",
+        "friend_code": "AYGYH",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "魂の捕食",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1172761",
+        "deck_id": "2C7E9",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "タカウジ",
+        "friend_code": "LAUFC",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1200417",
+        "deck_id": "52YCV",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "八朔",
+        "friend_code": "VMIDI",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1186576",
+        "deck_id": "2WDJX",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "エウレカ",
+        "friend_code": "NTING",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ワールドブレイク",
+            "flag": "in"
+          },
+          {
+            "name": "轟",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173989",
+        "deck_id": "1405T",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "9コン",
+        "friend_code": "YAGMH",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1167444",
+        "deck_id": "345VK",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "くー",
+        "friend_code": "MGMFQ",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1200417",
+        "deck_id": "107LD",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "アリス",
+        "friend_code": "ZKSXX",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "片翼の悪魔・ピユラ",
+            "flag": "in"
+          },
+          {
+            "name": "ブラッドロード・ユヅキ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1168503",
+        "deck_id": "225D1",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "らんらん(´ ・ω・｀)",
+        "friend_code": "CPHBG",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "怨讐の絶叫",
+            "flag": "in"
+          },
+          {
+            "name": "ドゥラメンテ",
+            "flag": "in"
+          },
+          {
+            "name": "デッドペナルティ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1179994",
+        "deck_id": "6BE4Z",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "イッペイ",
+        "friend_code": "JKZBW",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ワンダーコック",
+            "flag": "in"
+          },
+          {
+            "name": "冒涜の墓場",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173854",
+        "deck_id": "1G4YM",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ぱる",
+        "friend_code": "CUABV",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "潰し宴",
+            "flag": "in"
+          },
+          {
+            "name": "エンジェルバレッジ",
+            "flag": "in"
+          },
+          {
+            "name": "奔放なる獄炎・ケルベロス",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1172761",
+        "deck_id": "6LDKD",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "しょーた",
+        "friend_code": "DGXFQ",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1192334",
+        "deck_id": "6RG4X",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "ぱに",
+        "friend_code": "ZYDFE",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "欲望の翼",
+            "flag": "in"
+          },
+          {
+            "name": "沈黙の従者",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1191712",
+        "deck_id": "4M8SB",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "りん",
+        "friend_code": "VTJUQ",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1173852",
+        "deck_id": "494UX",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "そうる",
+        "friend_code": "XOHGN",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1192141",
+        "deck_id": "7C4EX",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "ふぃる",
+        "friend_code": "DXDOL",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1184067",
+        "deck_id": "34YH9",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "ドルフィン",
+        "friend_code": "EDYVC",
+        "venue": "アイランド",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "怨讐の絶叫",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1201515",
+        "deck_id": "12BR5",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "アルパカ",
+        "friend_code": "WSSBX",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "勇壮の堕天使・オリヴィエ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1187566",
+        "deck_id": "3GZC3",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "NG201",
+        "friend_code": "FVMVV",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1179526",
+        "deck_id": "2MR8T",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "ありー",
+        "friend_code": "UTAKA",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1192334",
+        "deck_id": "3DDU7",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "アオイラミ",
+        "friend_code": "XTYLI",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ドゥラメンテ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1167548",
+        "deck_id": "6Z3RM",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "多趣味",
+        "friend_code": "NUERT",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "人外魔境・クリストフ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1198364",
+        "deck_id": "7K4C7",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "SteRGaZeR",
+        "friend_code": "MZSUQ",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ヒシミラクル",
+            "flag": "in"
+          }
+        ]
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "沈黙の絶傑・ルルナイ",
+            "ratio": 24
+          },
+          {
+            "name": "沈黙の詩",
+            "ratio": 20
+          }
+        ],
+        "drops": [
+          {
+            "y": "ゴールドラッシュゴースト",
+            "y_ratio": 60,
+            "co_occur_pct": 0,
+            "diff_pct": -79
+          },
+          {
+            "y": "ストレイホロウ・イルガンノ",
+            "y_ratio": 72,
+            "co_occur_pct": 4,
+            "diff_pct": -73
+          },
+          {
+            "y": "異形",
+            "y_ratio": 60,
+            "co_occur_pct": 4,
+            "diff_pct": -57
+          },
+          {
+            "y": "瞑地の天宮・ムカン",
+            "y_ratio": 40,
+            "co_occur_pct": 0,
+            "diff_pct": -53
+          },
+          {
+            "y": "大ツルハシの骸",
+            "y_ratio": 40,
+            "co_occur_pct": 0,
+            "diff_pct": -50
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "ヴォイドリアライズ",
+            "ratio": 24
+          },
+          {
+            "name": "魔将軍・ヘクター",
+            "ratio": 24
+          },
+          {
+            "name": "大ツルハシの骸",
+            "ratio": 40
+          },
+          {
+            "name": "瞑地の天宮・ムカン",
+            "ratio": 40
+          },
+          {
+            "name": "バロン・ダブルフィール",
+            "ratio": 28
+          },
+          {
+            "name": "昏く淀む者・タルタロス",
+            "ratio": 32
+          }
+        ],
+        "drops": [
+          {
+            "y": "闇の賞金稼ぎ・バルト",
+            "y_ratio": 48,
+            "co_occur_pct": 0,
+            "diff_pct": -63
+          },
+          {
+            "y": "絶叫の沈黙・ルルナイ",
+            "y_ratio": 48,
+            "co_occur_pct": 0,
+            "diff_pct": -63
+          },
+          {
+            "y": "絶叫の崇拝者",
+            "y_ratio": 44,
+            "co_occur_pct": 0,
+            "diff_pct": -58
+          },
+          {
+            "y": "ブラックスワン・オディール",
+            "y_ratio": 44,
+            "co_occur_pct": 0,
+            "diff_pct": -58
+          }
+        ]
+      }
+    ]
+  },
+  "8d4323": {
+    "name": "ロイヤル（照明の案内人・楽園への来訪）",
+    "class": "ロイヤル",
+    "prev_id": "029ba1",
+    "cards": {
+      "盗賊の乱飛": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "値引き交渉": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "楽園への来訪": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "照明の案内人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "帳場ガエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "華の大将・タケツミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "達人の芸者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "天下の大泥棒・ジエモン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.407
+      },
+      "伊達の大見得": {
+        "avg": 2.833,
+        "ratio": 1.0,
+        "rank": 0.336
+      },
+      "艶やかなる太夫・ギンネ": {
+        "avg": 2.722,
+        "ratio": 0.944,
+        "rank": 0.488
+      },
+      "月の刃・リオード": {
+        "avg": 2.5,
+        "ratio": 0.889,
+        "rank": 0.488
+      },
+      "星の鎧": {
+        "avg": 2.056,
+        "ratio": 0.778,
+        "rank": 0.618
+      },
+      "簒奪の信者": {
+        "avg": 1.167,
+        "ratio": 0.5,
+        "rank": 0.042
+      },
+      "神弓の座天使・リリエル": {
+        "avg": 0.944,
+        "ratio": 0.389,
+        "rank": 0.911
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 0.944,
+        "ratio": 0.389,
+        "rank": 0.32
+      },
+      "ナハトの私兵": {
+        "avg": 0.389,
+        "ratio": 0.278,
+        "rank": 0.435
+      },
+      "スパルタクス": {
+        "avg": 0.389,
+        "ratio": 0.278,
+        "rank": 0.181
+      },
+      "プリンセスキス": {
+        "avg": 0.389,
+        "ratio": 0.167,
+        "rank": 0.0
+      },
+      "レヴィオンの迅雷・アルベール": {
+        "avg": 0.278,
+        "ratio": 0.167,
+        "rank": 0.228
+      },
+      "ジェンティルドンナ": {
+        "avg": 0.222,
+        "ratio": 0.167,
+        "rank": 0.448
+      },
+      "不思議な青空・アリス": {
+        "avg": 0.222,
+        "ratio": 0.111,
+        "rank": 0.17
+      },
+      "レイジーナイト・ネラン": {
+        "avg": 0.222,
+        "ratio": 0.111,
+        "rank": 0.17
+      },
+      "ワールドブレイク": {
+        "avg": 0.167,
+        "ratio": 0.167,
+        "rank": 0.627
+      },
+      "タル子マン": {
+        "avg": 0.167,
+        "ratio": 0.056,
+        "rank": 0.422
+      },
+      "タルトマン": {
+        "avg": 0.111,
+        "ratio": 0.056,
+        "rank": 1.0
+      },
+      "マグナゼロ": {
+        "avg": 0.111,
+        "ratio": 0.056,
+        "rank": 0.224
+      },
+      "アヴァリティア": {
+        "avg": 0.111,
+        "ratio": 0.056,
+        "rank": 0.273
+      },
+      "レオニダス": {
+        "avg": 0.056,
+        "ratio": 0.056,
+        "rank": 0.335
+      }
+    },
+    "decks": [
+      {
+        "event": "1191953",
+        "deck_id": "3XAX9",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "アイギス",
+        "friend_code": "ZPDJP",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "タルトマン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1168503",
+        "deck_id": "1SPNR",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "トール",
+        "friend_code": "DLLNX",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1179994",
+        "deck_id": "39CY9",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "華美",
+        "friend_code": "IJJKM",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1168503",
+        "deck_id": "49LYX",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ばたーあめ",
+        "friend_code": "CLCYX",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1172761",
+        "deck_id": "42821",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "ザンジ",
+        "friend_code": "KJIBJ",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1203170",
+        "deck_id": "35P4X",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "ティル",
+        "friend_code": "FELGV",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173854",
+        "deck_id": "26UWH",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "相川",
+        "friend_code": "ZXBDS",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1200417",
+        "deck_id": "63JS7",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "ジュモク",
+        "friend_code": "IFFVS",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "レオニダス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1193387",
+        "deck_id": "3DZ2M",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ふぐ",
+        "friend_code": "QEECS",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "艶やかなる太夫・ギンネ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1163955",
+        "deck_id": "3Q2H9",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "たろー",
+        "friend_code": "DCYSF",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1179526",
+        "deck_id": "1RWHD",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "イブキ",
+        "friend_code": "CCGRG",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1184067",
+        "deck_id": "53EFZ",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "rurto",
+        "friend_code": "RAQWQ",
+        "venue": "アイランド",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1167548",
+        "deck_id": "4NA3V",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "chome",
+        "friend_code": "YYASC",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "タル子マン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1187306",
+        "deck_id": "7GDZR",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "さーりゃ",
+        "friend_code": "LQDHB",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "マグナゼロ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1198364",
+        "deck_id": "58RCB",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "ルル",
+        "friend_code": "EEUMG",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1187306",
+        "deck_id": "60KZZ",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "もくん",
+        "friend_code": "JGALN",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1198364",
+        "deck_id": "1KM7R",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "さくらよしき",
+        "friend_code": "CRINL",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "アヴァリティア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1179526",
+        "deck_id": "6YJDR",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "マリオ太郎",
+        "friend_code": "MWZCR",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12"
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "スパルタクス",
+            "ratio": 28
+          }
+        ],
+        "drops": [
+          {
+            "y": "星の鎧",
+            "y_ratio": 78,
+            "co_occur_pct": 6,
+            "diff_pct": -80
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "神弓の座天使・リリエル",
+            "ratio": 39
+          }
+        ],
+        "drops": [
+          {
+            "y": "簒奪の信者",
+            "y_ratio": 50,
+            "co_occur_pct": 6,
+            "diff_pct": -58
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "ナハトの私兵",
+            "ratio": 28
+          }
+        ],
+        "drops": [
+          {
+            "y": "神弓の座天使・リリエル",
+            "y_ratio": 39,
+            "co_occur_pct": 0,
+            "diff_pct": -54
+          }
+        ]
+      }
+    ]
+  },
+  "3043d1": {
+    "name": "ウィッチ（マナリアフレンズ・アン＆グレア・魔術の始祖・マナリア）",
+    "class": "ウィッチ",
+    "prev_id": "37b9b3",
+    "cards": {
+      "グレアの炎熱": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "宿題やるですぅ！": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "マナリアクイーン・アン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "レグニスロード・グレア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "魔術の始祖・マナリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "マナリアの竜姫・グレア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "マナリアフレンズ・アン＆グレア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "マナリアの知識": {
+        "avg": 2.812,
+        "ratio": 1.0,
+        "rank": 0.591
+      },
+      "アドラブルティーチャー・ミラ": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.425
+      },
+      "マナリアの魔導姫・アン": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.491
+      },
+      "マナリアの竜術士": {
+        "avg": 2.625,
+        "ratio": 0.938,
+        "rank": 0.449
+      },
+      "アンの大魔法": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.634
+      },
+      "マナリアウィザード・クレイグ": {
+        "avg": 2.25,
+        "ratio": 0.875,
+        "rank": 0.496
+      },
+      "マナリアナイト・オーウェン": {
+        "avg": 1.688,
+        "ratio": 0.75,
+        "rank": 0.0
+      },
+      "術式の教師・ジル": {
+        "avg": 1.312,
+        "ratio": 0.562,
+        "rank": 0.492
+      },
+      "マナリアライター・ティコ": {
+        "avg": 0.188,
+        "ratio": 0.062,
+        "rank": 0.059
+      },
+      "真理の大文豪・ユキシマ": {
+        "avg": 0.125,
+        "ratio": 0.062,
+        "rank": 1.0
+      },
+      "マナリアの召喚士・ベリル": {
+        "avg": 0.062,
+        "ratio": 0.062,
+        "rank": 0.53
+      }
+    },
+    "decks": [
+      {
+        "event": "1200417",
+        "deck_id": "5AG1K",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "咆哮のラム",
+        "friend_code": "DWKRU",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1200417",
+        "deck_id": "46M8B",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "はせっち",
+        "friend_code": "WEADD",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1193387",
+        "deck_id": "2QVT7",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "エム",
+        "friend_code": "PSLFI",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "真理の大文豪・ユキシマ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1167444",
+        "deck_id": "7208B",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "teteruL",
+        "friend_code": "OHSRE",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1172761",
+        "deck_id": "4DC41",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "きど",
+        "friend_code": "GLISE",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173989",
+        "deck_id": "7V9G1",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "Fire",
+        "friend_code": "MZLLI",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1198364",
+        "deck_id": "1A7T5",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "がるど",
+        "friend_code": "XSFNP",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "マナリアの召喚士・ベリル",
+            "flag": "in"
+          },
+          {
+            "name": "マナリアの竜術士",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1192334",
+        "deck_id": "639MD",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "DAX",
+        "friend_code": "SDIDE",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1185580",
+        "deck_id": "3S2XM",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "Amaテラス確定",
+        "friend_code": "KAAIJ",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1163955",
+        "deck_id": "44PV1",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "マルモリ",
+        "friend_code": "MIYCH",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1163955",
+        "deck_id": "4ZFPD",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "レモルン",
+        "friend_code": "GLVZG",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1167548",
+        "deck_id": "4FXQP",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "エル",
+        "friend_code": "YPTRE",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "マナリアライター・ティコ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1191712",
+        "deck_id": "3HQV5",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "さち",
+        "friend_code": "NKUBC",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1192141",
+        "deck_id": "7ZFP5",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "モンゴル",
+        "friend_code": "MSNFN",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1191712",
+        "deck_id": "33CM9",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "西武野中継",
+        "friend_code": "LBQQZ",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1184067",
+        "deck_id": "5RQXH",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "Fire",
+        "friend_code": "MZLLI",
+        "venue": "アイランド",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "14cb53": {
+    "name": "ドラゴン（竜炎の設計士・ストライクドラグーン）",
+    "class": "ドラゴン",
+    "prev_id": "6d62ea",
+    "cards": {
+      "竜炎の設計士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.33
+      },
+      "ストライクドラグーン": {
+        "avg": 2.625,
+        "ratio": 0.875,
+        "rank": 0.373
+      },
+      "自由なる冒険者": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.428
+      },
+      "竜人の工匠": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.428
+      },
+      "燎火のレンチスミス": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.428
+      },
+      "烈覇のアルチザン・レジー": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.428
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.363
+      },
+      "覇道の竜翼・フォルテ": {
+        "avg": 2.25,
+        "ratio": 0.875,
+        "rank": 0.421
+      },
+      "竜才の寵児・ニルル": {
+        "avg": 2.0,
+        "ratio": 0.75,
+        "rank": 0.41
+      },
+      "ワイルドリザード": {
+        "avg": 1.875,
+        "ratio": 0.625,
+        "rank": 0.527
+      },
+      "レヴィールの無法者": {
+        "avg": 1.75,
+        "ratio": 0.625,
+        "rank": 0.567
+      },
+      "華麗なる竜人・マリオン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.087
+      },
+      "風を駆る者・エイファ": {
+        "avg": 1.5,
+        "ratio": 0.625,
+        "rank": 0.168
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 1.125,
+        "ratio": 0.375,
+        "rank": 0.0
+      },
+      "放浪する料理人": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 1.0
+      },
+      "原初の竜使い": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.801
+      },
+      "独尊龍・スーロン": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.205
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.255
+      },
+      "希望の火 エルモ": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "竜頭のスレイヤー": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "ファイアーリザード": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "ニシノフラワー": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "銀氷のドラゴニュート・フィルレイン": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.384
+      },
+      "残影のドラゴニュート": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "片倉小十郎": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "大地のドラゴニュート": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "暴竜・伊達政宗": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "爆炎の咆哮": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "気高き雷・ロマロニア": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "炎柱の竜人": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "焦熱の竜翼・ドラーク": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "白亜の竜騎士": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.165
+      },
+      "灯火の烈絶": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.092
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.199
+      },
+      "セイウンスカイ": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.199
+      },
+      "ドラゴンの卵": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.199
+      },
+      "竜の託宣": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.199
+      },
+      "殺竜騎士・ロイ": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.199
+      },
+      "アラエル": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.142
+      },
+      "侮蔑の狂信者": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.142
+      },
+      "栄弦の奏楽": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.142
+      },
+      "最果ての罪・サタン": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.778
+      },
+      "銀氷の吐息": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.355
+      },
+      "ガルグイユ": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.249
+      },
+      "ゲオルギウス": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.249
+      },
+      "ブレイジングブレス": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.214
+      },
+      "鷺沢文香": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.214
+      }
+    },
+    "decks": [
+      {
+        "event": "1179994",
+        "deck_id": "3N4ER",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "おとーふ",
+        "friend_code": "OGNWC",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "最果ての罪・サタン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1167444",
+        "deck_id": "27XNB",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "おーしゃん",
+        "friend_code": "NHJUA",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1200417",
+        "deck_id": "4NYD1",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "t",
+        "friend_code": "SLVBO",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "希望の火 エルモ",
+            "flag": "in"
+          },
+          {
+            "name": "竜頭のスレイヤー",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1184067",
+        "deck_id": "WVX5",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "318ryu",
+        "friend_code": "EYGGL",
+        "venue": "アイランド",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "銀氷のドラゴニュート・フィルレイン",
+            "flag": "in"
+          },
+          {
+            "name": "銀氷の吐息",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1184067",
+        "deck_id": "2HR0P",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "たまごちゃん",
+        "friend_code": "WCXTL",
+        "venue": "アイランド",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "残影のドラゴニュート",
+            "flag": "in"
+          },
+          {
+            "name": "ドラゴンの卵",
+            "flag": "in"
+          },
+          {
+            "name": "ストライクドラグーン",
+            "flag": "out"
+          },
+          {
+            "name": "覇道の竜翼・フォルテ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1167548",
+        "deck_id": "78DBM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "rokujo_",
+        "friend_code": "XJVOQ",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1192334",
+        "deck_id": "3NDGB",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "ライム",
+        "friend_code": "WPVOK",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "アラエル",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173852",
+        "deck_id": "2L5JP",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "らいか＠湘南の竜術使い",
+        "friend_code": "NDLRW",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "灯火の烈絶",
+            "flag": "in"
+          },
+          {
+            "name": "侮蔑の狂信者",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "1dc468": {
+    "name": "ビショップ（〔月下の悪魔ちゃん♪〕メジロパーマー・希望導く聖乙女・ジャンヌ）",
+    "class": "ビショップ",
+    "prev_id": "cb761f",
+    "cards": {
+      "〔月下の悪魔ちゃん♪〕メジロパーマー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.439
+      },
+      "ルナールの聖騎士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.439
+      },
+      "希望導く聖乙女・ジャンヌ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.439
+      },
+      "メルティングシュガー・セリーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.439
+      },
+      "ヘイブンファイア": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.391
+      },
+      "絶望の聖女・ジャンヌ": {
+        "avg": 2.5,
+        "ratio": 0.875,
+        "rank": 0.482
+      },
+      "不思議な青空・アリス": {
+        "avg": 2.375,
+        "ratio": 0.875,
+        "rank": 0.514
+      },
+      "リボルバーイーグル": {
+        "avg": 2.25,
+        "ratio": 0.875,
+        "rank": 0.336
+      },
+      "メジロラモーヌ": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.27
+      },
+      "剛健の翼人": {
+        "avg": 2.0,
+        "ratio": 0.75,
+        "rank": 0.309
+      },
+      "極炎のドラグーン・ローラ": {
+        "avg": 2.0,
+        "ratio": 0.75,
+        "rank": 0.33
+      },
+      "デュアルカノンマザー・ラナ": {
+        "avg": 1.875,
+        "ratio": 0.875,
+        "rank": 0.407
+      },
+      "三日月の女神 ツクヨミ": {
+        "avg": 1.625,
+        "ratio": 0.625,
+        "rank": 0.348
+      },
+      "〔夜風に舞うは祈りの花〕メジロアルダン": {
+        "avg": 1.5,
+        "ratio": 0.75,
+        "rank": 0.394
+      },
+      "煌翼のフェザーフォルク・リノ": {
+        "avg": 1.125,
+        "ratio": 0.5,
+        "rank": 0.849
+      },
+      "双砲の神罰・アンヴェルト": {
+        "avg": 0.875,
+        "ratio": 0.375,
+        "rank": 0.435
+      },
+      "闇穿つ煌き・サリッサ": {
+        "avg": 0.875,
+        "ratio": 0.375,
+        "rank": 0.0
+      },
+      "森の参謀・ムニャール": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.297
+      },
+      "アメシストレオ": {
+        "avg": 0.625,
+        "ratio": 0.25,
+        "rank": 0.309
+      },
+      "レヴィールの無法者": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.716
+      },
+      "半月の女神 ツクヨミ": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.342
+      },
+      "ジャンヌダルク": {
+        "avg": 0.375,
+        "ratio": 0.25,
+        "rank": 0.781
+      },
+      "自由なる冒険者": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 1.0
+      },
+      "アラエル": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.241
+      },
+      "ダーティプリースト": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.862
+      },
+      "潜みしマイニュ": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.862
+      },
+      "聖騎士・ヘクター": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.396
+      },
+      "ドリーム・イーター": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.682
+      },
+      "禁密の天宮・ロナヴェロ": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.3
+      }
+    },
+    "decks": [
+      {
+        "event": "1193387",
+        "deck_id": "26TA1",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ユウヤ",
+        "friend_code": "CYHFS",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "半月の女神 ツクヨミ",
+            "flag": "in"
+          },
+          {
+            "name": "絶望の聖女・ジャンヌ",
+            "flag": "out"
+          },
+          {
+            "name": "不思議な青空・アリス",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1193387",
+        "deck_id": "742AP",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "イケガミ",
+        "friend_code": "HZIDN",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "聖騎士・ヘクター",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1200417",
+        "deck_id": "X73T",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "たける",
+        "friend_code": "JRTGY",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "アラエル",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1186576",
+        "deck_id": "227WR",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "カズヤ",
+        "friend_code": "MAYNB",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1201515",
+        "deck_id": "2WFTH",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "ンゴラド",
+        "friend_code": "FYUVK",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "自由なる冒険者",
+            "flag": "in"
+          },
+          {
+            "name": "ダーティプリースト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1187566",
+        "deck_id": "64EWX",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "ゆうたろう",
+        "friend_code": "JYWMT",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ドリーム・イーター",
+            "flag": "in"
+          },
+          {
+            "name": "リボルバーイーグル",
+            "flag": "out"
+          },
+          {
+            "name": "デュアルカノンマザー・ラナ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1163955",
+        "deck_id": "3JL1H",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "TR",
+        "friend_code": "GMWBD",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1191712",
+        "deck_id": "5Q6LK",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "M・T",
+        "friend_code": "WORID",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "禁密の天宮・ロナヴェロ",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "01502a": {
+    "name": "ロイヤル（レヴィオンの魔術師・ミイム・レヴィオンの正義）",
+    "class": "ロイヤル",
+    "prev_id": "7f6c27",
+    "cards": {
+      "レヴィオンの魔術師・ミイム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンの見習い・ルネス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "テンタクルバイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンシスターズ登場！": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンアックス・ジェノ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンデューク・ユリウス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンの副団長・マイム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンの武闘家・メイム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "レヴィオンの正義": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.37
+      },
+      "星の鎧": {
+        "avg": 2.875,
+        "ratio": 1.0,
+        "rank": 0.341
+      },
+      "レヴィオンの迅雷・アルベール": {
+        "avg": 2.875,
+        "ratio": 1.0,
+        "rank": 0.435
+      },
+      "暴威の武人・ジェノ": {
+        "avg": 2.125,
+        "ratio": 0.75,
+        "rank": 0.0
+      },
+      "雷滅卿・アルベール": {
+        "avg": 2.125,
+        "ratio": 0.75,
+        "rank": 0.136
+      },
+      "月の刃・リオード": {
+        "avg": 1.0,
+        "ratio": 0.375,
+        "rank": 1.0
+      },
+      "レヴィオンセイバー・アルベール": {
+        "avg": 0.875,
+        "ratio": 0.875,
+        "rank": 0.534
+      },
+      "ブレイズフレア・マーズ": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.959
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.155
+      },
+      "華の大将・タケツミ": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.103
+      },
+      "妖刀の鬼・ツバキ": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.103
+      }
+    },
+    "decks": [
+      {
+        "event": "1167444",
+        "deck_id": "3XMTB",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "ドラゴンさいとう",
+        "friend_code": "NTMEP",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173989",
+        "deck_id": "4C1JF",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "カラカル",
+        "friend_code": "BSCYU",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1196477",
+        "deck_id": "31Y1M",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": " らりぃ軍団 わかさぎまる。",
+        "friend_code": "UCAHL",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "カースドクイーン・ナハト・ナハト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1193387",
+        "deck_id": "30CER",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "(´・ω・)うぃ",
+        "friend_code": "QDDJU",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "華の大将・タケツミ",
+            "flag": "in"
+          },
+          {
+            "name": "レヴィオンセイバー・アルベール",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1191953",
+        "deck_id": "6DJJV",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "カナ",
+        "friend_code": "FCESK",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1192141",
+        "deck_id": "4U6C3",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "メンスフィ先輩",
+        "friend_code": "PBOLT",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1198364",
+        "deck_id": "3TPMM",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "Yoshi",
+        "friend_code": "ZZGJL",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1167548",
+        "deck_id": "6R33H",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "だいち",
+        "friend_code": "EKVCK",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "妖刀の鬼・ツバキ",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "89906b": {
+    "name": "エルフ（ブレスフェアリーダンサー・リバースブレイダー・アマツ）",
+    "class": "エルフ",
+    "prev_id": "556863",
+    "cards": {
+      "自然の妖精姫・アリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.522
+      },
+      "フェアリーブレイダー・アマツ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.522
+      },
+      "ブレスフェアリーダンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.522
+      },
+      "リバースブレイダー・アマツ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.522
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.522
+      },
+      "瘴気の妖精姫・アリア": {
+        "avg": 2.857,
+        "ratio": 1.0,
+        "rank": 0.451
+      },
+      "クイーンセイバー・シンシア": {
+        "avg": 2.857,
+        "ratio": 1.0,
+        "rank": 0.451
+      },
+      "純粋なるウォーターフェアリー": {
+        "avg": 2.571,
+        "ratio": 0.857,
+        "rank": 0.531
+      },
+      "スピリットシャイン": {
+        "avg": 2.571,
+        "ratio": 0.857,
+        "rank": 0.501
+      },
+      "フェアリードラゴン": {
+        "avg": 2.571,
+        "ratio": 0.857,
+        "rank": 0.74
+      },
+      "フォレストフェアリー": {
+        "avg": 2.143,
+        "ratio": 0.714,
+        "rank": 0.267
+      },
+      "重なり合う決意": {
+        "avg": 2.143,
+        "ratio": 0.714,
+        "rank": 0.302
+      },
+      "妖精の弓使い": {
+        "avg": 1.571,
+        "ratio": 0.571,
+        "rank": 0.563
+      },
+      "ティターニアの妖精郷": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.522
+      },
+      "フェアリーテイマー": {
+        "avg": 0.857,
+        "ratio": 0.286,
+        "rank": 0.0
+      },
+      "マドロスエルフ": {
+        "avg": 0.857,
+        "ratio": 0.286,
+        "rank": 0.974
+      },
+      "揺蕩う意志・スピネ": {
+        "avg": 0.714,
+        "ratio": 0.429,
+        "rank": 0.535
+      },
+      "ワンダーツリー": {
+        "avg": 0.429,
+        "ratio": 0.429,
+        "rank": 0.499
+      },
+      "フェアリーアサルト": {
+        "avg": 0.286,
+        "ratio": 0.143,
+        "rank": 0.442
+      },
+      "妖精の奔流": {
+        "avg": 0.286,
+        "ratio": 0.143,
+        "rank": 0.566
+      },
+      "森を彩る者・エルフクイーン": {
+        "avg": 0.286,
+        "ratio": 0.143,
+        "rank": 1.0
+      },
+      "ウィンドフェアリー": {
+        "avg": 0.286,
+        "ratio": 0.286,
+        "rank": 0.752
+      },
+      "妖精の調べ": {
+        "avg": 0.286,
+        "ratio": 0.143,
+        "rank": 1.0
+      },
+      "小さな勇士・スクナ": {
+        "avg": 0.286,
+        "ratio": 0.286,
+        "rank": 0.287
+      },
+      "フェアリーサークル": {
+        "avg": 0.143,
+        "ratio": 0.143,
+        "rank": 0.797
+      }
+    },
+    "decks": [
+      {
+        "event": "1172761",
+        "deck_id": "3BVJ5",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "じゃこん",
+        "friend_code": "HLYJO",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "フェアリーアサルト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1182691",
+        "deck_id": "3E5D3",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "プリン【purin】",
+        "friend_code": "VWLFM",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "妖精の奔流",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1196477",
+        "deck_id": "6WJV3",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "ナメクジ君",
+        "friend_code": "DWUFJ",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1185580",
+        "deck_id": "2RBWB",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "ささめ",
+        "friend_code": "GPJZO",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "フェアリーサークル",
+            "flag": "in"
+          },
+          {
+            "name": "森を彩る者・エルフクイーン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173852",
+        "deck_id": "14SRZ",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "ノス",
+        "friend_code": "XJKGS",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "妖精の調べ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1191712",
+        "deck_id": "2C5RZ",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "YMDクロエ",
+        "friend_code": "JHEDN",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1184067",
+        "deck_id": "4052F",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "りあむ",
+        "friend_code": "",
+        "venue": "アイランド",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "70962a": {
+    "name": "ナイトメア（ドアマンバット・ハンプティダンプティ）",
+    "class": "ナイトメア",
+    "prev_id": "7405c5",
+    "cards": {
+      "ドアマンバット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "月下の跳躍": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "底無しの契約": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "楽園への来訪": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "憧れの飛躍・イツルギ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "因果の迷い子・アンサージュ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "照明の案内人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "惑わぬ意志": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "デモンズグリード・パラセリゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "ハンプティダンプティ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "パルクールウルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.594
+      },
+      "デッドペナルティ": {
+        "avg": 2.333,
+        "ratio": 0.833,
+        "rank": 0.534
+      },
+      "絶大の唯我・マゼルベイン": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 0.743
+      },
+      "唯我の絶傑・マゼルベイン": {
+        "avg": 0.833,
+        "ratio": 0.333,
+        "rank": 0.729
+      },
+      "闇の賞金稼ぎ・バルト": {
+        "avg": 0.833,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "奔放なる獄炎・ケルベロス": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.0
+      },
+      "棘の吸血鬼": {
+        "avg": 0.5,
+        "ratio": 0.333,
+        "rank": 0.561
+      },
+      "ルームサービスデビル": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.495
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.333,
+        "ratio": 0.167,
+        "rank": 0.668
+      }
+    },
+    "decks": [
+      {
+        "event": "1182691",
+        "deck_id": "3ELS1",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "poke",
+        "friend_code": "YXJHC",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "デッドペナルティ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1168503",
+        "deck_id": "5806R",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ピトー",
+        "friend_code": "VURUP",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173854",
+        "deck_id": "4VRL9",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "めばる",
+        "friend_code": "PRDJS",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1187306",
+        "deck_id": "48VFV",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "alucard",
+        "friend_code": "DXIBA",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1179526",
+        "deck_id": "3BCGX",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "モノミ",
+        "friend_code": "MKKXL",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "迸る光明・アポロン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1201515",
+        "deck_id": "5CGFM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "おとーふ",
+        "friend_code": "OGNWC",
+        "venue": "竜星の嵐　十三店",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "6a6394": {
+    "name": "ロイヤル（勇猛のルミナスランサー・統率のルミナスナイト）",
+    "class": "ロイヤル",
+    "prev_id": null,
+    "cards": {
+      "卓越のルミナスメイジ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "統率のルミナスナイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "白銀の騎士団長・エミリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "勇猛のルミナスランサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "王断の天宮・スタチウム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "煌刃の勇者・アマリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "空の指揮官・セリア": {
+        "avg": 2.5,
+        "ratio": 0.833,
+        "rank": 0.505
+      },
+      "王断の威光": {
+        "avg": 2.5,
+        "ratio": 0.833,
+        "rank": 0.403
+      },
+      "救援のルミナスヒーラー・リララ": {
+        "avg": 2.5,
+        "ratio": 0.833,
+        "rank": 0.454
+      },
+      "アストロウィング・ララミア": {
+        "avg": 2.333,
+        "ratio": 0.833,
+        "rank": 0.471
+      },
+      "音速の機構・ララミア": {
+        "avg": 2.333,
+        "ratio": 0.833,
+        "rank": 0.471
+      },
+      "逆境への対処": {
+        "avg": 2.167,
+        "ratio": 0.833,
+        "rank": 0.051
+      },
+      "キャットアドミラル": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "音速の突破": {
+        "avg": 1.167,
+        "ratio": 0.833,
+        "rank": 0.579
+      },
+      "晴天の銀騎士・エミリア": {
+        "avg": 0.833,
+        "ratio": 0.333,
+        "rank": 0.98
+      },
+      "武器商人・エルネスタ": {
+        "avg": 0.5,
+        "ratio": 0.167,
+        "rank": 0.151
+      },
+      "動乱商人・イルミスナ": {
+        "avg": 0.5,
+        "ratio": 0.167,
+        "rank": 0.151
+      },
+      "戦争商人・アルヤスカ": {
+        "avg": 0.5,
+        "ratio": 0.167,
+        "rank": 0.151
+      },
+      "刹那のクイックブレイダー": {
+        "avg": 0.5,
+        "ratio": 0.167,
+        "rank": 0.021
+      },
+      "粗暴な豪剣士": {
+        "avg": 0.5,
+        "ratio": 0.167,
+        "rank": 0.282
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 0.5,
+        "ratio": 0.167,
+        "rank": 0.282
+      },
+      "月の刃・リオード": {
+        "avg": 0.333,
+        "ratio": 0.167,
+        "rank": 0.202
+      },
+      "妖刀の鬼・ツバキ": {
+        "avg": 0.333,
+        "ratio": 0.167,
+        "rank": 1.0
+      },
+      "虚無ノ哭風・グリームニル": {
+        "avg": 0.333,
+        "ratio": 0.167,
+        "rank": 0.302
+      },
+      "ナハトの私兵": {
+        "avg": 0.167,
+        "ratio": 0.167,
+        "rank": 0.33
+      }
+    },
+    "decks": [
+      {
+        "event": "1203170",
+        "deck_id": "5W585",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "改訂王マックス",
+        "friend_code": "ONIJE",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "武器商人・エルネスタ",
+            "flag": "in"
+          },
+          {
+            "name": "月の刃・リオード",
+            "flag": "in"
+          },
+          {
+            "name": "救援のルミナスヒーラー・リララ",
+            "flag": "out"
+          },
+          {
+            "name": "音速の突破",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1182691",
+        "deck_id": "3PXT9",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "ぢーお",
+        "friend_code": "OXAET",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "刹那のクイックブレイダー",
+            "flag": "in"
+          },
+          {
+            "name": "空の指揮官・セリア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1192141",
+        "deck_id": "7N8MH",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "朝比奈",
+        "friend_code": "DJLRN",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "妖刀の鬼・ツバキ",
+            "flag": "in"
+          },
+          {
+            "name": "逆境への対処",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1170900",
+        "deck_id": "4ZB39",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "あまぐも",
+        "friend_code": "AWCDH",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "粗暴な豪剣士",
+            "flag": "in"
+          },
+          {
+            "name": "虚無ノ哭風・グリームニル",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1170900",
+        "deck_id": "1VPY7",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "かさかさ",
+        "friend_code": "QQOPI",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1179526",
+        "deck_id": "6NUV1",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "かにけん",
+        "friend_code": "OSCLS",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ナハトの私兵",
+            "flag": "in"
+          },
+          {
+            "name": "カースドクイーン・ナハト・ナハト",
+            "flag": "in"
+          },
+          {
+            "name": "王断の威光",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "38d9a0": {
+    "name": "ウィッチ（ブリッツ・チェックメイト）",
+    "class": "ウィッチ",
+    "prev_id": "1d5b2c",
+    "cards": {
+      "ブリッツ": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.47
+      },
+      "真理の発見": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.793
+      },
+      "スキュア": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.47
+      },
+      "チェックメイト": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.47
+      },
+      "一世の探究": {
+        "avg": 2.2,
+        "ratio": 0.8,
+        "rank": 0.876
+      },
+      "次元の超越": {
+        "avg": 2.2,
+        "ratio": 1.0,
+        "rank": 0.53
+      },
+      "ラピッドファイア": {
+        "avg": 2.2,
+        "ratio": 0.4,
+        "rank": 0.415
+      },
+      "白霜の風": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "チェック": {
+        "avg": 2.0,
+        "ratio": 0.8,
+        "rank": 0.476
+      },
+      "ファイアーチェイン": {
+        "avg": 2.0,
+        "ratio": 0.8,
+        "rank": 0.6
+      },
+      "マジカルストラテジー": {
+        "avg": 1.8,
+        "ratio": 0.8,
+        "rank": 0.546
+      },
+      "光の道筋": {
+        "avg": 1.8,
+        "ratio": 0.6,
+        "rank": 0.68
+      },
+      "陰陽の開祖・クオン": {
+        "avg": 1.8,
+        "ratio": 0.6,
+        "rank": 0.68
+      },
+      "夢想のペンギンウィザード": {
+        "avg": 1.6,
+        "ratio": 0.6,
+        "rank": 0.629
+      },
+      "水晶の魔剣士": {
+        "avg": 1.2,
+        "ratio": 0.4,
+        "rank": 0.493
+      },
+      "魔道具専門店": {
+        "avg": 1.2,
+        "ratio": 0.4,
+        "rank": 0.493
+      },
+      "烈火の魔弾": {
+        "avg": 1.0,
+        "ratio": 0.4,
+        "rank": 1.0
+      },
+      "製造術": {
+        "avg": 1.0,
+        "ratio": 0.4,
+        "rank": 0.6
+      },
+      "魔力の蓄積": {
+        "avg": 1.0,
+        "ratio": 0.4,
+        "rank": 0.0
+      },
+      "フレイムデストロイヤー": {
+        "avg": 0.8,
+        "ratio": 0.6,
+        "rank": 0.737
+      },
+      "願望の実現": {
+        "avg": 0.8,
+        "ratio": 0.4,
+        "rank": 0.509
+      },
+      "マーリン": {
+        "avg": 0.6,
+        "ratio": 0.4,
+        "rank": 0.653
+      },
+      "アイシクルランス": {
+        "avg": 0.6,
+        "ratio": 0.4,
+        "rank": 0.653
+      },
+      "知恵の光": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 0.919
+      },
+      "運命への反逆": {
+        "avg": 0.4,
+        "ratio": 0.4,
+        "rank": 0.537
+      },
+      "スノーアウェイク": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.854
+      },
+      "真実の宣告": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.854
+      },
+      "堕天": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.758
+      },
+      "連鎖する雷": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.758
+      },
+      "クラシカルソーサラー": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.365
+      },
+      "天使の恩寵": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.758
+      },
+      "大紅蓮": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.758
+      }
+    },
+    "decks": [
+      {
+        "event": "1196477",
+        "deck_id": "6LXBD",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "サラダ油次郎",
+        "friend_code": "DQWVB",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "堕天",
+            "flag": "in"
+          },
+          {
+            "name": "連鎖する雷",
+            "flag": "in"
+          },
+          {
+            "name": "ファイアーチェイン",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1173989",
+        "deck_id": "2769Z",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "あずさ♪",
+        "friend_code": "DCVQI",
+        "venue": "イエローサブマリン京都",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "真理の発見",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1196477",
+        "deck_id": "45WSV",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "らりぃ軍団　たけ",
+        "friend_code": "YYFSS",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "クラシカルソーサラー",
+            "flag": "in"
+          },
+          {
+            "name": "一世の探究",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1187306",
+        "deck_id": "22VZR",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "守護神",
+        "friend_code": "SFQAP",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "知恵の光",
+            "flag": "in"
+          },
+          {
+            "name": "スノーアウェイク",
+            "flag": "in"
+          },
+          {
+            "name": "ブリッツ",
+            "flag": "out"
+          },
+          {
+            "name": "マジカルストラテジー",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1187566",
+        "deck_id": "16C0T",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "モルさん",
+        "friend_code": "VREHG",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "真実の宣告",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "8947d9": {
+    "name": "エルフ（プロシードハート・オーキス・絡繰り給仕）",
+    "class": "エルフ",
+    "prev_id": null,
+    "cards": {
+      "ジャンク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "絡繰り給仕": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "人形の支配者・リーアム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "プロシードハート・オーキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "人形の少女・オーキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "心無き決闘": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.6
+      },
+      "小さな勇士・スクナ": {
+        "avg": 2.6,
+        "ratio": 1.0,
+        "rank": 0.487
+      },
+      "狂気の創造者・リーアム": {
+        "avg": 2.6,
+        "ratio": 1.0,
+        "rank": 0.628
+      },
+      "ねじまき売り子": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.42
+      },
+      "アナスタシア": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.87
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 2.2,
+        "ratio": 0.8,
+        "rank": 0.504
+      },
+      "殺戮の人形・ツヴァイ": {
+        "avg": 2.0,
+        "ratio": 0.8,
+        "rank": 0.941
+      },
+      "不吉の人形師": {
+        "avg": 1.8,
+        "ratio": 0.6,
+        "rank": 0.71
+      },
+      "復讐の人形遣い・ノア": {
+        "avg": 0.8,
+        "ratio": 0.6,
+        "rank": 0.776
+      },
+      "自然の導き": {
+        "avg": 0.8,
+        "ratio": 0.4,
+        "rank": 0.483
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 1.0
+      },
+      "清泉のスピリット": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 1.0
+      },
+      "揺蕩う意志・スピネ": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 1.0
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 0.0
+      },
+      "不思議な青空・アリス": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 0.0
+      },
+      "マドロスエルフ": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 0.0
+      },
+      "愛の妖精・ポーラ": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.909
+      },
+      "妖精の調べ": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.137
+      }
+    },
+    "decks": [
+      {
+        "event": "1191953",
+        "deck_id": "5QDNZ",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "くぼやん",
+        "friend_code": "QFDOT",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "優美な猫姉妹・シャム＆シャマ",
+            "flag": "in"
+          },
+          {
+            "name": "凍土の女王・ピアシィ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1173852",
+        "deck_id": "27RH5",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "響",
+        "friend_code": "MAPRX",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "愛の妖精・ポーラ",
+            "flag": "in"
+          },
+          {
+            "name": "清泉のスピリット",
+            "flag": "in"
+          },
+          {
+            "name": "ねじまき売り子",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1170900",
+        "deck_id": "2MN95",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "ミコ",
+        "friend_code": "JYAXI",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "揺蕩う意志・スピネ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1192334",
+        "deck_id": "60JDH",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "くろいろ",
+        "friend_code": "COTEV",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "爆砕の傭兵・フィーナ",
+            "flag": "in"
+          },
+          {
+            "name": "不思議な青空・アリス",
+            "flag": "in"
+          },
+          {
+            "name": "殺戮の人形・ツヴァイ",
+            "flag": "out"
+          },
+          {
+            "name": "アナスタシア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1185580",
+        "deck_id": "38J6F",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "えるそあ",
+        "friend_code": "PKQGR",
+        "venue": "パピー弥富店",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "b55399": {
+    "name": "エルフ（サルビアパンサー・チェシャキャット）",
+    "class": "エルフ",
+    "prev_id": "23d061",
+    "cards": {
+      "チェシャキャット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.364
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.364
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.364
+      },
+      "マドロスエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.364
+      },
+      "サルビアパンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.364
+      },
+      "アネモネタイガー": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.388
+      },
+      "ベビーカーバンクル": {
+        "avg": 2.25,
+        "ratio": 1.0,
+        "rank": 0.337
+      },
+      "不思議な青空・アリス": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.446
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.446
+      },
+      "宿命の狐火・セッカ": {
+        "avg": 2.0,
+        "ratio": 0.75,
+        "rank": 0.305
+      },
+      "自然の導き": {
+        "avg": 1.75,
+        "ratio": 0.75,
+        "rank": 0.136
+      },
+      "森を彩る者・エルフクイーン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.796
+      },
+      "揺蕩う意志・スピネ": {
+        "avg": 1.5,
+        "ratio": 0.75,
+        "rank": 0.436
+      },
+      "ホワイトヴァナラ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.796
+      },
+      "小さな勇士・スクナ": {
+        "avg": 1.25,
+        "ratio": 0.75,
+        "rank": 0.162
+      },
+      "オウルマン": {
+        "avg": 1.25,
+        "ratio": 0.5,
+        "rank": 0.162
+      },
+      "九尾の決意": {
+        "avg": 1.25,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "聖樹の杖": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.203
+      },
+      "エンシェントエルフ": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.203
+      },
+      "ピュアクリスタリア・リリィ": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 1.0
+      },
+      "無窮の輝石・カーバンクル": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.236
+      },
+      "キングエレファント": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.236
+      },
+      "高速遊撃のイルカ兵": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.127
+      },
+      "煌撃の戦士・ベイル": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.284
+      },
+      "獣戦士・セタス": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.284
+      }
+    },
+    "decks": [
+      {
+        "event": "1203170",
+        "deck_id": "1KN4Z",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "スシ・イナリ",
+        "friend_code": "RZZYC",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "ピュアクリスタリア・リリィ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173854",
+        "deck_id": "2QXEX",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "あんどうあんど",
+        "friend_code": "IMAXI",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "自然の導き",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1193387",
+        "deck_id": "5PSUZ",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "タビ",
+        "friend_code": "MLOLU",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "高速遊撃のイルカ兵",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1198364",
+        "deck_id": "2XM1M",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "えんぴつ",
+        "friend_code": "KEVPH",
+        "venue": "カードショップ裁龍",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "聖樹の杖",
+            "flag": "in"
+          },
+          {
+            "name": "エンシェントエルフ",
+            "flag": "in"
+          },
+          {
+            "name": "宿命の狐火・セッカ",
+            "flag": "out"
+          },
+          {
+            "name": "小さな勇士・スクナ",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "958dae": {
+    "name": "ウマ娘 プリティーダービー（ジャングルポケット・マヤノトップガン）",
+    "class": "ウマ娘 プリティーダービー",
+    "prev_id": "d78feb",
+    "cards": {
+      "サクラバクシンオー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "マヤノトップガン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "世界にもっと☆マーベラス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "その背中を越えて": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "〔うららか・ぱっしょん♪〕ハルウララ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "〔Escorte étoile〕シリウスシンボリ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "ジャングルポケット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "〔マチタン☆アドベンチャー〕マチカネタンホイザ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "カツラギエース": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "サウンズオブアース": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "シュヴァルグラン": {
+        "avg": 2.667,
+        "ratio": 1.0,
+        "rank": 0.91
+      },
+      "ホッコータルマエ": {
+        "avg": 2.333,
+        "ratio": 1.0,
+        "rank": 0.372
+      },
+      "エアシャカール": {
+        "avg": 1.667,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "サクラローレル": {
+        "avg": 1.667,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "マンハッタンカフェ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.653
+      },
+      "タップダンスシチー": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.0
+      },
+      "ドゥラメンテ": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1187306",
+        "deck_id": "6K9VR",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "わたし",
+        "friend_code": "NJYQP",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1163955",
+        "deck_id": "6XCD5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "西野つかさ",
+        "friend_code": "TRSMJ",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "タップダンスシチー",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1192141",
+        "deck_id": "587RM",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "ふぐ",
+        "friend_code": "QEECS",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ドゥラメンテ",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "6e01da": {
+    "name": "カードファイト!! ヴァンガード（ドラゴンモンク ゲンジョウ・約束の火 エルモ）",
+    "class": "カードファイト!! ヴァンガード",
+    "prev_id": "e9a228",
+    "cards": {
+      "ドラゴンモンク ゲンジョウ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "約束の火 エルモ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "ドラゴンナイト ネハーレン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "バーニングホーン・ドラゴン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "槍の化身 ター": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "ドラゴンナイト アリフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "バーサーク・ドラゴン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "ドラゴニック・オーバーロード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "ドラゴニック・オーバーロード・ジ・エンド": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.557
+      },
+      "従者 レアス": {
+        "avg": 2.667,
+        "ratio": 1.0,
+        "rank": 0.492
+      },
+      "鎧の化身 バー": {
+        "avg": 2.333,
+        "ratio": 1.0,
+        "rank": 0.628
+      },
+      "ボーテックス・ドラゴン": {
+        "avg": 2.333,
+        "ratio": 1.0,
+        "rank": 0.628
+      },
+      "希望の火 エルモ": {
+        "avg": 1.667,
+        "ratio": 0.667,
+        "rank": 1.0
+      },
+      "ドラゴンモンク ゴクウ": {
+        "avg": 1.333,
+        "ratio": 0.667,
+        "rank": 0.356
+      },
+      "リザードソルジャー コンロー": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.558
+      },
+      "連撃のサザーランド": {
+        "avg": 0.667,
+        "ratio": 0.667,
+        "rank": 0.419
+      },
+      "ガトリングクロー・ドラゴン": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.0
+      },
+      "ドラゴニック・エクスキューショナー": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.733
+      },
+      "ベリコウスティドラゴン": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.733
+      }
+    },
+    "decks": [
+      {
+        "event": "1187566",
+        "deck_id": "55NLJ",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "斉藤",
+        "friend_code": "LGSQU",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ドラゴニック・エクスキューショナー",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1192141",
+        "deck_id": "3WVD1",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "ゆゆ",
+        "friend_code": "JPXCZ",
+        "venue": "G-PROJECT本店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ベリコウスティドラゴン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1187566",
+        "deck_id": "2VGB3",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "daisuke",
+        "friend_code": "USQGQ",
+        "venue": "CARD WINGS　秋葉原駅前店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "ガトリングクロー・ドラゴン",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "c0742d": {
+    "name": "ナイトメア（悪夢の始まり・眷属への贈り物）",
+    "class": "ナイトメア",
+    "prev_id": null,
+    "cards": {
+      "怪奇の探索者・ユナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.376
+      },
+      "眷属への贈り物": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.376
+      },
+      "闇夜の姫・ヴァンピィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.376
+      },
+      "悪夢の始まり": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.376
+      },
+      "吸血姫・ヴァンピィ": {
+        "avg": 2.667,
+        "ratio": 1.0,
+        "rank": 0.27
+      },
+      "血統の王": {
+        "avg": 2.667,
+        "ratio": 1.0,
+        "rank": 0.27
+      },
+      "白夜の吸血鬼・ヴァーニア": {
+        "avg": 2.333,
+        "ratio": 1.0,
+        "rank": 0.14
+      },
+      "吸血鬼の古城": {
+        "avg": 2.333,
+        "ratio": 1.0,
+        "rank": 0.317
+      },
+      "宵の吸血鬼・ヴァーニア": {
+        "avg": 2.333,
+        "ratio": 1.0,
+        "rank": 0.14
+      },
+      "貴き血牙": {
+        "avg": 1.667,
+        "ratio": 0.667,
+        "rank": 0.0
+      },
+      "魂の捕食": {
+        "avg": 1.333,
+        "ratio": 0.667,
+        "rank": 0.027
+      },
+      "真紅のローズクイーン": {
+        "avg": 1.333,
+        "ratio": 0.667,
+        "rank": 0.027
+      },
+      "クドラク": {
+        "avg": 1.333,
+        "ratio": 0.667,
+        "rank": 0.027
+      },
+      "眷属の召喚": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "絶大の唯我・マゼルベイン": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "唯我の絶傑・マゼルベイン": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "真夜中の吸血鬼・ヴァーニア": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.891
+      },
+      "衝動の人狼・リベルテ": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.891
+      },
+      "ラストデイライト": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.891
+      },
+      "夜明けの吸血鬼・ノイン": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.891
+      },
+      "巨大なる怨念": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.891
+      },
+      "棘の吸血鬼": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.119
+      },
+      "闇の賞金稼ぎ・バルト": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.119
+      },
+      "奔放なる獄炎・ケルベロス": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.119
+      },
+      "夢のささやき": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.119
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.119
+      },
+      "パルクールウルフ": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.713
+      }
+    },
+    "decks": [
+      {
+        "event": "1173854",
+        "deck_id": "VFJP",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "もんど",
+        "friend_code": "VQGZD",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "真夜中の吸血鬼・ヴァーニア",
+            "flag": "in"
+          },
+          {
+            "name": "眷属の召喚",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1186576",
+        "deck_id": "4XYWK",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "ドルフィン",
+        "friend_code": "EDYVC",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "棘の吸血鬼",
+            "flag": "in"
+          },
+          {
+            "name": "闇の賞金稼ぎ・バルト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1170900",
+        "deck_id": "39M4F",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "mituki",
+        "friend_code": "PLXMW",
+        "venue": "コミかる堂　高崎店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "夢のささやき",
+            "flag": "in"
+          },
+          {
+            "name": "勇壮の堕天使・オリヴィエ",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "fbfe04": {
+    "name": "ビショップ（信仰の一撃・射殺す輝き）",
+    "class": "ビショップ",
+    "prev_id": "4f84a1",
+    "cards": {
+      "ダークオファリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.663
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.663
+      },
+      "射殺す輝き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.663
+      },
+      "信仰の一撃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.663
+      },
+      "テミスの審判": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.663
+      },
+      "漆黒の法典": {
+        "avg": 2.667,
+        "ratio": 1.0,
+        "rank": 0.774
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 2.0,
+        "ratio": 0.667,
+        "rank": 0.457
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.457
+      },
+      "裁決のアナテマ・ロデオ": {
+        "avg": 2.0,
+        "ratio": 0.667,
+        "rank": 0.457
+      },
+      "烈火の魔弾": {
+        "avg": 1.667,
+        "ratio": 0.667,
+        "rank": 0.348
+      },
+      "コンセントレイト": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "ベルエンジェル・リア": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "天界の尖兵": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "天使の恩寵": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "禁密の天宮・ロナヴェロ": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 1.0
+      },
+      "悠久の絶望": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 0.0
+      },
+      "セト": {
+        "avg": 1.0,
+        "ratio": 0.333,
+        "rank": 0.0
+      },
+      "ベルエンジェル": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "エンジェルスナイプ": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "エクスキューション": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "ワールドブレイク": {
+        "avg": 0.667,
+        "ratio": 0.667,
+        "rank": 0.529
+      },
+      "穏やかなる教会": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "大いなる熾天使・ラピス": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "古き護り手": {
+        "avg": 0.667,
+        "ratio": 0.667,
+        "rank": 0.529
+      },
+      "飢餓の絶傑・ギルネリーゼ": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "カインドブライト": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "最果ての罪・サタン": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "封じられし熾天使": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.947
+      },
+      "清浄の領域": {
+        "avg": 0.667,
+        "ratio": 0.333,
+        "rank": 0.111
+      },
+      "救世主": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.858
+      },
+      "安息の絶傑・マーウィン": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.858
+      },
+      "氷獄の顕現": {
+        "avg": 0.333,
+        "ratio": 0.333,
+        "rank": 0.298
+      }
+    },
+    "decks": [
+      {
+        "event": "1200417",
+        "deck_id": "43RMX",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "ナナ",
+        "friend_code": "JTRUT",
+        "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "コンセントレイト",
+            "flag": "in"
+          },
+          {
+            "name": "ベルエンジェル・リア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173854",
+        "deck_id": "5J475",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "カイザ",
+        "friend_code": "MCAYY",
+        "venue": "カードボックス福山店",
+        "date": "2025-07-13",
+        "variant_cards": [
+          {
+            "name": "穏やかなる教会",
+            "flag": "in"
+          },
+          {
+            "name": "禁密の天宮・ロナヴェロ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1173852",
+        "deck_id": "4SWCK",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "鴉",
+        "friend_code": "VNTIV",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12",
+        "variant_cards": [
+          {
+            "name": "悠久の絶望",
+            "flag": "in"
+          },
+          {
+            "name": "氷獄の顕現",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "5d975f": {
+    "name": "ウィッチ（《愚者》・リンクル・剥落の暴圧）",
+    "class": "ウィッチ",
+    "prev_id": "eaee9a",
+    "cards": {
+      "剥落の暴圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "蒙昧なる術式": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "《愚者》・リンクル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "グリモアソーサラー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "インフィニットウィッチ・ドロシー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "一世の探究": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真実の宣告": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真理の大文豪・ユキシマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "グランドブレイク": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.381
+      },
+      "連鎖する雷": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "獣面の魔術師": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "水晶の魔剣士": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "城ヶ崎莉嘉": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "宿帳のフクロウ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "天命の編纂者・ジズドヴェンド": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "理光の証明": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.917
+      },
+      "エレメントシャーマン・ライリー": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.917
+      },
+      "管弦の魔術師": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.083
+      },
+      "カオスウィザード": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.778
+      },
+      "マーリン": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.778
+      }
+    },
+    "decks": [
+      {
+        "event": "1203170",
+        "deck_id": "1RK49",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "やんま",
+        "friend_code": "IANUX",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1182691",
+        "deck_id": "1Q0RH",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 45,
+        "player": "菫青石",
+        "friend_code": "ZRQOC",
+        "venue": "ホビーステーション 津田沼",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "c3d016": {
+    "name": "ウィッチ（一世の探究・陰陽の開祖・クオン）",
+    "class": "ウィッチ",
+    "prev_id": "1dcab0",
+    "cards": {
+      "一世の探究": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "陰陽の開祖・クオン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.229
+      },
+      "セレスティアルスフィア・ミリカ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "シュヴァルグラン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "レヴィールの保安官補": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "ラブリー★モニカ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "マジカルシューター": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "ピースキーパー・ヴィンセント": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "川島瑞樹": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "双刃の魔剣士": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "開闢の予言者": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "次元の超越": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "陰陽の秘法": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "グレアの炎熱": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "宿題やるですぅ！": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "式神の使役": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "真理の発見": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "光の道筋": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "烈火の魔弾": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "カースエンチャンター": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ウーシンマスター・クオン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ジャッジメントワード": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.932
+      },
+      "マジカルビースト・モーラ": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.932
+      },
+      "黎明の錬金術師・ノノ": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.932
+      },
+      "クラシカルソーサラー": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.068
+      },
+      "闇魔法の教師・ハインライン": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.068
+      },
+      "マーシャルゴーレム": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.807
+      },
+      "鋼鉄の魔獣・レガロア": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.807
+      },
+      "鬼呼びの導師": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.193
+      }
+    },
+    "decks": [
+      {
+        "event": "1172761",
+        "deck_id": "3VULP",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "わたぽん ",
+        "friend_code": "KIZZB",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1203170",
+        "deck_id": "3ZPVP",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "あおさん",
+        "friend_code": "MHMMF",
+        "venue": "トーナメントセンターバトロコ小田原駅前",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "8f8fb4": {
+    "name": "ドラゴン（リントヴルム・ドラゴニックコール）",
+    "class": "ドラゴン",
+    "prev_id": "5ccebe",
+    "cards": {
+      "天威のドラグーン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "ブレイジングブレス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "サンダーロア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "ドラゴニックコール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "覇道の竜翼・フォルテ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "蒼炎のドラゴニュート": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "荒波のドラグーン・ザハール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "パンプキンドラゴン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "竜喰らう禁忌": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "リントヴルム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "エルコンドルパサー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "パッションチャンピオーナ！": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ドラゴンイクシード・ギルヴァ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "覇道の君臨者・フォルテ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1186576",
+        "deck_id": "6PW6K",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "アル",
+        "friend_code": "ZYIUE",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1184067",
+        "deck_id": "6PW6K",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "アル",
+        "friend_code": "ZYIUE",
+        "venue": "アイランド",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "bbd5e5": {
+    "name": "ビショップ（ゴールドシップ・その背中を越えて）",
+    "class": "ビショップ",
+    "prev_id": null,
+    "cards": {
+      "三日月の女神 ツクヨミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ダークオファリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "その背中を越えて": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "警策の翼人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "半月の女神 ツクヨミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "迸る光明・アポロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "メイデン・オブ・ライブラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "テミスの審判": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "都留岐涼花": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "サハクィエル＆イスラーフィール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ゴールドシップ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アブソリュート・トレランス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "サハクィエル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "光の信仰者": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "セラフィックレオ・ガルエル": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "唯我の一刀": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1196477",
+        "deck_id": "2MBK9",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "もこくー",
+        "friend_code": "WOZOI",
+        "venue": "ドラグーン周南",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1173852",
+        "deck_id": "6QKC3",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "HardCoreヒデ",
+        "friend_code": "BRGOO",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "0b993d": {
+    "name": "ビショップ（絶望の聖女・ジャンヌ・闇穿つ煌き・サリッサ）",
+    "class": "ビショップ",
+    "prev_id": "7d61e0",
+    "cards": {
+      "絶望の聖女・ジャンヌ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "闇穿つ煌き・サリッサ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "清めの間": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "安息の従者": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "警策の翼人": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "福呼びの狐": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "漆黒の法典": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "ヘイブンファイア": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "白牙の神殿": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "メルティングシュガー・セリーナ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "淀みの神父": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "剛健の翼人": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ベルエンジェル・リア": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "熟達の翼戦士": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "神殿の癒し手": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ルナールの聖騎士": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "呪われた翼・シロ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ブライトパラディン・ウィルバート": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "グランドナイト・ウィルバート": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "半月の女神 ツクヨミ": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.068
+      },
+      "神聖なる先導者": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.068
+      },
+      "聖騎士・ヘクター": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.068
+      },
+      "ワールドブレイク": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.807
+      },
+      "鉄拳の神父": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.193
+      },
+      "光の信仰者": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.193
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.193
+      },
+      "白翼の守護神・アイテール": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.193
+      }
+    },
+    "decks": [
+      {
+        "event": "1179526",
+        "deck_id": "16R77",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "狐花",
+        "friend_code": "FRFFP",
+        "venue": "カードキングダム徳島店",
+        "date": "2025-07-12"
+      },
+      {
+        "event": "1173852",
+        "deck_id": "5BE8P",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "李春",
+        "friend_code": "FTNZB",
+        "venue": "カードボックス横浜西口2号店",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "d49e2c": {
+    "name": "ロイヤル（鮮やかな奪取・簒奪の蛇剣）",
+    "class": "ロイヤル",
+    "prev_id": "5178c5",
+    "cards": {
+      "アヴァリティア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "鮮やかな奪取": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "極意たる空絶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "アサルトバンデッド": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "アルセーヌ・ルパン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "月の刃・リオード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "簒奪の蛇剣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "空絶の簒奪・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "真理の騎士 ゴードン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "氷獄の顕現": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "オネストシーフ": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ワールドブレイク": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.606
+      },
+      "タイラントオーダー": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "簒奪の舞": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1179994",
+        "deck_id": "26Q7F",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "クロノ",
+        "friend_code": "PHUOA",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1167444",
+        "deck_id": "57EZ7",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "とりくん",
+        "friend_code": "OQGDD",
+        "venue": "TSUTAYA籠原店",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "5c7423": {
+    "name": "ロイヤル（アウトローガンナー・ラディカルガンスリンガー）",
+    "class": "ロイヤル",
+    "prev_id": "9b06fd",
+    "cards": {
+      "自由なる冒険者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "空の指揮官・セリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "ナハトの私兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "ラディカルガンスリンガー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "アウトローガンナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "音速の機構・ララミア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "月の刃・リオード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "ファントムデュオ・バニー＆バロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "タイラントオーダー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.756
+      },
+      "星の鎧": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "オケアノス": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.916
+      },
+      "ゴブリンプリンセス": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.916
+      },
+      "久川凪": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.458
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "不思議な青空・アリス": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "神速の歩法": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "レイジーナイト・ネラン": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "ベルエンジェル・リア": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.771
+      },
+      "デスペラードショット": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.771
+      },
+      "レヴィールの無法者": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.145
+      },
+      "放浪する料理人": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.145
+      },
+      "ワイルドリザード": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.145
+      }
+    },
+    "decks": [
+      {
+        "event": "1186576",
+        "deck_id": "64X2R",
+        "rank": 1,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "318ryu",
+        "friend_code": "EYGGL",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2025-07-13"
+      },
+      {
+        "event": "1192334",
+        "deck_id": "1M8SK",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "タカハシ",
+        "friend_code": "CWNUP",
+        "venue": "ゲームプラザ元気３０２",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "e7c863": {
+    "name": "ウィッチ（破壊の従者・破壊の絶傑・リーシェナ）",
+    "class": "ウィッチ",
+    "prev_id": "328edd",
+    "cards": {
+      "破壊の愉悦": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の隠者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の歌声": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "奏絶の崇拝者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の従者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "白の章・黒の章": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "舞い戻る奏絶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "奏絶の破壊・リーシェナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マーリン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の絶傑・リーシェナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真実の掟": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "見習い魔女と長い夜": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "連鎖する雷": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1191953",
+        "deck_id": "2GRTX",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "ハムカツ",
+        "friend_code": "QQVTD",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "a8081d": {
+    "name": "ウマ娘 プリティーダービー（おどれ・さわげ・フェスれ！・〔一粒の安らぎ〕スーパークリーク）",
+    "class": "ウマ娘 プリティーダービー",
+    "prev_id": null,
+    "cards": {
+      "検証、開始": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "見習い魔女と長い夜": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "おどれ・さわげ・フェスれ！": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "サトノクラウン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ネオユニヴァース": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "天まで焦がせ祈りの火": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "〔一粒の安らぎ〕スーパークリーク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "運の行方": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ジェンティルドンナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ゴールドシップ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ナリタブライアン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "紡がれてゆく想い": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "マチカネフクキタル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "雨の独奏、私の独創": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "ヒシアケボノ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1168503",
+        "deck_id": "39U0P",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "ヤギ",
+        "friend_code": "OCUQW",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "e2f6a6": {
+    "name": "ナイトメア（鮮血の首飾り・クラッシュデビル・デモニア）",
+    "class": "ナイトメア",
+    "prev_id": "df816f",
+    "cards": {
+      "欲望の信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "欲望の翼": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鮮血の首飾り": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "愛絶の欲望・ヴァーナレク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "クリムゾンウォー・ラウラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "パンクデビル・デモニア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "欲望の絶傑・ヴァーナレク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ブラッドムーン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "クラッシュデビル・デモニア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "迸る光明・アポロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "魔剣の騎士・ハザン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鋭利な一裂き": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "パルクールウルフ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "エンドレスハンター・アラガヴィ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ダークジェネラル": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1191953",
+        "deck_id": "1KU3Z",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "ユーキ",
+        "friend_code": "CMRZW",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "2ac918": {
+    "name": "ナイトメア（ノーブルファントム・ゴーストヴァニッシュ）",
+    "class": "ナイトメア",
+    "prev_id": null,
+    "cards": {
+      "怪奇の探索者・ユナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ノーブルファントム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ゴーストヴァニッシュ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "スピリットキュレーター": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ラストデイライト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "迸る光明・アポロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "夜明けの吸血鬼・ノイン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ファントムハウル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マスカレードゴースト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "巨大なる怨念": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "シンシア・ソウル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ソウルコンバージョン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "瞑地の霊園": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ゴーストメイド": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "エンドレスハンター・アラガヴィ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1187306",
+        "deck_id": "5HR0F",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "ぺぺぷ",
+        "friend_code": "RVMQH",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "e5a7c1": {
+    "name": "ナイトメア（コラプションガーディアン・サハクィエル）",
+    "class": "ナイトメア",
+    "prev_id": null,
+    "cards": {
+      "ベルエンジェル・リア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "デッドペナルティ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "天使の泉": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "夢のささやき": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "カオスルーラー・アイシィレンドリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "コラプションガーディアン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "サハクィエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ソードエンジェル・エフェメラ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "エンジェルスナイプ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "フォーリンショット": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "堕天": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "イスラーフィール": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "熾天使の剣": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ワールドブレイク": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1167548",
+        "deck_id": "21UHV",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "キョウスケ",
+        "friend_code": "NVHZO",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-07-12"
+      }
+    ]
+  },
+  "01bd10": {
+    "name": "ビショップ（メカニカルガンナー・リモニウムの救済）",
+    "class": "ビショップ",
+    "prev_id": null,
+    "cards": {
+      "デュアルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "メカニカルガンナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "セイント・コア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "機械鞭の僧侶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "機械腕の祈り手": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "極炎のドラグーン・ローラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鉄腕の修道女": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マシンファルコン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "機構の解放": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "リモニウムの救済": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "欠落の聖女・リモニウム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ダークオファリング": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "機械神": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "百機王・グライアス": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鋼鉄と大地の神": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1191953",
+        "deck_id": "3BF9T",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "ピエトロ",
+        "friend_code": "FOHFH",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  "ae6b1e": {
+    "name": "ロイヤル（ペンギンガーディアン・辺境の騎士見習い）",
+    "class": "ロイヤル",
+    "prev_id": null,
+    "cards": {
+      "刹那のクイックブレイダー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "空の指揮官・セリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ベルエンジェル・リア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "辺境の騎士見習い": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ペンギンガーディアン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "音速の突破": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アストロウィング・ララミア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "音速の機構・ララミア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "月の刃・リオード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "星の鎧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "晴天の銀騎士・エミリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アラエル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "神弓の座天使・リリエル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "紫電の黒豹": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "王断の威光": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1179994",
+        "deck_id": "7N1R9",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "Y",
+        "friend_code": "XURGB",
+        "venue": "カードボックスオーサカ店",
+        "date": "2025-07-13"
+      }
+    ]
+  }
+}

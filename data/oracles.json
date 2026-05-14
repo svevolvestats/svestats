@@ -10594,7 +10594,9 @@
     "oracle_id": "BP02-076",
     "is_dual_face": false,
     "name": "吸血鬼の古城",
-    "alt_names": [],
+    "alt_names": [
+      "ラプラトン星"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "アミュレット"
@@ -10613,45 +10615,7 @@
     ],
     "canonical_print": "BP02-076",
     "prints": [
-      "BP02-076"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP01-T15"
-    ],
-    "mentions_tokens": [
-      "BP01-T15"
-    ],
-    "mentions_by_name_contains": [],
-    "illustrator": "石山裕之",
-    "legal_status": null
-  },
-  {
-    "oracle_id": "BP02-077",
-    "is_dual_face": false,
-    "name": "ラプラトン星",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "アミュレット"
-    ],
-    "tribe": [
-      "吸血鬼"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、吸血鬼・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】コスト1これをアクト墓場に置く：『フォレストバット』1体を出す。",
-    "keywords": [
-      "ファンファーレ",
-      "起動"
-    ],
-    "canonical_print": "BP02-077",
-    "prints": [
+      "BP02-076",
       "BP02-077"
     ],
     "evolves_to": [],
@@ -10665,7 +10629,7 @@
       "BP01-T15"
     ],
     "mentions_by_name_contains": [],
-    "illustrator": "",
+    "illustrator": "石山裕之",
     "legal_status": null
   },
   {
@@ -91932,13 +91896,13 @@
       "BP05-T03"
     ],
     "mentions_by_name_contains": [
+      "BP08-004",
+      "BP08-005",
+      "BP19-004",
       "BP08-002",
       "BP08-003",
       "BP08-LD01",
-      "BP16-003",
-      "BP08-004",
-      "BP08-005",
-      "BP19-004"
+      "BP16-003"
     ],
     "illustrator": "",
     "legal_status": null
@@ -105403,16 +105367,16 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-022",
-      "CSD02C-001",
-      "CSD02C-LD01",
-      "ECP02-013",
-      "ECP02-014",
       "CP02-023",
       "CP02-024",
       "CSD02A-001",
       "CSD02A-LD01",
-      "ECP02-015"
+      "ECP02-015",
+      "CP02-022",
+      "CSD02C-001",
+      "CSD02C-LD01",
+      "ECP02-013",
+      "ECP02-014"
     ],
     "illustrator": "",
     "legal_status": null
@@ -105451,15 +105415,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012",
       "CP02-023",
       "CP02-024",
       "CSD02A-001",
       "CSD02A-LD01",
-      "ECP02-015"
+      "ECP02-015",
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012"
     ],
     "illustrator": "",
     "legal_status": null
@@ -125963,14 +125927,14 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "ECP02-027",
       "CP02-038",
       "ECP02-026",
-      "CP02-044",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
       "ECP02-034",
-      "ECP02-027"
+      "CP02-044"
     ],
     "illustrator": "",
     "legal_status": null

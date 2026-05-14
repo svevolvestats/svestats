@@ -1,0 +1,229 @@
+{
+  "_split_suggestions": {
+    "1e7d1c": {
+      "name": "1e7d1c",
+      "class": "ロイヤル",
+      "n": 25,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "艶やかなる太夫・ギンネ",
+              "ratio": 44
+            },
+            {
+              "name": "達人の芸者",
+              "ratio": 40
+            }
+          ],
+          "drops": [
+            {
+              "y": "鮮やかな奪取",
+              "y_ratio": 60,
+              "co_occur_pct": 8,
+              "diff_pct": -75
+            },
+            {
+              "y": "空絶の崇拝者",
+              "y_ratio": 60,
+              "co_occur_pct": 12,
+              "diff_pct": -58
+            },
+            {
+              "y": "アルセーヌ・ルパン",
+              "y_ratio": 56,
+              "co_occur_pct": 12,
+              "diff_pct": -51
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "迫る熱に押されて",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "鮮やかな奪取",
+              "y_ratio": 60,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            },
+            {
+              "y": "アルセーヌ・ルパン",
+              "y_ratio": 56,
+              "co_occur_pct": 0,
+              "diff_pct": -70
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "簒奪の信者",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "干絶の飢餓・ギルネリーゼ",
+              "y_ratio": 52,
+              "co_occur_pct": 0,
+              "diff_pct": -65
+            },
+            {
+              "y": "簒奪の蛇剣",
+              "y_ratio": 68,
+              "co_occur_pct": 4,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "値引き交渉",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "アルセーヌ・ルパン",
+              "y_ratio": 56,
+              "co_occur_pct": 0,
+              "diff_pct": -70
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "簒奪の従者",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "艶やかなる太夫・ギンネ",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -55
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "アサルトバンデッド",
+              "ratio": 76
+            }
+          ],
+          "drops": [
+            {
+              "y": "盗賊の乱飛",
+              "y_ratio": 12,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "97a316": {
+      "name": "97a316",
+      "class": "ナイトメア",
+      "n": 22,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "奈落の軍曹",
+              "ratio": 23
+            }
+          ],
+          "drops": [
+            {
+              "y": "銀釘の射手",
+              "y_ratio": 50,
+              "co_occur_pct": 0,
+              "diff_pct": -65
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "友魂の少女・ルナ",
+              "ratio": 27
+            }
+          ],
+          "drops": [
+            {
+              "y": "バイオレントスクリーム",
+              "y_ratio": 77,
+              "co_occur_pct": 9,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "7dcec4": {
+      "name": "7dcec4",
+      "class": "ナイトメア",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "紅のワルツ",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "猛襲の特攻隊長",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

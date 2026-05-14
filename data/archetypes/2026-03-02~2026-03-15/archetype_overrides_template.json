@@ -1,0 +1,203 @@
+{
+  "_split_suggestions": {
+    "eced05": {
+      "name": "eced05",
+      "class": "ナイトメア",
+      "n": 29,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ソウルコンバージョン",
+              "ratio": 21
+            },
+            {
+              "name": "一刀の幽鬼・カゲロウ",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "幽霊支配人・アーカス",
+              "y_ratio": 83,
+              "co_occur_pct": 7,
+              "diff_pct": -62
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "幽霊支配人・アーカス",
+              "ratio": 83
+            }
+          ],
+          "drops": [
+            {
+              "y": "魂の一刀",
+              "y_ratio": 14,
+              "co_occur_pct": 3,
+              "diff_pct": -56
+            }
+          ]
+        }
+      ]
+    },
+    "a5dfdf": {
+      "name": "a5dfdf",
+      "class": "プリンセスコネクト！Re:Dive",
+      "n": 29,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ホマレ",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "ユキ",
+              "y_ratio": 48,
+              "co_occur_pct": 0,
+              "diff_pct": -61
+            },
+            {
+              "y": "マホ",
+              "y_ratio": 45,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "キョウカ",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "シェフィ",
+              "y_ratio": 79,
+              "co_occur_pct": 7,
+              "diff_pct": -75
+            }
+          ]
+        }
+      ]
+    },
+    "c9e655": {
+      "name": "c9e655",
+      "class": "プリンセスコネクト！Re:Dive",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ユイ",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "カヤ",
+              "y_ratio": 69,
+              "co_occur_pct": 8,
+              "diff_pct": -80
+            },
+            {
+              "y": "イノリ",
+              "y_ratio": 69,
+              "co_occur_pct": 8,
+              "diff_pct": -80
+            },
+            {
+              "y": "コッコロ",
+              "y_ratio": 38,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            },
+            {
+              "y": "ネビア",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "コッコロ",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "ユイ",
+              "y_ratio": 38,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            },
+            {
+              "y": "ペコリーヌ",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "コールオブギルド",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "エリコ",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

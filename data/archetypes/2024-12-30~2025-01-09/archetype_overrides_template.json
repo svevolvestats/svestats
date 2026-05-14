@@ -1,0 +1,137 @@
+{
+  "_split_suggestions": {
+    "e42fdd": {
+      "name": "e42fdd",
+      "class": "エルフ",
+      "n": 39,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "人形の少女・オーキス",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "反逆の命・ミリアム",
+              "y_ratio": 51,
+              "co_occur_pct": 0,
+              "diff_pct": -65
+            }
+          ]
+        }
+      ]
+    },
+    "9b2085": {
+      "name": "9b2085",
+      "class": "ロイヤル",
+      "n": 38,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "黄昏の刃・ナノ",
+              "ratio": 16
+            }
+          ],
+          "drops": [
+            {
+              "y": "レヴィールの無法者",
+              "y_ratio": 82,
+              "co_occur_pct": 3,
+              "diff_pct": -77
+            },
+            {
+              "y": "放浪する料理人",
+              "y_ratio": 79,
+              "co_occur_pct": 5,
+              "diff_pct": -54
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "レヴィールの無法者",
+              "ratio": 82
+            }
+          ],
+          "drops": [
+            {
+              "y": "スカイセイバー・リーシャ",
+              "y_ratio": 11,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            }
+          ]
+        }
+      ]
+    },
+    "604f1b": {
+      "name": "604f1b",
+      "class": "ビショップ",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "天界の尖兵",
+              "ratio": 45
+            },
+            {
+              "name": "漆黒の法典",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "安息の絶傑・マーウィン",
+              "y_ratio": 55,
+              "co_occur_pct": 9,
+              "diff_pct": -63
+            },
+            {
+              "y": "パニッシュメントスナイパー",
+              "y_ratio": 55,
+              "co_occur_pct": 9,
+              "diff_pct": -63
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

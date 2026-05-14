@@ -1,0 +1,261 @@
+{
+  "_split_suggestions": {
+    "a9eff9": {
+      "name": "a9eff9",
+      "class": "ロイヤル",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "信念の剣閃",
+              "ratio": 54
+            }
+          ],
+          "drops": [
+            {
+              "y": "スパルタクス",
+              "y_ratio": 54,
+              "co_occur_pct": 8,
+              "diff_pct": -86
+            },
+            {
+              "y": "思わぬ躓き",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            },
+            {
+              "y": "ベルエンジェル",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "デュアルエンジェル",
+              "ratio": 54
+            },
+            {
+              "name": "荒野の休息",
+              "ratio": 62
+            }
+          ],
+          "drops": [
+            {
+              "y": "月の刃・リオード",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            },
+            {
+              "y": "躍動する獣戦士",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "ライノスナイト・パトリック",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "スパルタクス",
+              "ratio": 54
+            }
+          ],
+          "drops": [
+            {
+              "y": "信念の剣閃",
+              "y_ratio": 54,
+              "co_occur_pct": 8,
+              "diff_pct": -86
+            },
+            {
+              "y": "黒豹の偵察者",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "メイドリーダー",
+              "ratio": 46
+            }
+          ],
+          "drops": [
+            {
+              "y": "デュアルエンジェル",
+              "y_ratio": 54,
+              "co_occur_pct": 8,
+              "diff_pct": -69
+            }
+          ]
+        }
+      ]
+    },
+    "ac0f39": {
+      "name": "ac0f39",
+      "class": "ナイトメア",
+      "n": 12,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ポルターガイスト",
+              "ratio": 42
+            },
+            {
+              "name": "仁義の悪魔・ユヅキ",
+              "ratio": 42
+            },
+            {
+              "name": "沈黙の詩",
+              "ratio": 42
+            },
+            {
+              "name": "糸蜘蛛の放射",
+              "ratio": 50
+            },
+            {
+              "name": "死期を視るもの・グレモリー",
+              "ratio": 58
+            },
+            {
+              "name": "沈黙の絶傑・ルルナイ",
+              "ratio": 58
+            },
+            {
+              "name": "轟",
+              "ratio": 42
+            }
+          ],
+          "drops": [
+            {
+              "y": "ヴェノムバイト",
+              "y_ratio": 58,
+              "co_occur_pct": 8,
+              "diff_pct": -66
+            },
+            {
+              "y": "熾天使の剣",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            },
+            {
+              "y": "天界の尖兵",
+              "y_ratio": 50,
+              "co_occur_pct": 8,
+              "diff_pct": -51
+            },
+            {
+              "y": "冥守の戦士・カムラ",
+              "y_ratio": 25,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "天界の尖兵",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "糸蜘蛛の放射",
+              "y_ratio": 50,
+              "co_occur_pct": 8,
+              "diff_pct": -67
+            }
+          ]
+        }
+      ]
+    },
+    "0932a1": {
+      "name": "0932a1",
+      "class": "ドラゴン",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ドラゴニュートの威圧",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "母なる君",
+              "y_ratio": 50,
+              "co_occur_pct": 10,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "母なる君",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "ドラゴニュートの威圧",
+              "y_ratio": 50,
+              "co_occur_pct": 10,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

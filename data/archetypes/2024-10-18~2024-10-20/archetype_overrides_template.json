@@ -1,0 +1,189 @@
+{
+  "_split_suggestions": {
+    "9c3518": {
+      "name": "9c3518",
+      "class": "ドラゴン",
+      "n": 39,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "荒野の案内人",
+              "ratio": 26
+            }
+          ],
+          "drops": [
+            {
+              "y": "竜巫女の儀式",
+              "y_ratio": 59,
+              "co_occur_pct": 5,
+              "diff_pct": -52
+            }
+          ]
+        }
+      ]
+    },
+    "e0ecaf": {
+      "name": "e0ecaf",
+      "class": "カードファイト!! ヴァンガード",
+      "n": 23,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ドラゴンモンク ゴジョー",
+              "ratio": 78
+            }
+          ],
+          "drops": [
+            {
+              "y": "連撃のサザーランド",
+              "y_ratio": 13,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "d066fd": {
+      "name": "d066fd",
+      "class": "ロイヤル",
+      "n": 17,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "スカイセイバー・リーシャ",
+              "ratio": 35
+            },
+            {
+              "name": "黄昏の刃・ナノ",
+              "ratio": 35
+            }
+          ],
+          "drops": [
+            {
+              "y": "久川凪",
+              "y_ratio": 53,
+              "co_occur_pct": 0,
+              "diff_pct": -82
+            }
+          ]
+        }
+      ]
+    },
+    "d130c2": {
+      "name": "d130c2",
+      "class": "ナイトメア",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ボーンドローン",
+              "ratio": 54
+            }
+          ],
+          "drops": [
+            {
+              "y": "メカゴブリン",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            },
+            {
+              "y": "バロン・ダブルフィール",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            }
+          ]
+        }
+      ]
+    },
+    "bc5159": {
+      "name": "bc5159",
+      "class": "ナイトメア",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "タルトマン",
+              "ratio": 54
+            }
+          ],
+          "drops": [
+            {
+              "y": "死期を視るもの・グレモリー",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "大ツルハシの骸",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "《恋人》・ミルティオ",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "パンクデビル・デモニア",
+              "ratio": 46
+            }
+          ],
+          "drops": [
+            {
+              "y": "ヴェノムバイト",
+              "y_ratio": 54,
+              "co_occur_pct": 8,
+              "diff_pct": -69
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

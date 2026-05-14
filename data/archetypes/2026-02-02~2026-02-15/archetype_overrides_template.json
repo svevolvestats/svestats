@@ -1,0 +1,252 @@
+{
+  "_split_suggestions": {
+    "f06bf1": {
+      "name": "f06bf1",
+      "class": "プリンセスコネクト！Re:Dive",
+      "n": 80,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "キョウカ",
+              "ratio": 35
+            }
+          ],
+          "drops": [
+            {
+              "y": "シェフィ",
+              "y_ratio": 70,
+              "co_occur_pct": 10,
+              "diff_pct": -64
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "プリンセスストライク",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "サレン",
+              "y_ratio": 45,
+              "co_occur_pct": 0,
+              "diff_pct": -56
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ユキ",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "ペコリーヌ",
+              "y_ratio": 66,
+              "co_occur_pct": 5,
+              "diff_pct": -54
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ムイミ",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "マホ",
+              "y_ratio": 48,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    },
+    "6c9095": {
+      "name": "6c9095",
+      "class": "エルフ",
+      "n": 50,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "迸る光明・アポロン",
+              "ratio": 40
+            }
+          ],
+          "drops": [
+            {
+              "y": "凍土の女王・ピアシィ",
+              "y_ratio": 58,
+              "co_occur_pct": 10,
+              "diff_pct": -55
+            }
+          ]
+        }
+      ]
+    },
+    "2533b4": {
+      "name": "2533b4",
+      "class": "ナイトメア",
+      "n": 50,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ヴォイドリアライズ",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "カオスルーラー・アイシィレンドリング",
+              "y_ratio": 90,
+              "co_occur_pct": 4,
+              "diff_pct": -71
+            }
+          ]
+        }
+      ]
+    },
+    "ad5f06": {
+      "name": "ad5f06",
+      "class": "プリンセスコネクト！Re:Dive",
+      "n": 20,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "イノリ",
+              "ratio": 75
+            },
+            {
+              "name": "カヤ",
+              "ratio": 75
+            }
+          ],
+          "drops": [
+            {
+              "y": "クリア",
+              "y_ratio": 15,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "コッコロ",
+              "ratio": 25
+            }
+          ],
+          "drops": [
+            {
+              "y": "ペコリーヌ",
+              "y_ratio": 80,
+              "co_occur_pct": 10,
+              "diff_pct": -53
+            }
+          ]
+        }
+      ]
+    },
+    "3a0811": {
+      "name": "3a0811",
+      "class": "ドラゴン",
+      "n": 19,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "いつか、また会う未来で",
+              "ratio": 26
+            }
+          ],
+          "drops": [
+            {
+              "y": "大地のドラゴニュート",
+              "y_ratio": 37,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "e43823": {
+      "name": "e43823",
+      "class": "エルフ",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "オケアノス",
+              "ratio": 55
+            },
+            {
+              "name": "帥忍部長・煤木万裁",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "ベルエンジェル・リア",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "フォーリンショット",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

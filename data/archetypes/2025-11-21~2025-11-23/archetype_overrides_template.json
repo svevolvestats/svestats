@@ -1,0 +1,109 @@
+{
+  "_split_suggestions": {
+    "af13f6": {
+      "name": "af13f6",
+      "class": "エルフ",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "九尾の決意",
+              "ratio": 72
+            },
+            {
+              "name": "宿命の狐火・セッカ",
+              "ratio": 72
+            }
+          ],
+          "drops": [
+            {
+              "y": "樹権の剪定者",
+              "y_ratio": 17,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "82a146": {
+      "name": "82a146",
+      "class": "ナイトメア",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "デッドペナルティ",
+              "ratio": 72
+            }
+          ],
+          "drops": [
+            {
+              "y": "デュアルエンジェル",
+              "y_ratio": 22,
+              "co_occur_pct": 6,
+              "diff_pct": -52
+            }
+          ]
+        }
+      ]
+    },
+    "6b986e": {
+      "name": "6b986e",
+      "class": "ナイトメア",
+      "n": 15,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "宵の吸血鬼・ヴァーニア",
+              "ratio": 67
+            }
+          ],
+          "drops": [
+            {
+              "y": "銀矢の狩人",
+              "y_ratio": 20,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

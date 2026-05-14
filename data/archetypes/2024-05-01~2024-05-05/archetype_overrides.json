@@ -1,0 +1,67 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "4892d3",
+      "rules": [
+        {
+          "required": ["ブリキの兵隊"],
+          "name": "童話ビショップ"
+        },
+        {
+          "required": [],
+          "name": "機械守護ビショップ"
+        }
+      ]
+    },
+    {
+      "source": "e60fd9",
+      "rules": [
+        {
+          "required": ["真紅のローズクイーン"],
+          "name": "2コスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "真紅ナイトメア"
+        }
+      ]
+    },
+    {
+      "source": "9e66d5",
+      "rules": [
+        {
+          "required": ["レーヴァテインドラゴン"],
+          "name": "武装ドラゴン"
+        },
+        {
+          "required": [],
+          "name": "ランプドラゴン"
+        }
+      ]
+    },
+    {
+      "source": "03dcbc",
+      "rules": [
+        {
+          "required": ["ヴァリアントフェンサー"],
+          "name": "ヒーローロイヤル"
+        },
+        {
+          "required": ["簒奪の絶傑・オクトリス"],
+          "name": "簒奪ロイヤル"
+        },
+        {
+          "required": [],
+          "name": "ミッドレンジロイヤル"
+        }
+      ]
+    }
+  ]
+}

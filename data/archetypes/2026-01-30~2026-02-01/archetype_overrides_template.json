@@ -1,0 +1,168 @@
+{
+  "_split_suggestions": {
+    "892013": {
+      "name": "892013",
+      "class": "ナイトメア",
+      "n": 46,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ヴォイドリアライズ",
+              "ratio": 13
+            },
+            {
+              "name": "魂の一刀",
+              "ratio": 22
+            },
+            {
+              "name": "一刀の幽鬼・カゲロウ",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "デッドペナルティ",
+              "y_ratio": 87,
+              "co_occur_pct": 2,
+              "diff_pct": -81
+            },
+            {
+              "y": "ソウルガイド・エイミー",
+              "y_ratio": 87,
+              "co_occur_pct": 2,
+              "diff_pct": -81
+            }
+          ]
+        }
+      ]
+    },
+    "f7a1c4": {
+      "name": "f7a1c4",
+      "class": "エルフ",
+      "n": 33,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ピュアクリスタリア・リリィ",
+              "ratio": 85
+            }
+          ],
+          "drops": [
+            {
+              "y": "宿命の狐火・セッカ",
+              "y_ratio": 12,
+              "co_occur_pct": 3,
+              "diff_pct": -56
+            },
+            {
+              "y": "九尾の決意",
+              "y_ratio": 12,
+              "co_occur_pct": 3,
+              "diff_pct": -56
+            }
+          ]
+        }
+      ]
+    },
+    "01adc8": {
+      "name": "01adc8",
+      "class": "ドラゴン",
+      "n": 16,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "干絶の飢餓・ギルネリーゼ",
+              "ratio": 69
+            },
+            {
+              "name": "雲海の騎竜兵",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "竜の託宣",
+              "y_ratio": 25,
+              "co_occur_pct": 6,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "5d988f": {
+      "name": "5d988f",
+      "class": "プリンセスコネクト！Re:Dive",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "スズメ",
+              "ratio": 62
+            }
+          ],
+          "drops": [
+            {
+              "y": "コッコロ",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "アメス",
+              "ratio": 54
+            }
+          ],
+          "drops": [
+            {
+              "y": "グレイス",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

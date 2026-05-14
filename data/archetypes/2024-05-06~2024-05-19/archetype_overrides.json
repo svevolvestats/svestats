@@ -1,0 +1,123 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": ["b13c07", "44004a"],
+      "name": "簒奪ロイヤル"
+    },
+    {
+      "sources": ["b6dff4", "fb9dfb"],
+      "name": "アグロロイヤル"
+    },
+    {
+      "sources": ["962171", "de1e4f"],
+      "name": "超越ウィッチ"
+    }
+  ],
+  "splits": [
+    {
+      "source": "8c3a9b",
+      "rules": [
+        {
+          "required": ["神の盾・ブローディア"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    },
+    {
+      "source": "05cf6e",
+      "rules": [
+        {
+          "required": ["チェックメイト"],
+          "name": "チェスウィッチ"
+        },
+        {
+          "required": [],
+          "name": "その他超越ウィッチ"
+        }
+      ]
+    },
+    {
+      "source": "192562",
+      "rules": [
+        {
+          "required": ["オニオン軍団"],
+          "name": "オニオンウィッチ"
+        },
+        {
+          "required": [],
+          "name": "天使ウィッチ"
+        }
+      ]
+    },
+    {
+      "source": "9eb404",
+      "rules": [
+        {
+          "required": ["リントヴルム"],
+          "name": "リントヴルムドラゴン"
+        },
+        {
+          "required": [],
+          "name": "ランプドラゴン"
+        }
+      ]
+    },
+    {
+      "source": "9a8fb6",
+      "rules": [
+        {
+          "required": ["旋風のプテラノドン"],
+          "name": "自然ドラゴン"
+        },
+        {
+          "required": [],
+          "name": "ディスカードドラゴン"
+        }
+      ]
+    },
+    {
+      "source": "65427c",
+      "rules": [
+        {
+          "required": ["ユグドラシル"],
+          "name": "スペルエルフ"
+        },
+        {
+          "required": [],
+          "name": "エルフ*"
+        }
+      ]
+     },
+     {
+      "source": "b3dc5e",
+      "rules": [
+        {
+          "required": ["ネフティス"],
+          "name": "ネフティスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+     },
+     {
+      "source": "b927cc",
+      "rules": [
+        {
+          "required": ["マッハナイト"],
+          "name": "ヒーローロイヤル"
+        },
+        {
+          "required": [],
+          "name": "ロイヤル*"
+        }
+      ]
+     }
+  ]
+}

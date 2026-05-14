@@ -1,0 +1,105 @@
+{
+  "_split_suggestions": {
+    "57714f": {
+      "name": "57714f",
+      "class": "エルフ",
+      "n": 32,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "女神は朝焼けの海に",
+              "ratio": 16
+            }
+          ],
+          "drops": [
+            {
+              "y": "コッコロ",
+              "y_ratio": 81,
+              "co_occur_pct": 3,
+              "diff_pct": -73
+            }
+          ]
+        }
+      ]
+    },
+    "81c1b8": {
+      "name": "81c1b8",
+      "class": "プリンセスコネクト！Re:Dive",
+      "n": 22,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ペコリーヌ",
+              "ratio": 23
+            }
+          ],
+          "drops": [
+            {
+              "y": "マホ",
+              "y_ratio": 68,
+              "co_occur_pct": 5,
+              "diff_pct": -62
+            }
+          ]
+        }
+      ]
+    },
+    "89a79c": {
+      "name": "89a79c",
+      "class": "ドラゴン",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "迸る光明・アポロン",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "竜の託宣",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "_split_suggestions": {
+    "885f69": {
+      "name": "885f69",
+      "class": "ウィッチ",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "真理の発見",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "未来視の魔女",
+              "y_ratio": 36,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            },
+            {
+              "y": "グランドブレイク",
+              "y_ratio": 55,
+              "co_occur_pct": 9,
+              "diff_pct": -63
+            },
+            {
+              "y": "インフィニットウィッチ・ドロシー",
+              "y_ratio": 55,
+              "co_occur_pct": 9,
+              "diff_pct": -63
+            },
+            {
+              "y": "蒙昧なる術式",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "インフィニットウィッチ・ドロシー",
+              "ratio": 55
+            },
+            {
+              "name": "グランドブレイク",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "陰陽の開祖・クオン",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "知恵の光",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "天使の恩寵",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "光の道筋",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "_split_suggestions": {
+    "4fa564": {
+      "name": "4fa564",
+      "class": "ドラゴン",
+      "n": 36,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "サンダーロア",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "艶麗なる竜人・マリオン",
+              "y_ratio": 72,
+              "co_occur_pct": 0,
+              "diff_pct": -84
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "迸る光明・アポロン",
+              "ratio": 31
+            }
+          ],
+          "drops": [
+            {
+              "y": "艶麗なる竜人・マリオン",
+              "y_ratio": 72,
+              "co_occur_pct": 11,
+              "diff_pct": -52
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ドラゴンイクシード・ギルヴァ",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "雲海の騎竜兵",
+              "y_ratio": 64,
+              "co_occur_pct": 3,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "750323": {
+      "name": "750323",
+      "class": "ビショップ",
+      "n": 30,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "潜みしマイニュ",
+              "ratio": 33
+            },
+            {
+              "name": "自由なる冒険者",
+              "ratio": 37
+            }
+          ],
+          "drops": [
+            {
+              "y": "〔月下の悪魔ちゃん♪〕メジロパーマー",
+              "y_ratio": 77,
+              "co_occur_pct": 10,
+              "diff_pct": -70
+            },
+            {
+              "y": "闇穿つ煌き・サリッサ",
+              "y_ratio": 47,
+              "co_occur_pct": 0,
+              "diff_pct": -70
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "メジロラモーヌ",
+              "ratio": 30
+            }
+          ],
+          "drops": [
+            {
+              "y": "自由なる冒険者",
+              "y_ratio": 37,
+              "co_occur_pct": 0,
+              "diff_pct": -52
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

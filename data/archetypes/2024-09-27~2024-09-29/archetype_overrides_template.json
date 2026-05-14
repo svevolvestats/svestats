@@ -1,0 +1,201 @@
+{
+  "_split_suggestions": {
+    "ea093f": {
+      "name": "ea093f",
+      "class": "ロイヤル",
+      "n": 29,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "レイジーナイト・ネラン",
+              "ratio": 24
+            },
+            {
+              "name": "不思議な青空・アリス",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "久川凪",
+              "y_ratio": 59,
+              "co_occur_pct": 0,
+              "diff_pct": -77
+            },
+            {
+              "y": "ワイルドリザード",
+              "y_ratio": 72,
+              "co_occur_pct": 7,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "静寂の元帥",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "レヴィールの無法者",
+              "y_ratio": 79,
+              "co_occur_pct": 7,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "レヴィールの無法者",
+              "ratio": 79
+            }
+          ],
+          "drops": [
+            {
+              "y": "《戦車》・オルオーン",
+              "y_ratio": 10,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "689e8a": {
+      "name": "689e8a",
+      "class": "ウィッチ",
+      "n": 20,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ピアッシングエンジェル",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "大地の活用",
+              "y_ratio": 50,
+              "co_occur_pct": 5,
+              "diff_pct": -80
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "大地の活用",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "ピアッシングエンジェル",
+              "y_ratio": 50,
+              "co_occur_pct": 5,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    },
+    "99e79c": {
+      "name": "99e79c",
+      "class": "ナイトメア",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ストレイホロウ・イルガンノ",
+              "ratio": 50
+            },
+            {
+              "name": "異形",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "ベルエンジェル",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            },
+            {
+              "y": "糸蜘蛛の放射",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "死の祝福",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "仁義の悪魔・ユヅキ",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ブラックスワン・オディール",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "アザゼル",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

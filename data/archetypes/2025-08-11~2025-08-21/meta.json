@@ -1,0 +1,387 @@
+{
+  "period": {
+    "start": "2025-08-11",
+    "end": "2025-08-21"
+  },
+  "prev_period": "2025-07-28~2025-08-10",
+  "total_decks": 152,
+  "total_winners": 19,
+  "total_finalists": 38,
+  "event_title": null,
+  "archetypes": [
+    {
+      "id": "4fa564",
+      "name": "ドラゴン（灼熱のアナテマ・バーンドナイト・オーブキャンサー）",
+      "class": "ドラゴン",
+      "count": 36,
+      "winner": 5,
+      "finalist": 9,
+      "top8_share": 0.2368,
+      "win_share": 0.2632,
+      "deck_rank": -0.33,
+      "top_cards": [
+        "灼熱のアナテマ・バーンドナイト",
+        "オーブキャンサー",
+        "パンプキンドラゴン"
+      ],
+      "prev_id": "f1a947"
+    },
+    {
+      "id": "b799a2",
+      "name": "ナイトメア（瞑地の天宮・ムカン・人外魔境・クリストフ）",
+      "class": "ナイトメア",
+      "count": 30,
+      "winner": 8,
+      "finalist": 11,
+      "top8_share": 0.1974,
+      "win_share": 0.4211,
+      "deck_rank": 2.4,
+      "top_cards": [
+        "瞑地の天宮・ムカン",
+        "人外魔境・クリストフ",
+        "ゴールドラッシュゴースト"
+      ],
+      "prev_id": "6f7c3c"
+    },
+    {
+      "id": "750323",
+      "name": "ビショップ（絶望の聖女・ジャンヌ・ルナールの聖騎士）",
+      "class": "ビショップ",
+      "count": 30,
+      "winner": 4,
+      "finalist": 8,
+      "top8_share": 0.1974,
+      "win_share": 0.2105,
+      "deck_rank": 0.33,
+      "top_cards": [
+        "絶望の聖女・ジャンヌ",
+        "ルナールの聖騎士",
+        "希望導く聖乙女・ジャンヌ"
+      ],
+      "prev_id": "a5a2ce"
+    },
+    {
+      "id": "f52ca3",
+      "name": "ロイヤル（照明の案内人・天下の大泥棒・ジエモン）",
+      "class": "ロイヤル",
+      "count": 8,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0526,
+      "win_share": 0.0,
+      "deck_rank": -1.75,
+      "top_cards": [
+        "照明の案内人",
+        "天下の大泥棒・ジエモン",
+        "帳場ガエル"
+      ],
+      "prev_id": "d77a0d"
+    },
+    {
+      "id": "a43466",
+      "name": "エルフ（ブレスフェアリーダンサー・自然の妖精姫・アリア）",
+      "class": "エルフ",
+      "count": 7,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0461,
+      "win_share": 0.0,
+      "deck_rank": -1.43,
+      "top_cards": [
+        "ブレスフェアリーダンサー",
+        "自然の妖精姫・アリア",
+        "フェアリーブレイダー・アマツ"
+      ],
+      "prev_id": "5d34c7"
+    },
+    {
+      "id": "61a70b",
+      "name": "ロイヤル（簒奪の絶傑・オクトリス・極意たる空絶）",
+      "class": "ロイヤル",
+      "count": 6,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0395,
+      "win_share": 0.0,
+      "deck_rank": -2.33,
+      "top_cards": [
+        "簒奪の絶傑・オクトリス",
+        "極意たる空絶",
+        "アサルトバンデッド"
+      ],
+      "prev_id": "fa17e8"
+    },
+    {
+      "id": "50b71a",
+      "name": "ロイヤル（グランスエンジェル・天使の泉）",
+      "class": "ロイヤル",
+      "count": 5,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0329,
+      "win_share": 0.0,
+      "deck_rank": -1.8,
+      "top_cards": [
+        "グランスエンジェル",
+        "天使の泉",
+        "天界の尖兵"
+      ],
+      "prev_id": "ba6085"
+    },
+    {
+      "id": "c624fc",
+      "name": "ウマ娘 プリティーダービー（サクラバクシンオー・マヤノトップガン）",
+      "class": "ウマ娘 プリティーダービー",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0263,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "サクラバクシンオー",
+        "マヤノトップガン",
+        "世界にもっと☆マーベラス"
+      ],
+      "prev_id": "583453"
+    },
+    {
+      "id": "45c3a1",
+      "name": "エルフ（宿命の狐火・セッカ・爆砕の傭兵・フィーナ）",
+      "class": "エルフ",
+      "count": 4,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0263,
+      "win_share": 0.0,
+      "deck_rank": -0.75,
+      "top_cards": [
+        "宿命の狐火・セッカ",
+        "爆砕の傭兵・フィーナ",
+        "不思議な青空・アリス"
+      ],
+      "prev_id": "ad9444"
+    },
+    {
+      "id": "a7858d",
+      "name": "ロイヤル（王断の威光・勇猛のルミナスランサー）",
+      "class": "ロイヤル",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0197,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "王断の威光",
+        "勇猛のルミナスランサー",
+        "卓越のルミナスメイジ"
+      ],
+      "prev_id": "23a66d"
+    },
+    {
+      "id": "9f78fd",
+      "name": "ロイヤル（ラディカルガンスリンガー・タイラントオーダー）",
+      "class": "ロイヤル",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0197,
+      "win_share": 0.0,
+      "deck_rank": -1.33,
+      "top_cards": [
+        "ラディカルガンスリンガー",
+        "タイラントオーダー",
+        "アウトローガンナー"
+      ],
+      "prev_id": "c4832d"
+    },
+    {
+      "id": "5046e7",
+      "name": "エルフ（人形の少女・オーキス・絡繰り給仕）",
+      "class": "エルフ",
+      "count": 2,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0132,
+      "win_share": 0.0526,
+      "deck_rank": 6.5,
+      "top_cards": [
+        "人形の少女・オーキス",
+        "絡繰り給仕",
+        "化かし女将・ホズミ"
+      ],
+      "prev_id": "890aed"
+    },
+    {
+      "id": "0bfbf8",
+      "name": "カードファイト!! ヴァンガード（希望の火 エルモ・従者 レアス）",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0132,
+      "win_share": 0.0,
+      "deck_rank": -2.5,
+      "top_cards": [
+        "希望の火 エルモ",
+        "従者 レアス",
+        "約束の火 エルモ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "290870",
+      "name": "ナイトメア（沈黙の絶傑・ルルナイ・カオスルーラー・アイシィレンドリング）",
+      "class": "ナイトメア",
+      "count": 2,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0132,
+      "win_share": 0.0526,
+      "deck_rank": 3.0,
+      "top_cards": [
+        "沈黙の絶傑・ルルナイ",
+        "カオスルーラー・アイシィレンドリング",
+        "ポルターガイスト"
+      ],
+      "prev_id": "de77dc"
+    },
+    {
+      "id": "9c39d5",
+      "name": "ロイヤル（レヴィオンの魔術師・ミイム・レヴィオンの副団長・マイム）",
+      "class": "ロイヤル",
+      "count": 2,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0132,
+      "win_share": 0.0,
+      "deck_rank": 2.0,
+      "top_cards": [
+        "レヴィオンの魔術師・ミイム",
+        "レヴィオンの副団長・マイム",
+        "レヴィオンの武闘家・メイム"
+      ],
+      "prev_id": "85f97c"
+    },
+    {
+      "id": "2b89f4",
+      "name": "ロイヤル（思わぬ躓き・スパルタクス）",
+      "class": "ロイヤル",
+      "count": 2,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0132,
+      "win_share": 0.0,
+      "deck_rank": -0.5,
+      "top_cards": [
+        "思わぬ躓き",
+        "スパルタクス",
+        "ハルバードウルフ"
+      ],
+      "prev_id": "d7a484"
+    },
+    {
+      "id": "017f8c",
+      "name": "ウィッチ（魔道具専門店・真理の発見）",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "魔道具専門店",
+        "真理の発見",
+        "スキュア"
+      ],
+      "prev_id": "c6a9de"
+    },
+    {
+      "id": "c832e0",
+      "name": "ウィッチ（獣面の魔術師・真理の大文豪・ユキシマ）",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "獣面の魔術師",
+        "真理の大文豪・ユキシマ",
+        "ラビットメイジ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "45106b",
+      "name": "ウィッチ（アドラブルティーチャー・ミラ・魔術の始祖・マナリア）",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "アドラブルティーチャー・ミラ",
+        "魔術の始祖・マナリア",
+        "マナリアフレンズ・アン＆グレア"
+      ],
+      "prev_id": "31d514"
+    },
+    {
+      "id": "2c14a2",
+      "name": "ドラゴン（ワイルドリザード・竜才の寵児・ニルル）",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "ワイルドリザード",
+        "竜才の寵児・ニルル",
+        "烈覇のアルチザン・レジー"
+      ],
+      "prev_id": "fb798f"
+    },
+    {
+      "id": "e8a9b6",
+      "name": "ナイトメア（月下の跳躍・デモンズグリード・パラセリゼ）",
+      "class": "ナイトメア",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "月下の跳躍",
+        "デモンズグリード・パラセリゼ",
+        "因果の迷い子・アンサージュ"
+      ],
+      "prev_id": "6dc3e8"
+    },
+    {
+      "id": "7ee41d",
+      "name": "ナイトメア（宵の吸血鬼・ヴァーニア・眷属への贈り物）",
+      "class": "ナイトメア",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "宵の吸血鬼・ヴァーニア",
+        "眷属への贈り物",
+        "吸血姫・ヴァンピィ"
+      ],
+      "prev_id": "683cd5"
+    }
+  ]
+}

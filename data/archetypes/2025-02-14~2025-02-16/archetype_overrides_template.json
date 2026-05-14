@@ -1,0 +1,232 @@
+{
+  "_split_suggestions": {
+    "813bc8": {
+      "name": "813bc8",
+      "class": "ロイヤル",
+      "n": 41,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "簒奪の絶傑・オクトリス",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "スパルタクス",
+              "y_ratio": 83,
+              "co_occur_pct": 2,
+              "diff_pct": -72
+            },
+            {
+              "y": "月の刃・リオード",
+              "y_ratio": 59,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            }
+          ]
+        }
+      ]
+    },
+    "f6be1b": {
+      "name": "f6be1b",
+      "class": "ウマ娘 プリティーダービー",
+      "n": 22,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "あなたにささげる",
+              "ratio": 41
+            },
+            {
+              "name": "迫る熱に押されて",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "スマートファルコン",
+              "y_ratio": 59,
+              "co_occur_pct": 5,
+              "diff_pct": -81
+            },
+            {
+              "y": "Balliamo?",
+              "y_ratio": 59,
+              "co_occur_pct": 5,
+              "diff_pct": -81
+            },
+            {
+              "y": "祖にして導く者",
+              "y_ratio": 55,
+              "co_occur_pct": 5,
+              "diff_pct": -74
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "祖にして導く者",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "迫る熱に押されて",
+              "y_ratio": 55,
+              "co_occur_pct": 14,
+              "diff_pct": -65
+            }
+          ]
+        }
+      ]
+    },
+    "c04378": {
+      "name": "c04378",
+      "class": "ビショップ",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "エンジェルスナイプ",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "バトルシスター しょこら",
+              "y_ratio": 43,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            },
+            {
+              "y": "メイデン・オブ・ライブラ",
+              "y_ratio": 50,
+              "co_occur_pct": 7,
+              "diff_pct": -58
+            },
+            {
+              "y": "戦巫女 タギツヒメ",
+              "y_ratio": 29,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "バトルシスター しょこら",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "エンジェルスナイプ",
+              "y_ratio": 43,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "永久の盾・シオン",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "堕天",
+              "y_ratio": 50,
+              "co_occur_pct": 7,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ダークオファリング",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "戦巫女 タギツヒメ",
+              "y_ratio": 29,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            }
+          ]
+        }
+      ]
+    },
+    "6f6f53": {
+      "name": "6f6f53",
+      "class": "ナイトメア",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "棘の吸血鬼",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "デッドペナルティ",
+              "y_ratio": 55,
+              "co_occur_pct": 9,
+              "diff_pct": -63
+            },
+            {
+              "y": "カオスルーラー・アイシィレンドリング",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
