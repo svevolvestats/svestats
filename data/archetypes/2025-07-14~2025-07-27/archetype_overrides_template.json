@@ -86,43 +86,43 @@
     "f94048": {
       "name": "f94048",
       "class": "ビショップ",
-      "n": 16,
+      "n": 17,
       "pairs": [
         {
           "xs": [
             {
               "name": "自由なる冒険者",
-              "ratio": 31
+              "ratio": 29
             },
             {
               "name": "レヴィールの無法者",
-              "ratio": 50
+              "ratio": 47
             }
           ],
           "drops": [
             {
               "y": "三日月の女神 ツクヨミ",
-              "y_ratio": 56,
+              "y_ratio": 59,
               "co_occur_pct": 0,
-              "diff_pct": -82
+              "diff_pct": -83
             },
             {
               "y": "極炎のドラグーン・ローラ",
-              "y_ratio": 75,
+              "y_ratio": 76,
               "co_occur_pct": 6,
               "diff_pct": -80
             },
             {
               "y": "〔夜風に舞うは祈りの花〕メジロアルダン",
-              "y_ratio": 62,
+              "y_ratio": 65,
               "co_occur_pct": 6,
-              "diff_pct": -62
+              "diff_pct": -63
             },
             {
               "y": "メジロラモーヌ",
-              "y_ratio": 75,
+              "y_ratio": 76,
               "co_occur_pct": 12,
-              "diff_pct": -51
+              "diff_pct": -52
             }
           ]
         },
@@ -130,21 +130,21 @@
           "xs": [
             {
               "name": "剛健の翼人",
-              "ratio": 44
+              "ratio": 41
             }
           ],
           "drops": [
             {
-              "y": "レヴィールの無法者",
-              "y_ratio": 50,
+              "y": "ダーティプリースト",
+              "y_ratio": 53,
               "co_occur_pct": 6,
-              "diff_pct": -63
+              "diff_pct": -66
             },
             {
-              "y": "ダーティプリースト",
-              "y_ratio": 50,
+              "y": "レヴィールの無法者",
+              "y_ratio": 47,
               "co_occur_pct": 6,
-              "diff_pct": -63
+              "diff_pct": -56
             }
           ]
         },
@@ -152,13 +152,13 @@
           "xs": [
             {
               "name": "三日月の女神 ツクヨミ",
-              "ratio": 56
+              "ratio": 59
             }
           ],
           "drops": [
             {
               "y": "森の参謀・ムニャール",
-              "y_ratio": 25,
+              "y_ratio": 24,
               "co_occur_pct": 0,
               "diff_pct": -57
             }
@@ -168,13 +168,13 @@
           "xs": [
             {
               "name": "〔夜風に舞うは祈りの花〕メジロアルダン",
-              "ratio": 62
+              "ratio": 65
             }
           ],
           "drops": [
             {
               "y": "ムニャール登場",
-              "y_ratio": 19,
+              "y_ratio": 18,
               "co_occur_pct": 0,
               "diff_pct": -50
             }

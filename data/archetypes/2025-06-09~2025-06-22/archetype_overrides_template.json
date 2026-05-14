@@ -277,6 +277,73 @@
         }
       ]
     },
+    "5d8f28": {
+      "name": "5d8f28",
+      "class": "ビショップ",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "森の参謀・ムニャール",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "闇穿つ煌き・サリッサ",
+              "y_ratio": 67,
+              "co_occur_pct": 0,
+              "diff_pct": -92
+            },
+            {
+              "y": "リボルバーイーグル",
+              "y_ratio": 78,
+              "co_occur_pct": 6,
+              "diff_pct": -80
+            },
+            {
+              "y": "ヘイブンファイア",
+              "y_ratio": 83,
+              "co_occur_pct": 11,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "剛健の翼人",
+              "ratio": 56
+            },
+            {
+              "name": "闇穿つ煌き・サリッサ",
+              "ratio": 67
+            }
+          ],
+          "drops": [
+            {
+              "y": "絶大の唯我・マゼルベイン",
+              "y_ratio": 22,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "唯我の絶傑・マゼルベイン",
+              "y_ratio": 22,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "ダーティプリースト",
+              "y_ratio": 22,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
     "524845": {
       "name": "524845",
       "class": "ナイトメア",
@@ -295,73 +362,6 @@
               "y_ratio": 19,
               "co_occur_pct": 0,
               "diff_pct": -60
-            }
-          ]
-        }
-      ]
-    },
-    "5d8f28": {
-      "name": "5d8f28",
-      "class": "ビショップ",
-      "n": 16,
-      "pairs": [
-        {
-          "xs": [
-            {
-              "name": "森の参謀・ムニャール",
-              "ratio": 31
-            }
-          ],
-          "drops": [
-            {
-              "y": "闇穿つ煌き・サリッサ",
-              "y_ratio": 62,
-              "co_occur_pct": 0,
-              "diff_pct": -91
-            },
-            {
-              "y": "リボルバーイーグル",
-              "y_ratio": 75,
-              "co_occur_pct": 6,
-              "diff_pct": -80
-            },
-            {
-              "y": "剛健の翼人",
-              "y_ratio": 62,
-              "co_occur_pct": 6,
-              "diff_pct": -62
-            },
-            {
-              "y": "ヘイブンファイア",
-              "y_ratio": 81,
-              "co_occur_pct": 12,
-              "diff_pct": -60
-            }
-          ]
-        },
-        {
-          "xs": [
-            {
-              "name": "剛健の翼人",
-              "ratio": 62
-            },
-            {
-              "name": "闇穿つ煌き・サリッサ",
-              "ratio": 62
-            }
-          ],
-          "drops": [
-            {
-              "y": "絶大の唯我・マゼルベイン",
-              "y_ratio": 25,
-              "co_occur_pct": 0,
-              "diff_pct": -67
-            },
-            {
-              "y": "唯我の絶傑・マゼルベイン",
-              "y_ratio": 25,
-              "co_occur_pct": 0,
-              "diff_pct": -67
             }
           ]
         }

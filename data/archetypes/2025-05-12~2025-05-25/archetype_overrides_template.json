@@ -461,31 +461,37 @@
     "f6b350": {
       "name": "f6b350",
       "class": "ビショップ",
-      "n": 20,
+      "n": 22,
       "pairs": [
         {
           "xs": [
             {
               "name": "唯我の絶傑・マゼルベイン",
-              "ratio": 25
+              "ratio": 23
             },
             {
               "name": "絶大の唯我・マゼルベイン",
-              "ratio": 25
+              "ratio": 23
             }
           ],
           "drops": [
             {
               "y": "剛健の翼人",
-              "y_ratio": 70,
+              "y_ratio": 64,
               "co_occur_pct": 5,
-              "diff_pct": -67
+              "diff_pct": -56
             },
             {
               "y": "ヘイブンファイア",
-              "y_ratio": 80,
-              "co_occur_pct": 10,
-              "diff_pct": -53
+              "y_ratio": 82,
+              "co_occur_pct": 9,
+              "diff_pct": -54
+            },
+            {
+              "y": "リボルバーイーグル",
+              "y_ratio": 59,
+              "co_occur_pct": 5,
+              "diff_pct": -51
             }
           ]
         },
@@ -493,13 +499,13 @@
           "xs": [
             {
               "name": "極炎のドラグーン・ローラ",
-              "ratio": 75
+              "ratio": 77
             }
           ],
           "drops": [
             {
               "y": "アラエル",
-              "y_ratio": 20,
+              "y_ratio": 18,
               "co_occur_pct": 0,
               "diff_pct": -80
             }
@@ -509,15 +515,15 @@
           "xs": [
             {
               "name": "森の参謀・ムニャール",
-              "ratio": 25
+              "ratio": 23
             }
           ],
           "drops": [
             {
               "y": "闇穿つ煌き・サリッサ",
-              "y_ratio": 55,
+              "y_ratio": 59,
               "co_occur_pct": 0,
-              "diff_pct": -73
+              "diff_pct": -76
             }
           ]
         }

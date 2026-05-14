@@ -4,9 +4,9 @@
     "end": "2025-07-27"
   },
   "prev_period": "2025-07-11~2025-07-13",
-  "total_decks": 345,
+  "total_decks": 346,
   "total_winners": 45,
-  "total_finalists": 89,
+  "total_finalists": 90,
   "event_title": null,
   "archetypes": [
     {
@@ -16,7 +16,7 @@
       "count": 112,
       "winner": 19,
       "finalist": 32,
-      "top8_share": 0.3246,
+      "top8_share": 0.3237,
       "win_share": 0.4222,
       "deck_rank": 0.46,
       "top_cards": [
@@ -33,7 +33,7 @@
       "count": 43,
       "winner": 3,
       "finalist": 6,
-      "top8_share": 0.1246,
+      "top8_share": 0.1243,
       "win_share": 0.0667,
       "deck_rank": -1.63,
       "top_cards": [
@@ -44,13 +44,30 @@
       "prev_id": "c9f913"
     },
     {
+      "id": "b1772d",
+      "name": "エルフ（自然の妖精姫・アリア・フェアリーブレイダー・アマツ）",
+      "class": "エルフ",
+      "count": 26,
+      "winner": 4,
+      "finalist": 9,
+      "top8_share": 0.0751,
+      "win_share": 0.0889,
+      "deck_rank": 2.08,
+      "top_cards": [
+        "自然の妖精姫・アリア",
+        "フェアリーブレイダー・アマツ",
+        "ブレスフェアリーダンサー"
+      ],
+      "prev_id": "89906b"
+    },
+    {
       "id": "bb364b",
       "name": "ロイヤル（ラディカルガンスリンガー・アウトローガンナー）",
       "class": "ロイヤル",
       "count": 26,
       "winner": 4,
       "finalist": 8,
-      "top8_share": 0.0754,
+      "top8_share": 0.0751,
       "win_share": 0.0889,
       "deck_rank": 0.62,
       "top_cards": [
@@ -61,32 +78,15 @@
       "prev_id": "5c7423"
     },
     {
-      "id": "b1772d",
-      "name": "エルフ（自然の妖精姫・アリア・フェアリーブレイダー・アマツ）",
-      "class": "エルフ",
-      "count": 25,
-      "winner": 4,
-      "finalist": 8,
-      "top8_share": 0.0725,
-      "win_share": 0.0889,
-      "deck_rank": 2.0,
-      "top_cards": [
-        "自然の妖精姫・アリア",
-        "フェアリーブレイダー・アマツ",
-        "ブレスフェアリーダンサー"
-      ],
-      "prev_id": "89906b"
-    },
-    {
       "id": "f94048",
       "name": "ビショップ（〔月下の悪魔ちゃん♪〕メジロパーマー・メルティングシュガー・セリーナ）",
       "class": "ビショップ",
-      "count": 16,
+      "count": 17,
       "winner": 2,
       "finalist": 5,
-      "top8_share": 0.0464,
+      "top8_share": 0.0491,
       "win_share": 0.0444,
-      "deck_rank": 0.56,
+      "deck_rank": 0.35,
       "top_cards": [
         "〔月下の悪魔ちゃん♪〕メジロパーマー",
         "メルティングシュガー・セリーナ",
@@ -101,7 +101,7 @@
       "count": 16,
       "winner": 3,
       "finalist": 6,
-      "top8_share": 0.0464,
+      "top8_share": 0.0462,
       "win_share": 0.0667,
       "deck_rank": 0.38,
       "top_cards": [
@@ -118,7 +118,7 @@
       "count": 13,
       "winner": 1,
       "finalist": 2,
-      "top8_share": 0.0377,
+      "top8_share": 0.0376,
       "win_share": 0.0222,
       "deck_rank": 0.0,
       "top_cards": [
@@ -135,7 +135,7 @@
       "count": 12,
       "winner": 4,
       "finalist": 4,
-      "top8_share": 0.0348,
+      "top8_share": 0.0347,
       "win_share": 0.0889,
       "deck_rank": 2.5,
       "top_cards": [
@@ -152,7 +152,7 @@
       "count": 11,
       "winner": 0,
       "finalist": 3,
-      "top8_share": 0.0319,
+      "top8_share": 0.0318,
       "win_share": 0.0,
       "deck_rank": -1.27,
       "top_cards": [
@@ -169,7 +169,7 @@
       "count": 11,
       "winner": 1,
       "finalist": 2,
-      "top8_share": 0.0319,
+      "top8_share": 0.0318,
       "win_share": 0.0222,
       "deck_rank": -1.18,
       "top_cards": [
@@ -186,7 +186,7 @@
       "count": 10,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.029,
+      "top8_share": 0.0289,
       "win_share": 0.0,
       "deck_rank": -3.0,
       "top_cards": [
@@ -203,7 +203,7 @@
       "count": 9,
       "winner": 1,
       "finalist": 2,
-      "top8_share": 0.0261,
+      "top8_share": 0.026,
       "win_share": 0.0222,
       "deck_rank": 0.44,
       "top_cards": [
@@ -350,40 +350,6 @@
       "prev_id": null
     },
     {
-      "id": "b07123",
-      "name": "（リボルバーイーグル・三日月の女神 ツクヨミ）",
-      "class": "",
-      "count": 1,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0029,
-      "win_share": 0.0,
-      "deck_rank": -3.0,
-      "top_cards": [
-        "リボルバーイーグル",
-        "三日月の女神 ツクヨミ",
-        "絶望の聖女・ジャンヌ"
-      ],
-      "prev_id": null
-    },
-    {
-      "id": "3d3844",
-      "name": "（重なり合う決意・凍土の女王・ピアシィ）",
-      "class": "",
-      "count": 1,
-      "winner": 0,
-      "finalist": 1,
-      "top8_share": 0.0029,
-      "win_share": 0.0,
-      "deck_rank": 4.0,
-      "top_cards": [
-        "重なり合う決意",
-        "凍土の女王・ピアシィ",
-        "フォレストフェアリー"
-      ],
-      "prev_id": null
-    },
-    {
       "id": "95640d",
       "name": "ウィッチ（川島瑞樹・シュヴァルグラン）",
       "class": "ウィッチ",
@@ -416,6 +382,23 @@
         "永劫を求む者・ケリドウェン"
       ],
       "prev_id": null
+    },
+    {
+      "id": "9a7407",
+      "name": "ウマ娘 プリティーダービー（サクラバクシンオー・マヤノトップガン）",
+      "class": "ウマ娘 プリティーダービー",
+      "count": 1,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0029,
+      "win_share": 0.0,
+      "deck_rank": 4.0,
+      "top_cards": [
+        "サクラバクシンオー",
+        "マヤノトップガン",
+        "世界にもっと☆マーベラス"
+      ],
+      "prev_id": "958dae"
     },
     {
       "id": "0dfa9b",

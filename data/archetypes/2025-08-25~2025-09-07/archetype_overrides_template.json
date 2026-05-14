@@ -77,27 +77,21 @@
     "989f94": {
       "name": "989f94",
       "class": "ビショップ",
-      "n": 38,
+      "n": 40,
       "pairs": [
         {
           "xs": [
             {
-              "name": "メジロラモーヌ",
-              "ratio": 13
+              "name": "レヴィールの無法者",
+              "ratio": 88
             }
           ],
           "drops": [
             {
-              "y": "ダーティプリースト",
-              "y_ratio": 71,
-              "co_occur_pct": 3,
-              "diff_pct": -59
-            },
-            {
-              "y": "レヴィールの無法者",
-              "y_ratio": 87,
-              "co_occur_pct": 5,
-              "diff_pct": -54
+              "y": "メジロラモーヌ",
+              "y_ratio": 15,
+              "co_occur_pct": 8,
+              "diff_pct": -51
             }
           ]
         }
