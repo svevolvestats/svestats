@@ -16,7 +16,7 @@ export async function onRequest(context) {
     const second = player.second ?? 0
     const top8 = player.top8 ?? 0
     const title = `${name} — エボルヴ統計局`
-    const desc = `優勝${wins}回 · 準優勝${second}回 · TOP8${top8}回`
+    const desc = `優勝：${wins}回 · 準優勝：${second}回 · TOP8：${top8}回`
     const pageUrl = `${origin}/player/${friendcode}`
 
     return serveWithOG(context, { title, description: desc, imageUrl: null, pageUrl })
