@@ -2,7 +2,7 @@
   "690ca5": {
     "name": "簒奪ロイヤル",
     "class": "ロイヤル",
-    "prev_id": null,
+    "prev_id": "2a6d39",
     "cards": {
       "アヴァリティア": {
         "avg": 3.0,
@@ -128,6 +128,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "超越",
+        "friend_code": "YAFZU",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -138,6 +139,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "がるど",
+        "friend_code": "XSFNP",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -148,6 +150,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "AEG",
+        "friend_code": "LZUIH",
         "venue": "",
         "date": "2026-05-09",
         "variant_cards": [
@@ -168,6 +171,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "kiyo",
+        "friend_code": "BUCNA",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -178,6 +182,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ユキ",
+        "friend_code": "MIBSB",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -188,6 +193,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "Ar",
+        "friend_code": "HIBDL",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -198,6 +204,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ひじり",
+        "friend_code": "XGNHR",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -208,6 +215,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "はや太郎",
+        "friend_code": "DAAWC",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -218,6 +226,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "しきぶとん",
+        "friend_code": "RLMGW",
         "venue": "",
         "date": "2026-05-09",
         "variant_cards": [
@@ -246,15 +255,56 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "パザリア伊達",
+        "friend_code": "HSGPJ",
         "venue": "",
         "date": "2026-05-09"
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "カースドクイーン・ナハト・ナハト",
+            "ratio": 50
+          }
+        ],
+        "drops": [
+          {
+            "y": "艶やかなる太夫・ギンネ",
+            "y_ratio": 30,
+            "co_occur_pct": 0,
+            "diff_pct": -60
+          },
+          {
+            "y": "簒奪の従者",
+            "y_ratio": 30,
+            "co_occur_pct": 0,
+            "diff_pct": -60
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "鮮やかな奪取",
+            "ratio": 50
+          }
+        ],
+        "drops": [
+          {
+            "y": "盗賊の乱飛",
+            "y_ratio": 30,
+            "co_occur_pct": 0,
+            "diff_pct": -60
+          }
+        ]
       }
     ]
   },
   "aa83cf": {
     "name": "コンボエルフ",
     "class": "エルフ",
-    "prev_id": null,
+    "prev_id": "a79984",
     "cards": {
       "深緑の弓使い・アリサ": {
         "avg": 3.0,
@@ -297,17 +347,17 @@
         "rank": 0.575
       },
       "自然の導き": {
-        "avg": 2.88,
+        "avg": 2.875,
         "ratio": 1.0,
         "rank": 0.639
       },
       "ロイヤルクリスタリア・ティア": {
-        "avg": 2.62,
+        "avg": 2.625,
         "ratio": 0.875,
         "rank": 0.78
       },
       "フロストクリスタリア・エリン": {
-        "avg": 2.12,
+        "avg": 2.125,
         "ratio": 0.875,
         "rank": 0.708
       },
@@ -317,7 +367,7 @@
         "rank": 0.575
       },
       "剪定の咎人・マガチヨ": {
-        "avg": 1.88,
+        "avg": 1.875,
         "ratio": 0.875,
         "rank": 0.662
       },
@@ -337,17 +387,17 @@
         "rank": 0.497
       },
       "宿命の狐火・セッカ": {
-        "avg": 0.38,
+        "avg": 0.375,
         "ratio": 0.125,
         "rank": 0.0
       },
       "アネモネタイガー": {
-        "avg": 0.38,
+        "avg": 0.375,
         "ratio": 0.125,
         "rank": 0.0
       },
       "サルビアパンサー": {
-        "avg": 0.38,
+        "avg": 0.375,
         "ratio": 0.125,
         "rank": 0.0
       },
@@ -362,12 +412,12 @@
         "rank": 0.149
       },
       "むつらの刻印": {
-        "avg": 0.12,
+        "avg": 0.125,
         "ratio": 0.125,
         "rank": 0.548
       },
       "九尾の決意": {
-        "avg": 0.12,
+        "avg": 0.125,
         "ratio": 0.125,
         "rank": 0.335
       }
@@ -380,6 +430,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "TORU",
+        "friend_code": "UILBH",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -390,6 +441,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "りうむ",
+        "friend_code": "GTAZI",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -400,6 +452,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ナツメ",
+        "friend_code": "GLKTN",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -410,8 +463,15 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "優姫",
+        "friend_code": "UVWYO",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "むつらの刻印",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -420,6 +480,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "SmanBow",
+        "friend_code": "MMVYP",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -430,6 +491,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "おとーふ",
+        "friend_code": "OGNWC",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -440,6 +502,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "すいれ",
+        "friend_code": "HQRHY",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -450,15 +513,34 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ぺそじ",
+        "friend_code": "UZMPB",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "宿命の狐火・セッカ",
+            "flag": "in"
+          },
+          {
+            "name": "チェシャキャット",
+            "flag": "in"
+          },
+          {
+            "name": "剪定の咎人・マガチヨ",
+            "flag": "out"
+          },
+          {
+            "name": "ロイヤルクリスタリア・ティア",
+            "flag": "out"
+          }
+        ]
       }
     ]
   },
   "48b0c3": {
     "name": "スペルプリコネ",
     "class": "プリンセスコネクト！Re:Dive",
-    "prev_id": null,
+    "prev_id": "47e31c",
     "cards": {
       "オーロラヒーリング": {
         "avg": 3.0,
@@ -521,7 +603,7 @@
         "rank": 0.577
       },
       "羅刹涅槃・無式": {
-        "avg": 1.88,
+        "avg": 1.875,
         "ratio": 1.0,
         "rank": 0.809
       },
@@ -531,7 +613,7 @@
         "rank": 0.612
       },
       "マホ": {
-        "avg": 0.88,
+        "avg": 0.875,
         "ratio": 0.5,
         "rank": 0.0
       },
@@ -551,12 +633,12 @@
         "rank": 0.49
       },
       "ヴァイオレット": {
-        "avg": 0.12,
+        "avg": 0.125,
         "ratio": 0.125,
         "rank": 0.49
       },
       "ナナカ": {
-        "avg": 0.12,
+        "avg": 0.125,
         "ratio": 0.125,
         "rank": 0.218
       }
@@ -569,6 +651,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ナマコ",
+        "friend_code": "QVOVE",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -579,6 +662,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "真兎",
+        "friend_code": "RFUVP",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -589,8 +673,23 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "サカイ",
+        "friend_code": "QWSNS",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "ペコリーヌ",
+            "flag": "in"
+          },
+          {
+            "name": "ヴァイオレット",
+            "flag": "in"
+          },
+          {
+            "name": "キョウカ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -599,6 +698,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "レモルン",
+        "friend_code": "GLVZG",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -609,6 +709,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "うめ",
+        "friend_code": "LELHL",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -619,8 +720,15 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "広川",
+        "friend_code": "AWVPU",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "ナナカ",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -629,6 +737,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "床鰻の無職 ちゃんじゅま",
+        "friend_code": "ETFCJ",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -639,6 +748,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ムラカミ",
+        "friend_code": "CGZNR",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -647,7 +757,7 @@
   "760639": {
     "name": "八獄ウィッチ",
     "class": "ウィッチ",
-    "prev_id": null,
+    "prev_id": "b2949c",
     "cards": {
       "アズヴォルト": {
         "avg": 3.0,
@@ -680,23 +790,23 @@
         "rank": 0.548
       },
       "弾哭の執行者・キルザエル": {
-        "avg": 2.57,
+        "avg": 2.5714,
         "ratio": 1.0,
         "rank": 0.523
       },
       "セレスティアルスフィア・ミリカ": {
-        "avg": 2.29,
+        "avg": 2.2857,
         "ratio": 1.0,
         "rank": 0.702
       },
       "双刃の魔剣士": {
-        "avg": 2.14,
-        "ratio": 0.714,
+        "avg": 2.1429,
+        "ratio": 0.7143,
         "rank": 0.531
       },
       "溶鉄の腹心": {
-        "avg": 2.14,
-        "ratio": 0.857,
+        "avg": 2.1429,
+        "ratio": 0.8571,
         "rank": 0.375
       },
       "輪廻の統治者・ゼラエル": {
@@ -705,83 +815,83 @@
         "rank": 0.671
       },
       "マーシャルゴーレム": {
-        "avg": 1.71,
-        "ratio": 0.857,
+        "avg": 1.7143,
+        "ratio": 0.8571,
         "rank": 0.679
       },
       "異術の看守": {
-        "avg": 1.29,
-        "ratio": 0.429,
+        "avg": 1.2857,
+        "ratio": 0.4286,
         "rank": 0.0
       },
       "粛清の器・メイシア": {
-        "avg": 1.14,
-        "ratio": 0.429,
+        "avg": 1.1429,
+        "ratio": 0.4286,
         "rank": 0.163
       },
       "黒錆の下っ端": {
         "avg": 1.0,
-        "ratio": 0.571,
+        "ratio": 0.5714,
         "rank": 0.353
       },
       "ピースキーパー・ヴィンセント": {
-        "avg": 0.86,
-        "ratio": 0.286,
+        "avg": 0.8571,
+        "ratio": 0.2857,
         "rank": 1.0
       },
       "唯我の絶傑・マゼルベイン": {
-        "avg": 0.86,
-        "ratio": 0.286,
+        "avg": 0.8571,
+        "ratio": 0.2857,
         "rank": 0.789
       },
       "川島瑞樹": {
-        "avg": 0.86,
-        "ratio": 0.714,
+        "avg": 0.8571,
+        "ratio": 0.7143,
         "rank": 0.225
       },
       "絶大の唯我・マゼルベイン": {
-        "avg": 0.71,
-        "ratio": 0.286,
+        "avg": 0.7143,
+        "ratio": 0.2857,
         "rank": 0.846
       },
       "円環の看守": {
-        "avg": 0.57,
-        "ratio": 0.286,
+        "avg": 0.5714,
+        "ratio": 0.2857,
         "rank": 0.572
       },
       "新たなる少女・エース": {
-        "avg": 0.43,
-        "ratio": 0.143,
+        "avg": 0.4286,
+        "ratio": 0.1429,
         "rank": 0.424
       },
       "ジャッジメントワード": {
-        "avg": 0.29,
-        "ratio": 0.286,
+        "avg": 0.2857,
+        "ratio": 0.2857,
         "rank": 0.782
       },
       "次元の超越": {
-        "avg": 0.29,
-        "ratio": 0.286,
+        "avg": 0.2857,
+        "ratio": 0.2857,
         "rank": 0.782
       },
       "鋼鉄の魔獣・レガロア": {
-        "avg": 0.29,
-        "ratio": 0.286,
+        "avg": 0.2857,
+        "ratio": 0.2857,
         "rank": 0.782
       },
       "陰陽の開祖・クオン": {
-        "avg": 0.29,
-        "ratio": 0.286,
+        "avg": 0.2857,
+        "ratio": 0.2857,
         "rank": 0.782
       },
       "ナカヤマフェスタ": {
-        "avg": 0.29,
-        "ratio": 0.143,
+        "avg": 0.2857,
+        "ratio": 0.1429,
         "rank": 0.234
       },
       "マジカルシューター": {
-        "avg": 0.14,
-        "ratio": 0.143,
+        "avg": 0.1429,
+        "ratio": 0.1429,
         "rank": 0.62
       }
     },
@@ -793,6 +903,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ウル",
+        "friend_code": "QRFMI",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -803,6 +914,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "タカウジ",
+        "friend_code": "LAUFC",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -813,8 +925,15 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "SSK",
+        "friend_code": "PCIXV",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "マジカルシューター",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -823,6 +942,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "マルモリ",
+        "friend_code": "MIYCH",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -833,8 +953,15 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "いずみ",
+        "friend_code": "SJSQL",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "新たなる少女・エース",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -843,6 +970,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "まつだ",
+        "friend_code": "DZZIR",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -853,15 +981,22 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ヒラショー",
+        "friend_code": "JZVEH",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "ナカヤマフェスタ",
+            "flag": "in"
+          }
+        ]
       }
     ]
   },
   "02fa59": {
     "name": "機械ウィッチ",
     "class": "ウィッチ",
-    "prev_id": null,
+    "prev_id": "c20156",
     "cards": {
       "メカニカルガンナー": {
         "avg": 3.0,
@@ -972,8 +1107,19 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ルル",
+        "friend_code": "EEUMG",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "マシンエンジェル",
+            "flag": "in"
+          },
+          {
+            "name": "機械神",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -982,8 +1128,19 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "YY",
+        "friend_code": "DDDBZ",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "ジェットウィッチ",
+            "flag": "in"
+          },
+          {
+            "name": "ソニック・フォー",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -992,6 +1149,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "トリス",
+        "friend_code": "XGLBV",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1002,15 +1160,22 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "318ryu",
+        "friend_code": "EYGGL",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "ウィズダム・コア",
+            "flag": "in"
+          }
+        ]
       }
     ]
   },
   "394f70": {
     "name": "八獄エルフ",
     "class": "エルフ",
-    "prev_id": null,
+    "prev_id": "a1097e",
     "cards": {
       "深緑の弓使い・アリサ": {
         "avg": 3.0,
@@ -1111,8 +1276,15 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ジャイアン",
+        "friend_code": "UCSZF",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "オシャレ女王・ネルシャ",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -1121,6 +1293,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "くぼやん",
+        "friend_code": "QFDOT",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1131,8 +1304,23 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "gaikotu ",
+        "friend_code": "WJTOR",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "干絶の飢餓・ギルネリーゼ",
+            "flag": "in"
+          },
+          {
+            "name": "マドロスエルフ",
+            "flag": "out"
+          },
+          {
+            "name": "香風の執行者・ウィムエル",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -1141,15 +1329,22 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "しょこーら",
+        "friend_code": "BPEAM",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "キングエレファント",
+            "flag": "in"
+          }
+        ]
       }
     ]
   },
   "1de098": {
     "name": "機械ナイトメア",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "0e0ca7",
     "cards": {
       "マンマル1号": {
         "avg": 3.0,
@@ -1202,12 +1397,12 @@
         "rank": 0.288
       },
       "デッドペナルティ": {
-        "avg": 2.67,
+        "avg": 2.6667,
         "ratio": 1.0,
         "rank": 0.0
       },
       "フロートボードマーセナリー": {
-        "avg": 2.67,
+        "avg": 2.6667,
         "ratio": 1.0,
         "rank": 0.0
       },
@@ -1217,7 +1412,7 @@
         "rank": 0.288
       },
       "永続の機構・ニコラ": {
-        "avg": 1.33,
+        "avg": 1.3333,
         "ratio": 1.0,
         "rank": 0.724
       },
@@ -1227,8 +1422,8 @@
         "rank": 0.288
       },
       "機械神": {
-        "avg": 0.33,
-        "ratio": 0.333,
+        "avg": 0.3333,
+        "ratio": 0.3333,
         "rank": 1.0
       }
     },
@@ -1240,8 +1435,15 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "Tony",
+        "friend_code": "HMRXE",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "機械神",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -1250,6 +1452,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "そうる",
+        "friend_code": "XOHGN",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1260,6 +1463,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "にに",
+        "friend_code": "TZROI",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -1268,7 +1472,7 @@
   "d0e0f8": {
     "name": "ミッドレンジプリコネ",
     "class": "プリンセスコネクト！Re:Dive",
-    "prev_id": null,
+    "prev_id": "98100f",
     "cards": {
       "イノリ": {
         "avg": 3.0,
@@ -1297,137 +1501,137 @@
       },
       "クローチェ": {
         "avg": 2.0,
-        "ratio": 0.667,
+        "ratio": 0.6667,
         "rank": 0.0
       },
       "ライラエル": {
         "avg": 2.0,
-        "ratio": 0.667,
+        "ratio": 0.6667,
         "rank": 0.0
       },
       "カヤ": {
-        "avg": 1.67,
+        "avg": 1.6667,
         "ratio": 1.0,
         "rank": 0.455
       },
       "エリス": {
-        "avg": 1.67,
-        "ratio": 0.667,
+        "avg": 1.6667,
+        "ratio": 0.6667,
         "rank": 0.017
       },
       "ヴルム": {
-        "avg": 1.33,
-        "ratio": 0.667,
+        "avg": 1.3333,
+        "ratio": 0.6667,
         "rank": 0.041
       },
       "サレン": {
-        "avg": 1.33,
-        "ratio": 0.667,
+        "avg": 1.3333,
+        "ratio": 0.6667,
         "rank": 0.041
       },
       "クロエ": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 1.0
       },
       "チエル": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 1.0
       },
       "真理と実存の共同幻想": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 1.0
       },
       "ちぇるちぇる☆かあにばる": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 1.0
       },
       "ユニ": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 1.0
       },
       "アメス": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 0.074
       },
       "スズメ": {
         "avg": 1.0,
-        "ratio": 0.333,
+        "ratio": 0.3333,
         "rank": 0.074
       },
       "ペコリーヌ": {
         "avg": 1.0,
-        "ratio": 0.667,
+        "ratio": 0.6667,
         "rank": 0.074
       },
       "ユイ": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.9
       },
       "オーロラヒーリング": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.9
       },
       "ユキ": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.9
       },
       "リンド": {
-        "avg": 0.67,
-        "ratio": 0.667,
+        "avg": 0.6667,
+        "ratio": 0.6667,
         "rank": 0.123
       },
       "アネモネ": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.123
       },
       "グレイス": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.123
       },
       "コッコロ": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.123
       },
       "コールオブギルド": {
-        "avg": 0.67,
-        "ratio": 0.333,
+        "avg": 0.6667,
+        "ratio": 0.3333,
         "rank": 0.123
       },
       "イリヤ": {
-        "avg": 0.33,
-        "ratio": 0.333,
+        "avg": 0.3333,
+        "ratio": 0.3333,
         "rank": 0.731
       },
       "アキノ": {
-        "avg": 0.33,
-        "ratio": 0.333,
+        "avg": 0.3333,
+        "ratio": 0.3333,
         "rank": 0.731
       },
       "クリア": {
-        "avg": 0.33,
-        "ratio": 0.333,
+        "avg": 0.3333,
+        "ratio": 0.3333,
         "rank": 0.208
       },
       "ドラゴンズエンドフィスト": {
-        "avg": 0.33,
-        "ratio": 0.333,
+        "avg": 0.3333,
+        "ratio": 0.3333,
         "rank": 0.208
       },
       "ランファ": {
-        "avg": 0.33,
-        "ratio": 0.333,
+        "avg": 0.3333,
+        "ratio": 0.3333,
         "rank": 0.208
       }
     },
@@ -1439,8 +1643,19 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "雷花",
+        "friend_code": "VGBFE",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "ユイ",
+            "flag": "in"
+          },
+          {
+            "name": "オーロラヒーリング",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -1449,8 +1664,19 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ギターくん",
+        "friend_code": "JQTOM",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "アメス",
+            "flag": "in"
+          },
+          {
+            "name": "クリア",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1602585",
@@ -1459,15 +1685,26 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "kiss.",
+        "friend_code": "EFDSL",
         "venue": "",
-        "date": "2026-05-09"
+        "date": "2026-05-09",
+        "variant_cards": [
+          {
+            "name": "アネモネ",
+            "flag": "in"
+          },
+          {
+            "name": "グレイス",
+            "flag": "in"
+          }
+        ]
       }
     ]
   },
   "0cf4c9": {
     "name": "武闘竜人ドラゴン",
     "class": "ドラゴン",
-    "prev_id": null,
+    "prev_id": "e884db",
     "cards": {
       "朱翼の入学祝": {
         "avg": 3.0,
@@ -1568,6 +1805,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "あっさむ",
+        "friend_code": "WNAQQ",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1578,6 +1816,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ハゲ",
+        "friend_code": "JPROF",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -1586,7 +1825,7 @@
   "9d7265": {
     "name": "宴楽ナイトメア",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "eaf0ca",
     "cards": {
       "バイオレントスクリーム": {
         "avg": 3.0,
@@ -1672,6 +1911,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ディアス",
+        "friend_code": "MNDVL",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1682,6 +1922,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "封印されしポムポムプリン",
+        "friend_code": "JFKUI",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -1690,7 +1931,7 @@
   "2bcfdf": {
     "name": "NCナイトメア",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "85b0ce",
     "cards": {
       "ストレイホロウ・イルガンノ": {
         "avg": 3.0,
@@ -1791,6 +2032,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "イシのハラ",
+        "friend_code": "ZAIHS",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1801,6 +2043,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "とんとん",
+        "friend_code": "QMVEV",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -1809,7 +2052,7 @@
   "bdc5c0": {
     "name": "天使ロイヤル",
     "class": "ロイヤル",
-    "prev_id": null,
+    "prev_id": "2ef519",
     "cards": {
       "ベルエンジェル・リア": {
         "avg": 3.0,
@@ -1905,6 +2148,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ponanz",
+        "friend_code": "QWTTS",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -1915,6 +2159,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ひーとん",
+        "friend_code": "YSXEP",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -1923,7 +2168,7 @@
   "f3923e": {
     "name": "コントロールビショップ",
     "class": "ビショップ",
-    "prev_id": null,
+    "prev_id": "9c9070",
     "cards": {
       "ベルエンジェル・リア": {
         "avg": 3.0,
@@ -2034,6 +2279,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "serumia",
+        "friend_code": "BOILF",
         "venue": "",
         "date": "2026-05-09"
       },
@@ -2044,6 +2290,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "マヒロ",
+        "friend_code": "IWJRX",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2052,7 +2299,7 @@
   "6613da": {
     "name": "海洋ドラゴン",
     "class": "ドラゴン",
-    "prev_id": null,
+    "prev_id": "ba3acb",
     "cards": {
       "オルカの大渦": {
         "avg": 3.0,
@@ -2138,6 +2385,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "Tacky",
+        "friend_code": "RCKJC",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2146,7 +2394,7 @@
   "93162b": {
     "name": "7ドラゴン",
     "class": "ドラゴン",
-    "prev_id": null,
+    "prev_id": "54a064",
     "cards": {
       "天威のドラグーン": {
         "avg": 3.0,
@@ -2232,6 +2480,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "奏音 りょう",
+        "friend_code": "PQGUR",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2240,7 +2489,7 @@
   "676e7d": {
     "name": "ミロエルナイトメア",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "933ca2",
     "cards": {
       "デッドペナルティ": {
         "avg": 3.0,
@@ -2331,6 +2580,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "9コン",
+        "friend_code": "YAGMH",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2339,7 +2589,7 @@
   "b6329b": {
     "name": "ゴーストナイトメア",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "74b920",
     "cards": {
       "怪奇の探索者・ユナ": {
         "avg": 3.0,
@@ -2425,6 +2675,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "カズヤ",
+        "friend_code": "MAYNB",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2433,7 +2684,7 @@
   "589a3d": {
     "name": "真紅ナイトメア",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "a0f1bc",
     "cards": {
       "欲望の信者": {
         "avg": 3.0,
@@ -2539,6 +2790,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "芝生",
+        "friend_code": "RHWLN",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2547,7 +2799,7 @@
   "e3881a": {
     "name": "アグロロイヤル",
     "class": "ロイヤル",
-    "prev_id": null,
+    "prev_id": "ef96ef",
     "cards": {
       "海原の斥候": {
         "avg": 3.0,
@@ -2633,6 +2885,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "をれんぢ",
+        "friend_code": "QCEKG",
         "venue": "",
         "date": "2026-05-09"
       }
@@ -2641,7 +2894,7 @@
   "22925a": {
     "name": "アミュレットビショップ",
     "class": "ビショップ",
-    "prev_id": null,
+    "prev_id": "ec1025",
     "cards": {
       "ダークオファリング": {
         "avg": 3.0,
@@ -2727,6 +2980,7 @@
         "tourney_size": 9,
         "participants": 910,
         "player": "ピカユウ",
+        "friend_code": "TNVAH",
         "venue": "",
         "date": "2026-05-09"
       }
