@@ -19111,9 +19111,9 @@ function pieLegend(classSummary, total, maxRows = 6) {
     classSummary.slice(0, maxRows).map(
       ({ cls, count, winner }) => flex({ alignItems: "center", gap: 10 }, [
         flex({ width: 12, height: 12, borderRadius: 6, background: classColor(cls), flexShrink: 0 }, []),
-        span(classShort(cls), { fontSize: 20, color: TEXT_DIM, minWidth: 100 }),
+        span(classShort(cls), { fontSize: 20, color: TEXT_DIM, minWidth: 120 }),
         span(`${Math.round(count / total * 100)}%`, { fontSize: 20, color: TEXT_PRIMARY, minWidth: 48, textAlign: "right" }),
-        winner > 0 ? span(`\u512A\u52DD${winner}`, { fontSize: 18, color: ACCENT, marginLeft: 8 }) : null
+        winner > 0 ? span(`\u512A\u52DD`, { fontSize: 18, color: ACCENT, marginLeft: 8 }) : null
       ])
     )
   );
@@ -19124,7 +19124,7 @@ function metaOgElement({ period, tournamentCount, archetypes }) {
     const second = (arch.finalist ?? 0) - (arch.winner ?? 0);
     return flex({ alignItems: "center", gap: 14 }, [
       classBar(arch.class),
-      span(arch.name, { fontSize: 26, flex: 1, overflow: "hidden" }),
+      span(arch.name?.length > 30 ? arch.name.slice(0, 29) + "\u2026" : arch.name ?? "", { fontSize: 26, flex: 1, overflow: "hidden" }),
       span(`\u512A\u52DD ${arch.winner ?? 0}`, { fontSize: 21, color: ACCENT, minWidth: 76, textAlign: "right" }),
       span(`\u6E96\u512A\u52DD ${second}`, { fontSize: 21, color: TEXT_DIM, minWidth: 56, textAlign: "right" }),
       span(`TOP8 ${arch.count ?? 0}`, { fontSize: 21, color: TEXT_DIM, minWidth: 86, textAlign: "right" })
@@ -19186,7 +19186,7 @@ function playerDetailOgElement({ name, prevNames = [], wins, second, top8, class
     entries.slice(0, 7).map(
       ([cls, v]) => flex({ alignItems: "center", gap: 10 }, [
         flex({ width: 12, height: 12, borderRadius: 6, background: classColor(cls), flexShrink: 0 }, []),
-        span(classShort(cls), { fontSize: 18, color: TEXT_DIM, minWidth: 100 }),
+        span(classShort(cls), { fontSize: 18, color: TEXT_DIM, minWidth: 120 }),
         span(`${Math.round(v / total * 100)}%`, { fontSize: 18, color: TEXT_PRIMARY })
       ])
     )
