@@ -14607,7 +14607,13 @@
       "BP03-SL11"
     ],
     "evolves_to": [
-      "BP03-057"
+      "BP03-057",
+      "BP03-058",
+      "BP04-061",
+      "BP04-062",
+      "BP10-057",
+      "BP10-058",
+      "BP10-059"
     ],
     "evolved_from": [],
     "advance_forms": [
@@ -14701,7 +14707,9 @@
       "BP03-SL13"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP03-056"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -19502,7 +19510,9 @@
       "BP04-SL13"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP03-056"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -19542,7 +19552,9 @@
       "BP04-SL14"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP03-056"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -36756,7 +36768,9 @@
       "SP01-SP03",
       "SP01-U02"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP08-003"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -36847,7 +36861,9 @@
       "BP08-SL03"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP08-002"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -41587,7 +41603,9 @@
       "BP09-004",
       "BP09-P01"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP09-005"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -41672,7 +41690,9 @@
       "BP09-P02"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP09-004"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -42172,7 +42192,9 @@
       "SP01-SP06",
       "SP01-U05"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP09-019"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -42261,7 +42283,9 @@
       "BP09-SL05"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP09-018"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -43005,7 +43029,9 @@
       "BP09-038",
       "BP09-P11"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP09-039"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -43094,7 +43120,9 @@
       "BP09-P12"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP09-038"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -43703,7 +43731,9 @@
       "BP09-055",
       "BP09-P16"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP09-056"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -43791,7 +43821,9 @@
       "BP09-P17"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP09-055"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -44270,7 +44302,9 @@
       "BP09-069",
       "BP09-SL13"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP09-070"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -44364,7 +44398,9 @@
       "BP09-SL14"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP09-069"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -45123,7 +45159,9 @@
       "BP09-089",
       "BP09-P26"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "BP09-090"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -45216,7 +45254,9 @@
       "BP09-P27"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP09-089"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -48567,7 +48607,9 @@
       "BP10-SL15"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP03-056"
+    ],
     "advance_forms": [],
     "advance_base": "BP03-056",
     "mentions": [
@@ -48608,7 +48650,9 @@
       "BP10-SL16"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP03-056"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -48650,7 +48694,9 @@
       "BP10-SL17"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "BP03-056"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -105385,15 +105431,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012",
       "CP02-023",
       "CP02-024",
       "CSD02A-001",
       "CSD02A-LD01",
-      "ECP02-015",
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012"
+      "ECP02-015"
     ],
     "illustrator": "",
     "legal_status": null
@@ -109039,7 +109085,9 @@
       "CP03-SL01",
       "CP03-U01"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CP03-002"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -109081,7 +109129,9 @@
       "PR-286"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CP03-001"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -109191,7 +109241,9 @@
       "CP03-005",
       "CP03-P01"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CP03-006"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -109232,7 +109284,9 @@
       "CP03-P02"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CP03-005"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -109947,7 +110001,9 @@
       "CP03-025",
       "CP03-P15"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CP03-026"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -109988,7 +110044,9 @@
       "CP03-P16"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CP03-025"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -110757,7 +110815,9 @@
       "CP03-046",
       "CP03-P29"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CP03-047"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -110799,7 +110859,9 @@
       "CP03-P30"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CP03-046"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -111504,7 +111566,9 @@
       "CP03-066",
       "CP03-P44"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CP03-067"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -111547,7 +111611,9 @@
       "CP03-P45"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CP03-066"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -121369,7 +121435,9 @@
       "CSD03A-001",
       "CSD03A-SL01"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CSD03A-002"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -121411,7 +121479,9 @@
       "CSD03A-SL02"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CSD03A-001"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [],
@@ -121981,7 +122051,9 @@
       "CSD03B-004",
       "CSD03B-P01"
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      "CSD03B-005"
+    ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
@@ -122024,7 +122096,9 @@
       "CSD03B-P02"
     ],
     "evolves_to": [],
-    "evolved_from": [],
+    "evolved_from": [
+      "CSD03B-004"
+    ],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
@@ -125897,13 +125971,13 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-038",
+      "ECP02-026",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
       "ECP02-034",
       "CP02-044",
-      "CP02-038",
-      "ECP02-026",
       "ECP02-027"
     ],
     "illustrator": "",
@@ -126501,11 +126575,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-081",
-      "ECP02-049",
       "CP02-083",
       "CP02-084",
-      "ECP02-048"
+      "ECP02-048",
+      "CP02-081",
+      "ECP02-049"
     ],
     "illustrator": "",
     "legal_status": null
@@ -126546,11 +126620,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-081",
-      "ECP02-049",
       "CP02-083",
       "CP02-084",
-      "ECP02-048"
+      "ECP02-048",
+      "CP02-081",
+      "ECP02-049"
     ],
     "illustrator": "",
     "legal_status": null
