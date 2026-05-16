@@ -18959,29 +18959,47 @@ var FONT_LAT_700 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-la
 var initialized2 = false;
 var cachedFonts = null;
 async function fetchBuf(url) {
+  const label = url.split("/").pop();
+  console.log("[og] fetch start", label);
   const res = await fetch(url);
+  console.log("[og] fetch response", label, res.status);
   if (!res.ok) throw new Error(`fetch ${url}: ${res.status}`);
-  return res.arrayBuffer();
+  const buf = await res.arrayBuffer();
+  console.log("[og] fetch buffer", label, buf.byteLength);
+  return buf;
 }
 async function ensureInit() {
-  if (initialized2) return;
+  if (initialized2) {
+    console.log("[og] already initialized");
+    return;
+  }
+  console.log("[og] wasm fetch start");
   const [yogaBuf, resvgBuf] = await Promise.all([
     fetchBuf(YOGA_WASM_URL),
     fetchBuf(RESVG_WASM_URL)
   ]);
+  console.log("[og] wasm fetched, yoga init");
   const yoga2 = await initYoga(yogaBuf);
+  console.log("[og] yoga done");
   Rl(yoga2);
+  console.log("[og] resvg init");
   await initWasm(resvgBuf);
+  console.log("[og] resvg done");
   initialized2 = true;
 }
 async function loadFonts() {
-  if (cachedFonts) return cachedFonts;
+  if (cachedFonts) {
+    console.log("[og] fonts cached");
+    return cachedFonts;
+  }
+  console.log("[og] font fetch start");
   const [jp400, jp700, lat400, lat700] = await Promise.all([
     fetchBuf(FONT_JP_400),
     fetchBuf(FONT_JP_700),
     fetchBuf(FONT_LAT_400),
     fetchBuf(FONT_LAT_700)
   ]);
+  console.log("[og] fonts fetched");
   cachedFonts = [
     { name: "NotoSansJP", data: jp400, weight: 400 },
     { name: "NotoSansJP", data: jp700, weight: 700 },
@@ -18991,9 +19009,13 @@ async function loadFonts() {
   return cachedFonts;
 }
 async function renderOgPng(element) {
+  console.log("[og] renderOgPng: ensureInit");
   await ensureInit();
+  console.log("[og] renderOgPng: loadFonts");
   const fonts = await loadFonts();
+  console.log("[og] renderOgPng: satori");
   const svg = await wl(element, { width: 1200, height: 630, fonts });
+  console.log("[og] renderOgPng: resvg render");
   const resvg = new Resvg2(svg, { fitTo: { mode: "width", value: 1200 } });
   return resvg.render().asPng();
 }
