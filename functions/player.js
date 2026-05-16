@@ -1,17 +1,4 @@
 // _shared.js
-var CACHE_NAME = "sve-og-v1";
-async function fetchJson(url) {
-  const cache = await caches.open(CACHE_NAME);
-  const cached = await cache.match(url);
-  if (cached) return cached.json();
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`${url} \u2192 ${res.status}`);
-  const text = await res.text();
-  await cache.put(url, new Response(text, {
-    headers: { "Content-Type": "application/json", "Cache-Control": "max-age=3600" }
-  }));
-  return JSON.parse(text);
-}
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
@@ -47,29 +34,16 @@ async function serveWithOG(context, ogProps) {
   });
 }
 
-// player/[friendcode].js
+// player.js
 async function onRequest(context) {
   const url = new URL(context.request.url);
   const origin = url.origin;
-  const fc = context.params.friendcode;
-  if (fc === "ranking") {
-    return serveWithOG(context, {
-      title: "\u9078\u624B\u30E9\u30F3\u30AD\u30F3\u30B0 | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40",
-      description: "\u500B\u4EBA\u6226CS\u30E9\u30F3\u30AD\u30F3\u30B0",
-      imageUrl: `${origin}/og-image?page=player`,
-      pageUrl: `${origin}/player/ranking`
-    });
-  }
   try {
-    const players = await fetchJson(`${origin}/data/players.json`);
-    const p = players[fc];
-    const name = p ? p.names[p.names.length - 1] : fc;
-    const desc = p ? `\u512A\u52DD${p.wins ?? 0} \u6E96\u512A\u52DD${p.second ?? 0} TOP8${p.top8 ?? 0}` : "";
     return serveWithOG(context, {
-      title: `${name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
-      description: desc,
-      imageUrl: `${origin}/og-image?page=player&fc=${encodeURIComponent(fc)}`,
-      pageUrl: `${origin}/player/${encodeURIComponent(fc)}`
+      title: "\u9078\u624B\u691C\u7D22 | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40",
+      description: "\u500B\u4EBA\u6226CS\u53C2\u52A0\u9078\u624B\u306E\u6226\u7E3E\u30FB\u30E9\u30F3\u30AD\u30F3\u30B0",
+      imageUrl: `${origin}/og-image?page=player`,
+      pageUrl: `${origin}/player`
     });
   } catch {
     return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
