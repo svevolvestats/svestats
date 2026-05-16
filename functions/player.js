@@ -42,7 +42,7 @@ async function onRequest(context) {
     return serveWithOG(context, {
       title: "\u9078\u624B\u691C\u7D22 | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40",
       description: "\u500B\u4EBA\u6226CS\u53C2\u52A0\u9078\u624B\u306E\u6226\u7E3E\u30FB\u30E9\u30F3\u30AD\u30F3\u30B0",
-      imageUrl: `${origin}/og-image?page=player`,
+      imageUrl: `${origin}/og/player-index.png`,
       pageUrl: `${origin}/player`
     });
   } catch {

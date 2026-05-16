@@ -48,7 +48,7 @@ async function onRequest(context) {
     const p = meta.period ?? {};
     const periodStr = p.start && p.end ? `(${p.start}\u301C${p.end})` : "";
     const title = `\u500B\u4EBA\u6226CS\u74B0\u5883${periodStr} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
-    const imageUrl = periodParam ? `${origin}/og-image?page=meta&period=${encodeURIComponent(periodParam)}` : `${origin}/og-image?page=meta`;
+    const imageUrl = periodParam ? `${origin}/og/meta/${periodParam}.png` : `${origin}/og/meta.png`;
     const pageUrl = periodParam ? `${origin}/?period=${encodeURIComponent(periodParam)}` : origin;
     const indexRes = await env.ASSETS.fetch(new Request(`${origin}/index.html`));
     const html = await indexRes.text();

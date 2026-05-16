@@ -70,7 +70,7 @@ async function onRequest(context) {
     const participantCount = meta.participants || meta.total_decks;
     const desc = `${participantCount}\u540D\u53C2\u52A0\uFF08${dateStr}\uFF09\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790`;
     const pageUrl = `${origin}/recap?event=${resolvedEventId}`;
-    const imageUrl = `${origin}/og-image?page=recap&event=${resolvedEventId}`;
+    const imageUrl = `${origin}/og/recap/${resolvedEventId}.png`;
     return serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
   } catch {
     return env.ASSETS.fetch(new Request(`${origin}/index.html`));

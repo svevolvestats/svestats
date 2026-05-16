@@ -18956,48 +18956,35 @@ var FONT_JP_400 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-jap
 var FONT_JP_700 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-japanese-700-normal.woff`;
 var FONT_LAT_400 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-latin-400-normal.woff`;
 var FONT_LAT_700 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-latin-700-normal.woff`;
-console.log("[og] module load: start wasm init");
-var _wasmReady = (async () => {
-  console.log("[og] yoga init");
-  const yoga2 = await initYoga(fetch(YOGA_WASM_URL));
-  console.log("[og] yoga done");
-  Rl(yoga2);
-  console.log("[og] resvg init");
-  await initWasm(fetch(RESVG_WASM_URL));
-  console.log("[og] resvg done");
-})();
-var cachedFonts = null;
-async function fetchBuf(url) {
+var _initialized = false;
+var _fonts = null;
+async function _fetchBuf(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`fetch ${url}: ${res.status}`);
   return res.arrayBuffer();
 }
-async function loadFonts() {
-  if (cachedFonts) return cachedFonts;
-  console.log("[og] font fetch");
+async function _ensureReady() {
+  if (_initialized) return;
+  const yoga2 = await initYoga(fetch(YOGA_WASM_URL));
+  Rl(yoga2);
+  await initWasm(fetch(RESVG_WASM_URL));
   const [jp400, jp700, lat400, lat700] = await Promise.all([
-    fetchBuf(FONT_JP_400),
-    fetchBuf(FONT_JP_700),
-    fetchBuf(FONT_LAT_400),
-    fetchBuf(FONT_LAT_700)
+    _fetchBuf(FONT_JP_400),
+    _fetchBuf(FONT_JP_700),
+    _fetchBuf(FONT_LAT_400),
+    _fetchBuf(FONT_LAT_700)
   ]);
-  console.log("[og] fonts ready");
-  cachedFonts = [
+  _fonts = [
     { name: "NotoSansJP", data: jp400, weight: 400 },
     { name: "NotoSansJP", data: jp700, weight: 700 },
     { name: "NotoSansJP", data: lat400, weight: 400 },
     { name: "NotoSansJP", data: lat700, weight: 700 }
   ];
-  return cachedFonts;
+  _initialized = true;
 }
 async function renderOgPng(element) {
-  console.log("[og] await wasm");
-  await _wasmReady;
-  console.log("[og] load fonts");
-  const fonts = await loadFonts();
-  console.log("[og] satori");
-  const svg = await wl(element, { width: 1200, height: 630, fonts });
-  console.log("[og] resvg render");
+  await _ensureReady();
+  const svg = await wl(element, { width: 1200, height: 630, fonts: _fonts });
   const resvg = new Resvg2(svg, { fitTo: { mode: "width", value: 1200 } });
   return resvg.render().asPng();
 }

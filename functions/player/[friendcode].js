@@ -72,7 +72,7 @@ async function onRequest(context) {
     return serveWithOG(context, {
       title: `${name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description: desc,
-      imageUrl: `${origin}/og-image?page=player&fc=${encodeURIComponent(fc)}`,
+      imageUrl: `${origin}/og/player-index.png`,
       pageUrl: `${origin}/player/${encodeURIComponent(fc)}`
     });
   } catch {
