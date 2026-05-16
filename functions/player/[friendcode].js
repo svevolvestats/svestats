@@ -63,7 +63,7 @@ async function onRequest(context) {
   try {
     const players = await fetchJson(`${origin}/data/players.json`);
     const p = players[fc];
-    const name = p ? p.names[p.names.length - 1] : fc;
+    const name = p ? p.names[0] : fc;
     const desc = p ? [
       p.wins ? `\u512A\u52DD\uFF1A${p.wins}\u56DE` : null,
       p.second ? `\u6E96\u512A\u52DD\uFF1A${p.second}\u56DE` : null,

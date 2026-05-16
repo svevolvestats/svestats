@@ -19028,8 +19028,8 @@ var CLASS_SHORT = {
   "\u30CA\u30A4\u30C8\u30E1\u30A2": "\u30CA\u30A4\u30C8\u30E1\u30A2",
   "\u30D3\u30B7\u30E7\u30C3\u30D7": "\u30D3\u30B7\u30E7\u30C3\u30D7",
   "\u30A6\u30DE\u5A18 \u30D7\u30EA\u30C6\u30A3\u30FC\u30C0\u30FC\u30D3\u30FC": "\u30A6\u30DE\u5A18",
-  "\u30A2\u30A4\u30C9\u30EB\u30DE\u30B9\u30BF\u30FC \u30B7\u30F3\u30C7\u30EC\u30E9\u30AC\u30FC\u30EB\u30BA": "\u30A2\u30A4\u30DE\u30B9",
-  "\u30AB\u30FC\u30C9\u30D5\u30A1\u30A4\u30C8!! \u30F4\u30A1\u30F3\u30AC\u30FC\u30C9": "VG",
+  "\u30A2\u30A4\u30C9\u30EB\u30DE\u30B9\u30BF\u30FC \u30B7\u30F3\u30C7\u30EC\u30E9\u30AC\u30FC\u30EB\u30BA": "\u30C7\u30EC\u30DE\u30B9",
+  "\u30AB\u30FC\u30C9\u30D5\u30A1\u30A4\u30C8!! \u30F4\u30A1\u30F3\u30AC\u30FC\u30C9": "\u30F4\u30A1\u30F3\u30AC\u30FC\u30C9",
   "\u30D7\u30EA\u30F3\u30BB\u30B9\u30B3\u30CD\u30AF\u30C8\uFF01Re:Dive": "\u30D7\u30EA\u30B3\u30CD"
 };
 function classColor(cls) {
@@ -19037,6 +19037,31 @@ function classColor(cls) {
 }
 function classShort(cls) {
   return CLASS_SHORT[cls] ?? cls;
+}
+var BADGE_COLORS = {
+  gold: { bg: "#c9a84c", text: "#1a1108" },
+  silver: { bg: "#9aa5b4", text: "#111827" },
+  bronze: { bg: "#a06030", text: "#ffffff" },
+  emerald: { bg: "#059669", text: "#ffffff" },
+  sapphire: { bg: "#2563eb", text: "#ffffff" },
+  amethyst: { bg: "#7c3aed", text: "#ffffff" },
+  steel: { bg: "#64748b", text: "#ffffff" }
+};
+function recapBadgeTier(rank) {
+  if (rank === 1) return "gold";
+  if (rank === 2) return "silver";
+  if (rank <= 4) return "bronze";
+  if (rank <= 8) return "emerald";
+  if (rank <= 16) return "sapphire";
+  if (rank <= 32) return "amethyst";
+  return "steel";
+}
+function recapRankLabel(rank) {
+  if (rank === 1) return "\u512A\u52DD";
+  if (rank === 2) return "\u6E96\u512A\u52DD";
+  let top = 4;
+  while (top < rank) top *= 2;
+  return `TOP${top}`;
 }
 function flex(style, children) {
   return {
@@ -19120,15 +19145,22 @@ function metaOgElement({ period, tournamentCount, archetypes }) {
       span(`TOP8 ${arch.count ?? 0}`, { fontSize: 21, color: TEXT_DIM, minWidth: 86, textAlign: "right" })
     ]);
   });
+  const dots = flex({ flexDirection: "column", alignItems: "center", gap: 6, marginTop: 10 }, [
+    span("\xB7", { fontSize: 20, color: TEXT_DIM }),
+    span("\xB7", { fontSize: 20, color: TEXT_DIM }),
+    span("\xB7", { fontSize: 20, color: TEXT_DIM })
+  ]);
   return baseLayout([
     span("\u500B\u4EBA\u6226CS\u74B0\u5883", { fontSize: 54, fontWeight: 700, letterSpacing: "-0.02em" }),
     span(`\uFF08${periodStr}\u3001\u5927\u4F1A${tournamentCount}\u500B\uFF09`, {
       fontSize: 22,
       color: TEXT_DIM,
       marginTop: 10,
-      marginBottom: 32
+      marginBottom: 6
     }),
-    flex({ flexDirection: "column", gap: 16 }, rows)
+    span("TOP8\u9806", { fontSize: 18, color: ACCENT, marginBottom: 20 }),
+    flex({ flexDirection: "column", gap: 14 }, rows),
+    dots
   ]);
 }
 function recapOgElement({ eventTitle, period, participants, archetypes }) {
@@ -19141,6 +19173,7 @@ function recapOgElement({ eventTitle, period, participants, archetypes }) {
   }
   const classSummary = Object.entries(classMap).map(([cls, d]) => ({ cls, ...d })).sort((a, b) => b.count - a.count);
   const total = classSummary.reduce((s, d) => s + d.count, 0);
+  const topN = classSummary.reduce((s, d) => s + d.count, 0);
   const pie = makePieChart(classSummary.map(({ cls, count }) => ({ color: classColor(cls), value: count })), 220);
   return baseLayout([
     span(eventTitle, { fontSize: 36, fontWeight: 700, lineHeight: 1.25, maxWidth: 1e3 }),
@@ -19150,34 +19183,60 @@ function recapOgElement({ eventTitle, period, participants, archetypes }) {
       marginTop: 8,
       marginBottom: 28
     }),
-    flex({ gap: 48, alignItems: "center" }, [
-      pie,
+    flex({ gap: 48, alignItems: "flex-start" }, [
+      flex({ flexDirection: "column", alignItems: "center", gap: 8 }, [
+        span(`TOP${topN} \u30AF\u30E9\u30B9\u5206\u5E03`, { fontSize: 16, color: TEXT_DIM, marginBottom: 4 }),
+        pie
+      ]),
       pieLegend(classSummary, total, 7)
     ])
   ]);
 }
-function playerDetailOgElement({ name, wins, second, top8, classCounts }) {
+function playerDetailOgElement({ name, prevNames = [], wins, second, top8, classCounts, recapBadges = [] }) {
   const entries = Object.entries(classCounts).sort(([, a], [, b]) => b - a);
   const total = entries.reduce((s, [, v]) => s + v, 0);
-  const pie = makePieChart(entries.map(([cls, v]) => ({ color: classColor(cls), value: v })), 180);
+  const pie = makePieChart(entries.map(([cls, v]) => ({ color: classColor(cls), value: v })), 160);
   const legend = flex(
     { flexDirection: "column", justifyContent: "center", gap: 8 },
-    entries.slice(0, 6).map(
+    entries.slice(0, 7).map(
       ([cls, v]) => flex({ alignItems: "center", gap: 10 }, [
         flex({ width: 12, height: 12, borderRadius: 6, background: classColor(cls), flexShrink: 0 }, []),
-        span(classShort(cls), { fontSize: 19, color: TEXT_DIM, minWidth: 90 }),
-        span(`${Math.round(v / total * 100)}%`, { fontSize: 19, color: TEXT_PRIMARY })
+        span(classShort(cls), { fontSize: 18, color: TEXT_DIM, minWidth: 100 }),
+        span(`${Math.round(v / total * 100)}%`, { fontSize: 18, color: TEXT_PRIMARY })
       ])
     )
   );
+  const badgesRow = recapBadges.length > 0 ? flex(
+    { flexWrap: "wrap", gap: 8, marginBottom: 16 },
+    recapBadges.slice(0, 8).map(({ text, tier }) => {
+      const c = BADGE_COLORS[tier] ?? BADGE_COLORS.steel;
+      return span(text, {
+        fontSize: 16,
+        fontWeight: 700,
+        background: c.bg,
+        color: c.text,
+        padding: "4px 12px",
+        borderRadius: 4
+      });
+    })
+  ) : null;
+  const prevNamesRow = prevNames.length > 0 ? span(prevNames.join(" / "), { fontSize: 18, color: TEXT_DIM, marginBottom: 8, maxWidth: 880 }) : null;
   return baseLayout([
-    span(name, { fontSize: 58, fontWeight: 700, marginBottom: 20, maxWidth: 880 }),
-    flex({ gap: 52, marginBottom: 34 }, [
+    span(name, { fontSize: 52, fontWeight: 700, marginBottom: prevNames.length > 0 ? 4 : 12, maxWidth: 880 }),
+    prevNamesRow,
+    badgesRow,
+    flex({ gap: 48, marginBottom: 24 }, [
       statBlock("\u512A\u52DD", wins),
       statBlock("\u6E96\u512A\u52DD", second),
       statBlock("TOP8", top8)
     ]),
-    flex({ gap: 40, alignItems: "center" }, [pie, legend])
+    flex({ gap: 40, alignItems: "flex-start" }, [
+      flex({ flexDirection: "column", alignItems: "center", gap: 6 }, [
+        span("\u500B\u4EBA\u6226CS", { fontSize: 14, color: TEXT_DIM }),
+        pie
+      ]),
+      legend
+    ])
   ]);
 }
 function playerIndexOgElement({ topPlayers }) {
@@ -19190,32 +19249,46 @@ function playerIndexOgElement({ topPlayers }) {
       span(`TOP8 ${p.top8}`, { fontSize: 21, color: TEXT_DIM, minWidth: 86, textAlign: "right" })
     ])
   );
+  const dots = flex({ flexDirection: "column", alignItems: "center", gap: 6, marginTop: 8 }, [
+    span("\xB7", { fontSize: 20, color: TEXT_DIM }),
+    span("\xB7", { fontSize: 20, color: TEXT_DIM }),
+    span("\xB7", { fontSize: 20, color: TEXT_DIM })
+  ]);
   return baseLayout([
-    span("\u9078\u624B\u691C\u7D22", { fontSize: 54, fontWeight: 700, marginBottom: 32 }),
-    flex({ flexDirection: "column", gap: 16 }, rows)
+    span("\u9078\u624B\u691C\u7D22", { fontSize: 54, fontWeight: 700, marginBottom: 4 }),
+    span("\u500B\u4EBA\u6226CS TOP8 \u9806\u4F4D", { fontSize: 20, color: TEXT_DIM, marginBottom: 24 }),
+    flex({ flexDirection: "column", gap: 14 }, rows),
+    dots
   ]);
 }
 
 // og-image.js
+console.log("[og-image] module loaded");
 async function onRequest(context) {
-  const url = new URL(context.request.url);
-  const origin = url.origin;
-  const page = url.searchParams.get("page");
+  console.log("[og-image] onRequest called");
   try {
+    const url = new URL(context.request.url);
+    const origin = url.origin;
+    const page = url.searchParams.get("page");
+    console.log("[og-image] page=", page, "origin=", origin);
     let element;
     if (page === "meta") {
+      console.log("[og-image] building meta element");
       const period = url.searchParams.get("period");
       const dataBase = period ? `${origin}/data/archetypes/${period}` : `${origin}/data`;
       const meta2 = await fetchJson(`${dataBase}/meta.json`);
+      console.log("[og-image] meta fetched");
       element = metaOgElement({
         period: meta2.period,
         tournamentCount: meta2.total_winners,
         archetypes: meta2.archetypes ?? []
       });
     } else if (page === "recap") {
+      console.log("[og-image] building recap element");
       const eventId = url.searchParams.get("event");
       if (!eventId) return new Response("missing event", { status: 400 });
       const meta2 = await fetchJson(`${origin}/data/recap/${eventId}/meta.json`);
+      console.log("[og-image] recap meta fetched");
       element = recapOgElement({
         eventTitle: meta2.event_title,
         period: meta2.period,
@@ -19223,25 +19296,47 @@ async function onRequest(context) {
         archetypes: meta2.archetypes ?? []
       });
     } else if (page === "player") {
+      console.log("[og-image] building player element");
       const fc = url.searchParams.get("fc");
       const players = await fetchJson(`${origin}/data/players.json`);
+      console.log("[og-image] players fetched");
       if (fc && players[fc]) {
         const p = players[fc];
+        let recapBadges = [];
+        try {
+          const [recapPlayers, recapIndex] = await Promise.all([
+            fetchJson(`${origin}/data/recap_players.json`),
+            fetchJson(`${origin}/data/recap/index.json`)
+          ]);
+          const rp = recapPlayers[fc];
+          if (rp?.records?.length) {
+            const idMap = Object.fromEntries(recapIndex.map((e) => [e.event_id, e.short_name]));
+            recapBadges = rp.records.map((r) => ({
+              text: `${idMap[r.event_id] ?? r.event_id} ${recapRankLabel(r.rank)}`,
+              tier: recapBadgeTier(r.rank)
+            }));
+          }
+        } catch {
+        }
         element = playerDetailOgElement({
-          name: p.names[p.names.length - 1],
+          name: p.names[0],
+          prevNames: p.names.slice(1),
           wins: p.wins ?? 0,
           second: p.second ?? 0,
           top8: p.top8 ?? 0,
-          classCounts: p.class_counts ?? {}
+          classCounts: p.class_counts ?? {},
+          recapBadges
         });
       } else {
-        const topPlayers = Object.values(players).map((p) => ({ name: p.names[p.names.length - 1], wins: p.wins ?? 0, second: p.second ?? 0, top8: p.top8 ?? 0 })).sort((a, b) => b.top8 - a.top8).slice(0, 5);
+        const topPlayers = Object.values(players).map((p) => ({ name: p.names[0], wins: p.wins ?? 0, second: p.second ?? 0, top8: p.top8 ?? 0 })).sort((a, b) => b.top8 - a.top8).slice(0, 5);
         element = playerIndexOgElement({ topPlayers });
       }
     } else {
       return new Response("not found", { status: 404 });
     }
+    console.log("[og-image] calling renderOgPng");
     const png = await renderOgPng(element);
+    console.log("[og-image] PNG rendered, size=", png.length);
     return new Response(png, {
       headers: {
         "Content-Type": "image/png",
@@ -19249,8 +19344,8 @@ async function onRequest(context) {
       }
     });
   } catch (e) {
-    console.error("og-image error:", e);
-    return new Response(`Error: ${e.message}`, { status: 500 });
+    console.error("[og-image] error:", e?.stack ?? e);
+    return new Response(`Error: ${e?.message ?? e}`, { status: 500 });
   }
 }
 export {
