@@ -18956,25 +18956,18 @@ var FONT_JP_400 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-jap
 var FONT_JP_700 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-japanese-700-normal.woff`;
 var FONT_LAT_400 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-latin-400-normal.woff`;
 var FONT_LAT_700 = `${CDN}/@fontsource/noto-sans-jp@4.5.12/files/noto-sans-jp-latin-700-normal.woff`;
-var ASSET_CACHE = "sve-og-assets-v1";
 var initialized2 = false;
-async function fetchCached(cache, url) {
-  const cached = await cache.match(url);
-  if (cached) return cached.arrayBuffer();
+var cachedFonts = null;
+async function fetchBuf(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`fetch ${url}: ${res.status}`);
-  const buf = await res.arrayBuffer();
-  await cache.put(url, new Response(buf, {
-    headers: { "Cache-Control": "max-age=86400", "Content-Type": "application/octet-stream" }
-  }));
-  return buf;
+  return res.arrayBuffer();
 }
 async function ensureInit() {
   if (initialized2) return;
-  const cache = await caches.open(ASSET_CACHE);
   const [yogaBuf, resvgBuf] = await Promise.all([
-    fetchCached(cache, YOGA_WASM_URL),
-    fetchCached(cache, RESVG_WASM_URL)
+    fetchBuf(YOGA_WASM_URL),
+    fetchBuf(RESVG_WASM_URL)
   ]);
   const yoga2 = await initYoga(yogaBuf);
   Rl(yoga2);
@@ -18982,19 +18975,20 @@ async function ensureInit() {
   initialized2 = true;
 }
 async function loadFonts() {
-  const cache = await caches.open(ASSET_CACHE);
+  if (cachedFonts) return cachedFonts;
   const [jp400, jp700, lat400, lat700] = await Promise.all([
-    fetchCached(cache, FONT_JP_400),
-    fetchCached(cache, FONT_JP_700),
-    fetchCached(cache, FONT_LAT_400),
-    fetchCached(cache, FONT_LAT_700)
+    fetchBuf(FONT_JP_400),
+    fetchBuf(FONT_JP_700),
+    fetchBuf(FONT_LAT_400),
+    fetchBuf(FONT_LAT_700)
   ]);
-  return [
+  cachedFonts = [
     { name: "NotoSansJP", data: jp400, weight: 400 },
     { name: "NotoSansJP", data: jp700, weight: 700 },
     { name: "NotoSansJP", data: lat400, weight: 400 },
     { name: "NotoSansJP", data: lat700, weight: 700 }
   ];
+  return cachedFonts;
 }
 async function renderOgPng(element) {
   await ensureInit();
