@@ -19075,9 +19075,6 @@ function baseLayout(children) {
     position: "relative"
   }, [...children, siteBadge()]);
 }
-function classBar(cls) {
-  return flex({ width: 6, height: 36, background: classColor(cls), borderRadius: 3, flexShrink: 0 }, []);
-}
 function statBlock(label, value) {
   return flex({ flexDirection: "column", alignItems: "center", gap: 4 }, [
     span(value, { fontSize: 52, fontWeight: 700, color: ACCENT, lineHeight: 1 }),
@@ -19105,76 +19102,235 @@ function makePieChart(segments, size) {
     props: { width: size, height: size, viewBox: `0 0 ${size} ${size}`, style: { flexShrink: 0 }, children: paths }
   };
 }
-function pieLegend(classSummary, total, maxRows = 6) {
-  return flex(
-    { flexDirection: "column", justifyContent: "center", gap: 10 },
-    classSummary.slice(0, maxRows).map(
-      ({ cls, count, winner }) => flex({ alignItems: "center", gap: 10 }, [
-        flex({ width: 12, height: 12, borderRadius: 6, background: classColor(cls), flexShrink: 0 }, []),
-        span(classShort(cls), { fontSize: 20, color: TEXT_DIM, minWidth: 120 }),
-        span(`${Math.round(count / total * 100)}%`, { fontSize: 20, color: TEXT_PRIMARY, minWidth: 48, textAlign: "right" }),
-        winner > 0 ? span(`\u512A\u52DD`, { fontSize: 18, color: ACCENT, marginLeft: 8 }) : null
-      ])
-    )
-  );
-}
-function metaOgElement({ period, tournamentCount, archetypes }) {
-  const periodStr = period.start === period.end ? period.start : `${period.start}\u301C${period.end}`;
-  const rows = archetypes.slice(0, 5).map((arch) => {
-    const second = (arch.finalist ?? 0) - (arch.winner ?? 0);
-    return flex({ alignItems: "center", gap: 14 }, [
-      classBar(arch.class),
-      span(arch.name?.length > 30 ? arch.name.slice(0, 29) + "\u2026" : arch.name ?? "", { fontSize: 26, flex: 1, overflow: "hidden" }),
-      span(`\u512A\u52DD ${arch.winner ?? 0}`, { fontSize: 21, color: ACCENT, minWidth: 76, textAlign: "right" }),
-      span(`\u6E96\u512A\u52DD ${second}`, { fontSize: 21, color: TEXT_DIM, minWidth: 56, textAlign: "right" }),
-      span(`TOP8 ${arch.count ?? 0}`, { fontSize: 21, color: TEXT_DIM, minWidth: 86, textAlign: "right" })
-    ]);
+function makePieChartWithLabels(segments, size) {
+  const total = segments.reduce((s, d) => s + d.value, 0);
+  if (total === 0) return null;
+  const cx = size / 2, cy = size / 2;
+  const r = size * 0.45;
+  const INSIDE_MIN = 0.15;
+  const MIN_LABEL = 0.02;
+  const LEADER_EXT = 18;
+  const LABEL_W = 100;
+  const FS = 18, FP = 15;
+  const LABEL_H = Math.round(FS * 1.2 + FP * 1.2);
+  let angle = -Math.PI / 2;
+  const slices = segments.map((seg) => {
+    const frac = seg.value / total;
+    const sweep = frac * 2 * Math.PI;
+    const startAngle = angle;
+    const midAngle = angle + sweep / 2;
+    angle += sweep;
+    const pct = Math.round(frac * 100);
+    const x1 = cx + r * Math.cos(startAngle);
+    const y1 = cy + r * Math.sin(startAngle);
+    const x2 = cx + r * Math.cos(angle);
+    const y2 = cy + r * Math.sin(angle);
+    const large = sweep > Math.PI ? 1 : 0;
+    const pathD = `M${cx.toFixed(1)},${cy.toFixed(1)}L${x1.toFixed(1)},${y1.toFixed(1)}A${r.toFixed(1)},${r.toFixed(1)},0,${large},1,${x2.toFixed(1)},${y2.toFixed(1)}Z`;
+    const isInside = frac >= INSIDE_MIN;
+    const isRight = Math.cos(midAngle) >= 0;
+    const innerX = cx + r * 0.62 * Math.cos(midAngle);
+    const innerY = cy + r * 0.62 * Math.sin(midAngle);
+    const lineStartX = cx + r * 0.97 * Math.cos(midAngle);
+    const lineStartY = cy + r * 0.97 * Math.sin(midAngle);
+    const lineEndX = cx + (r + LEADER_EXT) * Math.cos(midAngle);
+    const lineEndY = cy + (r + LEADER_EXT) * Math.sin(midAngle);
+    return {
+      ...seg,
+      pathD,
+      pct,
+      frac,
+      midAngle,
+      isInside,
+      isRight,
+      showLabel: frac >= MIN_LABEL,
+      innerX,
+      innerY,
+      lineStartX,
+      lineStartY,
+      lineEndX,
+      lineEndY,
+      labelCY: lineEndY
+      // may be adjusted by anti-overlap
+    };
   });
-  const dots = flex({ flexDirection: "column", alignItems: "center", gap: 6, marginTop: 10 }, [
-    span("\xB7", { fontSize: 20, color: TEXT_DIM }),
-    span("\xB7", { fontSize: 20, color: TEXT_DIM }),
-    span("\xB7", { fontSize: 20, color: TEXT_DIM })
-  ]);
-  return baseLayout([
-    span("\u500B\u4EBA\u6226CS\u74B0\u5883", { fontSize: 54, fontWeight: 700, letterSpacing: "-0.02em" }),
-    span(`\uFF08${periodStr}\u3001\u5927\u4F1A${tournamentCount}\u500B\uFF09`, {
-      fontSize: 22,
-      color: TEXT_DIM,
-      marginTop: 10,
-      marginBottom: 6
-    }),
-    span("TOP8\u9806", { fontSize: 18, color: ACCENT, marginBottom: 20 }),
-    flex({ flexDirection: "column", gap: 14 }, rows),
-    dots
-  ]);
+  const outside = slices.filter((s) => s.showLabel && !s.isInside);
+  ["right", "left"].forEach((side) => {
+    const g2 = outside.filter((s) => side === "right" ? s.isRight : !s.isRight);
+    g2.sort((a, b) => a.lineEndY - b.lineEndY);
+    for (let i = 1; i < g2.length; i++) {
+      const minCY = g2[i - 1].labelCY + LABEL_H + 4;
+      if (g2[i].labelCY < minCY) g2[i].labelCY = minCY;
+    }
+  });
+  const svgEl = {
+    type: "svg",
+    props: {
+      width: size,
+      height: size,
+      viewBox: `0 0 ${size} ${size}`,
+      style: { position: "absolute", top: 0, left: 0 },
+      children: [
+        ...slices.map((s) => ({
+          type: "path",
+          props: { d: s.pathD, fill: s.color, stroke: BG, strokeWidth: 2.5 }
+        })),
+        ...outside.map((s) => ({
+          type: "line",
+          props: {
+            x1: s.lineStartX.toFixed(1),
+            y1: s.lineStartY.toFixed(1),
+            x2: s.lineEndX.toFixed(1),
+            y2: s.labelCY.toFixed(1),
+            stroke: "#aaaaaa",
+            strokeWidth: 1.5
+          }
+        }))
+      ]
+    }
+  };
+  const labelDivs = slices.filter((s) => s.showLabel).map((s) => {
+    const left = Math.round((s.isInside ? s.innerX : s.lineEndX) - LABEL_W / 2);
+    const top = Math.round((s.isInside ? s.innerY : s.labelCY) - LABEL_H / 2);
+    return {
+      type: "div",
+      props: {
+        style: {
+          position: "absolute",
+          left,
+          top,
+          width: LABEL_W,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center"
+        },
+        children: [
+          { type: "span", props: { style: { fontSize: FS, fontWeight: 700, color: TEXT_PRIMARY, lineHeight: 1.2, textAlign: "center", whiteSpace: "nowrap" }, children: s.label } },
+          { type: "span", props: { style: { fontSize: FP, color: TEXT_PRIMARY, lineHeight: 1.2, textAlign: "center", whiteSpace: "nowrap" }, children: `${s.pct}%` } }
+        ]
+      }
+    };
+  });
+  return {
+    type: "div",
+    props: {
+      style: {
+        display: "flex",
+        position: "relative",
+        width: size,
+        height: size,
+        flexShrink: 0,
+        overflow: "visible"
+      },
+      children: [svgEl, ...labelDivs]
+    }
+  };
 }
-function recapOgElement({ eventTitle, period, participants, archetypes }) {
-  const dateStr = period.start === period.end ? period.start : `${period.start}\u301C${period.end}`;
+var CARD_ASPECT = 459 / 641;
+function cardImageEl(cardInfo, borderColor, width, height) {
+  const base = {
+    width,
+    height,
+    overflow: "hidden",
+    borderRadius: 6,
+    border: `3px solid ${borderColor ?? "#333"}`,
+    flexShrink: 0,
+    background: "#15102a",
+    display: "flex",
+    alignItems: "flex-start"
+  };
+  if (!cardInfo?.imageUrl) {
+    return { type: "div", props: { style: base, children: [] } };
+  }
+  const IMG_H = height + 680;
+  const IMG_W = Math.round(IMG_H * CARD_ASPECT);
+  const cropY = cardInfo.cropY ?? 0.26;
+  const cropX = cardInfo.cropX ?? 0.5;
+  const rawTop = -(cropY * IMG_H - height / 2);
+  const rawLeft = -(cropX * (IMG_W - width));
+  const mt = Math.round(Math.max(-(IMG_H - height), Math.min(0, rawTop)));
+  const ml2 = Math.round(Math.max(-(IMG_W - width), Math.min(0, rawLeft)));
+  return {
+    type: "div",
+    props: {
+      style: base,
+      children: [{
+        type: "img",
+        props: {
+          src: cardInfo.imageUrl,
+          style: {
+            width: `${IMG_W}px`,
+            height: `${IMG_H}px`,
+            marginTop: `${mt}px`,
+            marginLeft: `${ml2}px`
+          }
+        }
+      }]
+    }
+  };
+}
+function metaOgElement({ period, tournamentCount, archetypes, archetypesWithImages = [] }) {
+  const periodStr = period.start === period.end ? period.start : `${period.start}\u301C${period.end}`;
   const classMap = {};
   for (const arch of archetypes) {
-    if (!classMap[arch.class]) classMap[arch.class] = { count: 0, winner: 0 };
-    classMap[arch.class].count += arch.count ?? 0;
-    classMap[arch.class].winner += arch.winner ?? 0;
+    classMap[arch.class] = (classMap[arch.class] ?? 0) + (arch.count ?? 0);
   }
-  const classSummary = Object.entries(classMap).map(([cls, d]) => ({ cls, ...d })).sort((a, b) => b.count - a.count);
-  const total = classSummary.reduce((s, d) => s + d.count, 0);
-  const topN = classSummary.reduce((s, d) => s + d.count, 0);
-  const pie = makePieChart(classSummary.map(({ cls, count }) => ({ color: classColor(cls), value: count })), 220);
+  const classSummary = Object.entries(classMap).map(([cls, count]) => ({ cls, count })).sort((a, b) => b.count - a.count);
+  const PIE = 380;
+  const GAP = 60;
+  const CW = 312;
+  const CH = 182;
+  const pie = makePieChartWithLabels(
+    classSummary.map(({ cls, count }) => ({ color: classColor(cls), value: count, label: classShort(cls) })),
+    PIE
+  );
+  const top4 = archetypesWithImages.slice(0, 4);
+  const makeRow = (items) => flex(
+    { gap: 16 },
+    items.map((a) => cardImageEl(a.cardInfo, classColor(a.class), CW, CH))
+  );
+  const rows = [];
+  if (top4.slice(0, 2).length) rows.push(makeRow(top4.slice(0, 2)));
+  if (top4.slice(2, 4).length) rows.push(makeRow(top4.slice(2, 4)));
+  const cardGrid = flex({ flexDirection: "column", gap: 16 }, rows);
   return baseLayout([
-    span(eventTitle, { fontSize: 36, fontWeight: 700, lineHeight: 1.25, maxWidth: 1e3 }),
-    span(`${dateStr}  \u53C2\u52A0\u8005 ${participants}\u540D`, {
-      fontSize: 20,
-      color: TEXT_DIM,
-      marginTop: 8,
-      marginBottom: 28
-    }),
-    flex({ gap: 48, alignItems: "flex-start" }, [
-      flex({ flexDirection: "column", alignItems: "center", gap: 8 }, [
-        span(`TOP${topN} \u30AF\u30E9\u30B9\u5206\u5E03`, { fontSize: 16, color: TEXT_DIM, marginBottom: 4 }),
-        pie
-      ]),
-      pieLegend(classSummary, total, 7)
-    ])
+    span("\u500B\u4EBA\u6226CS\u74B0\u5883", { fontSize: 44, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 4 }),
+    span(`${periodStr}\u3000\u5927\u4F1A${tournamentCount}\u500B`, { fontSize: 17, color: TEXT_DIM, marginBottom: 12 }),
+    flex({ gap: GAP, alignItems: "center" }, [pie, cardGrid])
+  ]);
+}
+function recapOgElement({ eventTitle, shortName, period, participants, archetypes, winnerCardInfo = null }) {
+  const dateStr = period.start === period.end ? period.start : `${period.start}\u301C${period.end}`;
+  const displayTitle = eventTitle.length > 32 && shortName ? shortName : eventTitle;
+  const classMap = {};
+  for (const arch of archetypes) {
+    classMap[arch.class] = (classMap[arch.class] ?? 0) + (arch.count ?? 0);
+  }
+  const classSummary = Object.entries(classMap).map(([cls, count]) => ({ cls, count })).sort((a, b) => b.count - a.count);
+  const PIE = 380;
+  const pie = makePieChartWithLabels(
+    classSummary.map(({ cls, count }) => ({ color: classColor(cls), value: count, label: classShort(cls) })),
+    PIE
+  );
+  const winnerArch = archetypes.find((a) => (a.winner ?? 0) > 0) ?? archetypes[0];
+  const winnerColor = winnerArch ? classColor(winnerArch.class) : ACCENT;
+  const rightSection = flex({
+    flex: 1,
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 14
+  }, [
+    cardImageEl(winnerCardInfo, winnerColor, 250, 370),
+    winnerArch ? flex({ flexDirection: "column", alignItems: "center", gap: 4 }, [
+      span("\u512A\u52DD", { fontSize: 15, color: ACCENT }),
+      span(winnerArch.name ?? "", { fontSize: 22, fontWeight: 700, color: TEXT_PRIMARY })
+    ]) : null
+  ]);
+  return baseLayout([
+    span(displayTitle, { fontSize: 38, fontWeight: 700, lineHeight: 1.25, marginBottom: 6 }),
+    span(`${dateStr}\u3000\u53C2\u52A0\u8005 ${participants}\u540D`, { fontSize: 18, color: TEXT_DIM, marginBottom: 18 }),
+    flex({ gap: 36, alignItems: "center" }, [pie, rightSection])
   ]);
 }
 function playerDetailOgElement({ name, prevNames = [], wins, second, top8, classCounts, recapBadges = [] }) {
@@ -19266,19 +19422,28 @@ async function onRequest(context) {
       element = metaOgElement({
         period: meta2.period,
         tournamentCount: meta2.total_winners,
-        archetypes: meta2.archetypes ?? []
+        archetypes: meta2.archetypes ?? [],
+        archetypesWithImages: []
+        // no card images in runtime rendering
       });
     } else if (page === "recap") {
       console.log("[og-image] building recap element");
       const eventId = url.searchParams.get("event");
       if (!eventId) return new Response("missing event", { status: 400 });
-      const meta2 = await fetchJson(`${origin}/data/recap/${eventId}/meta.json`);
+      const [meta2, recapIndex] = await Promise.all([
+        fetchJson(`${origin}/data/recap/${eventId}/meta.json`),
+        fetchJson(`${origin}/data/recap/index.json`).catch(() => [])
+      ]);
+      const eventInfo = Array.isArray(recapIndex) ? recapIndex.find((e) => e.event_id === eventId) ?? {} : {};
       console.log("[og-image] recap meta fetched");
       element = recapOgElement({
         eventTitle: meta2.event_title,
+        shortName: eventInfo.short_name,
         period: meta2.period,
         participants: meta2.participants ?? meta2.total_decks,
-        archetypes: meta2.archetypes ?? []
+        archetypes: meta2.archetypes ?? [],
+        winnerCardInfo: null
+        // no card images in runtime rendering
       });
     } else if (page === "player") {
       console.log("[og-image] building player element");
