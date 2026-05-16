@@ -1,0 +1,97 @@
+{
+  "_split_suggestions": {
+    "a9589a": {
+      "name": "宴楽ロイヤル",
+      "class": "ロイヤル",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "マグナゼロ",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "簒奪の絶傑・オクトリス",
+              "y_ratio": 39,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            },
+            {
+              "y": "ワールドブレイク",
+              "y_ratio": 78,
+              "co_occur_pct": 11,
+              "diff_pct": -52
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "ナハトの私兵",
+              "ratio": 44
+            }
+          ],
+          "drops": [
+            {
+              "y": "アヴァリティア",
+              "y_ratio": 56,
+              "co_occur_pct": 6,
+              "diff_pct": -78
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "簒奪の絶傑・オクトリス",
+              "ratio": 39
+            }
+          ],
+          "drops": [
+            {
+              "y": "スパルタクス",
+              "y_ratio": 72,
+              "co_occur_pct": 11,
+              "diff_pct": -71
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

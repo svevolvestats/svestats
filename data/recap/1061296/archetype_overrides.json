@@ -1,0 +1,71 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "ecbd7e",
+      "rules": [
+        {
+          "required": ["真理の大文豪・ユキシマ"],
+          "name": "魔法使いウィッチ"
+        },
+        {
+          "required": ["魔道具専門店"],
+          "name": "魔道具超越ウィッチ"
+        },
+        {
+          "required": [],
+          "name": "超越ウィッチ"
+        }
+      ]
+    },
+    {
+      "source": "a2c905",
+      "rules": [
+        {
+          "required": ["見習い魔女と長い夜"],
+          "name": "スペルウマ娘"
+        },
+        {
+          "required": ["メジロラモーヌ"],
+          "name": "メジロナイトメア"
+        },
+        {
+          "required": [],
+          "name": "横並びウマ娘"
+        }
+      ]
+    },
+    {
+      "source": "d560d6",
+      "rules": [
+        {
+          "required": ["ドアマンバット"],
+          "name": "宴楽ナイトメア"
+        },
+        {
+          "required": [],
+          "name": "NCナイトメア"
+        }
+      ]
+    },
+    {
+      "source": "23f3dd",
+      "rules": [
+        {
+          "required": ["ゴールドシップ"],
+          "name": "ゴルシビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    }
+  ]
+}

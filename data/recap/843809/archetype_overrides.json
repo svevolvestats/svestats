@@ -1,0 +1,41 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "5b634b",
+      "rules": [
+        {
+          "required": ["闇夜の姫・ヴァンピィ"],
+          "name": "吸血鬼ナイトメア"
+        },
+        {
+          "required": ["真紅のローズクイーン"],
+          "name": "2コスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "荒野ナイトメア"
+        }
+      ]
+    },
+    {
+      "source": "941f32",
+      "rules": [
+        {
+          "required": ["王たる光・ベイリオン"],
+          "name": "自然ロイヤル"
+        },
+        {
+          "required": [],
+          "name": "1コスロイヤル"
+        }
+      ]
+    }
+  ]
+}

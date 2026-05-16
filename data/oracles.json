@@ -13643,7 +13643,9 @@
     "oracle_id": "BP03-030",
     "is_dual_face": false,
     "name": "プリンセスキス",
-    "alt_names": [],
+    "alt_names": [
+      "おプリンセスキス"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "スペル"
@@ -13660,39 +13662,7 @@
     "keywords": [],
     "canonical_print": "BP03-030",
     "prints": [
-      "BP03-030"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "illustrator": "カズキテエリ",
-    "legal_status": null
-  },
-  {
-    "oracle_id": "BP03-031",
-    "is_dual_face": false,
-    "name": "おプリンセスキス",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "プリンセス",
-      "童話"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "これをプレイする際、自分の場にプリンセス・フォロワーがいるなら、コストを-1する。\n下記から1つチョイスする。【1】自分のフォロワー1体を選ぶ。それは攻撃力+1する。それに童話カウンター1つを置いてよい。【2】自分の墓場のロイヤルフォロワー3枚まで選ぶ。それをデッキに戻し、シャッフルする。1枚引く。",
-    "keywords": [],
-    "canonical_print": "BP03-031",
-    "prints": [
+      "BP03-030",
       "BP03-031"
     ],
     "evolves_to": [],
@@ -13702,7 +13672,7 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
-    "illustrator": "",
+    "illustrator": "カズキテエリ",
     "legal_status": null
   },
   {
@@ -105367,16 +105337,16 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-023",
-      "CP02-024",
-      "CSD02A-001",
-      "CSD02A-LD01",
-      "ECP02-015",
       "CP02-022",
       "CSD02C-001",
       "CSD02C-LD01",
       "ECP02-013",
-      "ECP02-014"
+      "ECP02-014",
+      "CP02-023",
+      "CP02-024",
+      "CSD02A-001",
+      "CSD02A-LD01",
+      "ECP02-015"
     ],
     "illustrator": "",
     "legal_status": null
@@ -105504,15 +105474,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012",
       "CP02-022",
       "CSD02C-001",
       "CSD02C-LD01",
       "ECP02-013",
-      "ECP02-014"
+      "ECP02-014",
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012"
     ],
     "illustrator": "",
     "legal_status": null
@@ -125927,14 +125897,14 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "ECP02-027",
-      "CP02-038",
-      "ECP02-026",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
       "ECP02-034",
-      "CP02-044"
+      "CP02-044",
+      "CP02-038",
+      "ECP02-026",
+      "ECP02-027"
     ],
     "illustrator": "",
     "legal_status": null

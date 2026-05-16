@@ -1,0 +1,88 @@
+{
+  "_split_suggestions": {
+    "372dfa": {
+      "name": "かげろう",
+      "class": "カードファイト!! ヴァンガード",
+      "n": 24,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "魔竜戦鬼 ヤクシャ",
+              "ratio": 29
+            }
+          ],
+          "drops": [
+            {
+              "y": "ドラゴンモンク ゴジョー",
+              "y_ratio": 54,
+              "co_occur_pct": 4,
+              "diff_pct": -56
+            }
+          ]
+        }
+      ]
+    },
+    "9b077d": {
+      "name": "9b077d",
+      "class": "ナイトメア",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "スカルドリーマー",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "冥守の戦士・カムラ",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "パンクデビル・デモニア",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

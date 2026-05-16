@@ -1,0 +1,59 @@
+{
+  "_split_suggestions": {
+    "faf43e": {
+      "name": "かげろう",
+      "class": "カードファイト!! ヴァンガード",
+      "n": 38,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "連撃のサザーランド",
+              "ratio": 18
+            }
+          ],
+          "drops": [
+            {
+              "y": "希望の火 エルモ",
+              "y_ratio": 79,
+              "co_occur_pct": 5,
+              "diff_pct": -62
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

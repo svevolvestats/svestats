@@ -1,0 +1,37 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "a04de0",
+      "rules": [
+        {
+          "required": ["瘴気の妖精姫・アリア"],
+          "name": "妖精エルフ"
+        },
+        {
+          "required": [],
+          "name": "セッカエルフ"
+        }
+      ]
+    },
+    {
+      "source": "f4ed99",
+      "rules": [
+        {
+          "required": ["天下の大泥棒・ジエモン"],
+          "name": "宴楽ロイヤル"
+        },
+        {
+          "required": [],
+          "name": "荒野ロイヤル"
+        }
+      ]
+    }
+  ]
+}

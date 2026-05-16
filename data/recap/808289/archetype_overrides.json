@@ -1,0 +1,50 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "51df78",
+      "rules": [
+        {
+          "required": ["次元の超越"],
+          "name": "超越ウィッチ"
+        },
+        {
+          "required": [],
+          "name": "アイドルウィッチ"
+        }
+      ]
+    },
+    {
+      "source": "b552ec",
+      "rules": [
+        {
+          "required": ["真紅のローズクイーン"],
+          "name": "2コスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+    },
+    {
+      "source": "a0535b",
+      "rules": [
+        {
+          "required": ["神の盾・ブローディア"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    }
+  ]
+}
