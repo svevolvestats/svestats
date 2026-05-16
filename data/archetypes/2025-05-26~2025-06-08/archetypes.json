@@ -7,132 +7,158 @@
       "マヤノトップガン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "世界にもっと☆マーベラス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "その背中を越えて": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "〔うららか・ぱっしょん♪〕ハルウララ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "〔Escorte étoile〕シリウスシンボリ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "ジャングルポケット": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "カツラギエース": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 3.0
       },
       "サウンズオブアース": {
         "avg": 2.9875,
         "ratio": 1.0,
-        "rank": 0.64
+        "rank": 0.64,
+        "avg_when_used": 2.99
       },
       "〔マチタン☆アドベンチャー〕マチカネタンホイザ": {
         "avg": 2.95,
         "ratio": 1.0,
-        "rank": 0.674
+        "rank": 0.674,
+        "avg_when_used": 2.95
       },
       "サクラバクシンオー": {
         "avg": 2.8875,
         "ratio": 0.975,
-        "rank": 0.744
+        "rank": 0.744,
+        "avg_when_used": 2.96
       },
       "シュヴァルグラン": {
         "avg": 2.7125,
         "ratio": 0.975,
-        "rank": 0.678
+        "rank": 0.678,
+        "avg_when_used": 2.78
       },
       "ホッコータルマエ": {
         "avg": 2.7,
         "ratio": 0.9625,
-        "rank": 0.812
+        "rank": 0.812,
+        "avg_when_used": 2.81
       },
       "エアシャカール": {
         "avg": 1.3875,
         "ratio": 0.8375,
-        "rank": 0.933
+        "rank": 0.933,
+        "avg_when_used": 1.66
       },
       "マンハッタンカフェ": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.629
+        "rank": 0.629,
+        "avg_when_used": 1.0
       },
       "タップダンスシチー": {
         "avg": 0.7125,
         "ratio": 0.45,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 1.58
       },
       "サクラローレル": {
         "avg": 0.7,
         "ratio": 0.45,
-        "rank": 0.697
+        "rank": 0.697,
+        "avg_when_used": 1.56
       },
       "ドゥラメンテ": {
         "avg": 0.3875,
         "ratio": 0.2625,
-        "rank": 0.695
+        "rank": 0.695,
+        "avg_when_used": 1.48
       },
       "〔桃色のバックショット〕ナリタトップロード": {
         "avg": 0.225,
         "ratio": 0.175,
-        "rank": 0.094
+        "rank": 0.094,
+        "avg_when_used": 1.29
       },
       "ヤマニンゼファー": {
         "avg": 0.1125,
         "ratio": 0.0375,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "ヒシミラクル": {
         "avg": 0.1,
         "ratio": 0.05,
-        "rank": 0.991
+        "rank": 0.991,
+        "avg_when_used": 2.0
       },
       "スペシャルウィーク": {
         "avg": 0.1,
         "ratio": 0.0625,
-        "rank": 0.028
+        "rank": 0.028,
+        "avg_when_used": 1.6
       },
       "ダイイチルビー": {
         "avg": 0.075,
         "ratio": 0.0375,
-        "rank": 0.196
+        "rank": 0.196,
+        "avg_when_used": 2.0
       },
       "マーベラスサンデー": {
         "avg": 0.0625,
         "ratio": 0.0625,
-        "rank": 0.657
+        "rank": 0.657,
+        "avg_when_used": 1.0
       },
       "ダイタクヘリオス": {
         "avg": 0.0375,
         "ratio": 0.0375,
-        "rank": 0.41
+        "rank": 0.41,
+        "avg_when_used": 1.0
       },
       "〔月下の悪魔ちゃん♪〕メジロパーマー": {
         "avg": 0.025,
         "ratio": 0.0125,
-        "rank": 0.525
+        "rank": 0.525,
+        "avg_when_used": 2.0
       },
       "迫る熱に押されて": {
         "avg": 0.0125,
         "ratio": 0.0125,
-        "rank": 0.881
+        "rank": 0.881,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -145,7 +171,8 @@
         "player": "カナリア",
         "friend_code": "YWOYC",
         "venue": "カードベース ジャブロー",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 15
       },
       {
         "event": "1115491",
@@ -156,7 +183,8 @@
         "player": "むんむん",
         "friend_code": "STZHO",
         "venue": "スミレヤ",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 37
       },
       {
         "event": "1112494",
@@ -167,7 +195,8 @@
         "player": "金森もなか",
         "friend_code": "ASLUE",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1102694",
@@ -178,7 +207,8 @@
         "player": "ぢーお",
         "friend_code": "OXAET",
         "venue": "ドラゴンスター秋葉原駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1118812",
@@ -189,7 +219,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "竜星の嵐　十三店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 27
       },
       {
         "event": "1112494",
@@ -200,7 +231,8 @@
         "player": "たいき",
         "friend_code": "RISDP",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1119894",
@@ -211,7 +243,8 @@
         "player": "ナメクジ君",
         "friend_code": "DWUFJ",
         "venue": "カードボックス広島店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 34
       },
       {
         "event": "1107296",
@@ -223,6 +256,7 @@
         "friend_code": "IDPDH",
         "venue": "フルコンプ仙台駅前店",
         "date": "2025-05-31",
+        "pref_code": 4,
         "variant_cards": [
           {
             "name": "マーベラスサンデー",
@@ -239,7 +273,8 @@
         "player": "しあえもん",
         "friend_code": "SSMUU",
         "venue": "竜星の嵐　十三店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 27
       },
       {
         "event": "1115491",
@@ -250,7 +285,8 @@
         "player": "ちゃくらむ",
         "friend_code": "EPBMH",
         "venue": "スミレヤ",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 37
       },
       {
         "event": "1112494",
@@ -261,7 +297,8 @@
         "player": "ばそ",
         "friend_code": "ITKCM",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1107278",
@@ -272,7 +309,8 @@
         "player": "ミカ",
         "friend_code": "CZZSA",
         "venue": "デュエルキング",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 22
       },
       {
         "event": "1121739",
@@ -284,6 +322,7 @@
         "friend_code": "ZSVGS",
         "venue": "カードベース ジャブロー",
         "date": "2025-05-31",
+        "pref_code": 15,
         "variant_cards": [
           {
             "name": "ヒシミラクル",
@@ -300,7 +339,8 @@
         "player": "荒川陽太",
         "friend_code": "NMKGM",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1101551",
@@ -312,6 +352,7 @@
         "friend_code": "CWSEG",
         "venue": "パピー弥富店",
         "date": "2025-05-31",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "ホッコータルマエ",
@@ -329,6 +370,7 @@
         "friend_code": "UWMGA",
         "venue": "竜星の嵐　十三店",
         "date": "2025-05-31",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "スペシャルウィーク",
@@ -345,7 +387,8 @@
         "player": "コットン",
         "friend_code": "RDAIY",
         "venue": "フルコンプ仙台駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 4
       },
       {
         "event": "1112494",
@@ -356,7 +399,8 @@
         "player": "ケニヲ",
         "friend_code": "FBSYG",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1102694",
@@ -367,7 +411,8 @@
         "player": "かもかも",
         "friend_code": "BIEBS",
         "venue": "ドラゴンスター秋葉原駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1112958",
@@ -378,7 +423,8 @@
         "player": "ハセガワ",
         "friend_code": "LTMUN",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1102091",
@@ -389,7 +435,8 @@
         "player": "ケニヲ",
         "friend_code": "FBSYG",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1115910",
@@ -400,7 +447,8 @@
         "player": "らすく",
         "friend_code": "TEAPM",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1115910",
@@ -411,7 +459,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1115910",
@@ -422,7 +471,8 @@
         "player": "しみこみダイコン",
         "friend_code": "GOMHW",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1092748",
@@ -433,7 +483,8 @@
         "player": "F",
         "friend_code": "RPHOE",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       },
       {
         "event": "1092748",
@@ -445,6 +496,7 @@
         "friend_code": "HFUVL",
         "venue": "プロジェクトコア阿倍野店",
         "date": "2025-05-28",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "スペシャルウィーク",
@@ -461,7 +513,8 @@
         "player": "kiyo",
         "friend_code": "BUCNA",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1104056",
@@ -472,7 +525,8 @@
         "player": "トア",
         "friend_code": "ZHYFG",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1104056",
@@ -483,7 +537,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1104056",
@@ -494,7 +549,8 @@
         "player": "きゃみー",
         "friend_code": "AURGM",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1104056",
@@ -505,7 +561,8 @@
         "player": "鴉",
         "friend_code": "VNTIV",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1144354",
@@ -516,7 +573,8 @@
         "player": "紫苑",
         "friend_code": "CWSEG",
         "venue": "カードショップ海賊船-Starch-",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 21
       },
       {
         "event": "1158778",
@@ -528,6 +586,7 @@
         "friend_code": "MYLEE",
         "venue": "アドバンテージ岐阜店",
         "date": "2025-06-08",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "シュヴァルグラン",
@@ -544,7 +603,8 @@
         "player": "イシのハラ",
         "friend_code": "ZAIHS",
         "venue": "カードボックス福山店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 34
       },
       {
         "event": "1158569",
@@ -556,6 +616,7 @@
         "friend_code": "LNFOL",
         "venue": "竜星の嵐　小倉駅前店",
         "date": "2025-06-08",
+        "pref_code": 40,
         "variant_cards": [
           {
             "name": "ダイタクヘリオス",
@@ -580,7 +641,8 @@
         "player": "はも",
         "friend_code": "IAEMB",
         "venue": "カードショップ海賊船-Starch-",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 21
       },
       {
         "event": "1158569",
@@ -592,6 +654,7 @@
         "friend_code": "MQAMA",
         "venue": "竜星の嵐　小倉駅前店",
         "date": "2025-06-08",
+        "pref_code": 40,
         "variant_cards": [
           {
             "name": "ヒシミラクル",
@@ -608,7 +671,8 @@
         "player": "茜雫(せんな)",
         "friend_code": "BXZAB",
         "venue": "竜星の嵐　小倉駅前店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 40
       },
       {
         "event": "1143505",
@@ -620,6 +684,7 @@
         "friend_code": "IECZM",
         "venue": "スミレヤ",
         "date": "2025-06-07",
+        "pref_code": 37,
         "variant_cards": [
           {
             "name": "迫る熱に押されて",
@@ -640,7 +705,8 @@
         "player": "クオン  ",
         "friend_code": "GWGKA",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       },
       {
         "event": "1143001",
@@ -651,7 +717,8 @@
         "player": "イシのハラ",
         "friend_code": "ZAIHS",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       },
       {
         "event": "1143505",
@@ -662,7 +729,8 @@
         "player": "ちゃくらむ",
         "friend_code": "EPBMH",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1143001",
@@ -673,7 +741,8 @@
         "player": "くろいち",
         "friend_code": "RCEOA",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       },
       {
         "event": "1156604",
@@ -684,7 +753,8 @@
         "player": "このん",
         "friend_code": "ZCJWP",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
-        "date": "2025-06-06"
+        "date": "2025-06-06",
+        "pref_code": 12
       },
       {
         "event": "1156604",
@@ -695,7 +765,8 @@
         "player": "くまかもしれない?",
         "friend_code": "PUZDK",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
-        "date": "2025-06-06"
+        "date": "2025-06-06",
+        "pref_code": 12
       },
       {
         "event": "1156604",
@@ -706,7 +777,8 @@
         "player": "HardCoreヒデ",
         "friend_code": "BRGOO",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
-        "date": "2025-06-06"
+        "date": "2025-06-06",
+        "pref_code": 12
       },
       {
         "event": "1141457",
@@ -717,7 +789,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-06-04"
+        "date": "2025-06-04",
+        "pref_code": 27
       },
       {
         "event": "1141457",
@@ -729,6 +802,7 @@
         "friend_code": "ZKXCR",
         "venue": "プロジェクトコア阿倍野店",
         "date": "2025-06-04",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "スペシャルウィーク",
@@ -745,7 +819,8 @@
         "player": "しあえもん",
         "friend_code": "SSMUU",
         "venue": "ザウルス",
-        "date": "2025-06-03"
+        "date": "2025-06-03",
+        "pref_code": 26
       },
       {
         "event": "1140424",
@@ -756,7 +831,8 @@
         "player": "きゃみー",
         "friend_code": "AURGM",
         "venue": "ザウルス",
-        "date": "2025-06-03"
+        "date": "2025-06-03",
+        "pref_code": 26
       },
       {
         "event": "1140424",
@@ -767,7 +843,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "ザウルス",
-        "date": "2025-06-03"
+        "date": "2025-06-03",
+        "pref_code": 26
       },
       {
         "event": "1140424",
@@ -778,7 +855,8 @@
         "player": "poyu",
         "friend_code": "TWPGT",
         "venue": "ザウルス",
-        "date": "2025-06-03"
+        "date": "2025-06-03",
+        "pref_code": 26
       },
       {
         "event": "1140424",
@@ -790,6 +868,7 @@
         "friend_code": "WMVFF",
         "venue": "ザウルス",
         "date": "2025-06-03",
+        "pref_code": 26,
         "variant_cards": [
           {
             "name": "ダイタクヘリオス",
@@ -814,7 +893,8 @@
         "player": "トア",
         "friend_code": "ZHYFG",
         "venue": "イーフォーラム河内長野店",
-        "date": "2025-06-02"
+        "date": "2025-06-02",
+        "pref_code": 27
       },
       {
         "event": "1157503",
@@ -825,7 +905,8 @@
         "player": "ばんどえーど",
         "friend_code": "HFUVL",
         "venue": "イーフォーラム河内長野店",
-        "date": "2025-06-02"
+        "date": "2025-06-02",
+        "pref_code": 27
       },
       {
         "event": "1157503",
@@ -836,7 +917,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "イーフォーラム河内長野店",
-        "date": "2025-06-02"
+        "date": "2025-06-02",
+        "pref_code": 27
       },
       {
         "event": "1130292",
@@ -847,7 +929,8 @@
         "player": "むんむん",
         "friend_code": "STZHO",
         "venue": "カードボックスイオンモール高知店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 39
       },
       {
         "event": "1126242",
@@ -858,7 +941,8 @@
         "player": "ハレルヤ",
         "friend_code": "QQCSC",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       },
       {
         "event": "1161266",
@@ -869,7 +953,8 @@
         "player": "カナ",
         "friend_code": "FCESK",
         "venue": "オレタン福岡天神店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 40
       },
       {
         "event": "1140420",
@@ -880,7 +965,8 @@
         "player": "Suguteru/スグテル",
         "friend_code": "HMVYJ",
         "venue": "カードシークレット池袋",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1126242",
@@ -891,7 +977,8 @@
         "player": "ヤギ",
         "friend_code": "OCUQW",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       },
       {
         "event": "1130292",
@@ -902,7 +989,8 @@
         "player": "shota",
         "friend_code": "SANQS",
         "venue": "カードボックスイオンモール高知店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 39
       },
       {
         "event": "1136939",
@@ -913,7 +1001,8 @@
         "player": "ぢーお",
         "friend_code": "OXAET",
         "venue": "ホビーステーション 津田沼",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 12
       },
       {
         "event": "1161266",
@@ -924,7 +1013,8 @@
         "player": "アイギス",
         "friend_code": "ZPDJP",
         "venue": "オレタン福岡天神店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 40
       },
       {
         "event": "1128303",
@@ -935,7 +1025,8 @@
         "player": "トラ",
         "friend_code": "PBYJV",
         "venue": "ハリケーン川西店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 27
       },
       {
         "event": "1156602",
@@ -947,6 +1038,7 @@
         "friend_code": "OJRRP",
         "venue": "トーナメントセンターバトロコ小山駅前",
         "date": "2025-06-01",
+        "pref_code": 9,
         "variant_cards": [
           {
             "name": "ヒシミラクル",
@@ -963,7 +1055,8 @@
         "player": "ユニ",
         "friend_code": "PBFJG",
         "venue": "オレタン福岡天神店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 40
       },
       {
         "event": "1136939",
@@ -974,7 +1067,8 @@
         "player": "くまかもしれない?",
         "friend_code": "PUZDK",
         "venue": "ホビーステーション 津田沼",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 12
       },
       {
         "event": "1161735",
@@ -986,6 +1080,7 @@
         "friend_code": "MYLEE",
         "venue": "こども楽園",
         "date": "2025-06-01",
+        "pref_code": 21,
         "variant_cards": [
           {
             "name": "シュヴァルグラン",
@@ -1002,7 +1097,8 @@
         "player": "たまぱ",
         "friend_code": "OGXGQ",
         "venue": "カードシークレット池袋",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1158789",
@@ -1013,7 +1109,8 @@
         "player": "rajan",
         "friend_code": "YJYHQ",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 19
       },
       {
         "event": "1159985",
@@ -1025,6 +1122,7 @@
         "friend_code": "KYDCC",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "〔月下の悪魔ちゃん♪〕メジロパーマー",
@@ -1042,6 +1140,7 @@
         "friend_code": "IDPDH",
         "venue": "シーガル仙台駅前店",
         "date": "2025-06-01",
+        "pref_code": 4,
         "variant_cards": [
           {
             "name": "マーベラスサンデー",
@@ -1059,6 +1158,7 @@
         "friend_code": "POFGW",
         "venue": "カードゲームショップ オレタン 岡山本店",
         "date": "2025-06-01",
+        "pref_code": 33,
         "variant_cards": [
           {
             "name": "ダイタクヘリオス",
@@ -1087,7 +1187,8 @@
         "player": "金森もなか",
         "friend_code": "ASLUE",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 14
       },
       {
         "event": "1140420",
@@ -1098,7 +1199,8 @@
         "player": "mituki",
         "friend_code": "PLXMW",
         "venue": "カードシークレット池袋",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1130292",
@@ -1110,6 +1212,7 @@
         "friend_code": "QTKDY",
         "venue": "カードボックスイオンモール高知店",
         "date": "2025-06-01",
+        "pref_code": 39,
         "variant_cards": [
           {
             "name": "マーベラスサンデー",
@@ -1126,7 +1229,8 @@
         "player": "鈴蘭",
         "friend_code": "MSBCG",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1158417",
@@ -1137,7 +1241,8 @@
         "player": "マリオ太郎",
         "friend_code": "MWZCR",
         "venue": "シーガル仙台駅前店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 4
       },
       {
         "event": "1156482",
@@ -1148,7 +1253,8 @@
         "player": "パチ町小鈴",
         "friend_code": "NIZYL",
         "venue": "カードゲームショップ オレタン 岡山本店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 33
       }
     ],
     "split_pairs": [
@@ -1210,192 +1316,230 @@
       "極意たる空絶": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.372
+        "rank": 0.372,
+        "avg_when_used": 3.0
       },
       "簒奪の絶傑・オクトリス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.372
+        "rank": 0.372,
+        "avg_when_used": 3.0
       },
       "空絶の簒奪・オクトリス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.372
+        "rank": 0.372,
+        "avg_when_used": 3.0
       },
       "簒奪の蛇剣": {
         "avg": 2.9796,
         "ratio": 1.0,
-        "rank": 0.375
+        "rank": 0.375,
+        "avg_when_used": 2.98
       },
       "鮮やかな奪取": {
         "avg": 2.9184,
         "ratio": 1.0,
-        "rank": 0.323
+        "rank": 0.323,
+        "avg_when_used": 2.92
       },
       "アヴァリティア": {
         "avg": 2.898,
         "ratio": 1.0,
-        "rank": 0.375
+        "rank": 0.375,
+        "avg_when_used": 2.9
       },
       "アルセーヌ・ルパン": {
         "avg": 2.8367,
         "ratio": 0.9796,
-        "rank": 0.298
+        "rank": 0.298,
+        "avg_when_used": 2.9
       },
       "アサルトバンデッド": {
         "avg": 2.7755,
         "ratio": 0.9388,
-        "rank": 0.323
+        "rank": 0.323,
+        "avg_when_used": 2.96
       },
       "月の刃・リオード": {
         "avg": 2.2857,
         "ratio": 0.7959,
-        "rank": 0.72
+        "rank": 0.72,
+        "avg_when_used": 2.87
       },
       "空絶の崇拝者": {
         "avg": 2.2653,
         "ratio": 0.8163,
-        "rank": 0.474
+        "rank": 0.474,
+        "avg_when_used": 2.77
       },
       "オネストシーフ": {
         "avg": 2.1224,
         "ratio": 0.7755,
-        "rank": 0.297
+        "rank": 0.297,
+        "avg_when_used": 2.74
       },
       "簒奪の舞": {
         "avg": 2.0,
         "ratio": 0.9184,
-        "rank": 0.217
+        "rank": 0.217,
+        "avg_when_used": 2.18
       },
       "カースドクイーン・ナハト・ナハト": {
         "avg": 1.7755,
         "ratio": 0.6531,
-        "rank": 0.267
+        "rank": 0.267,
+        "avg_when_used": 2.72
       },
       "簒奪の従者": {
         "avg": 1.3265,
         "ratio": 0.4694,
-        "rank": 0.777
+        "rank": 0.777,
+        "avg_when_used": 2.83
       },
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 1.1224,
         "ratio": 0.4898,
-        "rank": 0.024
+        "rank": 0.024,
+        "avg_when_used": 2.29
       },
       "達人の芸者": {
         "avg": 0.6327,
         "ratio": 0.2245,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 2.82
       },
       "盗賊の乱飛": {
         "avg": 0.4286,
         "ratio": 0.2449,
-        "rank": 0.372
+        "rank": 0.372,
+        "avg_when_used": 1.75
       },
       "簒奪の隠者": {
         "avg": 0.4082,
         "ratio": 0.3061,
-        "rank": 0.26
+        "rank": 0.26,
+        "avg_when_used": 1.33
       },
       "簒奪の信者": {
         "avg": 0.3673,
         "ratio": 0.1429,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.57
       },
       "ワールドブレイク": {
         "avg": 0.3469,
         "ratio": 0.3469,
-        "rank": 0.157
+        "rank": 0.157,
+        "avg_when_used": 1.0
       },
       "簒奪の狂信者": {
         "avg": 0.3265,
         "ratio": 0.1837,
-        "rank": 0.855
+        "rank": 0.855,
+        "avg_when_used": 1.78
       },
       "真理の騎士 ゴードン": {
         "avg": 0.1429,
         "ratio": 0.0612,
-        "rank": 0.404
+        "rank": 0.404,
+        "avg_when_used": 2.33
       },
       "天使の恩寵": {
         "avg": 0.1224,
         "ratio": 0.0612,
-        "rank": 0.23
+        "rank": 0.23,
+        "avg_when_used": 2.0
       },
       "閃光の盾 イゾルデ": {
         "avg": 0.1224,
         "ratio": 0.0408,
-        "rank": 0.147
+        "rank": 0.147,
+        "avg_when_used": 3.0
       },
       "不思議な青空・アリス": {
         "avg": 0.102,
         "ratio": 0.0408,
-        "rank": 0.073
+        "rank": 0.073,
+        "avg_when_used": 2.5
       },
       "メイドリーダー": {
         "avg": 0.0816,
         "ratio": 0.0612,
-        "rank": 0.682
+        "rank": 0.682,
+        "avg_when_used": 1.33
       },
       "レイジーナイト・ネラン": {
         "avg": 0.0816,
         "ratio": 0.0408,
-        "rank": 0.154
+        "rank": 0.154,
+        "avg_when_used": 2.0
       },
       "宝杖の司令官": {
         "avg": 0.0816,
         "ratio": 0.0408,
-        "rank": 0.066
+        "rank": 0.066,
+        "avg_when_used": 2.0
       },
       "ナハトの私兵": {
         "avg": 0.0612,
         "ratio": 0.0612,
-        "rank": 0.15
+        "rank": 0.15,
+        "avg_when_used": 1.0
       },
       "ブレイズフレア・マーズ": {
         "avg": 0.0612,
         "ratio": 0.0204,
-        "rank": 0.135
+        "rank": 0.135,
+        "avg_when_used": 3.0
       },
       "堕天": {
         "avg": 0.0612,
         "ratio": 0.0204,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "堕落の決意": {
         "avg": 0.0408,
         "ratio": 0.0408,
-        "rank": 0.806
+        "rank": 0.806,
+        "avg_when_used": 1.0
       },
       "氷獄の顕現": {
         "avg": 0.0408,
         "ratio": 0.0204,
-        "rank": 0.618
+        "rank": 0.618,
+        "avg_when_used": 2.0
       },
       "紫電の黒豹": {
         "avg": 0.0408,
         "ratio": 0.0204,
-        "rank": 0.241
+        "rank": 0.241,
+        "avg_when_used": 2.0
       },
       "黄昏の刃・ナノ": {
         "avg": 0.0408,
         "ratio": 0.0204,
-        "rank": 0.806
+        "rank": 0.806,
+        "avg_when_used": 2.0
       },
       "スカイセイバー・リーシャ": {
         "avg": 0.0408,
         "ratio": 0.0204,
-        "rank": 0.806
+        "rank": 0.806,
+        "avg_when_used": 2.0
       },
       "帳場ガエル": {
         "avg": 0.0408,
         "ratio": 0.0204,
-        "rank": 0.461
+        "rank": 0.461,
+        "avg_when_used": 2.0
       },
       "虚無ノ哭風・グリームニル": {
         "avg": 0.0408,
         "ratio": 0.0204,
-        "rank": 0.335
+        "rank": 0.335,
+        "avg_when_used": 2.0
       }
     },
     "decks": [
@@ -1409,6 +1553,7 @@
         "friend_code": "MNDVL",
         "venue": "ドラゴンスター秋葉原駅前店",
         "date": "2025-05-31",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "堕落の決意",
@@ -1425,7 +1570,8 @@
         "player": "AEぺぺろん",
         "friend_code": "JPOXN",
         "venue": "デュエルキング",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 22
       },
       {
         "event": "1119894",
@@ -1436,7 +1582,8 @@
         "player": "イシのハラ",
         "friend_code": "ZAIHS",
         "venue": "カードボックス広島店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 34
       },
       {
         "event": "1107296",
@@ -1447,7 +1594,8 @@
         "player": "のい",
         "friend_code": "GXKFF",
         "venue": "フルコンプ仙台駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 4
       },
       {
         "event": "1107278",
@@ -1458,7 +1606,8 @@
         "player": "タカウジ",
         "friend_code": "LAUFC",
         "venue": "デュエルキング",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 22
       },
       {
         "event": "1118812",
@@ -1469,7 +1618,8 @@
         "player": "9コン",
         "friend_code": "YAGMH",
         "venue": "竜星の嵐　十三店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 27
       },
       {
         "event": "1101551",
@@ -1480,7 +1630,8 @@
         "player": "おら",
         "friend_code": "JJYYH",
         "venue": "パピー弥富店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 23
       },
       {
         "event": "1121739",
@@ -1492,6 +1643,7 @@
         "friend_code": "GFAKQ",
         "venue": "カードベース ジャブロー",
         "date": "2025-05-31",
+        "pref_code": 15,
         "variant_cards": [
           {
             "name": "ナハトの私兵",
@@ -1508,7 +1660,8 @@
         "player": "Swallow",
         "friend_code": "CDOYN",
         "venue": "スミレヤ",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 37
       },
       {
         "event": "1101551",
@@ -1519,7 +1672,8 @@
         "player": "あぎり",
         "friend_code": "IKUWI",
         "venue": "パピー弥富店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 23
       },
       {
         "event": "1119894",
@@ -1530,7 +1684,8 @@
         "player": "Tヨシザウルスムンチャクッパス",
         "friend_code": "DQWVB",
         "venue": "カードボックス広島店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 34
       },
       {
         "event": "1107296",
@@ -1542,6 +1697,7 @@
         "friend_code": "ZZXTI",
         "venue": "フルコンプ仙台駅前店",
         "date": "2025-05-31",
+        "pref_code": 4,
         "variant_cards": [
           {
             "name": "ブレイズフレア・マーズ",
@@ -1562,7 +1718,8 @@
         "player": "小豆沢こはね",
         "friend_code": "DGDCB",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1112958",
@@ -1574,6 +1731,7 @@
         "friend_code": "XEHGA",
         "venue": "TSUTAYA西五反田店",
         "date": "2025-05-29",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "閃光の盾 イゾルデ",
@@ -1594,7 +1752,8 @@
         "player": "まつだ",
         "friend_code": "DZZIR",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1112958",
@@ -1605,7 +1764,8 @@
         "player": "ディアス",
         "friend_code": "MNDVL",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1104056",
@@ -1616,7 +1776,8 @@
         "player": "Shiro ",
         "friend_code": "CUQCR",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1144354",
@@ -1628,6 +1789,7 @@
         "friend_code": "WGNUL",
         "venue": "カードショップ海賊船-Starch-",
         "date": "2025-06-08",
+        "pref_code": 21,
         "variant_cards": [
           {
             "name": "氷獄の顕現",
@@ -1652,7 +1814,8 @@
         "player": "サトシ",
         "friend_code": "PYJFA",
         "venue": "竜星の嵐　小倉駅前店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 40
       },
       {
         "event": "1144354",
@@ -1664,6 +1827,7 @@
         "friend_code": "TSWJM",
         "venue": "カードショップ海賊船-Starch-",
         "date": "2025-06-08",
+        "pref_code": 21,
         "variant_cards": [
           {
             "name": "紫電の黒豹",
@@ -1681,6 +1845,7 @@
         "friend_code": "DTCBO",
         "venue": "アドバンテージ岐阜店",
         "date": "2025-06-08",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "ナハトの私兵",
@@ -1701,7 +1866,8 @@
         "player": "カナヤマ",
         "friend_code": "EWYHT",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1156604",
@@ -1712,7 +1878,8 @@
         "player": "ひじり",
         "friend_code": "XGNHR",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
-        "date": "2025-06-06"
+        "date": "2025-06-06",
+        "pref_code": 12
       },
       {
         "event": "1156604",
@@ -1724,6 +1891,7 @@
         "friend_code": "FEMBZ",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2025-06-06",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "不思議な青空・アリス",
@@ -1745,6 +1913,7 @@
         "friend_code": "SQYYM",
         "venue": "イーフォーラム河内長野店",
         "date": "2025-06-02",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "宝杖の司令官",
@@ -1761,7 +1930,8 @@
         "player": "マルモリ",
         "friend_code": "MIYCH",
         "venue": "カードショップノイス",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 1
       },
       {
         "event": "1158789",
@@ -1773,6 +1943,7 @@
         "friend_code": "EPAID",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
         "date": "2025-06-01",
+        "pref_code": 19,
         "variant_cards": [
           {
             "name": "簒奪の舞",
@@ -1789,7 +1960,8 @@
         "player": "ゆうさい",
         "friend_code": "MBCEB",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1140181",
@@ -1800,7 +1972,8 @@
         "player": "こえ",
         "friend_code": "DHXHH",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 22
       },
       {
         "event": "1136939",
@@ -1812,6 +1985,7 @@
         "friend_code": "KDLTZ",
         "venue": "ホビーステーション 津田沼",
         "date": "2025-06-01",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "黄昏の刃・ナノ",
@@ -1841,6 +2015,7 @@
         "friend_code": "DZTUN",
         "venue": "カードショップノイス",
         "date": "2025-06-01",
+        "pref_code": 1,
         "variant_cards": [
           {
             "name": "帳場ガエル",
@@ -1861,7 +2036,8 @@
         "player": "waz",
         "friend_code": "LFQUC",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 14
       },
       {
         "event": "1156602",
@@ -1872,7 +2048,8 @@
         "player": "ディアス",
         "friend_code": "MNDVL",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1128303",
@@ -1883,7 +2060,8 @@
         "player": "Shiro ",
         "friend_code": "CUQCR",
         "venue": "ハリケーン川西店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 27
       },
       {
         "event": "1161735",
@@ -1894,7 +2072,8 @@
         "player": "有賀きいち",
         "friend_code": "MJQBX",
         "venue": "こども楽園",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 21
       },
       {
         "event": "1162047",
@@ -1905,7 +2084,8 @@
         "player": "ウィズ",
         "friend_code": "MUHRA",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 14
       },
       {
         "event": "1159985",
@@ -1917,6 +2097,7 @@
         "friend_code": "NRZBX",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "虚無ノ哭風・グリームニル",
@@ -1937,7 +2118,8 @@
         "player": "Blue",
         "friend_code": "NUBBP",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1129401",
@@ -1948,7 +2130,8 @@
         "player": "あまぐも",
         "friend_code": "AWCDH",
         "venue": "TSUTAYA籠原店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 11
       },
       {
         "event": "1126242",
@@ -1959,7 +2142,8 @@
         "player": "ばたーあめ",
         "friend_code": "CLCYX",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       },
       {
         "event": "1129401",
@@ -1971,6 +2155,7 @@
         "friend_code": "OMZVR",
         "venue": "TSUTAYA籠原店",
         "date": "2025-06-01",
+        "pref_code": 11,
         "variant_cards": [
           {
             "name": "不思議な青空・アリス",
@@ -1991,7 +2176,8 @@
         "player": "ミカゼ",
         "friend_code": "OFPHS",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1128303",
@@ -2003,6 +2189,7 @@
         "friend_code": "ORQVV",
         "venue": "ハリケーン川西店",
         "date": "2025-06-01",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "宝杖の司令官",
@@ -2019,7 +2206,8 @@
         "player": "みしぇる",
         "friend_code": "OCULO",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 14
       },
       {
         "event": "1130292",
@@ -2031,6 +2219,7 @@
         "friend_code": "VGWJX",
         "venue": "カードボックスイオンモール高知店",
         "date": "2025-06-01",
+        "pref_code": 39,
         "variant_cards": [
           {
             "name": "閃光の盾 イゾルデ",
@@ -2055,7 +2244,8 @@
         "player": "わてつ",
         "friend_code": "EKRZW",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 22
       },
       {
         "event": "1136939",
@@ -2066,7 +2256,8 @@
         "player": "きなこもち",
         "friend_code": "KLGAH",
         "venue": "ホビーステーション 津田沼",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 12
       },
       {
         "event": "1129401",
@@ -2077,7 +2268,8 @@
         "player": "くー",
         "friend_code": "MGMFQ",
         "venue": "TSUTAYA籠原店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 11
       },
       {
         "event": "1126242",
@@ -2088,7 +2280,8 @@
         "player": "しら",
         "friend_code": "RXTFB",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       }
     ],
     "split_pairs": [
@@ -2134,162 +2327,188 @@
       "盗賊の乱飛": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "値引き交渉": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "照明の案内人": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "帳場ガエル": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "華の大将・タケツミ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "達人の芸者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "伊達の大見得": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "天下の大泥棒・ジエモン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 3.0
       },
       "楽園への来訪": {
         "avg": 2.9655,
         "ratio": 1.0,
-        "rank": 0.792
+        "rank": 0.79,
+        "avg_when_used": 2.97
       },
       "月の刃・リオード": {
         "avg": 2.7931,
         "ratio": 0.9655,
-        "rank": 0.87
+        "rank": 0.869,
+        "avg_when_used": 2.89
       },
       "カースドクイーン・ナハト・ナハト": {
         "avg": 2.7241,
         "ratio": 0.9655,
-        "rank": 0.938
+        "rank": 0.937,
+        "avg_when_used": 2.82
       },
       "簒奪の信者": {
         "avg": 2.6897,
         "ratio": 0.931,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.89
       },
       "星の鎧": {
         "avg": 2.1379,
         "ratio": 0.8276,
-        "rank": 0.969
+        "rank": 0.968,
+        "avg_when_used": 2.58
       },
       "ナハトの私兵": {
         "avg": 0.7931,
         "ratio": 0.7241,
-        "rank": 0.823
+        "rank": 0.821,
+        "avg_when_used": 1.1
+      },
+      "プリンセスキス": {
+        "avg": 0.5517,
+        "ratio": 0.4138,
+        "rank": 0.563,
+        "avg_when_used": 1.33
       },
       "スパルタクス": {
         "avg": 0.4138,
         "ratio": 0.3103,
-        "rank": 0.0
-      },
-      "おプリンセスキス": {
-        "avg": 0.3103,
-        "ratio": 0.2414,
-        "rank": 0.791
-      },
-      "プリンセスキス": {
-        "avg": 0.2414,
-        "ratio": 0.1724,
-        "rank": 0.483
+        "rank": 0.0,
+        "avg_when_used": 1.33
       },
       "空絶の簒奪・オクトリス": {
         "avg": 0.1379,
         "ratio": 0.069,
-        "rank": 0.558
+        "rank": 0.558,
+        "avg_when_used": 2.0
       },
       "簒奪の絶傑・オクトリス": {
         "avg": 0.1034,
         "ratio": 0.069,
-        "rank": 0.669
+        "rank": 0.668,
+        "avg_when_used": 1.5
       },
       "前線の教官": {
         "avg": 0.1034,
         "ratio": 0.069,
-        "rank": 0.791
+        "rank": 0.788,
+        "avg_when_used": 1.5
       },
       "アヴァリティア": {
         "avg": 0.1034,
         "ratio": 0.069,
-        "rank": 0.699
+        "rank": 0.698,
+        "avg_when_used": 1.5
       },
       "アウトローガンナー": {
         "avg": 0.1034,
         "ratio": 0.0345,
-        "rank": 0.791
+        "rank": 0.788,
+        "avg_when_used": 3.0
       },
       "エンジェルスナイプ": {
         "avg": 0.069,
         "ratio": 0.0345,
-        "rank": 0.535
+        "rank": 0.535,
+        "avg_when_used": 2.0
       },
       "ロイヤルセイバー・オーレリア": {
         "avg": 0.069,
         "ratio": 0.069,
-        "rank": 0.503
+        "rank": 0.504,
+        "avg_when_used": 1.0
       },
       "妖刀の鬼・ツバキ": {
         "avg": 0.069,
         "ratio": 0.0345,
-        "rank": 0.535
+        "rank": 0.535,
+        "avg_when_used": 2.0
       },
       "逆境への対処": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.79
+        "rank": 0.788,
+        "avg_when_used": 1.0
       },
       "タルトマン": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.79
+        "rank": 0.788,
+        "avg_when_used": 1.0
       },
       "久川凪": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.79
+        "rank": 0.788,
+        "avg_when_used": 1.0
       },
       "レオニダス": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.79
+        "rank": 0.788,
+        "avg_when_used": 1.0
       },
       "タイラントオーダー": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.959
+        "rank": 0.954,
+        "avg_when_used": 1.0
       },
       "マグナゼロ": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.656
+        "rank": 0.655,
+        "avg_when_used": 1.0
       },
       "輝ける剣撃": {
         "avg": 0.0345,
         "ratio": 0.0345,
-        "rank": 0.622
+        "rank": 0.622,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -2302,7 +2521,8 @@
         "player": "Albemuth",
         "friend_code": "KAAIJ",
         "venue": "パピー弥富店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 23
       },
       {
         "event": "1107278",
@@ -2313,7 +2533,8 @@
         "player": "セレン",
         "friend_code": "FTMER",
         "venue": "デュエルキング",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 22
       },
       {
         "event": "1115491",
@@ -2325,6 +2546,7 @@
         "friend_code": "OSCLS",
         "venue": "スミレヤ",
         "date": "2025-05-31",
+        "pref_code": 37,
         "variant_cards": [
           {
             "name": "逆境への対処",
@@ -2342,6 +2564,7 @@
         "friend_code": "IQTVF",
         "venue": "パピー弥富店",
         "date": "2025-05-31",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "簒奪の絶傑・オクトリス",
@@ -2362,7 +2585,8 @@
         "player": "ばるらん",
         "friend_code": "GLFCK",
         "venue": "カードベース ジャブロー",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 15
       },
       {
         "event": "1119894",
@@ -2374,6 +2598,7 @@
         "friend_code": "BLLAW",
         "venue": "カードボックス広島店",
         "date": "2025-05-31",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "エンジェルスナイプ",
@@ -2398,7 +2623,8 @@
         "player": "tori",
         "friend_code": "TXMGP",
         "venue": "竜星の嵐　十三店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 27
       },
       {
         "event": "1102091",
@@ -2410,6 +2636,7 @@
         "friend_code": "YHCGE",
         "venue": "秋葉原チェルモ",
         "date": "2025-05-29",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "タルトマン",
@@ -2430,7 +2657,8 @@
         "player": "復讐者サトウ",
         "friend_code": "FATEM",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1158569",
@@ -2441,7 +2669,8 @@
         "player": "(´・ω・)うぃ",
         "friend_code": "QDDJU",
         "venue": "竜星の嵐　小倉駅前店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 40
       },
       {
         "event": "1156606",
@@ -2453,6 +2682,7 @@
         "friend_code": "GCKRN",
         "venue": "カードボックス福山店",
         "date": "2025-06-08",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "久川凪",
@@ -2474,6 +2704,7 @@
         "friend_code": "LZUIH",
         "venue": "アドバンテージ岐阜店",
         "date": "2025-06-08",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "簒奪の絶傑・オクトリス",
@@ -2495,6 +2726,7 @@
         "friend_code": "JXPKB",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2025-06-06",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "前線の教官",
@@ -2511,7 +2743,8 @@
         "player": "ゆずりは",
         "friend_code": "MNZYQ",
         "venue": "ザウルス",
-        "date": "2025-06-03"
+        "date": "2025-06-03",
+        "pref_code": 26
       },
       {
         "event": "1158417",
@@ -2522,7 +2755,8 @@
         "player": "のい",
         "friend_code": "GXKFF",
         "venue": "シーガル仙台駅前店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 4
       },
       {
         "event": "1130292",
@@ -2533,7 +2767,8 @@
         "player": "おむーら",
         "friend_code": "TQKNV",
         "venue": "カードボックスイオンモール高知店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 39
       },
       {
         "event": "1136939",
@@ -2545,6 +2780,7 @@
         "friend_code": "SLYLY",
         "venue": "ホビーステーション 津田沼",
         "date": "2025-06-01",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "タイラントオーダー",
@@ -2565,7 +2801,8 @@
         "player": "ねむハム",
         "friend_code": "FFUAA",
         "venue": "シーガル仙台駅前店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 4
       },
       {
         "event": "1161735",
@@ -2576,7 +2813,8 @@
         "player": "龍月",
         "friend_code": "RICFN",
         "venue": "こども楽園",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 21
       },
       {
         "event": "1140420",
@@ -2588,6 +2826,7 @@
         "friend_code": "CGIYB",
         "venue": "カードシークレット池袋",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "アウトローガンナー",
@@ -2604,7 +2843,8 @@
         "player": "カルム",
         "friend_code": "AAQLX",
         "venue": "ホビーステーション 津田沼",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 12
       },
       {
         "event": "1164930",
@@ -2616,6 +2856,7 @@
         "friend_code": "CRINL",
         "venue": "カードショップノイス",
         "date": "2025-06-01",
+        "pref_code": 1,
         "variant_cards": [
           {
             "name": "マグナゼロ",
@@ -2644,7 +2885,8 @@
         "player": "モリ タカノリ",
         "friend_code": "FATEM",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 14
       },
       {
         "event": "1158789",
@@ -2655,7 +2897,8 @@
         "player": "スクラップ",
         "friend_code": "PXZYJ",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 19
       },
       {
         "event": "1156602",
@@ -2666,7 +2909,8 @@
         "player": "ルル",
         "friend_code": "EEUMG",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1140181",
@@ -2678,6 +2922,7 @@
         "friend_code": "JPOXN",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
         "date": "2025-06-01",
+        "pref_code": 22,
         "variant_cards": [
           {
             "name": "妖刀の鬼・ツバキ",
@@ -2695,6 +2940,7 @@
         "friend_code": "AZXFH",
         "venue": "カードシークレット池袋",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "輝ける剣撃",
@@ -2719,7 +2965,8 @@
         "player": "サンマ",
         "friend_code": "AAPCR",
         "venue": "トーナメントセンターバトロコ小山駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 9
       },
       {
         "event": "1161735",
@@ -2730,7 +2977,8 @@
         "player": "nala",
         "friend_code": "TEZIC",
         "venue": "こども楽園",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 21
       }
     ],
     "split_pairs": [
@@ -2760,102 +3008,122 @@
       "ドアマンバット": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "月下の跳躍": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "底無しの契約": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "楽園への来訪": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "憧れの飛躍・イツルギ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "因果の迷い子・アンサージュ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "惑わぬ意志": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "デモンズグリード・パラセリゼ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "ハンプティダンプティ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.473
+        "rank": 0.473,
+        "avg_when_used": 3.0
       },
       "デッドペナルティ": {
         "avg": 2.875,
         "ratio": 1.0,
-        "rank": 0.507
+        "rank": 0.507,
+        "avg_when_used": 2.88
       },
       "パルクールウルフ": {
         "avg": 2.8333,
         "ratio": 1.0,
-        "rank": 0.487
+        "rank": 0.487,
+        "avg_when_used": 2.83
       },
       "照明の案内人": {
         "avg": 2.1667,
         "ratio": 0.7917,
-        "rank": 0.71
+        "rank": 0.71,
+        "avg_when_used": 2.74
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 1.25,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.5
       },
       "ルームサービスデビル": {
         "avg": 1.2083,
         "ratio": 0.6667,
-        "rank": 0.738
+        "rank": 0.738,
+        "avg_when_used": 1.81
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 1.125,
         "ratio": 0.375,
-        "rank": 0.147
+        "rank": 0.147,
+        "avg_when_used": 3.0
       },
       "棘の吸血鬼": {
         "avg": 0.9167,
         "ratio": 0.4583,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.0
       },
       "銀釘の射手": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.272
+        "rank": 0.272,
+        "avg_when_used": 2.0
       },
       "獄炎のデーモン": {
         "avg": 0.125,
         "ratio": 0.0417,
-        "rank": 0.196
+        "rank": 0.196,
+        "avg_when_used": 3.0
       },
       "紅のワルツ": {
         "avg": 0.125,
         "ratio": 0.0417,
-        "rank": 0.303
+        "rank": 0.303,
+        "avg_when_used": 3.0
       },
       "暗黒の盾 マクリール": {
         "avg": 0.0417,
         "ratio": 0.0417,
-        "rank": 0.47
+        "rank": 0.47,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -2868,7 +3136,8 @@
         "player": "さにーすかい",
         "friend_code": "WNZIZ",
         "venue": "フルコンプ仙台駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 4
       },
       {
         "event": "1102694",
@@ -2879,7 +3148,8 @@
         "player": "はまだ",
         "friend_code": "ZKDTE",
         "venue": "ドラゴンスター秋葉原駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1112494",
@@ -2890,7 +3160,8 @@
         "player": "ナツメ",
         "friend_code": "GLKTN",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1118812",
@@ -2902,6 +3173,7 @@
         "friend_code": "GVAFG",
         "venue": "竜星の嵐　十三店",
         "date": "2025-05-31",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "獄炎のデーモン",
@@ -2918,7 +3190,8 @@
         "player": "鴉",
         "friend_code": "VNTIV",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1102091",
@@ -2929,7 +3202,8 @@
         "player": "ナツメ",
         "friend_code": "GLKTN",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1112958",
@@ -2940,7 +3214,8 @@
         "player": "はや太郎",
         "friend_code": "DAAWC",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1092748",
@@ -2951,7 +3226,8 @@
         "player": "おとーふ",
         "friend_code": "OGNWC",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       },
       {
         "event": "1092748",
@@ -2962,7 +3238,8 @@
         "player": "苺綿飴",
         "friend_code": "SQFLB",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       },
       {
         "event": "1115910",
@@ -2973,7 +3250,8 @@
         "player": "PG(ピカゴリラ)",
         "friend_code": "KAUYR",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1104056",
@@ -2984,7 +3262,8 @@
         "player": "おとーふ",
         "friend_code": "OGNWC",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1156606",
@@ -2995,7 +3274,8 @@
         "player": "パサン",
         "friend_code": "RICPM",
         "venue": "カードボックス福山店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 34
       },
       {
         "event": "1143001",
@@ -3006,7 +3286,8 @@
         "player": "クサナギ",
         "friend_code": "XHXZU",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       },
       {
         "event": "1143505",
@@ -3017,7 +3298,8 @@
         "player": "パサン",
         "friend_code": "RICPM",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1157503",
@@ -3029,6 +3311,7 @@
         "friend_code": "VHXVE",
         "venue": "イーフォーラム河内長野店",
         "date": "2025-06-02",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "暗黒の盾 マクリール",
@@ -3046,6 +3329,7 @@
         "friend_code": "LMNYS",
         "venue": "イーフォーラム河内長野店",
         "date": "2025-06-02",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "紅のワルツ",
@@ -3062,7 +3346,8 @@
         "player": "けんごう",
         "friend_code": "ICLVM",
         "venue": "カードシークレット池袋",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1156482",
@@ -3073,7 +3358,8 @@
         "player": "パサン",
         "friend_code": "RICPM",
         "venue": "カードゲームショップ オレタン 岡山本店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 33
       },
       {
         "event": "1140181",
@@ -3084,7 +3370,8 @@
         "player": "抹茶エビ",
         "friend_code": "ZAPWJ",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 22
       },
       {
         "event": "1158417",
@@ -3095,7 +3382,8 @@
         "player": "レインだよ？",
         "friend_code": "IGZIB",
         "venue": "シーガル仙台駅前店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 4
       },
       {
         "event": "1126242",
@@ -3106,7 +3394,8 @@
         "player": "氷華",
         "friend_code": "UNWZZ",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       },
       {
         "event": "1126242",
@@ -3117,7 +3406,8 @@
         "player": "ピトー",
         "friend_code": "VURUP",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       },
       {
         "event": "1130292",
@@ -3128,7 +3418,8 @@
         "player": "とこま",
         "friend_code": "SKHCP",
         "venue": "カードボックスイオンモール高知店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 39
       },
       {
         "event": "1159985",
@@ -3139,7 +3430,8 @@
         "player": "はまだ",
         "friend_code": "ZKDTE",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       }
     ],
     "split_pairs": [
@@ -3191,147 +3483,176 @@
       "スピリットシャイン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "フェアリーサークル": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "フェアリーブレイダー・アマツ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "フォレストフェアリー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "ブレスフェアリーダンサー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "リバースブレイダー・アマツ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "凍土の女王・ピアシィ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "クイーンセイバー・シンシア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.284
+        "rank": 0.284,
+        "avg_when_used": 3.0
       },
       "フェアリードラゴン": {
         "avg": 2.8333,
         "ratio": 0.9444,
-        "rank": 0.323
+        "rank": 0.323,
+        "avg_when_used": 3.0
       },
       "重なり合う決意": {
         "avg": 2.7778,
         "ratio": 0.9444,
-        "rank": 0.307
+        "rank": 0.307,
+        "avg_when_used": 2.94
       },
       "瘴気の妖精姫・アリア": {
         "avg": 2.6667,
         "ratio": 0.8889,
-        "rank": 0.272
+        "rank": 0.272,
+        "avg_when_used": 3.0
       },
       "森を彩る者・エルフクイーン": {
         "avg": 1.7222,
         "ratio": 0.6667,
-        "rank": 0.599
+        "rank": 0.599,
+        "avg_when_used": 2.58
       },
       "揺蕩う意志・スピネ": {
         "avg": 1.2778,
         "ratio": 0.6667,
-        "rank": 0.04
+        "rank": 0.04,
+        "avg_when_used": 1.92
       },
       "小さな勇士・スクナ": {
         "avg": 1.0,
         "ratio": 0.8889,
-        "rank": 0.193
+        "rank": 0.193,
+        "avg_when_used": 1.12
       },
       "ティターニアの妖精郷": {
         "avg": 0.8889,
         "ratio": 0.8889,
-        "rank": 0.275
+        "rank": 0.275,
+        "avg_when_used": 1.0
       },
       "ワンダーツリー": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.103
+        "rank": 0.103,
+        "avg_when_used": 1.0
       },
       "自然の導き": {
         "avg": 0.3333,
         "ratio": 0.2778,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.2
       },
       "クリスタリア・リリィ": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.011
+        "rank": 0.011,
+        "avg_when_used": 3.0
       },
       "フェアリーアサルト": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.0
       },
       "マドロスエルフ": {
         "avg": 0.2778,
         "ratio": 0.1111,
-        "rank": 0.141
+        "rank": 0.141,
+        "avg_when_used": 2.5
       },
       "妖精花": {
         "avg": 0.2222,
         "ratio": 0.2222,
-        "rank": 0.132
+        "rank": 0.132,
+        "avg_when_used": 1.0
       },
       "妖精の弓使い": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.121
+        "rank": 0.121,
+        "avg_when_used": 3.0
       },
       "輪廻する回生": {
         "avg": 0.1667,
         "ratio": 0.1667,
-        "rank": 0.107
+        "rank": 0.107,
+        "avg_when_used": 1.0
       },
       "宿命の狐火・セッカ": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.492
+        "rank": 0.492,
+        "avg_when_used": 3.0
       },
       "終末の番人・スピネ": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.492
+        "rank": 0.492,
+        "avg_when_used": 3.0
       },
       "ウィンドフェアリー": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.168
+        "rank": 0.168,
+        "avg_when_used": 2.0
       },
       "九尾の決意": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.432
+        "rank": 0.432,
+        "avg_when_used": 2.0
       },
       "エルフの双撃": {
         "avg": 0.0556,
         "ratio": 0.0556,
-        "rank": 0.221
+        "rank": 0.221,
+        "avg_when_used": 1.0
       },
       "オシャレ女王・ネルシャ": {
         "avg": 0.0556,
         "ratio": 0.0556,
-        "rank": 0.221
+        "rank": 0.221,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -3345,6 +3666,7 @@
         "friend_code": "TQKNV",
         "venue": "スミレヤ",
         "date": "2025-05-31",
+        "pref_code": 37,
         "variant_cards": [
           {
             "name": "妖精の弓使い",
@@ -3374,6 +3696,7 @@
         "friend_code": "ZNSYQ",
         "venue": "カードボックス広島店",
         "date": "2025-05-31",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "エルフの双撃",
@@ -3390,7 +3713,8 @@
         "player": "山田　T",
         "friend_code": "PNWZH",
         "venue": "スミレヤ",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 37
       },
       {
         "event": "1107278",
@@ -3401,7 +3725,8 @@
         "player": "じゃこん",
         "friend_code": "HLYJO",
         "venue": "デュエルキング",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 22
       },
       {
         "event": "1092748",
@@ -3412,7 +3737,8 @@
         "player": "吉見鳥",
         "friend_code": "BDRIT",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       },
       {
         "event": "1092748",
@@ -3423,7 +3749,8 @@
         "player": "ぼたん",
         "friend_code": "SIVFV",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       },
       {
         "event": "1092748",
@@ -3434,7 +3761,8 @@
         "player": "うみぼ",
         "friend_code": "WESKN",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       },
       {
         "event": "1143505",
@@ -3445,7 +3773,8 @@
         "player": "シミュー",
         "friend_code": "OKHQO",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1141457",
@@ -3456,7 +3785,8 @@
         "player": "むらぼ",
         "friend_code": "VHXVE",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-06-04"
+        "date": "2025-06-04",
+        "pref_code": 27
       },
       {
         "event": "1141457",
@@ -3467,7 +3797,8 @@
         "player": "うみぼ",
         "friend_code": "WESKN",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-06-04"
+        "date": "2025-06-04",
+        "pref_code": 27
       },
       {
         "event": "1141457",
@@ -3478,7 +3809,8 @@
         "player": "ぼたん",
         "friend_code": "SIVFV",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-06-04"
+        "date": "2025-06-04",
+        "pref_code": 27
       },
       {
         "event": "1128303",
@@ -3489,7 +3821,8 @@
         "player": "TORU",
         "friend_code": "UILBH",
         "venue": "ハリケーン川西店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 27
       },
       {
         "event": "1128303",
@@ -3501,6 +3834,7 @@
         "friend_code": "FYUVK",
         "venue": "ハリケーン川西店",
         "date": "2025-06-01",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "宿命の狐火・セッカ",
@@ -3521,7 +3855,8 @@
         "player": "あとらす",
         "friend_code": "FPKWA",
         "venue": "TSUTAYA籠原店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 11
       },
       {
         "event": "1161266",
@@ -3532,7 +3867,8 @@
         "player": "ルビ",
         "friend_code": "XSHCS",
         "venue": "オレタン福岡天神店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 40
       },
       {
         "event": "1140181",
@@ -3543,7 +3879,8 @@
         "player": "じゃこん",
         "friend_code": "HLYJO",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 22
       },
       {
         "event": "1161735",
@@ -3555,6 +3892,7 @@
         "friend_code": "KFESQ",
         "venue": "こども楽園",
         "date": "2025-06-01",
+        "pref_code": 21,
         "variant_cards": [
           {
             "name": "オシャレ女王・ネルシャ",
@@ -3571,7 +3909,8 @@
         "player": "きらく",
         "friend_code": "YJJDY",
         "venue": "ハリケーン川西店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 27
       }
     ],
     "split_pairs": [
@@ -3601,212 +3940,254 @@
       "死期を視るもの・グレモリー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.423
+        "rank": 0.423,
+        "avg_when_used": 3.0
       },
       "人外魔境・クリストフ": {
         "avg": 2.9444,
         "ratio": 1.0,
-        "rank": 0.413
+        "rank": 0.413,
+        "avg_when_used": 2.94
       },
       "デッドペナルティ": {
         "avg": 2.8333,
         "ratio": 0.9444,
-        "rank": 0.394
+        "rank": 0.394,
+        "avg_when_used": 3.0
       },
       "カオスルーラー・アイシィレンドリング": {
         "avg": 2.8333,
         "ratio": 0.9444,
-        "rank": 0.394
+        "rank": 0.394,
+        "avg_when_used": 3.0
       },
       "絶叫の崇拝者": {
         "avg": 2.3333,
         "ratio": 0.7778,
-        "rank": 0.37
+        "rank": 0.37,
+        "avg_when_used": 3.0
       },
       "絶叫の沈黙・ルルナイ": {
         "avg": 2.3333,
         "ratio": 0.7778,
-        "rank": 0.322
+        "rank": 0.322,
+        "avg_when_used": 3.0
       },
       "ストレイホロウ・イルガンノ": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.492
+        "rank": 0.492,
+        "avg_when_used": 3.0
       },
       "ポルターガイスト": {
         "avg": 1.9444,
         "ratio": 0.6667,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.92
       },
       "異形": {
         "avg": 1.9444,
         "ratio": 0.6667,
-        "rank": 0.523
+        "rank": 0.523,
+        "avg_when_used": 2.92
       },
       "夢のささやき": {
         "avg": 1.8889,
         "ratio": 0.7222,
-        "rank": 0.483
+        "rank": 0.483,
+        "avg_when_used": 2.62
       },
       "沈黙の絶傑・ルルナイ": {
         "avg": 1.7222,
         "ratio": 0.6111,
-        "rank": 0.682
+        "rank": 0.682,
+        "avg_when_used": 2.82
       },
       "憧れの飛躍・イツルギ": {
         "avg": 1.5556,
         "ratio": 0.7222,
-        "rank": 0.274
+        "rank": 0.274,
+        "avg_when_used": 2.15
       },
       "ブラスター・ダーク": {
         "avg": 1.5556,
         "ratio": 0.5556,
-        "rank": 0.195
+        "rank": 0.195,
+        "avg_when_used": 2.8
       },
       "ソウルコンバージョン": {
         "avg": 1.5,
         "ratio": 0.7222,
-        "rank": 0.294
+        "rank": 0.294,
+        "avg_when_used": 2.08
       },
       "ブラックスワン・オディール": {
         "avg": 1.2778,
         "ratio": 0.8333,
-        "rank": 0.541
+        "rank": 0.541,
+        "avg_when_used": 1.53
       },
       "沈黙の詩": {
         "avg": 1.1667,
         "ratio": 0.5556,
-        "rank": 0.552
+        "rank": 0.552,
+        "avg_when_used": 2.1
       },
       "冒涜の墓場": {
         "avg": 0.9444,
         "ratio": 0.4444,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.12
       },
       "轟": {
         "avg": 0.7778,
         "ratio": 0.2778,
-        "rank": 0.494
+        "rank": 0.494,
+        "avg_when_used": 2.8
       },
       "消えぬ怨恨": {
         "avg": 0.5,
         "ratio": 0.2222,
-        "rank": 0.932
+        "rank": 0.932,
+        "avg_when_used": 2.25
       },
       "魔眼の蛇神・メドゥーサ": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.617
+        "rank": 0.617,
+        "avg_when_used": 3.0
       },
       "《世界》・ゼルガネイア": {
         "avg": 0.5,
         "ratio": 0.3333,
-        "rank": 0.43
+        "rank": 0.43,
+        "avg_when_used": 1.5
       },
       "ドゥラメンテ": {
         "avg": 0.4444,
         "ratio": 0.3333,
-        "rank": 0.408
+        "rank": 0.408,
+        "avg_when_used": 1.33
       },
       "アザゼル": {
         "avg": 0.4444,
         "ratio": 0.1667,
-        "rank": 0.198
+        "rank": 0.198,
+        "avg_when_used": 2.67
       },
       "暗黒の盾 マクリール": {
         "avg": 0.3889,
         "ratio": 0.1667,
-        "rank": 0.712
+        "rank": 0.712,
+        "avg_when_used": 2.33
       },
       "ベルエンジェル": {
         "avg": 0.2778,
         "ratio": 0.1667,
-        "rank": 0.111
+        "rank": 0.111,
+        "avg_when_used": 1.67
       },
       "冥守の戦士・カムラ": {
         "avg": 0.2222,
         "ratio": 0.2222,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 1.0
       },
       "大ツルハシの骸": {
         "avg": 0.2222,
         "ratio": 0.1111,
-        "rank": 0.463
+        "rank": 0.463,
+        "avg_when_used": 2.0
       },
       "ヴェノムバイト": {
         "avg": 0.2222,
         "ratio": 0.1111,
-        "rank": 0.251
+        "rank": 0.251,
+        "avg_when_used": 2.0
       },
       "怨讐の絶叫": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.576
+        "rank": 0.576,
+        "avg_when_used": 3.0
       },
       "テラーバンケット・ギンセツ": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.363
+        "rank": 0.363,
+        "avg_when_used": 3.0
       },
       "幽霊支配人・アーカス": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "昏く淀む者・タルタロス": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "天界の尖兵": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.204
+        "rank": 0.204,
+        "avg_when_used": 3.0
       },
       "パルクールウルフ": {
         "avg": 0.1667,
         "ratio": 0.0556,
-        "rank": 0.523
+        "rank": 0.523,
+        "avg_when_used": 3.0
       },
       "スカルドリーマー": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.535
+        "rank": 0.535,
+        "avg_when_used": 2.0
       },
       "ヴォイドリアライズ": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.535
+        "rank": 0.535,
+        "avg_when_used": 2.0
       },
       "潰し宴": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.38
+        "rank": 0.38,
+        "avg_when_used": 2.0
       },
       "大妖狐・ギンセツ": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.38
+        "rank": 0.38,
+        "avg_when_used": 2.0
       },
       "金鉱のネクロマンサー": {
         "avg": 0.1111,
         "ratio": 0.0556,
-        "rank": 0.187
+        "rank": 0.187,
+        "avg_when_used": 2.0
       },
       "バロン・ダブルフィール": {
         "avg": 0.0556,
         "ratio": 0.0556,
-        "rank": 0.465
+        "rank": 0.465,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -3819,7 +4200,8 @@
         "player": "ぱる",
         "friend_code": "CUABV",
         "venue": "カードボックス広島店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 34
       },
       {
         "event": "1115491",
@@ -3831,6 +4213,7 @@
         "friend_code": "JZNIZ",
         "venue": "スミレヤ",
         "date": "2025-05-31",
+        "pref_code": 37,
         "variant_cards": [
           {
             "name": "スカルドリーマー",
@@ -3859,7 +4242,8 @@
         "player": "mirokku",
         "friend_code": "AJSEA",
         "venue": "フルコンプ仙台駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 4
       },
       {
         "event": "1121739",
@@ -3871,6 +4255,7 @@
         "friend_code": "JGALN",
         "venue": "カードベース ジャブロー",
         "date": "2025-05-31",
+        "pref_code": 15,
         "variant_cards": [
           {
             "name": "潰し宴",
@@ -3891,7 +4276,8 @@
         "player": "をぱ",
         "friend_code": "DUBHT",
         "venue": "カードベース ジャブロー",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 15
       },
       {
         "event": "1112494",
@@ -3902,7 +4288,8 @@
         "player": "ゆ！",
         "friend_code": "EVONT",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1102694",
@@ -3914,6 +4301,7 @@
         "friend_code": "KXZUB",
         "venue": "ドラゴンスター秋葉原駅前店",
         "date": "2025-05-31",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "金鉱のネクロマンサー",
@@ -3931,6 +4319,7 @@
         "friend_code": "KYOMH",
         "venue": "アドバンテージ岐阜店",
         "date": "2025-06-08",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "幽霊支配人・アーカス",
@@ -3951,7 +4340,8 @@
         "player": "ぱる",
         "friend_code": "CUABV",
         "venue": "カードボックス福山店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 34
       },
       {
         "event": "1156606",
@@ -3963,6 +4353,7 @@
         "friend_code": "HPRAP",
         "venue": "カードボックス福山店",
         "date": "2025-06-08",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "天界の尖兵",
@@ -3979,7 +4370,8 @@
         "player": "ぱる",
         "friend_code": "CUABV",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       },
       {
         "event": "1141457",
@@ -3990,7 +4382,8 @@
         "player": "むー",
         "friend_code": "JJRXQ",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-06-04"
+        "date": "2025-06-04",
+        "pref_code": 27
       },
       {
         "event": "1157503",
@@ -4001,7 +4394,8 @@
         "player": "むー",
         "friend_code": "JJRXQ",
         "venue": "イーフォーラム河内長野店",
-        "date": "2025-06-02"
+        "date": "2025-06-02",
+        "pref_code": 27
       },
       {
         "event": "1159985",
@@ -4013,6 +4407,7 @@
         "friend_code": "XCRBA",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "バロン・ダブルフィール",
@@ -4033,7 +4428,8 @@
         "player": "八朔",
         "friend_code": "VMIDI",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 19
       },
       {
         "event": "1128303",
@@ -4044,7 +4440,8 @@
         "player": "RYT",
         "friend_code": "HJYKD",
         "venue": "ハリケーン川西店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 27
       },
       {
         "event": "1161735",
@@ -4055,7 +4452,8 @@
         "player": "SARU",
         "friend_code": "KJXYO",
         "venue": "こども楽園",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 21
       },
       {
         "event": "1156482",
@@ -4066,7 +4464,8 @@
         "player": "めばる",
         "friend_code": "PRDJS",
         "venue": "カードゲームショップ オレタン 岡山本店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 33
       }
     ],
     "split_pairs": [
@@ -4192,117 +4591,140 @@
       "ラピッドファイア": {
         "avg": 4.1333,
         "ratio": 0.8,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 5.17
       },
       "陰陽の秘法": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.28
+        "rank": 0.28,
+        "avg_when_used": 3.0
       },
       "光の道筋": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.28
+        "rank": 0.28,
+        "avg_when_used": 3.0
       },
       "カースエンチャンター": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.28
+        "rank": 0.28,
+        "avg_when_used": 3.0
       },
       "ウーシンマスター・クオン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.28
+        "rank": 0.28,
+        "avg_when_used": 3.0
       },
       "陰陽の開祖・クオン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.28
+        "rank": 0.28,
+        "avg_when_used": 3.0
       },
       "真理の発見": {
         "avg": 2.9333,
         "ratio": 1.0,
-        "rank": 0.294
+        "rank": 0.294,
+        "avg_when_used": 2.93
       },
       "クラシカルソーサラー": {
         "avg": 2.5333,
         "ratio": 1.0,
-        "rank": 0.339
+        "rank": 0.339,
+        "avg_when_used": 2.53
       },
       "ファイアーチェイン": {
         "avg": 2.5333,
         "ratio": 0.9333,
-        "rank": 0.171
+        "rank": 0.171,
+        "avg_when_used": 2.71
       },
       "一世の探究": {
         "avg": 2.5333,
         "ratio": 0.9333,
-        "rank": 0.133
+        "rank": 0.133,
+        "avg_when_used": 2.71
       },
       "烈火の魔弾": {
         "avg": 2.3333,
         "ratio": 0.8667,
-        "rank": 0.39
+        "rank": 0.39,
+        "avg_when_used": 2.69
       },
       "次元の超越": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.28
+        "rank": 0.28,
+        "avg_when_used": 2.0
       },
       "知恵の光": {
         "avg": 1.8667,
         "ratio": 0.6667,
-        "rank": 0.415
+        "rank": 0.415,
+        "avg_when_used": 2.8
       },
       "白霜の風": {
         "avg": 1.5333,
         "ratio": 0.8667,
-        "rank": 0.322
+        "rank": 0.322,
+        "avg_when_used": 1.77
       },
       "鬼呼びの導師": {
         "avg": 1.1333,
         "ratio": 1.0,
-        "rank": 0.318
+        "rank": 0.318,
+        "avg_when_used": 1.13
       },
       "冥界の催眠術師": {
         "avg": 0.4,
         "ratio": 0.1333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "式神の使役": {
         "avg": 0.2667,
         "ratio": 0.1333,
-        "rank": 0.249
+        "rank": 0.249,
+        "avg_when_used": 2.0
       },
       "天使の恩寵": {
         "avg": 0.2,
         "ratio": 0.0667,
-        "rank": 0.446
+        "rank": 0.446,
+        "avg_when_used": 3.0
       },
       "ソニック・フォー": {
         "avg": 0.2,
         "ratio": 0.0667,
-        "rank": 0.165
+        "rank": 0.165,
+        "avg_when_used": 3.0
       },
       "魔力の蓄積": {
         "avg": 0.1333,
         "ratio": 0.1333,
-        "rank": 0.584
+        "rank": 0.584,
+        "avg_when_used": 1.0
       },
       "グリモアソーサラー": {
         "avg": 0.1333,
         "ratio": 0.0667,
-        "rank": 0.169
+        "rank": 0.169,
+        "avg_when_used": 2.0
       },
       "コールチェイン": {
         "avg": 0.0667,
         "ratio": 0.0667,
-        "rank": 0.205
+        "rank": 0.205,
+        "avg_when_used": 1.0
       },
       "マーリン": {
         "avg": 0.0667,
         "ratio": 0.0667,
-        "rank": 0.343
+        "rank": 0.343,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -4315,7 +4737,8 @@
         "player": "ミカゼ",
         "friend_code": "OFPHS",
         "venue": "カードシークレット池袋",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 13
       },
       {
         "event": "1102694",
@@ -4327,6 +4750,7 @@
         "friend_code": "XSFNP",
         "venue": "ドラゴンスター秋葉原駅前店",
         "date": "2025-05-31",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "ファイアーチェイン",
@@ -4343,7 +4767,8 @@
         "player": "アカツキ",
         "friend_code": "GHUUV",
         "venue": "カードボックス広島店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 34
       },
       {
         "event": "1112958",
@@ -4354,7 +4779,8 @@
         "player": "齊藤京子",
         "friend_code": "UGVRP",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1158778",
@@ -4365,7 +4791,8 @@
         "player": "Kamyu",
         "friend_code": "RIBNN",
         "venue": "アドバンテージ岐阜店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 23
       },
       {
         "event": "1143505",
@@ -4376,7 +4803,8 @@
         "player": "グラファ",
         "friend_code": "RWFJI",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1156604",
@@ -4388,6 +4816,7 @@
         "friend_code": "HZLKL",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2025-06-06",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "コールチェイン",
@@ -4405,6 +4834,7 @@
         "friend_code": "QTKQW",
         "venue": "ザウルス",
         "date": "2025-06-03",
+        "pref_code": 26,
         "variant_cards": [
           {
             "name": "グリモアソーサラー",
@@ -4421,7 +4851,8 @@
         "player": "齊藤京子",
         "friend_code": "UGVRP",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1140181",
@@ -4433,6 +4864,7 @@
         "friend_code": "GLISE",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
         "date": "2025-06-01",
+        "pref_code": 22,
         "variant_cards": [
           {
             "name": "マーリン",
@@ -4457,7 +4889,8 @@
         "player": "BONE",
         "friend_code": "KTQJT",
         "venue": "カードショップノイス",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 1
       },
       {
         "event": "1140420",
@@ -4468,7 +4901,8 @@
         "player": "なんちゃら",
         "friend_code": "IZFCR",
         "venue": "カードシークレット池袋",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1130292",
@@ -4479,7 +4913,8 @@
         "player": "グラファ",
         "friend_code": "RWFJI",
         "venue": "カードボックスイオンモール高知店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 39
       },
       {
         "event": "1126242",
@@ -4491,6 +4926,7 @@
         "friend_code": "CNDAJ",
         "venue": "遊ING熊本上通り店",
         "date": "2025-06-01",
+        "pref_code": 43,
         "variant_cards": [
           {
             "name": "ソニック・フォー",
@@ -4507,7 +4943,8 @@
         "player": "とかげ@",
         "friend_code": "HZLKL",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 22
       }
     ]
   },
@@ -4519,112 +4956,134 @@
       "〔月下の悪魔ちゃん♪〕メジロパーマー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.434
+        "rank": 0.434,
+        "avg_when_used": 3.0
       },
       "絶望の聖女・ジャンヌ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.434
+        "rank": 0.434,
+        "avg_when_used": 3.0
       },
       "ルナールの聖騎士": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.434
+        "rank": 0.434,
+        "avg_when_used": 3.0
       },
       "希望導く聖乙女・ジャンヌ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.434
+        "rank": 0.434,
+        "avg_when_used": 3.0
       },
       "メルティングシュガー・セリーナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.434
+        "rank": 0.434,
+        "avg_when_used": 3.0
       },
       "メジロラモーヌ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.434
+        "rank": 0.434,
+        "avg_when_used": 3.0
       },
       "〔夜風に舞うは祈りの花〕メジロアルダン": {
         "avg": 2.8333,
         "ratio": 1.0,
-        "rank": 0.425
+        "rank": 0.425,
+        "avg_when_used": 2.83
       },
       "闇穿つ煌き・サリッサ": {
         "avg": 2.75,
         "ratio": 0.9167,
-        "rank": 0.293
+        "rank": 0.293,
+        "avg_when_used": 3.0
       },
       "ヘイブンファイア": {
         "avg": 2.5833,
         "ratio": 0.9167,
-        "rank": 0.159
+        "rank": 0.159,
+        "avg_when_used": 2.82
       },
       "三日月の女神 ツクヨミ": {
         "avg": 2.4167,
         "ratio": 0.8333,
-        "rank": 0.166
+        "rank": 0.166,
+        "avg_when_used": 2.9
       },
       "不思議な青空・アリス": {
         "avg": 2.4167,
         "ratio": 0.8333,
-        "rank": 0.816
+        "rank": 0.816,
+        "avg_when_used": 2.9
       },
       "剛健の翼人": {
         "avg": 2.3333,
         "ratio": 0.9167,
-        "rank": 0.233
+        "rank": 0.233,
+        "avg_when_used": 2.55
       },
       "極炎のドラグーン・ローラ": {
         "avg": 2.0,
         "ratio": 0.75,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.67
       },
       "リボルバーイーグル": {
         "avg": 1.25,
         "ratio": 0.75,
-        "rank": 0.672
+        "rank": 0.672,
+        "avg_when_used": 1.67
       },
       "アラエル": {
         "avg": 1.0833,
         "ratio": 0.4167,
-        "rank": 0.003
+        "rank": 0.003,
+        "avg_when_used": 2.6
       },
       "半月の女神 ツクヨミ": {
         "avg": 0.8333,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.5
       },
       "ジャンヌダルク": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.912
+        "rank": 0.912,
+        "avg_when_used": 2.0
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 0.25,
         "ratio": 0.0833,
-        "rank": 0.876
+        "rank": 0.876,
+        "avg_when_used": 3.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 0.25,
         "ratio": 0.0833,
-        "rank": 0.876
+        "rank": 0.876,
+        "avg_when_used": 3.0
       },
       "聖騎士・ヘクター": {
         "avg": 0.1667,
         "ratio": 0.0833,
-        "rank": 0.177
+        "rank": 0.177,
+        "avg_when_used": 2.0
       },
       "悪魔のエピタフ": {
         "avg": 0.1667,
         "ratio": 0.0833,
-        "rank": 0.177
+        "rank": 0.177,
+        "avg_when_used": 2.0
       },
       "森の参謀・ムニャール": {
         "avg": 0.0833,
         "ratio": 0.0833,
-        "rank": 0.294
+        "rank": 0.294,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -4637,7 +5096,8 @@
         "player": "もや",
         "friend_code": "ZOOON",
         "venue": "フルコンプ仙台駅前店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 4
       },
       {
         "event": "1115491",
@@ -4648,7 +5108,8 @@
         "player": "メアレス",
         "friend_code": "OVERX",
         "venue": "スミレヤ",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 37
       },
       {
         "event": "1102091",
@@ -4659,7 +5120,8 @@
         "player": "おしょ",
         "friend_code": "OJQAA",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1158778",
@@ -4670,7 +5132,8 @@
         "player": "テツ",
         "friend_code": "DMYLU",
         "venue": "アドバンテージ岐阜店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 23
       },
       {
         "event": "1143505",
@@ -4681,7 +5144,8 @@
         "player": "メアレス",
         "friend_code": "OVERX",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1143505",
@@ -4692,7 +5156,8 @@
         "player": "オートマ",
         "friend_code": "ATFAQ",
         "venue": "スミレヤ",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 37
       },
       {
         "event": "1162047",
@@ -4704,6 +5169,7 @@
         "friend_code": "QQMOK",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
         "date": "2025-06-01",
+        "pref_code": 14,
         "variant_cards": [
           {
             "name": "絶大の唯我・マゼルベイン",
@@ -4733,6 +5199,7 @@
         "friend_code": "SNDQK",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "聖騎士・ヘクター",
@@ -4753,7 +5220,8 @@
         "player": "かにのもと",
         "friend_code": "WGEII",
         "venue": "TSUTAYA籠原店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 11
       },
       {
         "event": "1129401",
@@ -4764,7 +5232,8 @@
         "player": "たけのこ",
         "friend_code": "PZZWP",
         "venue": "TSUTAYA籠原店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 11
       },
       {
         "event": "1126242",
@@ -4775,7 +5244,8 @@
         "player": "SEVENS",
         "friend_code": "OTZUO",
         "venue": "遊ING熊本上通り店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 43
       },
       {
         "event": "1158789",
@@ -4787,6 +5257,7 @@
         "friend_code": "JRTGY",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
         "date": "2025-06-01",
+        "pref_code": 19,
         "variant_cards": [
           {
             "name": "悪魔のエピタフ",
@@ -4826,172 +5297,206 @@
       "宿命の狐火・セッカ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.337
+        "rank": 0.337,
+        "avg_when_used": 3.0
       },
       "マドロスエルフ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.337
+        "rank": 0.337,
+        "avg_when_used": 3.0
       },
       "ブレードエルフ": {
         "avg": 2.8889,
         "ratio": 1.0,
-        "rank": 0.364
+        "rank": 0.364,
+        "avg_when_used": 2.89
       },
       "九尾の決意": {
         "avg": 2.7778,
         "ratio": 1.0,
-        "rank": 0.398
+        "rank": 0.398,
+        "avg_when_used": 2.78
       },
       "不思議な青空・アリス": {
         "avg": 2.6667,
         "ratio": 1.0,
-        "rank": 0.347
+        "rank": 0.347,
+        "avg_when_used": 2.67
       },
       "爆砕の傭兵・フィーナ": {
         "avg": 2.5556,
         "ratio": 0.8889,
-        "rank": 0.302
+        "rank": 0.302,
+        "avg_when_used": 2.88
       },
       "優美な猫姉妹・シャム＆シャマ": {
         "avg": 2.2222,
         "ratio": 0.7778,
-        "rank": 0.248
+        "rank": 0.248,
+        "avg_when_used": 2.86
       },
       "凍土の女王・ピアシィ": {
         "avg": 1.7778,
         "ratio": 0.6667,
-        "rank": 0.191
+        "rank": 0.191,
+        "avg_when_used": 2.67
       },
       "自由なる冒険者": {
         "avg": 1.6667,
         "ratio": 0.5556,
-        "rank": 0.379
+        "rank": 0.379,
+        "avg_when_used": 3.0
       },
       "ワイルドリザード": {
         "avg": 1.4444,
         "ratio": 0.6667,
-        "rank": 0.352
+        "rank": 0.352,
+        "avg_when_used": 2.17
       },
       "揺蕩う意志・スピネ": {
         "avg": 1.3333,
         "ratio": 0.6667,
-        "rank": 0.304
+        "rank": 0.304,
+        "avg_when_used": 2.0
       },
       "森を彩る者・エルフクイーン": {
         "avg": 1.3333,
         "ratio": 0.4444,
-        "rank": 0.337
+        "rank": 0.337,
+        "avg_when_used": 3.0
       },
       "レヴィールの無法者": {
         "avg": 1.2222,
         "ratio": 0.4444,
-        "rank": 0.424
+        "rank": 0.424,
+        "avg_when_used": 2.75
       },
       "クロスボウスナイパー": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.455
+        "rank": 0.455,
+        "avg_when_used": 3.0
       },
       "絶命の崇拝者": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.455
+        "rank": 0.455,
+        "avg_when_used": 3.0
       },
       "不殺の隠者": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.455
+        "rank": 0.455,
+        "avg_when_used": 3.0
       },
       "絶命の不殺・エズディア": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.455
+        "rank": 0.455,
+        "avg_when_used": 3.0
       },
       "小さな勇士・スクナ": {
         "avg": 0.7778,
         "ratio": 0.4444,
-        "rank": 0.303
+        "rank": 0.303,
+        "avg_when_used": 1.75
       },
       "オシャレ女王・ネルシャ": {
         "avg": 0.7778,
         "ratio": 0.4444,
-        "rank": 0.314
+        "rank": 0.314,
+        "avg_when_used": 1.75
       },
       "終末の番人・スピネ": {
         "avg": 0.7778,
         "ratio": 0.5556,
-        "rank": 0.222
+        "rank": 0.222,
+        "avg_when_used": 1.4
       },
       "不殺の絶傑・エズディア": {
         "avg": 0.7778,
         "ratio": 0.3333,
-        "rank": 0.578
+        "rank": 0.578,
+        "avg_when_used": 2.33
       },
       "腐食の絶命": {
         "avg": 0.6667,
         "ratio": 0.2222,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "不殺の使徒": {
         "avg": 0.6667,
         "ratio": 0.2222,
-        "rank": 0.749
+        "rank": 0.749,
+        "avg_when_used": 3.0
       },
       "スピアーエルフ": {
         "avg": 0.5556,
         "ratio": 0.3333,
-        "rank": 0.269
+        "rank": 0.269,
+        "avg_when_used": 1.67
       },
       "サボテンカウボーイ": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.235
+        "rank": 0.235,
+        "avg_when_used": 3.0
       },
       "ギガントパスチャー": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.235
+        "rank": 0.235,
+        "avg_when_used": 3.0
       },
       "チェシャキャット": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.031
+        "rank": 0.031,
+        "avg_when_used": 3.0
       },
       "自然の導き": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.031
+        "rank": 0.031,
+        "avg_when_used": 3.0
       },
       "アネモネタイガー": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.031
+        "rank": 0.031,
+        "avg_when_used": 3.0
       },
       "サルビアパンサー": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 0.031
+        "rank": 0.031,
+        "avg_when_used": 3.0
       },
       "不殺の従者": {
         "avg": 0.3333,
         "ratio": 0.1111,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "森の遊撃者": {
         "avg": 0.3333,
         "ratio": 0.2222,
-        "rank": 0.49
+        "rank": 0.49,
+        "avg_when_used": 1.5
       },
       "エルフの少女・リザ": {
         "avg": 0.2222,
         "ratio": 0.2222,
-        "rank": 0.24
+        "rank": 0.24,
+        "avg_when_used": 1.0
       },
       "四季の化身": {
         "avg": 0.2222,
         "ratio": 0.1111,
-        "rank": 0.26
+        "rank": 0.26,
+        "avg_when_used": 2.0
       }
     },
     "decks": [
@@ -5004,7 +5509,8 @@
         "player": "冥府",
         "friend_code": "APVBA",
         "venue": "カードベース ジャブロー",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 15
       },
       {
         "event": "1101551",
@@ -5016,6 +5522,7 @@
         "friend_code": "IXBLM",
         "venue": "パピー弥富店",
         "date": "2025-05-31",
+        "pref_code": 23,
         "variant_cards": [
           {
             "name": "サボテンカウボーイ",
@@ -5036,7 +5543,8 @@
         "player": "ささめ",
         "friend_code": "GPJZO",
         "venue": "パピー弥富店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 23
       },
       {
         "event": "1104056",
@@ -5047,7 +5555,8 @@
         "player": "このん",
         "friend_code": "ZCJWP",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       },
       {
         "event": "1158569",
@@ -5059,6 +5568,7 @@
         "friend_code": "QFDOT",
         "venue": "竜星の嵐　小倉駅前店",
         "date": "2025-06-08",
+        "pref_code": 40,
         "variant_cards": [
           {
             "name": "チェシャキャット",
@@ -5079,7 +5589,8 @@
         "player": "このん",
         "friend_code": "ZCJWP",
         "venue": "ザウルス",
-        "date": "2025-06-03"
+        "date": "2025-06-03",
+        "pref_code": 26
       },
       {
         "event": "1162047",
@@ -5091,6 +5602,7 @@
         "friend_code": "RZZYC",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
         "date": "2025-06-01",
+        "pref_code": 14,
         "variant_cards": [
           {
             "name": "不殺の従者",
@@ -5107,7 +5619,8 @@
         "player": "ペンタ",
         "friend_code": "EKJMG",
         "venue": "こども楽園",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 21
       },
       {
         "event": "1159985",
@@ -5119,6 +5632,7 @@
         "friend_code": "HGEXQ",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "爆砕の傭兵・フィーナ",
@@ -5136,87 +5650,104 @@
       "従者 レアス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "約束の火 エルモ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "ドラゴンナイト ネハーレン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "バーニングホーン・ドラゴン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "槍の化身 ター": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "ドラゴンナイト アリフ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "バーサーク・ドラゴン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "ドラゴニック・オーバーロード": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "ドラゴニック・オーバーロード・ジ・エンド": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "鎧の化身 バー": {
         "avg": 2.75,
         "ratio": 1.0,
-        "rank": 0.623
+        "rank": 0.623,
+        "avg_when_used": 2.75
       },
       "ドラゴンモンク ゲンジョウ": {
         "avg": 2.375,
         "ratio": 1.0,
-        "rank": 0.136
+        "rank": 0.136,
+        "avg_when_used": 2.38
       },
       "希望の火 エルモ": {
         "avg": 2.125,
         "ratio": 0.875,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.43
       },
       "ボーテックス・ドラゴン": {
         "avg": 2.125,
         "ratio": 1.0,
-        "rank": 0.26
+        "rank": 0.26,
+        "avg_when_used": 2.12
       },
       "ドラゴンモンク ゴクウ": {
         "avg": 2.125,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 2.12
       },
       "リザードソルジャー コンロー": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 1.0
       },
       "連撃のサザーランド": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.0
       },
       "ガトリングクロー・ドラゴン": {
         "avg": 0.25,
         "ratio": 0.125,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 2.0
       }
     },
     "decks": [
@@ -5229,7 +5760,8 @@
         "player": "コバヤシ",
         "friend_code": "SFVIH",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1115910",
@@ -5240,7 +5772,8 @@
         "player": "シン",
         "friend_code": "AQUXP",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1158569",
@@ -5251,7 +5784,8 @@
         "player": "ニシ",
         "friend_code": "TUMFW",
         "venue": "竜星の嵐　小倉駅前店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 40
       },
       {
         "event": "1158778",
@@ -5262,7 +5796,8 @@
         "player": "床鰻の歌舞伎者 かのんぴ",
         "friend_code": "OPXTQ",
         "venue": "アドバンテージ岐阜店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 23
       },
       {
         "event": "1161735",
@@ -5273,7 +5808,8 @@
         "player": "あっさむ",
         "friend_code": "WNAQQ",
         "venue": "こども楽園",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 21
       },
       {
         "event": "1158789",
@@ -5284,7 +5820,8 @@
         "player": "白夜",
         "friend_code": "ROKIH",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 19
       },
       {
         "event": "1140181",
@@ -5296,6 +5833,7 @@
         "friend_code": "DOQYW",
         "venue": "トーナメントセンターバトロコ新浜松駅前",
         "date": "2025-06-01",
+        "pref_code": 22,
         "variant_cards": [
           {
             "name": "ガトリングクロー・ドラゴン",
@@ -5316,7 +5854,8 @@
         "player": "せみ",
         "friend_code": "WZTOL",
         "venue": "カードショップノイス",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 1
       }
     ]
   },
@@ -5328,162 +5867,194 @@
       "闇穿つ煌き・サリッサ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.321
+        "rank": 0.321,
+        "avg_when_used": 3.0
       },
       "ルナールの聖騎士": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.321
+        "rank": 0.321,
+        "avg_when_used": 3.0
       },
       "呪われた翼・シロ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.321
+        "rank": 0.321,
+        "avg_when_used": 3.0
       },
       "ブライトパラディン・ウィルバート": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.321
+        "rank": 0.321,
+        "avg_when_used": 3.0
       },
       "福呼びの狐": {
         "avg": 2.8571,
         "ratio": 1.0,
-        "rank": 0.184
+        "rank": 0.184,
+        "avg_when_used": 2.86
       },
       "聖騎士・ヘクター": {
         "avg": 2.7143,
         "ratio": 1.0,
-        "rank": 0.368
+        "rank": 0.368,
+        "avg_when_used": 2.71
       },
       "剛健の翼人": {
         "avg": 2.5714,
         "ratio": 0.8571,
-        "rank": 0.334
+        "rank": 0.334,
+        "avg_when_used": 3.0
       },
       "神殿の癒し手": {
         "avg": 2.5714,
         "ratio": 0.8571,
-        "rank": 0.334
+        "rank": 0.334,
+        "avg_when_used": 3.0
       },
       "熟達の翼戦士": {
         "avg": 2.4286,
         "ratio": 1.0,
-        "rank": 0.382
+        "rank": 0.382,
+        "avg_when_used": 2.43
       },
       "グランドナイト・ウィルバート": {
         "avg": 2.4286,
         "ratio": 0.8571,
-        "rank": 0.339
+        "rank": 0.339,
+        "avg_when_used": 2.83
       },
       "ダーティジャスティス・パイン": {
         "avg": 1.7143,
         "ratio": 0.7143,
-        "rank": 0.124
+        "rank": 0.124,
+        "avg_when_used": 2.4
       },
       "アラエル": {
         "avg": 1.1429,
         "ratio": 0.5714,
-        "rank": 0.091
+        "rank": 0.091,
+        "avg_when_used": 2.0
       },
       "神聖なる先導者": {
         "avg": 1.1429,
         "ratio": 0.7143,
-        "rank": 0.239
+        "rank": 0.239,
+        "avg_when_used": 1.6
       },
       "半月の女神 ツクヨミ": {
         "avg": 0.8571,
         "ratio": 0.2857,
-        "rank": 0.991
+        "rank": 0.991,
+        "avg_when_used": 3.0
       },
       "絶望の安息・マーウィン": {
         "avg": 0.8571,
         "ratio": 0.2857,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "絶望の聖女・ジャンヌ": {
         "avg": 0.7143,
         "ratio": 0.2857,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.5
       },
       "光の信仰者": {
         "avg": 0.7143,
         "ratio": 0.4286,
-        "rank": 0.707
+        "rank": 0.707,
+        "avg_when_used": 1.67
       },
       "背理盾・ゼノン": {
         "avg": 0.5714,
         "ratio": 0.2857,
-        "rank": 0.056
+        "rank": 0.056,
+        "avg_when_used": 2.0
       },
       "ベルエンジェル": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "ダークオファリング": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "警策の翼人": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "氷獄の顕現": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "ネズミ神殿": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "テミスの審判": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "パニッシュメントスナイパー": {
         "avg": 0.4286,
         "ratio": 0.1429,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 3.0
       },
       "メイデン・オブ・ライブラ": {
         "avg": 0.2857,
         "ratio": 0.2857,
-        "rank": 0.685
+        "rank": 0.685,
+        "avg_when_used": 1.0
       },
       "鉄腕の修道女": {
         "avg": 0.2857,
         "ratio": 0.1429,
-        "rank": 0.29
+        "rank": 0.29,
+        "avg_when_used": 2.0
       },
       "双極の生命・フラム＝グラス": {
         "avg": 0.2857,
         "ratio": 0.1429,
-        "rank": 0.29
+        "rank": 0.29,
+        "avg_when_used": 2.0
       },
       "異端の修道女・メルコット": {
         "avg": 0.2857,
         "ratio": 0.1429,
-        "rank": 0.003
+        "rank": 0.003,
+        "avg_when_used": 2.0
       },
       "白翼の守護神・アイテール": {
         "avg": 0.2857,
         "ratio": 0.2857,
-        "rank": 0.147
+        "rank": 0.147,
+        "avg_when_used": 1.0
       },
       "ステッキアルミラージ": {
         "avg": 0.1429,
         "ratio": 0.1429,
-        "rank": 0.303
+        "rank": 0.303,
+        "avg_when_used": 1.0
       },
       "星灯りの女神": {
         "avg": 0.1429,
         "ratio": 0.1429,
-        "rank": 0.133
+        "rank": 0.133,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -5496,7 +6067,8 @@
         "player": "リム",
         "friend_code": "NZJRU",
         "venue": "竜星の嵐　十三店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 27
       },
       {
         "event": "1118812",
@@ -5508,6 +6080,7 @@
         "friend_code": "SYYBW",
         "venue": "竜星の嵐　十三店",
         "date": "2025-05-31",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "ベルエンジェル",
@@ -5525,6 +6098,7 @@
         "friend_code": "XWCQS",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2025-06-06",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "ダークオファリング",
@@ -5546,6 +6120,7 @@
         "friend_code": "PPIDY",
         "venue": "プロジェクトコア阿倍野店",
         "date": "2025-06-04",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "異端の修道女・メルコット",
@@ -5562,7 +6137,8 @@
         "player": "ユウセイ",
         "friend_code": "KCKPU",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-06-04"
+        "date": "2025-06-04",
+        "pref_code": 27
       },
       {
         "event": "1157503",
@@ -5574,6 +6150,7 @@
         "friend_code": "BAQEH",
         "venue": "イーフォーラム河内長野店",
         "date": "2025-06-02",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "パニッシュメントスナイパー",
@@ -5591,6 +6168,7 @@
         "friend_code": "DXDOL",
         "venue": "オレタン福岡天神店",
         "date": "2025-06-01",
+        "pref_code": 40,
         "variant_cards": [
           {
             "name": "星灯りの女神",
@@ -5608,227 +6186,272 @@
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "ダークオファリング": {
         "avg": 2.8333,
         "ratio": 1.0,
-        "rank": 0.447
+        "rank": 0.447,
+        "avg_when_used": 2.83
       },
       "絶望の安息・マーウィン": {
         "avg": 2.8333,
         "ratio": 1.0,
-        "rank": 0.447
+        "rank": 0.447,
+        "avg_when_used": 2.83
       },
       "テミスの審判": {
         "avg": 2.8333,
         "ratio": 1.0,
-        "rank": 0.506
+        "rank": 0.506,
+        "avg_when_used": 2.83
       },
       "射殺す輝き": {
         "avg": 2.5,
         "ratio": 0.8333,
-        "rank": 0.529
+        "rank": 0.529,
+        "avg_when_used": 3.0
       },
       "悠久の絶望": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.106
+        "rank": 0.106,
+        "avg_when_used": 3.0
       },
       "《世界》・ゼルガネイア": {
         "avg": 2.0,
         "ratio": 0.8333,
-        "rank": 0.549
+        "rank": 0.549,
+        "avg_when_used": 2.4
       },
       "漆黒の法典": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.575
+        "rank": 0.575,
+        "avg_when_used": 3.0
       },
       "信仰の一撃": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.575
+        "rank": 0.575,
+        "avg_when_used": 3.0
       },
       "天使の恩寵": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.575
+        "rank": 0.575,
+        "avg_when_used": 3.0
       },
       "バトルシスター しょこら": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.84
+        "rank": 0.84,
+        "avg_when_used": 3.0
       },
       "安息の絶傑・マーウィン": {
         "avg": 0.8333,
         "ratio": 0.5,
-        "rank": 0.276
+        "rank": 0.276,
+        "avg_when_used": 1.67
       },
       "ワールドブレイク": {
         "avg": 0.8333,
         "ratio": 0.8333,
-        "rank": 0.523
+        "rank": 0.523,
+        "avg_when_used": 1.0
       },
       "古き護り手": {
         "avg": 0.6667,
         "ratio": 0.6667,
-        "rank": 0.67
+        "rank": 0.67,
+        "avg_when_used": 1.0
       },
       "清浄の領域": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.897
+        "rank": 0.897,
+        "avg_when_used": 2.0
       },
       "救世主": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.158
+        "rank": 0.158,
+        "avg_when_used": 2.0
       },
       "マチカネフクキタル": {
         "avg": 0.6667,
         "ratio": 0.6667,
-        "rank": 0.556
+        "rank": 0.556,
+        "avg_when_used": 1.0
       },
       "エンジェルスナイプ": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.215
+        "rank": 0.215,
+        "avg_when_used": 2.0
       },
       "祈りの燭台": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "セクメト": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "愚神礼賛": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "聖なるジャッジガベル": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "清めの間": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "安息の従者": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "絶望の崇拝者": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "絶望の聖女・ジャンヌ": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "安息の隠者": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "淀みの神父": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "セト": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "コンセントレイト": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "ベルエンジェル": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "安息の使徒": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "天界の尖兵": {
         "avg": 0.5,
         "ratio": 0.1667,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "その背中を越えて": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.421
+        "rank": 0.421,
+        "avg_when_used": 2.0
       },
       "星導の天球儀": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.421
+        "rank": 0.421,
+        "avg_when_used": 2.0
       },
       "神の盾・ブローディア": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.421
+        "rank": 0.421,
+        "avg_when_used": 2.0
       },
       "エイラの祈祷": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.421
+        "rank": 0.421,
+        "avg_when_used": 2.0
       },
       "天狐の社": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.421
+        "rank": 0.421,
+        "avg_when_used": 2.0
       },
       "烈火の魔弾": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.904
+        "rank": 0.904,
+        "avg_when_used": 2.0
       },
       "メイデン・オブ・ライブラ": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.904
+        "rank": 0.904,
+        "avg_when_used": 2.0
       },
       "稲葉の白兎": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.259
+        "rank": 0.259,
+        "avg_when_used": 2.0
       },
       "戦巫女 タギツヒメ": {
         "avg": 0.3333,
         "ratio": 0.1667,
-        "rank": 0.259
+        "rank": 0.259,
+        "avg_when_used": 2.0
       },
       "夢想の白兎": {
         "avg": 0.1667,
         "ratio": 0.1667,
-        "rank": 0.452
+        "rank": 0.452,
+        "avg_when_used": 1.0
       },
       "栄華の加護神・ヤテラントゥ": {
         "avg": 0.1667,
         "ratio": 0.1667,
-        "rank": 0.452
+        "rank": 0.452,
+        "avg_when_used": 1.0
       },
       "警策の翼人": {
         "avg": 0.1667,
         "ratio": 0.1667,
-        "rank": 0.758
+        "rank": 0.758,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -5842,6 +6465,7 @@
         "friend_code": "KBVOI",
         "venue": "GIRAFULL 京都店",
         "date": "2025-05-28",
+        "pref_code": 26,
         "variant_cards": [
           {
             "name": "夢想の白兎",
@@ -5863,6 +6487,7 @@
         "friend_code": "MCAYY",
         "venue": "カードボックス福山店",
         "date": "2025-06-08",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "清めの間",
@@ -5892,6 +6517,7 @@
         "friend_code": "XILQU",
         "venue": "カードシークレット池袋",
         "date": "2025-06-01",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "警策の翼人",
@@ -5913,6 +6539,7 @@
         "friend_code": "JTRUT",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
         "date": "2025-06-01",
+        "pref_code": 19,
         "variant_cards": [
           {
             "name": "コンセントレイト",
@@ -5934,6 +6561,7 @@
         "friend_code": "WADHH",
         "venue": "カードショップノイス",
         "date": "2025-06-01",
+        "pref_code": 1,
         "variant_cards": [
           {
             "name": "稲葉の白兎",
@@ -5955,6 +6583,7 @@
         "friend_code": "QQCLH",
         "venue": "ハリケーン川西店",
         "date": "2025-06-01",
+        "pref_code": 27,
         "variant_cards": [
           {
             "name": "天界の尖兵",
@@ -5972,152 +6601,182 @@
       "空の指揮官・セリア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.419
+        "rank": 0.419,
+        "avg_when_used": 3.0
       },
       "音速の機構・ララミア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.419
+        "rank": 0.419,
+        "avg_when_used": 3.0
       },
       "月の刃・リオード": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.419
+        "rank": 0.419,
+        "avg_when_used": 3.0
       },
       "カースドクイーン・ナハト・ナハト": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.419
+        "rank": 0.419,
+        "avg_when_used": 3.0
       },
       "ナハトの私兵": {
         "avg": 2.8,
         "ratio": 1.0,
-        "rank": 0.47
+        "rank": 0.47,
+        "avg_when_used": 2.8
       },
       "自由なる冒険者": {
         "avg": 2.4,
         "ratio": 0.8,
-        "rank": 0.592
+        "rank": 0.592,
+        "avg_when_used": 3.0
       },
       "ラディカルガンスリンガー": {
         "avg": 2.4,
         "ratio": 0.8,
-        "rank": 0.592
+        "rank": 0.592,
+        "avg_when_used": 3.0
       },
       "アウトローガンナー": {
         "avg": 2.4,
         "ratio": 0.8,
-        "rank": 0.592
+        "rank": 0.592,
+        "avg_when_used": 3.0
       },
       "ファントムデュオ・バニー＆バロン": {
         "avg": 2.4,
         "ratio": 0.8,
-        "rank": 0.592
+        "rank": 0.592,
+        "avg_when_used": 3.0
       },
       "レヴィールの無法者": {
         "avg": 2.0,
         "ratio": 0.8,
-        "rank": 0.608
+        "rank": 0.608,
+        "avg_when_used": 2.5
       },
       "アストロウィング・ララミア": {
         "avg": 1.8,
         "ratio": 0.8,
-        "rank": 0.269
+        "rank": 0.269,
+        "avg_when_used": 2.25
       },
       "辺境の騎士見習い": {
         "avg": 1.4,
         "ratio": 0.6,
-        "rank": 0.187
+        "rank": 0.187,
+        "avg_when_used": 2.33
       },
       "晴天の銀騎士・エミリア": {
         "avg": 1.4,
         "ratio": 0.8,
-        "rank": 0.187
+        "rank": 0.187,
+        "avg_when_used": 1.75
       },
       "音速の突破": {
         "avg": 1.2,
         "ratio": 0.8,
-        "rank": 0.505
+        "rank": 0.505,
+        "avg_when_used": 1.5
       },
       "タイラントオーダー": {
         "avg": 1.2,
         "ratio": 0.8,
-        "rank": 0.708
+        "rank": 0.708,
+        "avg_when_used": 1.5
       },
       "ロストサムライ・カゲミツ": {
         "avg": 1.2,
         "ratio": 0.4,
-        "rank": 0.189
+        "rank": 0.189,
+        "avg_when_used": 3.0
       },
       "放浪する料理人": {
         "avg": 1.0,
         "ratio": 0.4,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.5
       },
       "星の鎧": {
         "avg": 0.6,
         "ratio": 0.2,
-        "rank": 0.399
+        "rank": 0.399,
+        "avg_when_used": 3.0
       },
       "不思議な青空・アリス": {
         "avg": 0.6,
         "ratio": 0.2,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "デスペラードショット": {
         "avg": 0.4,
         "ratio": 0.4,
-        "rank": 0.561
+        "rank": 0.561,
+        "avg_when_used": 1.0
       },
       "無情の侵食": {
         "avg": 0.4,
         "ratio": 0.2,
-        "rank": 0.087
+        "rank": 0.087,
+        "avg_when_used": 2.0
       },
       "ペンギンガーディアン": {
         "avg": 0.4,
         "ratio": 0.2,
-        "rank": 0.087
+        "rank": 0.087,
+        "avg_when_used": 2.0
       },
       "白翼の戦神・アイテール": {
         "avg": 0.4,
         "ratio": 0.2,
-        "rank": 0.087
+        "rank": 0.087,
+        "avg_when_used": 2.0
       },
       "レイジーナイト・ネラン": {
         "avg": 0.4,
         "ratio": 0.2,
-        "rank": 0.087
+        "rank": 0.087,
+        "avg_when_used": 2.0
       },
       "ワイルドリザード": {
         "avg": 0.2,
         "ratio": 0.2,
-        "rank": 0.409
+        "rank": 0.409,
+        "avg_when_used": 1.0
       },
       "神速の歩法": {
         "avg": 0.2,
         "ratio": 0.2,
-        "rank": 0.215
+        "rank": 0.215,
+        "avg_when_used": 1.0
       },
       "戦技斬刀": {
         "avg": 0.2,
         "ratio": 0.2,
-        "rank": 0.215
+        "rank": 0.215,
+        "avg_when_used": 1.0
       },
       "逆境への対処": {
         "avg": 0.2,
         "ratio": 0.2,
-        "rank": 0.215
+        "rank": 0.215,
+        "avg_when_used": 1.0
       },
       "静かなる炎将・マーズ": {
         "avg": 0.2,
         "ratio": 0.2,
-        "rank": 0.215
+        "rank": 0.215,
+        "avg_when_used": 1.0
       },
       "紫電の黒豹": {
         "avg": 0.2,
         "ratio": 0.2,
-        "rank": 0.215
+        "rank": 0.215,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -6130,7 +6789,8 @@
         "player": "おにぎりボーイ",
         "friend_code": "AZUJU",
         "venue": "パピー弥富店",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 23
       },
       {
         "event": "1119894",
@@ -6142,6 +6802,7 @@
         "friend_code": "VGPZT",
         "venue": "カードボックス広島店",
         "date": "2025-05-31",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "ワイルドリザード",
@@ -6171,6 +6832,7 @@
         "friend_code": "KIZZB",
         "venue": "デュエルキング",
         "date": "2025-05-31",
+        "pref_code": 22,
         "variant_cards": [
           {
             "name": "神速の歩法",
@@ -6192,6 +6854,7 @@
         "friend_code": "VGHUO",
         "venue": "カードショップ海賊船-Starch-",
         "date": "2025-06-08",
+        "pref_code": 21,
         "variant_cards": [
           {
             "name": "ペンギンガーディアン",
@@ -6221,6 +6884,7 @@
         "friend_code": "WJHVB",
         "venue": "カードゲームショップ オレタン 岡山本店",
         "date": "2025-06-01",
+        "pref_code": 33,
         "variant_cards": [
           {
             "name": "晴天の銀騎士・エミリア",
@@ -6238,172 +6902,206 @@
       "華麗なる竜人・マリオン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.297
+        "rank": 0.297,
+        "avg_when_used": 3.0
       },
       "ストライクドラグーン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.297
+        "rank": 0.297,
+        "avg_when_used": 3.0
       },
       "原初の竜使い": {
         "avg": 2.75,
         "ratio": 1.0,
-        "rank": 0.337
+        "rank": 0.337,
+        "avg_when_used": 2.75
       },
       "ダークドラグーン・フォルテ": {
         "avg": 2.75,
         "ratio": 1.0,
-        "rank": 0.345
+        "rank": 0.345,
+        "avg_when_used": 2.75
       },
       "銀氷のドラゴニュート・フィルレイン": {
         "avg": 2.25,
         "ratio": 0.75,
-        "rank": 0.437
+        "rank": 0.437,
+        "avg_when_used": 3.0
       },
       "竜炎の設計士": {
         "avg": 2.25,
         "ratio": 0.75,
-        "rank": 0.319
+        "rank": 0.319,
+        "avg_when_used": 3.0
       },
       "ドラゴニックメイル・ギルヴァ": {
         "avg": 2.25,
         "ratio": 0.75,
-        "rank": 0.319
+        "rank": 0.319,
+        "avg_when_used": 3.0
       },
       "ファイアーリザード": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.517
+        "rank": 0.517,
+        "avg_when_used": 3.0
       },
       "セイウンスカイ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.517
+        "rank": 0.517,
+        "avg_when_used": 3.0
       },
       "ニシノフラワー": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.517
+        "rank": 0.517,
+        "avg_when_used": 3.0
       },
       "希望の火 エルモ": {
         "avg": 1.25,
         "ratio": 0.5,
-        "rank": 0.634
+        "rank": 0.634,
+        "avg_when_used": 2.5
       },
       "ドラゴンナイト ネハーレン": {
         "avg": 1.25,
         "ratio": 0.5,
-        "rank": 0.634
+        "rank": 0.634,
+        "avg_when_used": 2.5
       },
       "慈愛の竜戦士": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.069
+        "rank": 0.069,
+        "avg_when_used": 2.0
       },
       "竜友の少女": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "銀氷の吐息": {
         "avg": 0.75,
         "ratio": 0.75,
-        "rank": 0.396
+        "rank": 0.396,
+        "avg_when_used": 1.0
       },
       "残影のドラゴニュート": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 3.0
       },
       "アンネローゼ": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 3.0
       },
       "ブリザードハート・フィルレイン": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 3.0
       },
       "竜の託宣": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 3.0
       },
       "独尊龍・スーロン": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 3.0
       },
       "ニードルドラゴニュート": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 3.0
       },
       "自由なる冒険者": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "竜人の工匠": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "燎火のレンチスミス": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "ワイルドリザード": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "烈覇のアルチザン・レジー": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "ウィンディドラゴニュート": {
         "avg": 0.5,
         "ratio": 0.25,
-        "rank": 0.258
+        "rank": 0.258,
+        "avg_when_used": 2.0
       },
       "レヴィールの無法者": {
         "avg": 0.5,
         "ratio": 0.25,
-        "rank": 0.053
+        "rank": 0.053,
+        "avg_when_used": 2.0
       },
       "ツルマルツヨシ": {
         "avg": 0.5,
         "ratio": 0.25,
-        "rank": 0.002
+        "rank": 0.002,
+        "avg_when_used": 2.0
       },
       "爆砕の傭兵・フィーナ": {
         "avg": 0.5,
         "ratio": 0.25,
-        "rank": 0.002
+        "rank": 0.002,
+        "avg_when_used": 2.0
       },
       "銀氷の吹雪": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.272
+        "rank": 0.272,
+        "avg_when_used": 1.0
       },
       "鷺沢文香": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.272
+        "rank": 0.272,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -6417,6 +7115,7 @@
         "friend_code": "VKLTF",
         "venue": "TSUTAYA籠原店",
         "date": "2025-06-01",
+        "pref_code": 11,
         "variant_cards": [
           {
             "name": "竜友の少女",
@@ -6434,6 +7133,7 @@
         "friend_code": "KEJLG",
         "venue": "カードショップノイス",
         "date": "2025-06-01",
+        "pref_code": 1,
         "variant_cards": [
           {
             "name": "残影のドラゴニュート",
@@ -6463,6 +7163,7 @@
         "friend_code": "NLIPC",
         "venue": "シーガル仙台駅前店",
         "date": "2025-06-01",
+        "pref_code": 4,
         "variant_cards": [
           {
             "name": "自由なる冒険者",
@@ -6492,6 +7193,7 @@
         "friend_code": "LAZMS",
         "venue": "ホビーステーション 津田沼",
         "date": "2025-06-01",
+        "pref_code": 12,
         "variant_cards": [
           {
             "name": "ツルマルツヨシ",
@@ -6513,112 +7215,134 @@
       "欲望の信者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "欲望の翼": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "鮮血の首飾り": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "愛絶の欲望・ヴァーナレク": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "永劫の吸血鬼・アルザード": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "欲望の絶傑・ヴァーナレク": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "クラッシュデビル・デモニア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "魔剣の騎士・ハザン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 3.0
       },
       "クリムゾンウォー・ラウラ": {
         "avg": 2.75,
         "ratio": 1.0,
-        "rank": 0.211
+        "rank": 0.211,
+        "avg_when_used": 2.75
       },
       "パルクールウルフ": {
         "avg": 2.75,
         "ratio": 1.0,
-        "rank": 0.349
+        "rank": 0.349,
+        "avg_when_used": 2.75
       },
       "憎悪する愛絶": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.141
+        "rank": 0.141,
+        "avg_when_used": 2.0
       },
       "ブラッドムーン": {
         "avg": 2.0,
         "ratio": 0.75,
-        "rank": 0.315
+        "rank": 0.315,
+        "avg_when_used": 2.67
       },
       "欲望の隠者": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "愛絶の崇拝者": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.05
+        "rank": 0.05,
+        "avg_when_used": 2.0
       },
       "欲望の狂信者": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.579
+        "rank": 0.579,
+        "avg_when_used": 2.0
       },
       "闇喰らいの蝙蝠": {
         "avg": 0.75,
         "ratio": 0.75,
-        "rank": 0.391
+        "rank": 0.391,
+        "avg_when_used": 1.0
       },
       "パンクデビル・デモニア": {
         "avg": 0.75,
         "ratio": 0.25,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "業火の魔犬": {
         "avg": 0.5,
         "ratio": 0.25,
-        "rank": 0.135
+        "rank": 0.135,
+        "avg_when_used": 2.0
       },
       "漆黒の契約": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.206
+        "rank": 0.206,
+        "avg_when_used": 1.0
       },
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.642
+        "rank": 0.642,
+        "avg_when_used": 1.0
       },
       "欲望の口付け": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.642
+        "rank": 0.642,
+        "avg_when_used": 1.0
       },
       "ダークジェネラル": {
         "avg": 0.25,
         "ratio": 0.25,
-        "rank": 0.206
+        "rank": 0.206,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -6632,6 +7356,7 @@
         "friend_code": "ZIEZX",
         "venue": "フルコンプ仙台駅前店",
         "date": "2025-05-31",
+        "pref_code": 4,
         "variant_cards": [
           {
             "name": "業火の魔犬",
@@ -6653,6 +7378,7 @@
         "friend_code": "GHNEO",
         "venue": "デュエルキング",
         "date": "2025-05-31",
+        "pref_code": 22,
         "variant_cards": [
           {
             "name": "漆黒の契約",
@@ -6674,6 +7400,7 @@
         "friend_code": "NNIRE",
         "venue": "カードボックスイオンモール高知店",
         "date": "2025-06-01",
+        "pref_code": 39,
         "variant_cards": [
           {
             "name": "干絶の飢餓・ギルネリーゼ",
@@ -6695,6 +7422,7 @@
         "friend_code": "RGMIL",
         "venue": "TSUTAYA籠原店",
         "date": "2025-06-01",
+        "pref_code": 11,
         "variant_cards": [
           {
             "name": "ダークジェネラル",
@@ -6712,102 +7440,122 @@
       "破壊の愉悦": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "奏絶の崇拝者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "破壊の従者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "白の章・黒の章": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "奏絶の破壊・リーシェナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "破壊の狂信者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "破壊の絶傑・リーシェナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "ラピッドファイア": {
         "avg": 2.6667,
         "ratio": 0.6667,
-        "rank": 0.856
+        "rank": 0.856,
+        "avg_when_used": 4.0
       },
       "マーリン": {
         "avg": 2.6667,
         "ratio": 1.0,
-        "rank": 0.291
+        "rank": 0.291,
+        "avg_when_used": 2.67
       },
       "破壊の歌声": {
         "avg": 2.3333,
         "ratio": 1.0,
-        "rank": 0.52
+        "rank": 0.52,
+        "avg_when_used": 2.33
       },
       "破壊の隠者": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "エウロペ": {
         "avg": 1.6667,
         "ratio": 0.6667,
-        "rank": 0.086
+        "rank": 0.086,
+        "avg_when_used": 2.5
       },
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 1.6667,
         "ratio": 0.6667,
-        "rank": 0.291
+        "rank": 0.291,
+        "avg_when_used": 2.5
       },
       "舞い戻る奏絶": {
         "avg": 1.6667,
         "ratio": 1.0,
-        "rank": 0.25
+        "rank": 0.25,
+        "avg_when_used": 1.67
       },
       "連鎖する雷": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 1.0
       },
       "烈火の魔弾": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "運命への反逆": {
         "avg": 1.0,
         "ratio": 0.6667,
-        "rank": 0.564
+        "rank": 0.564,
+        "avg_when_used": 1.5
       },
       "《世界》・ゼルガネイア": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.356
+        "rank": 0.356,
+        "avg_when_used": 2.0
       },
       "真実の掟": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.127
+        "rank": 0.127,
+        "avg_when_used": 1.0
       },
       "キングスノーマン": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.373
+        "rank": 0.373,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -6821,6 +7569,7 @@
         "friend_code": "KTMCG",
         "venue": "カードボックス福山店",
         "date": "2025-06-08",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "真実の掟",
@@ -6838,6 +7587,7 @@
         "friend_code": "XXHIJ",
         "venue": "シーガル仙台駅前店",
         "date": "2025-06-01",
+        "pref_code": 4,
         "variant_cards": [
           {
             "name": "烈火の魔弾",
@@ -6855,6 +7605,7 @@
         "friend_code": "GOFIM",
         "venue": "カードゲームショップ オレタン 岡山本店",
         "date": "2025-06-01",
+        "pref_code": 33,
         "variant_cards": [
           {
             "name": "《世界》・ゼルガネイア",
@@ -6876,107 +7627,128 @@
       "グリモアソーサラー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "絶尽の崇拝者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "インフィニットウィッチ・ドロシー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "真実の隠者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "真実の掟": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "真実の絶傑・ライオ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "絶尽の真実・ライオ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.568
+        "rank": 0.568,
+        "avg_when_used": 3.0
       },
       "真実の狂信者": {
         "avg": 2.6667,
         "ratio": 1.0,
-        "rank": 0.671
+        "rank": 0.671,
+        "avg_when_used": 2.67
       },
       "真実の宣告": {
         "avg": 2.3333,
         "ratio": 1.0,
-        "rank": 0.794
+        "rank": 0.794,
+        "avg_when_used": 2.33
       },
       "未来視の魔女": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.944
+        "rank": 0.944,
+        "avg_when_used": 3.0
       },
       "レヴィールの保安官補": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.944
+        "rank": 0.944,
+        "avg_when_used": 3.0
       },
       "真実の使徒": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.944
+        "rank": 0.944,
+        "avg_when_used": 3.0
       },
       "石英の魔女": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.944
+        "rank": 0.944,
+        "avg_when_used": 3.0
       },
       "楽園への来訪": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "管弦の魔術師": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "宿帳のフクロウ": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "一世の探究": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "真理の大文豪・ユキシマ": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "運命への反逆": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.281
+        "rank": 0.281,
+        "avg_when_used": 1.0
       },
       "連鎖する雷": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 1.0
       },
       "精神統一": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.425
+        "rank": 0.425,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -6990,6 +7762,7 @@
         "friend_code": "YXEXC",
         "venue": "ドラゴンスター秋葉原駅前店",
         "date": "2025-05-31",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "楽園への来訪",
@@ -7011,6 +7784,7 @@
         "friend_code": "GZTFF",
         "venue": "竜星の嵐　小倉駅前店",
         "date": "2025-06-08",
+        "pref_code": 40,
         "variant_cards": [
           {
             "name": "連鎖する雷",
@@ -7028,6 +7802,7 @@
         "friend_code": "KFDJO",
         "venue": "オレタン福岡天神店",
         "date": "2025-06-01",
+        "pref_code": 40,
         "variant_cards": [
           {
             "name": "精神統一",
@@ -7045,157 +7820,188 @@
       "シュヴァルグラン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.617
+        "rank": 0.617,
+        "avg_when_used": 3.0
       },
       "ネオユニヴァース": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.617
+        "rank": 0.617,
+        "avg_when_used": 3.0
       },
       "ジェンティルドンナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.617
+        "rank": 0.617,
+        "avg_when_used": 3.0
       },
       "ナリタブライアン": {
         "avg": 2.6667,
         "ratio": 1.0,
-        "rank": 0.719
+        "rank": 0.719,
+        "avg_when_used": 2.67
       },
       "ヒシアケボノ": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "メジロラモーヌ": {
         "avg": 1.6667,
         "ratio": 0.6667,
-        "rank": 0.324
+        "rank": 0.324,
+        "avg_when_used": 2.5
       },
       "おどれ・さわげ・フェスれ！": {
         "avg": 1.6667,
         "ratio": 0.6667,
-        "rank": 0.982
+        "rank": 0.982,
+        "avg_when_used": 2.5
       },
       "紡がれてゆく想い": {
         "avg": 1.6667,
         "ratio": 0.6667,
-        "rank": 0.982
+        "rank": 0.982,
+        "avg_when_used": 2.5
       },
       "マチカネフクキタル": {
         "avg": 1.3333,
         "ratio": 0.6667,
-        "rank": 0.958
+        "rank": 0.958,
+        "avg_when_used": 2.0
       },
       "〔月下の悪魔ちゃん♪〕メジロパーマー": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "かっとばせー！ですわ！？": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "ヴィブロス": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "ヴィルシーナ": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "〔一粒の安らぎ〕スーパークリーク": {
         "avg": 1.0,
         "ratio": 0.6667,
-        "rank": 0.617
+        "rank": 0.617,
+        "avg_when_used": 1.5
       },
       "メジロマックイーン": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "〔夜風に舞うは祈りの花〕メジロアルダン": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "見習い魔女と長い夜": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "ジャングルポケット": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "Balliamo?": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "ミホノブルボン": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "ゴールドシップ": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "その背中を越えて": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "サトノクラウン": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "天まで焦がせ祈りの火": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "ミスターシービー": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "運の行方": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.925
+        "rank": 0.925,
+        "avg_when_used": 3.0
       },
       "迫る熱に押されて": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.101
+        "rank": 0.101,
+        "avg_when_used": 2.0
       },
       "ドゥラメンテ": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.101
+        "rank": 0.101,
+        "avg_when_used": 2.0
       },
       "ダイイチルビー": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.101
+        "rank": 0.101,
+        "avg_when_used": 2.0
       },
       "都留岐涼花": {
         "avg": 0.6667,
         "ratio": 0.3333,
-        "rank": 0.874
+        "rank": 0.874,
+        "avg_when_used": 2.0
       },
       "雨の独奏、私の独創": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.271
+        "rank": 0.271,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -7209,6 +8015,7 @@
         "friend_code": "NHJQY",
         "venue": "ドラゴンスター秋葉原駅前店",
         "date": "2025-05-31",
+        "pref_code": 13,
         "variant_cards": [
           {
             "name": "〔月下の悪魔ちゃん♪〕メジロパーマー",
@@ -7230,6 +8037,7 @@
         "friend_code": "FGDSU",
         "venue": "カードショップ海賊船-Starch-",
         "date": "2025-06-08",
+        "pref_code": 21,
         "variant_cards": [
           {
             "name": "見習い魔女と長い夜",
@@ -7251,6 +8059,7 @@
         "friend_code": "NIZYL",
         "venue": "カードボックス福山店",
         "date": "2025-06-08",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "その背中を越えて",
@@ -7272,117 +8081,140 @@
       "ワンダーコック": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "金剛のパキケファロサウルス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "ドラゴニックレイジ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "ドラゴニュートの威圧": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "竜巫女の儀式": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "波濤のプレシオサウルス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.4
+        "rank": 0.4,
+        "avg_when_used": 3.0
       },
       "光の道筋": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.53
+        "rank": 0.53,
+        "avg_when_used": 3.0
       },
       "旋風のプテラノドン": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.009
+        "rank": 0.009,
+        "avg_when_used": 3.0
       },
       "呪われし影・ヴァイディ": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.009
+        "rank": 0.009,
+        "avg_when_used": 3.0
       },
       "鋼鉄と大地の神": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.009
+        "rank": 0.009,
+        "avg_when_used": 3.0
       },
       "猛火のティラノサウルス": {
         "avg": 2.0,
         "ratio": 0.6667,
-        "rank": 0.009
+        "rank": 0.009,
+        "avg_when_used": 3.0
       },
       "ドラゴニックメイル・ギルヴァ": {
         "avg": 1.6667,
         "ratio": 0.6667,
-        "rank": 0.744
+        "rank": 0.744,
+        "avg_when_used": 2.5
       },
       "影の侵食": {
         "avg": 1.3333,
         "ratio": 0.6667,
-        "rank": 0.061
+        "rank": 0.061,
+        "avg_when_used": 2.0
       },
       "竜の託宣": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "ハンプティダンプティ": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "卵の大爆発": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "岩石のアンキロサウルス": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "母なる君": {
         "avg": 1.0,
         "ratio": 0.6667,
-        "rank": 0.133
+        "rank": 0.133,
+        "avg_when_used": 1.5
       },
       "荒野の休息": {
         "avg": 1.0,
         "ratio": 0.3333,
-        "rank": 0.2
+        "rank": 0.2,
+        "avg_when_used": 3.0
       },
       "ワイルド・マナ": {
         "avg": 0.6667,
         "ratio": 0.6667,
-        "rank": 0.157
+        "rank": 0.157,
+        "avg_when_used": 1.0
       },
       "ドラゴンイクシード・ギルヴァ": {
         "avg": 0.3333,
         "ratio": 0.3333,
-        "rank": 0.711
+        "rank": 0.711,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -7396,6 +8228,7 @@
         "friend_code": "JXMHA",
         "venue": "GIRAFULL 広島ドンキ店",
         "date": "2025-06-07",
+        "pref_code": 34,
         "variant_cards": [
           {
             "name": "竜の託宣",
@@ -7417,6 +8250,7 @@
         "friend_code": "CGZNR",
         "venue": "トーナメントセンターバトロコ本厚木駅前",
         "date": "2025-06-01",
+        "pref_code": 14,
         "variant_cards": [
           {
             "name": "岩石のアンキロサウルス",
@@ -7434,6 +8268,7 @@
         "friend_code": "LNUPG",
         "venue": "カードゲームショップ オレタン 岡山本店",
         "date": "2025-06-01",
+        "pref_code": 33,
         "variant_cards": [
           {
             "name": "荒野の休息",
@@ -7451,122 +8286,146 @@
       "セレスティアルスフィア・ミリカ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "レヴィールの保安官補": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "光の道筋": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "マジカルシューター": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "ピースキーパー・ヴィンセント": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "川島瑞樹": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "開闢の予言者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.496
+        "rank": 0.496,
+        "avg_when_used": 3.0
       },
       "双極の生命・フラム＝グラス": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.614
+        "rank": 0.614,
+        "avg_when_used": 2.5
       },
       "ジャッジメントワード": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.498
+        "rank": 0.498,
+        "avg_when_used": 2.0
       },
       "一世の探究": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.773
+        "rank": 0.773,
+        "avg_when_used": 2.0
       },
       "シュヴァルグラン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "双刃の魔剣士": {
         "avg": 1.5,
         "ratio": 1.0,
-        "rank": 0.667
+        "rank": 0.667,
+        "avg_when_used": 1.5
       },
       "マーシャルゴーレム": {
         "avg": 1.5,
         "ratio": 1.0,
-        "rank": 0.667
+        "rank": 0.667,
+        "avg_when_used": 1.5
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "ラピッドファイア": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.503
+        "rank": 0.503,
+        "avg_when_used": 1.0
       },
       "次元の超越": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.503
+        "rank": 0.503,
+        "avg_when_used": 1.0
       },
       "鋼鉄の魔獣・レガロア": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.503
+        "rank": 0.503,
+        "avg_when_used": 1.0
       },
       "陰陽の開祖・クオン": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.503
+        "rank": 0.503,
+        "avg_when_used": 1.0
       },
       "真理の発見": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.796
+        "rank": 0.796,
+        "avg_when_used": 1.0
       },
       "一ノ瀬志希": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.796
+        "rank": 0.796,
+        "avg_when_used": 1.0
       },
       "ワールドブレイク": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.796
+        "rank": 0.796,
+        "avg_when_used": 1.0
       },
       "マナリアウィザード・クレイグ": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.219
+        "rank": 0.219,
+        "avg_when_used": 1.0
       },
       "交錯する力": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.219
+        "rank": 0.219,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -7579,7 +8438,8 @@
         "player": "ハタケ",
         "friend_code": "YARUO",
         "venue": "トーナメントセンターバトロコ吉祥寺駅前",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 13
       },
       {
         "event": "1161266",
@@ -7590,7 +8450,8 @@
         "player": "FenzFanBoy",
         "friend_code": "NFKJN",
         "venue": "オレタン福岡天神店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 40
       }
     ]
   },
@@ -7602,117 +8463,140 @@
       "検証、開始": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "見習い魔女と長い夜": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "夜に暁、空に瑞星": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "シュヴァルグラン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "スイープトウショウ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "ヒシミラクル": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "おどれ・さわげ・フェスれ！": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "エアシャカール": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "7センチの先へ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 3.0
       },
       "スマートファルコン": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.157
+        "rank": 0.157,
+        "avg_when_used": 2.0
       },
       "〔マチタン☆アドベンチャー〕マチカネタンホイザ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "マンハッタンカフェ": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 1.0
       },
       "アグネスタキオン": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 1.0
       },
       "マーベラスサンデー": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 1.0
       },
       "迫る熱に押されて": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.457
+        "rank": 0.457,
+        "avg_when_used": 1.0
       },
       "Balliamo?": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "天まで焦がせ祈りの火": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "ドゥラメンテ": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "祖にして導く者": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "ウオッカ": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.914
+        "rank": 0.914,
+        "avg_when_used": 2.0
       },
       "ダイワスカーレット": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.914
+        "rank": 0.914,
+        "avg_when_used": 2.0
       },
       "雨の独奏、私の独創": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.914
+        "rank": 0.914,
+        "avg_when_used": 2.0
       },
       "あなたにささげる": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.766
+        "rank": 0.766,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -7725,7 +8609,8 @@
         "player": "菫青石",
         "friend_code": "ZRQOC",
         "venue": "秋葉原チェルモ",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1158789",
@@ -7736,7 +8621,8 @@
         "player": "アリス",
         "friend_code": "ZKSXX",
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 19
       }
     ]
   },
@@ -7748,87 +8634,104 @@
       "ジャンク": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "楽園への来訪": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "絡繰り給仕": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "照明の案内人": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "仲居のエルフ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "夢のもてなし": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "殺戮の人形・ツヴァイ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "人形の少女・オーキス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "化かし女将・ホズミ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "心無き決闘": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.547
+        "rank": 0.547,
+        "avg_when_used": 3.0
       },
       "ねじまき売り子": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.681
+        "rank": 0.681,
+        "avg_when_used": 2.5
       },
       "復讐の人形遣い・ノア": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.548
+        "rank": 0.548,
+        "avg_when_used": 2.0
       },
       "森の巫女・パメラ": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.548
+        "rank": 0.548,
+        "avg_when_used": 2.0
       },
       "人形の支配者・リーアム": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "自然の導き": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.0
       },
       "凍土の女王・ピアシィ": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 2.0
       },
       "深き森の異形": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.261
+        "rank": 0.261,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -7841,7 +8744,8 @@
         "player": "ドンちゃん",
         "friend_code": "NJFTV",
         "venue": "カードショップ海賊船-Starch-",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 21
       },
       {
         "event": "1161266",
@@ -7852,7 +8756,8 @@
         "player": "ピエトロ",
         "friend_code": "FOHFH",
         "venue": "オレタン福岡天神店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 40
       }
     ]
   },
@@ -7864,92 +8769,110 @@
       "灯火の烈絶": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "侮蔑の炎爪": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "侮蔑の狂信者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "竜の託宣": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "侮蔑の使徒": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "烈絶の崇拝者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "侮蔑の絶傑・ガルミーユ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 3.0
       },
       "侮蔑の信者": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.194
+        "rank": 0.194,
+        "avg_when_used": 2.5
       },
       "侮蔑の嘲笑": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.194
+        "rank": 0.194,
+        "avg_when_used": 2.5
       },
       "侮蔑の従者": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.194
+        "rank": 0.194,
+        "avg_when_used": 2.5
       },
       "烈絶の侮蔑・ガルミーユ": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.507
+        "rank": 0.507,
+        "avg_when_used": 2.5
       },
       "ドラゴンナイト・アイラ": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 2.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 2.0
       },
       "侮蔑の隠者": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 1.5,
         "ratio": 1.0,
-        "rank": 0.134
+        "rank": 0.134,
+        "avg_when_used": 1.5
       },
       "覇極": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.351
+        "rank": 0.351,
+        "avg_when_used": 1.0
       },
       "飢餓の使徒": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.701
+        "rank": 0.701,
+        "avg_when_used": 1.0
       },
       "《世界》・ゼルガネイア": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -7962,7 +8885,8 @@
         "player": "奏音りょう",
         "friend_code": "PQGUR",
         "venue": "カードゲームショップ オレタン 岡山本店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 33
       },
       {
         "event": "1158417",
@@ -7973,7 +8897,8 @@
         "player": "BLACK",
         "friend_code": "PJGMO",
         "venue": "シーガル仙台駅前店",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 4
       }
     ]
   },
@@ -7985,152 +8910,182 @@
       "竜の託宣": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ドラゴンの卵": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.5
       },
       "斬竜剣士・ロイ": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "残影のドラゴニュート": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "竜炎の設計士": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ストライクドラグーン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "暴竜・伊達政宗": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "気高き雷・ロマロニア": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "炎柱の竜人": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "焦熱の竜翼・ドラーク": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "白亜の竜騎士": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "銀氷のドラゴニュート・フィルレイン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ブレイジングブレス": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ブリザードハート・フィルレイン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "銀氷の吐息": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ドラゴニュートの威圧": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "神龍": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "《世界》・ゼルガネイア": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ドラゴンイクシード・ギルヴァ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "片倉小十郎": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "爆炎の咆哮": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "銀氷の吹雪": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "リントヴルム": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "竜頭のスレイヤー": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       },
       "ウィンディドラゴニュート": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       },
       "殺竜騎士・ロイ": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       },
       "ガルグイユ": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       },
       "覇道の君臨者・フォルテ": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       },
       "ワールドブレイク": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -8143,7 +9098,8 @@
         "player": "しむ",
         "friend_code": "ORPCA",
         "venue": "カードベース ジャブロー",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 15
       },
       {
         "event": "1107278",
@@ -8154,7 +9110,8 @@
         "player": "りょまめる",
         "friend_code": "ZPWHL",
         "venue": "デュエルキング",
-        "date": "2025-05-31"
+        "date": "2025-05-31",
+        "pref_code": 22
       }
     ]
   },
@@ -8166,107 +9123,128 @@
       "潰し宴": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "デッドペナルティ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "テラーバンケット・ギンセツ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "カオスルーラー・アイシィレンドリング": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "大妖狐・ギンセツ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ソウルコンバージョン": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.618
+        "rank": 0.618,
+        "avg_when_used": 2.5
       },
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.382
+        "rank": 0.382,
+        "avg_when_used": 2.5
       },
       "百鬼夜行": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "火車": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "座敷童": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "バロン・ダブルフィール": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "夢のささやき": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "酒呑童子": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "銀矢の狩人": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "欲望の翼": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "鮮血の首飾り": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "パンクデビル・デモニア": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "クラッシュデビル・デモニア": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "魔剣の騎士・ハザン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "人外魔境・クリストフ": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.919
+        "rank": 0.919,
+        "avg_when_used": 2.0
       },
       "愛絶の欲望・ヴァーナレク": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.081
+        "rank": 0.081,
+        "avg_when_used": 2.0
       }
     },
     "decks": [
@@ -8279,7 +9257,8 @@
         "player": "床鰻の隠者　忠犬",
         "friend_code": "INAHL",
         "venue": "アドバンテージ岐阜店",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 23
       },
       {
         "event": "1136939",
@@ -8290,7 +9269,8 @@
         "player": "河野玲音",
         "friend_code": "MMVYP",
         "venue": "ホビーステーション 津田沼",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 12
       }
     ]
   },
@@ -8302,112 +9282,134 @@
       "死期を視るもの・グレモリー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "絶叫の沈黙・ルルナイ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ブラッドロード・ユヅキ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "轟": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "異界を統べる者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ヒシミラクル": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.618
+        "rank": 0.618,
+        "avg_when_used": 2.5
       },
       "怨讐の絶叫": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "一刀の幽鬼・カゲロウ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "絶叫の崇拝者": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "沈黙の詩": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "夢のささやき": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "沈黙の絶傑・ルルナイ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "カオスルーラー・アイシィレンドリング": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "片翼の悪魔・ピユラ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "沈黙の従者": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "反逆の命・ミリアム": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "紅の仁義": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "魂の一刀": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.921
+        "rank": 0.921,
+        "avg_when_used": 2.0
       },
       "ハーメルン": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.079
+        "rank": 0.079,
+        "avg_when_used": 2.0
       },
       "パンクデビル・デモニア": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.079
+        "rank": 0.079,
+        "avg_when_used": 2.0
       },
       "真紅のローズクイーン": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.079
+        "rank": 0.079,
+        "avg_when_used": 2.0
       }
     },
     "decks": [
@@ -8420,7 +9422,8 @@
         "player": "ランス",
         "friend_code": "YOHQQ",
         "venue": "GIRAFULL 京都店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 26
       },
       {
         "event": "1143001",
@@ -8431,7 +9434,8 @@
         "player": "イベ",
         "friend_code": "VOAQD",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       }
     ]
   },
@@ -8443,132 +9447,158 @@
       "三日月の女神 ツクヨミ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "戦巫女 タギツヒメ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "半月の女神 ツクヨミ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "〔月下の悪魔ちゃん♪〕メジロパーマー": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "絶望の聖女・ジャンヌ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "森の参謀・ムニャール": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "かっとばせー！ですわ！？": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "希望導く聖乙女・ジャンヌ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "メジロマックイーン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "メジロラモーヌ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "〔夜風に舞うは祈りの花〕メジロアルダン": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 3.0
       },
       "その背中を越えて": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "鋼刃の暗器使い": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "メイデン・オブ・ライブラ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "光の信仰者": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "テミスの審判": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "サハクィエル": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "都留岐涼花": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "ゴールドシップ": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "アブソリュート・トレランス": {
         "avg": 1.5,
         "ratio": 0.5,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "ムニャール登場": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.072
+        "rank": 0.072,
+        "avg_when_used": 2.0
       },
       "包み込む願い": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.072
+        "rank": 0.072,
+        "avg_when_used": 2.0
       },
       "炎氷の司祭・カラト": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.072
+        "rank": 0.072,
+        "avg_when_used": 2.0
       },
       "射殺す輝き": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.928
+        "rank": 0.928,
+        "avg_when_used": 2.0
       },
       "サハクィエル＆イスラーフィール": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.928
+        "rank": 0.928,
+        "avg_when_used": 2.0
       },
       "ジャンヌダルク": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.202
+        "rank": 0.202,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -8581,7 +9611,8 @@
         "player": "リュー",
         "friend_code": "JOTCU",
         "venue": "TSUTAYA西五反田店",
-        "date": "2025-05-29"
+        "date": "2025-05-29",
+        "pref_code": 13
       },
       {
         "event": "1144354",
@@ -8592,7 +9623,8 @@
         "player": "ひじき",
         "friend_code": "SHWWV",
         "venue": "カードショップ海賊船-Starch-",
-        "date": "2025-06-08"
+        "date": "2025-06-08",
+        "pref_code": 21
       }
     ]
   },
@@ -8604,77 +9636,92 @@
       "グランドブレイク": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "剥落の暴圧": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "蒙昧なる術式": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "《愚者》・リンクル": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "グリモアソーサラー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "未来視の魔女": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ファイアーチェイン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "インフィニットウィッチ・ドロシー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "一世の探究": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "真実の宣告": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "真理の大文豪・ユキシマ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "水晶の魔剣士": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "マーリン": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "連鎖する雷": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "魔女の雷撃": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -8687,7 +9734,8 @@
         "player": "アルパカ",
         "friend_code": "WSSBX",
         "venue": "プロジェクトコア阿倍野店",
-        "date": "2025-05-28"
+        "date": "2025-05-28",
+        "pref_code": 27
       }
     ]
   },
@@ -8699,92 +9747,110 @@
       "ブリッツ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "真理の発見": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "ファイアーチェイン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "魔力の蓄積": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "スキュア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "チェック": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "チェックメイト": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "魔道具専門店": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "次元の超越": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 1.0
+        "rank": 1.0,
+        "avg_when_used": 3.0
       },
       "製造術": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "ラピッドファイア": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "おどれ・さわげ・フェスれ！": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "白霜の風": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "願望の実現": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 2.0
       },
       "アイシクルランス": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.0
       },
       "真実の宣告": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.0
       },
       "真実の掟": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.0
       },
       "運命への反逆": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.0
+        "rank": 0.0,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -8797,94 +9863,111 @@
         "player": "卍かずん最強卍",
         "friend_code": "QLVAW",
         "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "pref_code": 34
       }
     ]
   },
   "dd725f": {
-    "name": "ロイヤル（粛清の英雄・メイシア・唯我の絶傑・マゼルベイン）",
+    "name": "ロイヤル（絶大の唯我・マゼルベイン・唯我の絶傑・マゼルベイン）",
     "class": "ロイヤル",
     "prev_id": null,
     "cards": {
       "空の指揮官・セリア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "辺境の騎士見習い": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "メイドリーダー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "月の刃・リオード": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "粛清の英雄・メイシア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "華の大将・タケツミ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "不思議な青空・アリス": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "絶大の唯我・マゼルベイン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "達人の芸者": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "唯我の絶傑・マゼルベイン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "帳場ガエル": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "迫る熱に押されて": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "粛清の一刀": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "天使の恩寵": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "レイジーナイト・ネラン": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       },
       "スパルタクス": {
         "avg": 1.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 1.0
       }
     },
     "decks": [
@@ -8897,84 +9980,99 @@
         "player": "シュレーター",
         "friend_code": "ZTBWE",
         "venue": "ザウルス",
-        "date": "2025-05-27"
+        "date": "2025-05-27",
+        "pref_code": 26
       }
     ]
   },
   "f36d83": {
-    "name": "ロイヤル（荒野の休息・光の道筋）",
+    "name": "ロイヤル（荒野の休息・王の一閃）",
     "class": "ロイヤル",
     "prev_id": "7fe505",
     "cards": {
       "ワンダーコック": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "輝ける剣撃": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "荒野の休息": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ブレイブ・マナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ハルバードウルフ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "光の道筋": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "王たる光・ベイリオン": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "王の一閃": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "母なる君": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "鋼鉄と大地の神": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "ライノスナイト・パトリック": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "森の姫・ミストリナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 3.0
       },
       "荒野の案内人": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       },
       "スパルタクス": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.5
+        "rank": 0.5,
+        "avg_when_used": 2.0
       }
     },
     "decks": [
@@ -8987,7 +10085,8 @@
         "player": "花湯",
         "friend_code": "NZOME",
         "venue": "カードショップノイス",
-        "date": "2025-06-01"
+        "date": "2025-06-01",
+        "pref_code": 1
       }
     ]
   }

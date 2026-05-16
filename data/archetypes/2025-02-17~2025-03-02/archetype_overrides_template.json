@@ -23,29 +23,6 @@
         }
       ]
     },
-    "3a5021": {
-      "name": "3a5021",
-      "class": "ロイヤル",
-      "n": 69,
-      "pairs": [
-        {
-          "xs": [
-            {
-              "name": "プリンセスキス",
-              "ratio": 25
-            }
-          ],
-          "drops": [
-            {
-              "y": "おプリンセスキス",
-              "y_ratio": 38,
-              "co_occur_pct": 0,
-              "diff_pct": -50
-            }
-          ]
-        }
-      ]
-    },
     "c8f39b": {
       "name": "c8f39b",
       "class": "ウマ娘 プリティーダービー",
@@ -161,15 +138,9 @@
           "drops": [
             {
               "y": "簒奪の絶傑・オクトリス",
-              "y_ratio": 74,
+              "y_ratio": 71,
               "co_occur_pct": 0,
-              "diff_pct": -88
-            },
-            {
-              "y": "ワールドブレイク",
-              "y_ratio": 65,
-              "co_occur_pct": 3,
-              "diff_pct": -53
+              "diff_pct": -85
             }
           ]
         },
@@ -193,7 +164,7 @@
           "xs": [
             {
               "name": "簒奪の蛇剣",
-              "ratio": 19
+              "ratio": 23
             }
           ],
           "drops": [
@@ -201,23 +172,7 @@
               "y": "簒奪の信者",
               "y_ratio": 77,
               "co_occur_pct": 6,
-              "diff_pct": -55
-            }
-          ]
-        },
-        {
-          "xs": [
-            {
-              "name": "簒奪の絶傑・オクトリス",
-              "ratio": 74
-            }
-          ],
-          "drops": [
-            {
-              "y": "レオニダス",
-              "y_ratio": 13,
-              "co_occur_pct": 0,
-              "diff_pct": -50
+              "diff_pct": -63
             }
           ]
         }
