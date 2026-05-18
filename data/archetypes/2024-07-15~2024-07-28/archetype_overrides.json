@@ -1,0 +1,26 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "eb72b4",
+      "rules": [
+        {
+          "required": ["ネフティス"],
+          "name": "ネフティスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+    }
+  ]
+}

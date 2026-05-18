@@ -22427,7 +22427,8 @@
     "canonical_print": "BP05-001",
     "prints": [
       "BP05-001",
-      "BP05-SL01"
+      "BP05-SL01",
+      "BP20-R01"
     ],
     "evolves_to": [
       "BP05-002"
@@ -22467,7 +22468,8 @@
     "prints": [
       "BP05-002",
       "BP05-SL02",
-      "BP05-U01"
+      "BP05-U01",
+      "BP20-R02"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -23074,7 +23076,8 @@
     "canonical_print": "BP05-018",
     "prints": [
       "BP05-018",
-      "BP05-SL04"
+      "BP05-SL04",
+      "BP20-R03"
     ],
     "evolves_to": [
       "BP05-019"
@@ -23115,7 +23118,8 @@
     "prints": [
       "BP05-019",
       "BP05-SL05",
-      "BP05-U02"
+      "BP05-U02",
+      "BP20-R04"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -23705,7 +23709,8 @@
     "canonical_print": "BP05-035",
     "prints": [
       "BP05-035",
-      "BP05-SL07"
+      "BP05-SL07",
+      "BP20-R05"
     ],
     "evolves_to": [
       "BP05-036"
@@ -23744,7 +23749,8 @@
     "canonical_print": "BP05-036",
     "prints": [
       "BP05-036",
-      "BP05-SL08"
+      "BP05-SL08",
+      "BP20-R06"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -23783,7 +23789,9 @@
     "prints": [
       "BP05-037",
       "BP05-SL09",
-      "BP05-U03"
+      "BP05-U03",
+      "BP20-PR01",
+      "BP20-R07"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -24349,6 +24357,7 @@
     "prints": [
       "BP05-052",
       "BP05-SL10",
+      "BP20-R08",
       "SP01-028",
       "SP01-SL28",
       "SP01-SP18",
@@ -24393,6 +24402,7 @@
       "BP05-053",
       "BP05-SL11",
       "BP05-U04",
+      "BP20-R09",
       "SP01-029",
       "SP01-SL29",
       "SP01-SP19",
@@ -25001,7 +25011,8 @@
     "prints": [
       "BP05-069",
       "BP05-SL13",
-      "BP05-U05"
+      "BP05-U05",
+      "BP20-R10"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -25039,7 +25050,8 @@
     "canonical_print": "BP05-070",
     "prints": [
       "BP05-070",
-      "BP05-SL14"
+      "BP05-SL14",
+      "BP20-R11"
     ],
     "evolves_to": [
       "BP05-071"
@@ -25078,7 +25090,8 @@
     "canonical_print": "BP05-071",
     "prints": [
       "BP05-071",
-      "BP05-SL15"
+      "BP05-SL15",
+      "BP20-R12"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -25641,7 +25654,8 @@
     "canonical_print": "BP05-086",
     "prints": [
       "BP05-086",
-      "BP05-SL16"
+      "BP05-SL16",
+      "BP20-R13"
     ],
     "evolves_to": [
       "BP05-087"
@@ -25683,7 +25697,8 @@
     "prints": [
       "BP05-087",
       "BP05-SL17",
-      "BP05-U06"
+      "BP05-U06",
+      "BP20-R14"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -26267,7 +26282,8 @@
     "canonical_print": "BP05-103",
     "prints": [
       "BP05-103",
-      "BP05-SL19"
+      "BP05-SL19",
+      "BP20-R15"
     ],
     "evolves_to": [
       "BP05-104"
@@ -26303,7 +26319,8 @@
     "canonical_print": "BP05-104",
     "prints": [
       "BP05-104",
-      "BP05-SL20"
+      "BP05-SL20",
+      "BP20-R16"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -26343,6 +26360,7 @@
       "BP05-105",
       "BP05-SL21",
       "BP05-U07",
+      "BP20-R17",
       "PR-096"
     ],
     "evolves_to": [],
@@ -26838,6 +26856,7 @@
     "canonical_print": "BP05-T01",
     "prints": [
       "BP05-T01",
+      "BP20-T15",
       "PR-401"
     ],
     "evolves_to": [],
@@ -26873,6 +26892,7 @@
     "canonical_print": "BP05-T02",
     "prints": [
       "BP05-T02",
+      "BP20-T16",
       "PR-402"
     ],
     "evolves_to": [],
@@ -70873,7 +70893,8 @@
       "BP05-001",
       "BP05-002",
       "BP10-LD01",
-      "BP15-001"
+      "BP15-001",
+      "BP20-001"
     ],
     "illustrator": "風篠",
     "legal_status": null
@@ -70911,7 +70932,8 @@
     "mentions_by_name_contains": [
       "BP06-003",
       "BP15-002",
-      "BP15-003"
+      "BP15-003",
+      "BP20-LD01"
     ],
     "illustrator": "永守浩太",
     "legal_status": null
@@ -71140,7 +71162,8 @@
       "BP05-001",
       "BP05-002",
       "BP10-LD01",
-      "BP15-001"
+      "BP15-001",
+      "BP20-001"
     ],
     "illustrator": "",
     "legal_status": null
@@ -72330,7 +72353,8 @@
       "BP05-037",
       "BP10-LD04",
       "BP15-039",
-      "BP15-040"
+      "BP15-040",
+      "BP20-037"
     ],
     "illustrator": "根岸千秋",
     "legal_status": null
@@ -72451,7 +72475,9 @@
       "BP05-035",
       "BP05-036",
       "BP10-LD03",
-      "BP15-038"
+      "BP15-038",
+      "BP20-042",
+      "BP20-043"
     ],
     "illustrator": "鳩酒",
     "legal_status": null
@@ -72857,7 +72883,8 @@
     "mentions_by_name_contains": [
       "BP06-056",
       "BP06-061",
-      "BP15-065"
+      "BP15-065",
+      "BP20-LD04"
     ],
     "illustrator": "ぽんず",
     "legal_status": null
@@ -73077,7 +73104,8 @@
     "mentions_by_name_contains": [
       "BP06-056",
       "BP15-058",
-      "BP15-059"
+      "BP15-059",
+      "BP20-LD04"
     ],
     "illustrator": "ラエル",
     "legal_status": null
@@ -73823,7 +73851,9 @@
       "BP05-069",
       "BP10-LD06",
       "BP15-076",
-      "BP15-077"
+      "BP15-077",
+      "BP20-074",
+      "BP20-075"
     ],
     "illustrator": "ラエル",
     "legal_status": null
@@ -73901,7 +73931,9 @@
       "BP05-069",
       "BP10-LD06",
       "BP15-076",
-      "BP15-077"
+      "BP15-077",
+      "BP20-074",
+      "BP20-075"
     ],
     "illustrator": "ヘスン",
     "legal_status": null
@@ -74023,7 +74055,9 @@
       "BP05-071",
       "BP10-LD07",
       "BP15-078",
-      "BP15-T04"
+      "BP15-T04",
+      "BP20-074",
+      "BP20-075"
     ],
     "illustrator": "SEMSEI",
     "legal_status": null
@@ -74495,7 +74529,9 @@
       "BP05-087",
       "BP10-LD08",
       "BP15-094",
-      "BP15-095"
+      "BP15-095",
+      "BP20-093",
+      "BP20-T07"
     ],
     "illustrator": "オーベン道玄坂",
     "legal_status": null
@@ -74578,7 +74614,9 @@
       "BP05-087",
       "BP10-LD08",
       "BP15-094",
-      "BP15-095"
+      "BP15-095",
+      "BP20-093",
+      "BP20-T07"
     ],
     "illustrator": "こーやふ",
     "legal_status": null
@@ -75580,6 +75618,7 @@
     "prints": [
       "BP15-P32",
       "BP15-T04",
+      "BP20-T17",
       "EBD03-T03"
     ],
     "evolves_to": [],
@@ -75871,7 +75910,8 @@
     "canonical_print": "BP15-PR09",
     "prints": [
       "BP15-PR09",
-      "BP15-PR19"
+      "BP15-PR19",
+      "BP20-T12"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -75942,7 +75982,8 @@
     "canonical_print": "BP15-PR11",
     "prints": [
       "BP15-PR11",
-      "BP15-PR21"
+      "BP15-PR21",
+      "BP20-T14"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -75977,7 +76018,8 @@
     "canonical_print": "BP15-PR12",
     "prints": [
       "BP15-PR12",
-      "BP15-PR22"
+      "BP15-PR22",
+      "BP20-T13"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -76203,7 +76245,8 @@
     "canonical_print": "BP15-PR18",
     "prints": [
       "BP15-PR18",
-      "BP15-PR28"
+      "BP15-PR28",
+      "BP20-T18"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -125971,13 +126014,13 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-038",
-      "ECP02-026",
       "CP02-036",
       "CP02-037",
       "CP02-T01",
       "ECP02-034",
       "CP02-044",
+      "CP02-038",
+      "ECP02-026",
       "ECP02-027"
     ],
     "illustrator": "",
@@ -126575,11 +126618,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-081",
+      "ECP02-049",
       "CP02-083",
       "CP02-084",
-      "ECP02-048",
-      "CP02-081",
-      "ECP02-049"
+      "ECP02-048"
     ],
     "illustrator": "",
     "legal_status": null
@@ -126620,11 +126663,11 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-081",
+      "ECP02-049",
       "CP02-083",
       "CP02-084",
-      "ECP02-048",
-      "CP02-081",
-      "ECP02-049"
+      "ECP02-048"
     ],
     "illustrator": "",
     "legal_status": null
@@ -128999,6 +129042,5301 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "illustrator": "乃木Lief",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-001",
+    "is_dual_face": false,
+    "name": "絶命の顕現・エズディア",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 5,
+    "text": "【ファンファーレ】自分のデッキから元のコスト2以下の絶傑・狩人・スペル1枚を探し、手札に加える。自分の墓場の狩人・カードが6枚以上なら、『絶命の痛撃』1枚をEXエリアに置く。\n【起動】コスト0：このターン、次に自分が絶傑・狩人・カードをプレイする際、コストを-2する。この能力は1ターンに1回使える。\n―――――――――――――――\n『絶命の痛撃』エルフ絶傑・狩人・スペルコスト3自分の墓場の狩人・カードが6枚以上なら、相手のリーダーすべてに6ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-001",
+    "prints": [
+      "BP20-001",
+      "BP20-SL01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-PR09"
+    ],
+    "mentions_tokens": [
+      "BP15-PR09"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "藤木ゆう",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-002",
+    "is_dual_face": false,
+    "name": "不殺の継承者・クルル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分の墓場の狩人・カードが6枚以上なら、『クレスト不殺の継承者・クルル』1枚をEXエリアに置く。自分のリーダーは体力+2する。\n―――――――――――――――\n『クレスト不殺の継承者・クルル』エルフ絶傑・継承者・狩人・クレスト【起動】コスト0：相手の場のフォロワー1体を選ぶ。それの体力を1にする。この能力は1ターンに1回使える。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-002",
+    "prints": [
+      "BP20-002",
+      "BP20-SL02"
+    ],
+    "evolves_to": [
+      "BP20-003"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T01"
+    ],
+    "mentions_tokens": [
+      "BP20-T01"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "ShuLa",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-003",
+    "is_dual_face": false,
+    "name": "不殺の継承者・クルル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それは攻撃力-3/体力-3する。\n【超進化時】相手の場のフォロワーすべては攻撃力-3/体力-3する。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-003",
+    "prints": [
+      "BP20-003",
+      "BP20-SL03",
+      "BP20-U01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-002"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ShuLa",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-004",
+    "is_dual_face": false,
+    "name": "安らぎの女神・プルメリア",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "植物族"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "ターンごとに1回、自分の場の元のコスト5以下の植物族・フォロワーが進化したとき、それは【疾走】を持つ。\n【ファンファーレ】自分の墓場の植物族・カードが3枚以上なら、1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "BP20-004",
+    "prints": [
+      "BP20-004",
+      "BP20-SL04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ヘスン",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-005",
+    "is_dual_face": false,
+    "name": "エレガンスシルフィード",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "精霊"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n自分が精霊・カードをプレイしたとき、自分のリーダーは体力+1する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-005",
+    "prints": [
+      "BP20-005",
+      "BP20-P01"
+    ],
+    "evolves_to": [
+      "BP20-006"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "伊藤未生",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-006",
+    "is_dual_face": false,
+    "name": "エレガンスシルフィード",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "精霊"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分が精霊・カードをプレイしたとき、自分のリーダーは体力+1する。\n【進化時】自分のデッキから「これと同名を除く精霊・カード」1枚を探し、手札に加える。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-006",
+    "prints": [
+      "BP20-006",
+      "BP20-P02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-005"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "伊藤未生",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-007",
+    "is_dual_face": false,
+    "name": "不殺の団結者",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【守護】\n【ファンファーレ】自分のデッキから元のコスト3以下の絶傑・狩人・フォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-007",
+    "prints": [
+      "BP20-007"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Saika",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-008",
+    "is_dual_face": false,
+    "name": "駆逐の死矢",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワー2体まで選ぶ。それに2ダメージ。自分の墓場の狩人・カードが6枚以上なら、代わりに3ダメージ。相手のリーダーすべてに2ダメージ。",
+    "keywords": [],
+    "canonical_print": "BP20-008",
+    "prints": [
+      "BP20-008",
+      "BP20-P03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Budi",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-009",
+    "is_dual_face": false,
+    "name": "不殺の祈祷者",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】相手の場に体力1のフォロワーがいるなら、1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-009",
+    "prints": [
+      "BP20-009",
+      "BP20-P04"
+    ],
+    "evolves_to": [
+      "BP20-010"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "犬捕り",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-010",
+    "is_dual_face": false,
+    "name": "不殺の祈祷者",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】相手の場に体力1のフォロワーがいるなら、自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-010",
+    "prints": [
+      "BP20-010",
+      "BP20-P05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-009"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "犬捕り",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-011",
+    "is_dual_face": false,
+    "name": "樹海の戦士",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "狩人"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【ファンファーレ】自分のデッキからエルフスペルをカード名が異なるように2枚まで探し、手札に加える。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-011",
+    "prints": [
+      "BP20-011"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-012",
+    "is_dual_face": false,
+    "name": "不殺の里",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上2枚を見る。その中から、絶傑・狩人・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】これをアクト墓場に置く：自分のリーダーは体力+1する。この能力は自分の墓場の狩人・カードが3枚以上なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-012",
+    "prints": [
+      "BP20-012",
+      "BP20-P06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "林",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-013",
+    "is_dual_face": false,
+    "name": "妖精剣の担い手",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "エルフ族",
+      "精霊"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n自分の場に妖精・トークン・フォロワーが出たとき、それは攻撃力+1する。\n【ファンファーレ】『フェアリー』1枚をEXエリアに置く。\n―――――――――――――――\n『フェアリー』エルフ妖精・フォロワーコスト1攻撃力1/体力1",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-013",
+    "prints": [
+      "BP20-013",
+      "BP20-P07"
+    ],
+    "evolves_to": [
+      "BP20-014"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T03"
+    ],
+    "mentions_tokens": [
+      "BP01-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "白銀 鉱",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-014",
+    "is_dual_face": false,
+    "name": "妖精剣の担い手",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "エルフ族",
+      "精霊"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分の場に妖精・トークン・フォロワーが出たとき、それは攻撃力+1する。\n【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-014",
+    "prints": [
+      "BP20-014",
+      "BP20-P08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-013"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "白銀 鉱",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-015",
+    "is_dual_face": false,
+    "name": "不殺の肯定者",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狩人"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】手札の絶傑・狩人・カード1枚を捨てる：2枚引く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-015",
+    "prints": [
+      "BP20-015",
+      "BP20-P09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "タケバヤシ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-016",
+    "is_dual_face": false,
+    "name": "眺望のエルフ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "エルフ族"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】『フェアリーウィスプ』1枚をEXエリアに置く。\n―――――――――――――――\n『フェアリーウィスプ』エルフ妖精・フォロワーコスト0攻撃力1/体力1",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-016",
+    "prints": [
+      "BP20-016",
+      "BP20-P10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T02"
+    ],
+    "mentions_tokens": [
+      "BP01-T02"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "壱子みるく亭",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-017",
+    "is_dual_face": false,
+    "name": "キューティーキャット",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【疾走】\n【攻撃時】相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "疾走",
+      "攻撃時"
+    ],
+    "canonical_print": "BP20-017",
+    "prints": [
+      "BP20-017",
+      "BP20-P11"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ASO",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-018",
+    "is_dual_face": false,
+    "name": "野生の猛襲",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、追加コストとして手札の獣・カード1枚を捨ててよい。\n相手の場のフォロワー1体を選ぶ。それに3ダメージ。これの追加コストを払っていたなら、代わりに5ダメージ。1枚引く。",
+    "keywords": [],
+    "canonical_print": "BP20-018",
+    "prints": [
+      "BP20-018",
+      "BP20-P12"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-019",
+    "is_dual_face": false,
+    "name": "空絶の顕現・オクトリス",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "自分の財宝・カードを融合したときか自分が財宝・カードをプレイしたとき、これは【疾走】を持つ。\n【ファンファーレ】下記から1つチョイスする。【1】『クレスト空絶の顕現・オクトリス』1枚をEXエリアに置く。【2】自分のデッキから『返還の剣閃』1枚を探し、手札に加える。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "BP20-019",
+    "prints": [
+      "BP20-019",
+      "BP20-SL05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T02",
+      "BP20-026"
+    ],
+    "mentions_tokens": [
+      "BP20-T02"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "liiko",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-020",
+    "is_dual_face": false,
+    "name": "簒奪の継承者・シンセライズ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】これに融合カウンターが置かれているなら、1枚引く。これに融合カウンターが置かれていないなら、『黄金の小剣』1枚をEXエリアに置く。\n【起動】【融合】元のコスト1以上の財宝・カードX枚：これに融合カウンターX個を置く。Xは2以下。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "起動",
+      "融合"
+    ],
+    "canonical_print": "BP20-020",
+    "prints": [
+      "BP20-020",
+      "BP20-SL06"
+    ],
+    "evolves_to": [
+      "BP20-021"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-T01"
+    ],
+    "mentions_tokens": [
+      "BP15-T01"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "やまもも",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-021",
+    "is_dual_face": false,
+    "name": "簒奪の継承者・シンセライズ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "これの融合カウンター1個につき、これが与える能力ダメージを+2する。\n【進化時】相手の場のフォロワー1体を選ぶ。それに3ダメージ。\n【超進化時】相手のリーダーすべてと相手の場のフォロワーすべてに1ダメージ。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-021",
+    "prints": [
+      "BP20-021",
+      "BP20-SL07",
+      "BP20-U02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-020"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "やまもも",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-022",
+    "is_dual_face": false,
+    "name": "グロリアスセイバー・オーレリア",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "指揮官",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 3,
+    "hp": 4,
+    "text": "これをプレイする際、コストを-Xする。Xは「自分の場のロイヤルカードの枚数」である。\n【突進】【指定攻撃】【守護】\n【攻撃時】1枚引く。",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "守護",
+      "攻撃時"
+    ],
+    "canonical_print": "BP20-022",
+    "prints": [
+      "BP20-022",
+      "BP20-SL08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "虫麻呂",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-023",
+    "is_dual_face": false,
+    "name": "簒奪の団結者",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-023",
+    "prints": [
+      "BP20-023",
+      "BP20-P13"
+    ],
+    "evolves_to": [
+      "BP20-024"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "犬捕り",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-024",
+    "is_dual_face": false,
+    "name": "簒奪の団結者",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "相手のフォロワーが場から墓場に置かれたとき、『黄金の小剣』1枚か『黄金の杯』1枚か『黄金の靴』1枚をEXエリアに置く。\n【進化時】相手の場のフォロワー1体を選ぶ。それに5ダメージ。このターン、次に自分が財宝・カードをプレイする際、コストを-2する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-024",
+    "prints": [
+      "BP20-024",
+      "BP20-P14"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-023"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-T01",
+      "BP15-T02",
+      "BP15-T03"
+    ],
+    "mentions_tokens": [
+      "BP15-T01",
+      "BP15-T02",
+      "BP15-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "犬捕り",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-025",
+    "is_dual_face": false,
+    "name": "イベイジョンマーセナリー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "【威圧】\n自分のターン中、「このターン中にこれからダメージを受けた相手のフォロワー」が場から墓場に置かれたとき、自分のデッキの上1枚をEXエリアに置く。\n【ファンファーレ】相手の場のフォロワー2体まで選ぶ。それに6ダメージを割りふる。",
+    "keywords": [
+      "ファンファーレ",
+      "威圧"
+    ],
+    "canonical_print": "BP20-025",
+    "prints": [
+      "BP20-025",
+      "BP20-P15"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "lack",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-026",
+    "is_dual_face": false,
+    "name": "返還の剣閃",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊",
+      "財宝"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワー1体を選ぶ。それに4ダメージ。自分の場に「カード名に『オクトリス』を含むフォロワー」がいるなら、『黄金の小剣』1枚をEXエリアに置く。\n【起動】【融合】元のコスト1以上の財宝・カード1枚：これは「これをプレイする際、コストを-1する」を持つ。",
+    "keywords": [
+      "起動",
+      "融合"
+    ],
+    "canonical_print": "BP20-026",
+    "prints": [
+      "BP20-026"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-T01"
+    ],
+    "mentions_tokens": [
+      "BP15-T01"
+    ],
+    "mentions_by_name_contains": [
+      "BP05-018",
+      "BP05-019",
+      "BP10-LD02",
+      "BP15-020",
+      "BP20-019",
+      "BP20-T02"
+    ],
+    "illustrator": "高梨子なかご",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-027",
+    "is_dual_face": false,
+    "name": "スナッピースカウト",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-027",
+    "prints": [
+      "BP20-027"
+    ],
+    "evolves_to": [
+      "BP20-028"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-028",
+    "is_dual_face": false,
+    "name": "スナッピースカウト",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "ターンごとに1回、自分の場に兵士・フォロワーが出たとき、1枚引く。\n【進化時】自分のデッキから元のコスト3以下の兵士・フォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-028",
+    "prints": [
+      "BP20-028"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-027"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-029",
+    "is_dual_face": false,
+    "name": "簒奪の祈祷者",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "ターンごとに1回、自分の財宝・カードを融合したときか自分が財宝・カードをプレイしたとき、自分のリーダーは体力+1する。\n【ファンファーレ】『黄金の杯』1枚をEXエリアに置く。\n―――――――――――――――\n『黄金の杯』ロイヤル財宝・スペルコスト2自分のリーダーは体力+1する。相手の墓場が10枚以上なら、代わりに体力+2する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-029",
+    "prints": [
+      "BP20-029",
+      "BP20-P16"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-T02"
+    ],
+    "mentions_tokens": [
+      "BP15-T02"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-030",
+    "is_dual_face": false,
+    "name": "簒奪のアジト",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 8,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】これの融合カウンター1個を取る。これをアクト墓場に置く：自分のデッキから「それぞれカード名が異なる絶傑・盗賊・フォロワー」を元のコストの合計が8以下になるように3枚まで探し、場に出す。\n【起動】【融合】元のコスト1以上の財宝・カード3枚：これに融合カウンター1個を置く。",
+    "keywords": [
+      "起動",
+      "融合"
+    ],
+    "canonical_print": "BP20-030",
+    "prints": [
+      "BP20-030"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "SEMSEI",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-031",
+    "is_dual_face": false,
+    "name": "剣聖の同胞",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のデッキから元のコスト2以下の兵士・フォロワー1枚を探し、EXエリアに置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-031",
+    "prints": [
+      "BP20-031",
+      "BP20-P17"
+    ],
+    "evolves_to": [
+      "BP20-032"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "やまもも",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-032",
+    "is_dual_face": false,
+    "name": "剣聖の同胞",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-032",
+    "prints": [
+      "BP20-032",
+      "BP20-P18"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-031"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "やまもも",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-033",
+    "is_dual_face": false,
+    "name": "簒奪の肯定者",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 2,
+    "text": "【突進】\n自分の財宝・カードを融合したときか自分が財宝・カードをプレイしたとき、これは【指定攻撃】を持つ。\n【ラストワード】『黄金の杯』1枚と『黄金の靴』1枚をEXエリアに置く。\n―――――――――――――――\n『黄金の靴』ロイヤル財宝・スペルコスト2自分の場の盗賊・フォロワー1体を選ぶ。それは【突進】を持つ。相手の墓場が10枚以上なら、代わりに【疾走】を持つ。",
+    "keywords": [
+      "ラストワード",
+      "突進",
+      "指定攻撃",
+      "疾走"
+    ],
+    "canonical_print": "BP20-033",
+    "prints": [
+      "BP20-033",
+      "BP20-P19"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-T02",
+      "BP15-T03"
+    ],
+    "mentions_tokens": [
+      "BP15-T02",
+      "BP15-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-034",
+    "is_dual_face": false,
+    "name": "ツインフェンサー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】コスト2：自分のデッキから『ツインフェンサー』1枚を探し、場に出す。自分の場の『ツインフェンサー』すべては攻撃力+1/体力+1する。\n【起動】これをアクト：相手の場のフォロワー1体を選ぶ。それに「自分の場の『ツインフェンサー』の数」と同じダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-034",
+    "prints": [
+      "BP20-034"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "おにねこ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-035",
+    "is_dual_face": false,
+    "name": "パレスナイト",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【ファンファーレ】『スティールナイト』1枚をEXエリアに置く。\n―――――――――――――――\n『スティールナイト』ロイヤル兵士・フォロワーコスト2攻撃力2/体力2",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-035",
+    "prints": [
+      "BP20-035",
+      "BP20-P20"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T07"
+    ],
+    "mentions_tokens": [
+      "BP01-T07"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-036",
+    "is_dual_face": false,
+    "name": "シールドバッシュ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "自分の場のフォロワー1体を選ぶ。それは【指定攻撃】とこのターン、「これはダメージを受けない」を持つ。",
+    "keywords": [
+      "指定攻撃"
+    ],
+    "canonical_print": "BP20-036",
+    "prints": [
+      "BP20-036"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-037",
+    "is_dual_face": false,
+    "name": "奏絶の顕現・リーシェナ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 1,
+    "hp": 1,
+    "text": "【ファンファーレ】下記から1つチョイスする。【1】自分の場の他のアイドル・カード1枚を選ぶ。それを破壊する。『奏絶の独唱』1枚をEXエリアに置く。【2】『新約・白の章』1つを場に出す。\n―――――――――――――――\n『奏絶の独唱』ウィッチ絶傑・アイドル・スペルコスト0これをプレイする際、追加コストとして場のアイドル・カードを好きな枚数アクトしてよい。相手の場のフォロワー1体を選ぶ。それに「これの追加コストとしてアクトしたアイドル・カードの枚数」の2倍のダメージ。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-037",
+    "prints": [
+      "BP20-037",
+      "BP20-SL09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-PR12",
+      "BP20-T03"
+    ],
+    "mentions_tokens": [
+      "BP15-PR12",
+      "BP20-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "ぽんず",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-038",
+    "is_dual_face": false,
+    "name": "真実の継承者・ヴェハリヤー",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 0,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-038",
+    "prints": [
+      "BP20-038",
+      "BP20-SL10"
+    ],
+    "evolves_to": [
+      "BP20-039"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "みけぼし",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-039",
+    "is_dual_face": false,
+    "name": "真実の継承者・ヴェハリヤー",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それを破壊する。\n【超進化時】自分の墓場の元のコスト9以下のウィッチスペル1枚を選ぶ。それをEXエリアに置く。このターン、それをプレイする際、コストを-3する。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-039",
+    "prints": [
+      "BP20-039",
+      "BP20-SL11",
+      "BP20-U03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-038"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "みけぼし",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-040",
+    "is_dual_face": false,
+    "name": "破壊の継承者・アクシア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-040",
+    "prints": [
+      "BP20-040",
+      "BP20-SL12"
+    ],
+    "evolves_to": [
+      "BP20-041"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ni02",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-041",
+    "is_dual_face": false,
+    "name": "破壊の継承者・アクシア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "ターンごとに1回、自分の場にアイドル・アミュレットが出たとき、相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【進化時】場の他のアイドル・カード1枚を墓場に置く：自分のデッキから「カード名に『リーシェナ』を含むフォロワー」1枚を探し、手札に加える。\n【超進化時】相手のリーダーすべてに「自分の場のアイドル・カードの枚数」と同じダメージ。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-041",
+    "prints": [
+      "BP20-041",
+      "BP20-SL13",
+      "BP20-U04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-040"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [
+      "BP05-037",
+      "BP10-LD04",
+      "BP15-039",
+      "BP15-040",
+      "BP20-037"
+    ],
+    "illustrator": "ni02",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-042",
+    "is_dual_face": false,
+    "name": "絶尽の顕現・ライオ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 9,
+    "atk": 8,
+    "hp": 8,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】これが手札以外から場に出ていたなら、これは進化する。\n【起動】手札のこれと絶傑・魔法使い・スペル1枚を捨てる：『絶尽の偽証』1枚をEXエリアに置く。\n―――――――――――――――\n『絶尽の偽証』ウィッチ絶傑・魔法使い・スペルコスト1自分の墓場の元のコスト3以下の絶傑・魔法使い・フォロワー1枚を選ぶ。それを場に出す。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-042",
+    "prints": [
+      "BP20-042",
+      "BP20-SL14"
+    ],
+    "evolves_to": [
+      "BP20-043"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-PR11"
+    ],
+    "mentions_tokens": [
+      "BP15-PR11"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "Budi",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-043",
+    "is_dual_face": false,
+    "name": "絶尽の顕現・ライオ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 9,
+    "atk": 9,
+    "hp": 9,
+    "text": "【進化時】相手の場のフォロワーすべてに9ダメージ。『絶尽の偽証』2枚をEXエリアに置く。このターン、それをプレイする際、コストを-1する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-043",
+    "prints": [
+      "BP20-043",
+      "BP20-SL15"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-042"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-PR11"
+    ],
+    "mentions_tokens": [
+      "BP15-PR11"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "Budi",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-044",
+    "is_dual_face": false,
+    "name": "破壊の団結者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 5,
+    "hp": 5,
+    "text": "【ファンファーレ】場の他のアイドル・カード1枚を墓場に置く：相手の場のフォロワー1体を選ぶ。それを破壊する。それのリーダーに2ダメージ。\n【起動】場の他のアイドル・カード1枚を墓場に置く：相手の場のフォロワー1体を選ぶ。それを破壊する。それのリーダーに2ダメージ。この能力は1ターンに1回使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-044",
+    "prints": [
+      "BP20-044",
+      "BP20-P21"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "鳩酒",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-045",
+    "is_dual_face": false,
+    "name": "殲滅の歌声",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "下記から1つチョイスする。【1】自分の場のアイドル・カード1枚を選ぶ。それを破壊する。1枚引く。【2】『新約・白の章』1つを場に出す。\n―――――――――――――――\n『新約・白の章』ウィッチ絶傑・アイドル・アミュレットコスト1【ラストワード】『新約・黒の章』1つを場に出す。自分のリーダーは体力+1する。【起動】場のアイドル・カード3枚をアクト：これを墓場に置く。",
+    "keywords": [
+      "ラストワード",
+      "起動"
+    ],
+    "canonical_print": "BP20-045",
+    "prints": [
+      "BP20-045"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T03",
+      "BP20-T04"
+    ],
+    "mentions_tokens": [
+      "BP20-T03",
+      "BP20-T04"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "irua",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-046",
+    "is_dual_face": false,
+    "name": "真実の団結者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】これが手札以外から場に出ていたなら、これは進化する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-046",
+    "prints": [
+      "BP20-046",
+      "BP20-P22"
+    ],
+    "evolves_to": [
+      "BP20-047"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "林",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-047",
+    "is_dual_face": false,
+    "name": "真実の団結者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに3ダメージ。1枚引く。自分の手札1枚を捨てる。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-047",
+    "prints": [
+      "BP20-047",
+      "BP20-P23"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-046"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "林",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-048",
+    "is_dual_face": false,
+    "name": "破壊の祈祷者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【起動】これをアクト場の他のアイドル・カード1枚を墓場に置く：相手のリーダー1人か相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP20-048",
+    "prints": [
+      "BP20-048"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "藤江せい",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-049",
+    "is_dual_face": false,
+    "name": "虚偽の術式",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "自分のデッキの上3枚を見る。その中から、絶傑・魔法使い・カード1枚を公開して手札に加えるかEXエリアに置いてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [],
+    "canonical_print": "BP20-049",
+    "prints": [
+      "BP20-049"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "SEMSEI",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-050",
+    "is_dual_face": false,
+    "name": "破壊の肯定者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【指定攻撃】",
+    "keywords": [
+      "進化",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP20-050",
+    "prints": [
+      "BP20-050",
+      "BP20-P24"
+    ],
+    "evolves_to": [
+      "BP20-051"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "かしわ10",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-051",
+    "is_dual_face": false,
+    "name": "破壊の肯定者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【指定攻撃】\n【進化時】場の他のアイドル・カード1枚を墓場に置く：1枚引く。",
+    "keywords": [
+      "指定攻撃",
+      "進化時"
+    ],
+    "canonical_print": "BP20-051",
+    "prints": [
+      "BP20-051",
+      "BP20-P25"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-050"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "かしわ10",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-052",
+    "is_dual_face": false,
+    "name": "真実の祈祷者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【守護】\n【ファンファーレ】2枚引く。自分の手札1枚を捨てる。これが手札以外から場に出ていたなら、これは体力+2する。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-052",
+    "prints": [
+      "BP20-052",
+      "BP20-P26"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "オーベン道玄坂",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-053",
+    "is_dual_face": false,
+    "name": "真実の肯定者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】1枚引く。自分の手札1枚を捨てる。これが手札以外から場に出ていたなら、自分のリーダーは体力+2する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-053",
+    "prints": [
+      "BP20-053",
+      "BP20-P27"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-054",
+    "is_dual_face": false,
+    "name": "五行の修行者",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "陰陽師"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】手札1枚を捨てる：自分のデッキの上3枚を見る。その中から、陰陽師・フォロワー1枚かスペル1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】これをアクト：『形代』1体を場に出す。この能力は自分の墓場の陰陽師・カードやスペルが7枚以上なら使える。\n―――――――――――――――\n『形代』ウィッチ式神・フォロワーコスト2攻撃力2/体力2【ラストワード】1枚引く。自分の手札1枚を捨てる。",
+    "keywords": [
+      "ファンファーレ",
+      "起動",
+      "ラストワード"
+    ],
+    "canonical_print": "BP20-054",
+    "prints": [
+      "BP20-054",
+      "BP20-P28"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP06-T02"
+    ],
+    "mentions_tokens": [
+      "BP06-T02"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "りょうへい",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-055",
+    "is_dual_face": false,
+    "name": "破壊の荒野",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上2枚を見る。その中から、絶傑・アイドル・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】これを墓場に置く：自分の場の他のアイドル・カード1枚を墓場に置く。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-055",
+    "prints": [
+      "BP20-055",
+      "BP20-P29"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Gen",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-056",
+    "is_dual_face": false,
+    "name": "烈絶の顕現・ガルミーユ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【覚醒】状態である限り、これは【疾走】を持つ。\n自分のターンごとに1回、これが能力ダメージを受けたとき、相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【ファンファーレ】『クレスト烈絶の顕現・ガルミーユ』1枚をEXエリアに置く。\n―――――――――――――――\n『クレスト烈絶の顕現・ガルミーユ』ドラゴン絶傑・竜族・クレスト【起動】コスト0：自分の場の絶傑・フォロワー1体を選ぶ。それに1ダメージ。この能力は1ターンに1回使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動",
+      "覚醒",
+      "疾走"
+    ],
+    "canonical_print": "BP20-056",
+    "prints": [
+      "BP20-056",
+      "BP20-SL16",
+      "BP20-U05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T05"
+    ],
+    "mentions_tokens": [
+      "BP20-T05"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "ell",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-057",
+    "is_dual_face": false,
+    "name": "侮蔑の継承者・アジュラフリート",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 5,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n自分のターン中、これが能力ダメージを受けたとき、相手の場のフォロワーすべてに1ダメージ。\n【ファンファーレ】自分の場か自分のEXエリアに他の絶傑・カードがあるなら、場のフォロワーすべてに1ダメージ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-057",
+    "prints": [
+      "BP20-057",
+      "BP20-SL17"
+    ],
+    "evolves_to": [
+      "BP20-058"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "タツヤキ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-058",
+    "is_dual_face": false,
+    "name": "侮蔑の継承者・アジュラフリート",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 6,
+    "text": "【守護】\n自分のターン中、これが能力ダメージを受けたとき、相手の場のフォロワーすべてに1ダメージ。\n【進化時】場のフォロワーすべてに1ダメージ。\n【超進化時】場のフォロワーすべてに1ダメージ。相手のリーダーすべてに4ダメージ。これの体力を7にする。",
+    "keywords": [
+      "守護",
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-058",
+    "prints": [
+      "BP20-058",
+      "BP20-SL18"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-057"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "タツヤキ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-059",
+    "is_dual_face": false,
+    "name": "深海の覇王・ダゴン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 10,
+    "atk": 10,
+    "hp": 10,
+    "text": "これをEXエリアからプレイする際、コストを-3する。\n【突進】【指定攻撃】\nこれが受ける4以上のダメージを3にする。\n【攻撃時】これをスタンドする。この能力は1ターンに2回働く。",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "攻撃時"
+    ],
+    "canonical_print": "BP20-059",
+    "prints": [
+      "BP20-059",
+      "BP20-SL19"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "藤木ゆう",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-060",
+    "is_dual_face": false,
+    "name": "ラグジュアリーマーメイド",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の海洋・カード1枚を捨てる：自分のデッキの上2枚を見る。その中から、海洋・カード1枚をEXエリアに置いてよい。残りを好きな順にデッキの下に置く。自分のリーダーは体力+1する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-060",
+    "prints": [
+      "BP20-060",
+      "BP20-P30"
+    ],
+    "evolves_to": [
+      "BP20-061"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "INZUP",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-061",
+    "is_dual_face": false,
+    "name": "ラグジュアリーマーメイド",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】手札の海洋・カード1枚を捨てる：自分のデッキの上2枚を見る。その中から、海洋・カード1枚をEXエリアに置いてよい。残りを好きな順にデッキの下に置く。自分のリーダーは体力+1する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-061",
+    "prints": [
+      "BP20-061",
+      "BP20-P31"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-060"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "INZUP",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-062",
+    "is_dual_face": false,
+    "name": "侮蔑の団結者",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 4,
+    "text": "自分のターンごとに1回、これが能力ダメージを受けたとき、自分のPP最大値を+1する。\n【ファンファーレ】【覚醒】状態なら、場のフォロワーすべてに1ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "覚醒"
+    ],
+    "canonical_print": "BP20-062",
+    "prints": [
+      "BP20-062",
+      "BP20-P32"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-063",
+    "is_dual_face": false,
+    "name": "蒼炎の猛威",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "自分の場のフォロワー1体と相手の場のフォロワー1体を選ぶ。前者に1ダメージ。後者に4ダメージ。1枚引く。自分の場に「カード名に『ガルミーユ』を含むフォロワー」がいるなら、自分のPP最大値を+1する。",
+    "keywords": [],
+    "canonical_print": "BP20-063",
+    "prints": [
+      "BP20-063"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [
+      "BP05-052",
+      "BP05-053",
+      "BP10-LD05",
+      "BP15-057",
+      "BP20-056",
+      "BP20-T05"
+    ],
+    "illustrator": "Gen",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-064",
+    "is_dual_face": false,
+    "name": "侮蔑の祈祷者",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】場のフォロワー1体を選ぶ。【覚醒】状態なら、それに1ダメージ。自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護",
+      "覚醒"
+    ],
+    "canonical_print": "BP20-064",
+    "prints": [
+      "BP20-064",
+      "BP20-P33"
+    ],
+    "evolves_to": [
+      "BP20-065"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "あめや",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-065",
+    "is_dual_face": false,
+    "name": "侮蔑の祈祷者",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【守護】\n【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
+    "keywords": [
+      "守護",
+      "進化時"
+    ],
+    "canonical_print": "BP20-065",
+    "prints": [
+      "BP20-065",
+      "BP20-P34"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-064"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "あめや",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-066",
+    "is_dual_face": false,
+    "name": "深海の接近",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 7,
+    "atk": null,
+    "hp": null,
+    "text": "自分のデッキの上5枚を見る。その中から、海洋・フォロワー1枚を場に出してよい。残りを好きな順にデッキの下に置く。相手の場のフォロワーすべてにXダメージ。Xは「これによって場に出した海洋・フォロワーの体力」である。",
+    "keywords": [],
+    "canonical_print": "BP20-066",
+    "prints": [
+      "BP20-066"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "吉原",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-067",
+    "is_dual_face": false,
+    "name": "侮蔑の国",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上2枚を見る。その中から、絶傑・竜族・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】これをアクト墓場に置く：自分の場のフォロワー1体を選ぶ。それに1ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-067",
+    "prints": [
+      "BP20-067",
+      "BP20-P35"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "伊吹つくば",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-068",
+    "is_dual_face": false,
+    "name": "吹雪のドラゴニュート",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それに1ダメージ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-068",
+    "prints": [
+      "BP20-068",
+      "BP20-P36"
+    ],
+    "evolves_to": [
+      "BP20-069"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "藤江せい",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-069",
+    "is_dual_face": false,
+    "name": "吹雪のドラゴニュート",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "ドラゴニュート"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "【進化時】「このターン中にダメージを受けた相手の場のフォロワー」すべてを破壊する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-069",
+    "prints": [
+      "BP20-069",
+      "BP20-P37"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-068"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "藤江せい",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-070",
+    "is_dual_face": false,
+    "name": "侮蔑の肯定者",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【起動】コスト0：自分の場のフォロワー1体を選ぶ。それに1ダメージ。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP20-070",
+    "prints": [
+      "BP20-070",
+      "BP20-P38"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-071",
+    "is_dual_face": false,
+    "name": "人魚の守護者",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 1,
+    "hp": 5,
+    "text": "【守護】\n【ファンファーレ】手札の海洋・カード1枚をEXエリアに置く：自分のPPを3回復する。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-071",
+    "prints": [
+      "BP20-071",
+      "BP20-P39"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-072",
+    "is_dual_face": false,
+    "name": "オーシャンライダー",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 2,
+    "text": "これが場にいる限り、自分の場の『オルカ』すべては【守護】を持つ。\n【ファンファーレ】『オルカ』1体を場に出す。【覚醒】状態なら、代わりに3体。\n―――――――――――――――\n『オルカ』ドラゴン海洋・フォロワーコスト2攻撃力2/体力2",
+    "keywords": [
+      "ファンファーレ",
+      "守護",
+      "覚醒"
+    ],
+    "canonical_print": "BP20-072",
+    "prints": [
+      "BP20-072",
+      "BP20-P40"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP02-T05"
+    ],
+    "mentions_tokens": [
+      "BP02-T05"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "やまもも",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-073",
+    "is_dual_face": false,
+    "name": "サンダーレイジ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "竜族"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": null,
+    "hp": null,
+    "text": "【クイック】\n相手の場のフォロワー1体を選ぶ。それに6ダメージ。体力3以下のフォロワーを選んでいたなら、それのリーダーに3ダメージ。",
+    "keywords": [
+      "クイック"
+    ],
+    "canonical_print": "BP20-073",
+    "prints": [
+      "BP20-073"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-074",
+    "is_dual_face": false,
+    "name": "絶叫と愛絶の顕現・ルルナイ＆ヴァーナレク",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-074",
+    "prints": [
+      "BP20-074",
+      "BP20-SL20"
+    ],
+    "evolves_to": [
+      "BP20-075"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ShuLa",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-075",
+    "is_dual_face": false,
+    "name": "絶叫と愛絶の顕現・ルルナイ＆ヴァーナレク",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】下記から1つチョイスする。【1】『絶叫の残響・ルルナイ』2体を場に出す。【2】これは【疾走】を持つ。自分の場のナイトメア絶傑・フォロワーすべては攻撃力+1する。\n―――――――――――――――\n『絶叫の残響・ルルナイ』ナイトメア絶傑・死霊術師・フォロワーコスト2攻撃力2/体力1【突進】【指定攻撃】",
+    "keywords": [
+      "進化時",
+      "疾走",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP20-075",
+    "prints": [
+      "BP20-075",
+      "BP20-SL21",
+      "BP20-U06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-074"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-T04"
+    ],
+    "mentions_tokens": [
+      "BP15-T04"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "ShuLa",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-076",
+    "is_dual_face": false,
+    "name": "混融の継承者・シャム＝ナクア",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "アサイラント"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-076",
+    "prints": [
+      "BP20-076",
+      "BP20-SL22"
+    ],
+    "evolves_to": [
+      "BP20-077"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "こーやふ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-077",
+    "is_dual_face": false,
+    "name": "混融の継承者・シャム＝ナクア",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "アサイラント"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】『クレスト混融の継承者・シャム＝ナクア』1枚をEXエリアに置く。\n【超進化時】自分の墓場のナイトメア絶傑・フォロワー1枚を選ぶ。それを場に出す。それは進化する。\n―――――――――――――――\n『クレスト混融の継承者・シャム＝ナクア』ナイトメア絶傑・継承者・アサイラント・クレスト自分は1つ以上の選択肢をチョイスする際、代わりに好きな数チョイスする。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-077",
+    "prints": [
+      "BP20-077",
+      "BP20-SL23"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-076"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T06"
+    ],
+    "mentions_tokens": [
+      "BP20-T06"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "こーやふ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-078",
+    "is_dual_face": false,
+    "name": "ディアボロス・ヘドネ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【ファンファーレ】相手の場のフォロワー2体まで選ぶ。【真紅】状態なら、それを破壊する。",
+    "keywords": [
+      "ファンファーレ",
+      "真紅"
+    ],
+    "canonical_print": "BP20-078",
+    "prints": [
+      "BP20-078",
+      "BP20-SL24"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "宮﨑章",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-079",
+    "is_dual_face": false,
+    "name": "混融の団結者",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP20-079",
+    "prints": [
+      "BP20-079"
+    ],
+    "evolves_to": [
+      "BP20-080"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "apt",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-080",
+    "is_dual_face": false,
+    "name": "混融の団結者",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。それに5ダメージ。【2】自分の墓場の元のコスト3以下のナイトメア絶傑・フォロワー1枚を選ぶ。それを場に出す。【3】自分の場のナイトメア絶傑・フォロワーすべては攻撃力+1/体力+1する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-080",
+    "prints": [
+      "BP20-080"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-079"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "apt",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-081",
+    "is_dual_face": false,
+    "name": "ヘルヴォール",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 4,
+    "hp": 4,
+    "text": "【ファンファーレ】下記から1つチョイスする。【1】相手の場のフォロワーすべてに4ダメージ。【2】自分のリーダーは体力+4する。2枚引く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-081",
+    "prints": [
+      "BP20-081",
+      "BP20-P41"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ユウヒ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-082",
+    "is_dual_face": false,
+    "name": "叫喚と憎悪",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。それに3ダメージ。【2】相手のリーダーすべてに2ダメージ。【3】1枚引く。自分の手札1枚を捨てる。【4】自分のPPを1回復する。",
+    "keywords": [],
+    "canonical_print": "BP20-082",
+    "prints": [
+      "BP20-082",
+      "BP20-P42"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "irua",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-083",
+    "is_dual_face": false,
+    "name": "フレッシュグレイブキーパー",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "死霊術師"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【進化】コスト5：これは進化する。\n【ファンファーレ】自分のデッキの上2枚を墓場に置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-083",
+    "prints": [
+      "BP20-083"
+    ],
+    "evolves_to": [
+      "BP20-084"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-084",
+    "is_dual_face": false,
+    "name": "フレッシュグレイブキーパー",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "死霊術師"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 4,
+    "hp": 5,
+    "text": "【進化時】自分の墓場の元のコスト5以下の「ナイトメアでないフォロワー」1枚と元のコスト3以下の「ナイトメアでないフォロワー」1枚を選ぶ。それを場に出す。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-084",
+    "prints": [
+      "BP20-084"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-083"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-085",
+    "is_dual_face": false,
+    "name": "混融の祈祷者",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。それに1ダメージ。【2】相手のリーダーすべてに2ダメージ。【3】自分のリーダーは体力+2する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-085",
+    "prints": [
+      "BP20-085"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Budi",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-086",
+    "is_dual_face": false,
+    "name": "混融の城",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、ナイトメア絶傑・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】コスト1これをアクト墓場に置く：下記から1つチョイスする。【1】自分の場のフォロワー1体を選ぶ。それは【突進】を持つ。【2】自分の場のフォロワー1体を選ぶ。それは【指定攻撃】を持つ。",
+    "keywords": [
+      "ファンファーレ",
+      "起動",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP20-086",
+    "prints": [
+      "BP20-086",
+      "BP20-P43"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "言犬",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-087",
+    "is_dual_face": false,
+    "name": "泡沫の鬼姫",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "妖怪",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のデッキの上3枚を墓場に置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-087",
+    "prints": [
+      "BP20-087",
+      "BP20-P44"
+    ],
+    "evolves_to": [
+      "BP20-088"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-088",
+    "is_dual_face": false,
+    "name": "泡沫の鬼姫",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "妖怪",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】自分の墓場の妖怪・カードを元のコストの合計が4以下になるように2枚まで選ぶ。それをEXエリアに置く。このターン、それをプレイする際、コストを0にする。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-088",
+    "prints": [
+      "BP20-088",
+      "BP20-P45"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-087"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-089",
+    "is_dual_face": false,
+    "name": "混融の肯定者",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "死霊術師",
+      "魔界"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【ファンファーレ】下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。それに3ダメージ。【2】相手のリーダーすべてと相手の場のフォロワーすべてに1ダメージ。【3】1枚引く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-089",
+    "prints": [
+      "BP20-089"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "おぶ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-090",
+    "is_dual_face": false,
+    "name": "イビルコレクター",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【ファンファーレ】自分のデッキの上1枚をEXエリアに置く。EXエリアに置いたカードがフォロワーなら、それは攻撃力+1/体力+1する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-090",
+    "prints": [
+      "BP20-090",
+      "BP20-P46"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "おにねこ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-091",
+    "is_dual_face": false,
+    "name": "ネメアの獅子",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 4,
+    "text": "【攻撃時】自分の墓場のナイトメアフォロワー1枚を選ぶ。それを手札に加える。",
+    "keywords": [
+      "攻撃時"
+    ],
+    "canonical_print": "BP20-091",
+    "prints": [
+      "BP20-091"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "強子",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-092",
+    "is_dual_face": false,
+    "name": "暴虐の行進",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワー2体まで選ぶ。それに5ダメージ。相手のリーダーすべてに3ダメージ。",
+    "keywords": [],
+    "canonical_print": "BP20-092",
+    "prints": [
+      "BP20-092"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-093",
+    "is_dual_face": false,
+    "name": "絶望の顕現・マーウィン",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【ファンファーレ】下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。自分のEXエリアのクレストが3枚以上なら、それを消滅させる。自分のリーダーは体力+2する。【2】『クレスト絶望の顕現・マーウィン』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-093",
+    "prints": [
+      "BP20-093",
+      "BP20-SL25"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T07"
+    ],
+    "mentions_tokens": [
+      "BP20-T07"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "言犬",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-094",
+    "is_dual_face": false,
+    "name": "安息の継承者・ヒメカ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】『クレスト安息の継承者・ヒメカ』1枚をEXエリアに置く。\n―――――――――――――――\n『クレスト安息の継承者・ヒメカ』ビショップ絶傑・継承者・狂信・クレスト自分のエンドフェイズが来たとき、相手の場のフォロワー1体を選ぶ。自分のEXエリアのクレストが3枚以上なら、それは攻撃力-2/体力-2する。5枚なら、代わりに攻撃力-4/体力-4する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-094",
+    "prints": [
+      "BP20-094",
+      "BP20-SL26"
+    ],
+    "evolves_to": [
+      "BP20-095"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T08"
+    ],
+    "mentions_tokens": [
+      "BP20-T08"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "ヘスン",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-095",
+    "is_dual_face": false,
+    "name": "安息の継承者・ヒメカ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】自分のデッキから「これと同名を除く絶傑・狂信・カード」1枚を探し、手札に加える。\n【超進化時】コスト2：自分のデッキから「これと同名を除く元のコスト4以下の絶傑・狂信・フォロワー」1枚を探し、場に出す。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-095",
+    "prints": [
+      "BP20-095",
+      "BP20-SL27",
+      "BP20-U07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-094"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ヘスン",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-096",
+    "is_dual_face": false,
+    "name": "聖蛇の加護",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "信仰"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】相手の場のフォロワー1体を選ぶ。それに4ダメージ。\n【ラストワード】下記から1つチョイスする。【1】自分のリーダーは体力+2する。【2】コスト1：自分のデッキから『聖蛇の加護』1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "ラストワード"
+    ],
+    "canonical_print": "BP20-096",
+    "prints": [
+      "BP20-096",
+      "BP20-SL28"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "SEMSEI",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-097",
+    "is_dual_face": false,
+    "name": "安息の団結者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】『クレスト安息の団結者』1枚をEXエリアに置く。\n―――――――――――――――\n『クレスト安息の団結者』ビショップ絶傑・狂信・クレスト自分のエンドフェイズが来たとき、自分の場の絶傑・フォロワー1体を選ぶ。自分のEXエリアのクレストが3枚以上なら、それは攻撃力+1/体力+1する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-097",
+    "prints": [
+      "BP20-097",
+      "BP20-P47"
+    ],
+    "evolves_to": [
+      "BP20-098"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T09"
+    ],
+    "mentions_tokens": [
+      "BP20-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "Gen",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-098",
+    "is_dual_face": false,
+    "name": "安息の団結者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに「自分のEXエリアのクレストの枚数」の2倍のダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-098",
+    "prints": [
+      "BP20-098",
+      "BP20-P48"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-097"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Gen",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-099",
+    "is_dual_face": false,
+    "name": "セイクリッドシープ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "先導"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "相手のメインフェイズが来たとき、このターン、自分のリーダーは次のダメージを受けない。",
+    "keywords": [],
+    "canonical_print": "BP20-099",
+    "prints": [
+      "BP20-099"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "irua",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-100",
+    "is_dual_face": false,
+    "name": "輝く失意",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】1枚引く。\n【起動】これをアクト墓場に置く：相手の場のフォロワー1体を選ぶ。それに4ダメージ。この能力は自分のEXエリアのクレストが3枚以上なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-100",
+    "prints": [
+      "BP20-100",
+      "BP20-P49"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "林",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-101",
+    "is_dual_face": false,
+    "name": "安息の祈祷者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のEXエリアのクレストが3枚以上なら、自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-101",
+    "prints": [
+      "BP20-101",
+      "BP20-P50"
+    ],
+    "evolves_to": [
+      "BP20-102"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "巣高あお",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-102",
+    "is_dual_face": false,
+    "name": "安息の祈祷者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】『クレスト安息の祈祷者』1枚をEXエリアに置く。\n―――――――――――――――\n『クレスト安息の祈祷者』ビショップ絶傑・狂信・クレスト自分のエンドフェイズが来たとき、自分のEXエリアのクレストが3枚以上なら、自分のリーダーは体力+1する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-102",
+    "prints": [
+      "BP20-102",
+      "BP20-P51"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-101"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T10"
+    ],
+    "mentions_tokens": [
+      "BP20-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "巣高あお",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-103",
+    "is_dual_face": false,
+    "name": "安息の神殿",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、絶傑・狂信・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\nQ【起動】コスト1これをアクト墓場に置く：このターン、自分のリーダーが次に受けるダメージを-2する。この能力は自分のEXエリアのクレストが3枚以上なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP20-103",
+    "prints": [
+      "BP20-103"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-104",
+    "is_dual_face": false,
+    "name": "有翼の獅子像",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "信仰",
+      "獣"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト1これをアクトこれと場の他のアミュレット1つを墓場に置く：『ホーリーファルコン』1体と『ホーリータイガー』1体を場に出す。\n―――――――――――――――\n『ホーリーファルコン』ビショップ鳥族・フォロワーコスト3攻撃力2/体力2【疾走】\n『ホーリータイガー』ビショップ獣・フォロワーコスト4攻撃力4/体力4【突進】",
+    "keywords": [
+      "起動",
+      "疾走",
+      "突進"
+    ],
+    "canonical_print": "BP20-104",
+    "prints": [
+      "BP20-104",
+      "BP20-P52"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T16",
+      "BP01-T17"
+    ],
+    "mentions_tokens": [
+      "BP01-T16",
+      "BP01-T17"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-105",
+    "is_dual_face": false,
+    "name": "聖騎士の団員",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "先導"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】これが能力によって場に出ていたなら、これは進化する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-105",
+    "prints": [
+      "BP20-105"
+    ],
+    "evolves_to": [
+      "BP20-106"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ezusuke",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-106",
+    "is_dual_face": false,
+    "name": "聖騎士の団員",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "先導"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【守護】\n【進化時】自分のリーダーは体力+1する。1枚引く。",
+    "keywords": [
+      "守護",
+      "進化時"
+    ],
+    "canonical_print": "BP20-106",
+    "prints": [
+      "BP20-106"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-105"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ezusuke",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-107",
+    "is_dual_face": false,
+    "name": "安息の肯定者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 0,
+    "hp": 2,
+    "text": "【守護】\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それにXダメージ。Xは「自分のEXエリアのクレストの枚数」である。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-107",
+    "prints": [
+      "BP20-107",
+      "BP20-P53"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "犬捕り",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-108",
+    "is_dual_face": false,
+    "name": "配達の翼人",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "鳥族"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 3,
+    "hp": 4,
+    "text": "【疾走】\n【攻撃時】1枚引く。\n【ファンファーレ】コスト2：自分のデッキから攻撃力3以下の【疾走】を持つフォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走",
+      "攻撃時"
+    ],
+    "canonical_print": "BP20-108",
+    "prints": [
+      "BP20-108"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-109",
+    "is_dual_face": false,
+    "name": "グルメアルミラージ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、獣・フォロワー1枚をEXエリアに置いてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-109",
+    "prints": [
+      "BP20-109"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-110",
+    "is_dual_face": false,
+    "name": "セイントフラッシュ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "信仰"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワーすべてに4ダメージ。自分のリーダーは体力+2する。1枚引く。",
+    "keywords": [],
+    "canonical_print": "BP20-110",
+    "prints": [
+      "BP20-110",
+      "BP20-P54"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-111",
+    "is_dual_face": false,
+    "name": "絶大の顕現・マゼルベイン",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分の手札すべてを捨てる。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-111",
+    "prints": [
+      "BP20-111",
+      "BP20-SL29"
+    ],
+    "evolves_to": [
+      "BP20-112"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-112",
+    "is_dual_face": false,
+    "name": "絶大の顕現・マゼルベイン",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "自分のエンドフェイズが来たとき、相手の場のフォロワー1体を選ぶ。自分の手札が1枚以下なら、それを破壊する。\n【進化時】『クレスト絶大の顕現・マゼルベイン』1枚をEXエリアに置く。\n【超進化時】相手の場のフォロワー1体を選ぶ。それを破壊する。それのリーダーに2ダメージ。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP20-112",
+    "prints": [
+      "BP20-112",
+      "BP20-SL30"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-111"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T11"
+    ],
+    "mentions_tokens": [
+      "BP20-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-113",
+    "is_dual_face": false,
+    "name": "干絶の顕現・ギルネリーゼ",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【ドレイン】\n自分が『干絶の甘露』をプレイしたとき、相手の場のフォロワー1体を選ぶ。それに5ダメージ。\n【ファンファーレ】場の他のフォロワー1体を選ぶ。それは攻撃力+3/体力-3する。自分のSEPが0なら、『干絶の甘露』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ",
+      "ドレイン"
+    ],
+    "canonical_print": "BP20-113",
+    "prints": [
+      "BP20-113",
+      "BP20-SL31",
+      "BP20-U08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP15-PR18"
+    ],
+    "mentions_tokens": [
+      "BP15-PR18"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "おにねこ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-114",
+    "is_dual_face": false,
+    "name": "勇気に満ちし者",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "光輝"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のSEPが0なら、これは攻撃力+1/体力+1して、【疾走】を持つ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "BP20-114",
+    "prints": [
+      "BP20-114"
+    ],
+    "evolves_to": [
+      "BP20-115"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "liiko",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-115",
+    "is_dual_face": false,
+    "name": "勇気に満ちし者",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "光輝"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】自分の場のフォロワー1体を選ぶ。それは【突進】【指定攻撃】を持つ。",
+    "keywords": [
+      "進化時",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP20-115",
+    "prints": [
+      "BP20-115"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-114"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "liiko",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-116",
+    "is_dual_face": false,
+    "name": "嘆きに立ちし者",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "光輝"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【守護】\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。自分のSEPが0なら、それに5ダメージ。自分のリーダーは体力+2する。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP20-116",
+    "prints": [
+      "BP20-116",
+      "BP20-P55"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Saika",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-117",
+    "is_dual_face": false,
+    "name": "試練の石板",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "絶傑"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト9これをアクト墓場に置く：自分のデッキから「カード名に『マゼルベイン』か『リーシェナ』か『ルルナイ』か『マーウィン』か『ガルミーユ』か『エズディア』か『ヴァーナレク』か『オクトリス』か『ライオ』か『ギルネリーゼ』を含む絶傑・フォロワー」をカード名が異なるように10枚まで探す。その中から、好きな枚数を場に出す。好きな枚数をEXエリアに置く。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP20-117",
+    "prints": [
+      "BP20-117",
+      "BP20-P56"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [
+      "BP05-001",
+      "BP05-002",
+      "BP10-LD01",
+      "BP15-001",
+      "BP20-001",
+      "BP05-103",
+      "BP05-104",
+      "BP15-112",
+      "BP20-111",
+      "BP20-112",
+      "BP20-T11",
+      "BP05-105",
+      "BP15-113",
+      "BP15-114",
+      "BP20-113",
+      "BP05-037",
+      "BP10-LD04",
+      "BP15-039",
+      "BP15-040",
+      "BP20-037",
+      "BP05-069",
+      "BP10-LD06",
+      "BP15-076",
+      "BP15-077",
+      "BP20-074",
+      "BP20-075",
+      "BP05-070",
+      "BP05-071",
+      "BP10-LD07",
+      "BP15-078",
+      "BP15-T04",
+      "BP05-086",
+      "BP05-087",
+      "BP10-LD08",
+      "BP15-094",
+      "BP15-095",
+      "BP20-093",
+      "BP20-T07",
+      "BP05-035",
+      "BP05-036",
+      "BP10-LD03",
+      "BP15-038",
+      "BP20-042",
+      "BP20-043",
+      "BP05-052",
+      "BP05-053",
+      "BP10-LD05",
+      "BP15-057",
+      "BP20-056",
+      "BP20-T05",
+      "BP05-018",
+      "BP05-019",
+      "BP10-LD02",
+      "BP15-020",
+      "BP20-019",
+      "BP20-T02"
+    ],
+    "illustrator": "SEMSEI",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-118",
+    "is_dual_face": false,
+    "name": "干絶の使徒",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "絶傑",
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】場の他のフォロワー1体を選ぶ。それは攻撃力+2/体力-2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP20-118",
+    "prints": [
+      "BP20-118",
+      "BP20-P57"
+    ],
+    "evolves_to": [
+      "BP20-119"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-119",
+    "is_dual_face": false,
+    "name": "干絶の使徒",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "絶傑",
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】場の他のフォロワー1体を選ぶ。それは攻撃力+2/体力-2する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP20-119",
+    "prints": [
+      "BP20-119",
+      "BP20-P58"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP20-118"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-120",
+    "is_dual_face": false,
+    "name": "至高の凌駕",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "絶傑"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "これを自分の手札から捨てたとき、自分の場に「カード名に『マゼルベイン』を含むフォロワー」がいるなら、これをEXエリアに置いてよい。\n----------\nこれをEXエリアからプレイする際、コストを-2する。\n2枚引く。",
+    "keywords": [],
+    "canonical_print": "BP20-120",
+    "prints": [
+      "BP20-120",
+      "BP20-P59"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [
+      "BP05-103",
+      "BP05-104",
+      "BP15-112",
+      "BP20-111",
+      "BP20-112",
+      "BP20-T11"
+    ],
+    "illustrator": "伊吹つくば",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T01",
+    "is_dual_face": false,
+    "name": "クレスト 不殺の継承者・クルル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "狩人"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：相手の場のフォロワー1体を選ぶ。それの体力を1にする。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP20-T01",
+    "prints": [
+      "BP20-P60",
+      "BP20-T01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ShuLa",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T02",
+    "is_dual_face": false,
+    "name": "クレスト 空絶の顕現・オクトリス",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "盗賊"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分のメインフェイズが来たときか自分の財宝・カードを融合したときか自分が財宝・カードをプレイしたとき、これに返戻カウンター1個を置く。これの返戻カウンターが8個以上なら、これは消滅する。自分のデッキから盗賊・カード1枚を探し、手札に加える。",
+    "keywords": [],
+    "canonical_print": "BP20-T02",
+    "prints": [
+      "BP20-P61",
+      "BP20-T02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "liiko",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T03",
+    "is_dual_face": false,
+    "name": "新約・白の章",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ラストワード】『新約・黒の章』1つを場に出す。自分のリーダーは体力+1する。\n【起動】場のアイドル・カード3枚をアクト：これを墓場に置く。\n―――――――――――――――\n『新約・黒の章』ウィッチ絶傑・アイドル・アミュレットコスト1【ラストワード】『新約・白の章』1つを場に出す。相手のリーダーすべてに1ダメージ。【起動】場のアイドル・カード3枚をアクト：これを墓場に置く。",
+    "keywords": [
+      "ラストワード",
+      "起動"
+    ],
+    "canonical_print": "BP20-T03",
+    "prints": [
+      "BP20-P62",
+      "BP20-T03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T04"
+    ],
+    "mentions_tokens": [
+      "BP20-T04"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "Mew",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T04",
+    "is_dual_face": false,
+    "name": "新約・黒の章",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "アイドル"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ラストワード】『新約・白の章』1つを場に出す。相手のリーダーすべてに1ダメージ。\n【起動】場のアイドル・カード3枚をアクト：これを墓場に置く。\n―――――――――――――――\n『新約・白の章』ウィッチ絶傑・アイドル・アミュレットコスト1【ラストワード】『新約・黒の章』1つを場に出す。自分のリーダーは体力+1する。【起動】場のアイドル・カード3枚をアクト：これを墓場に置く。",
+    "keywords": [
+      "ラストワード",
+      "起動"
+    ],
+    "canonical_print": "BP20-T04",
+    "prints": [
+      "BP20-P63",
+      "BP20-T04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP20-T03"
+    ],
+    "mentions_tokens": [
+      "BP20-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "illustrator": "Mew",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T05",
+    "is_dual_face": false,
+    "name": "クレスト 烈絶の顕現・ガルミーユ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "竜族"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の絶傑・フォロワー1体を選ぶ。それに1ダメージ。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP20-T05",
+    "prints": [
+      "BP20-P64",
+      "BP20-T05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ell",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T06",
+    "is_dual_face": false,
+    "name": "クレスト 混融の継承者・シャム＝ナクア",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "アサイラント"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分は1つ以上の選択肢をチョイスする際、代わりに好きな数チョイスする。",
+    "keywords": [],
+    "canonical_print": "BP20-T06",
+    "prints": [
+      "BP20-P65",
+      "BP20-T06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "こーやふ",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T07",
+    "is_dual_face": false,
+    "name": "クレスト 絶望の顕現・マーウィン",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分のエンドフェイズが来たとき、相手のリーダー1人か相手の場のフォロワー1体を選ぶ。それに1ダメージ。自分のEXエリアのクレストが3枚以上なら、代わりに2ダメージ。5枚なら、代わりに4ダメージ。",
+    "keywords": [],
+    "canonical_print": "BP20-T07",
+    "prints": [
+      "BP20-P66",
+      "BP20-T07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "言犬",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T08",
+    "is_dual_face": false,
+    "name": "クレスト 安息の継承者・ヒメカ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "継承者",
+      "狂信"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分のエンドフェイズが来たとき、相手の場のフォロワー1体を選ぶ。自分のEXエリアのクレストが3枚以上なら、それは攻撃力-2/体力-2する。5枚なら、代わりに攻撃力-4/体力-4する。",
+    "keywords": [],
+    "canonical_print": "BP20-T08",
+    "prints": [
+      "BP20-P67",
+      "BP20-T08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ヘスン",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T09",
+    "is_dual_face": false,
+    "name": "クレスト 安息の団結者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分のエンドフェイズが来たとき、自分の場の絶傑・フォロワー1体を選ぶ。自分のEXエリアのクレストが3枚以上なら、それは攻撃力+1/体力+1する。",
+    "keywords": [],
+    "canonical_print": "BP20-T09",
+    "prints": [
+      "BP20-P68",
+      "BP20-T09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "Gen",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T10",
+    "is_dual_face": false,
+    "name": "クレスト 安息の祈祷者",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑",
+      "狂信"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分のエンドフェイズが来たとき、自分のEXエリアのクレストが3枚以上なら、自分のリーダーは体力+1する。",
+    "keywords": [],
+    "canonical_print": "BP20-T10",
+    "prints": [
+      "BP20-P69",
+      "BP20-T10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "巣高あお",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-T11",
+    "is_dual_face": false,
+    "name": "クレスト 絶大の顕現・マゼルベイン",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "絶傑"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "自分のエンドフェイズが来たとき、自分の手札が1枚以下なら、1枚引く。",
+    "keywords": [],
+    "canonical_print": "BP20-T11",
+    "prints": [
+      "BP20-P70",
+      "BP20-T11"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-LD01",
+    "is_dual_face": false,
+    "name": "廻天剣・アマツ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP20-LD01",
+    "prints": [
+      "BP20-LD01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "伊吹つくば",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-LD02",
+    "is_dual_face": false,
+    "name": "尽きざる闘志・カゲミツ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP20-LD02",
+    "prints": [
+      "BP20-LD02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-LD03",
+    "is_dual_face": false,
+    "name": "五行掌握・クオン",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP20-LD03",
+    "prints": [
+      "BP20-LD03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ヒダヤーマン",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-LD04",
+    "is_dual_face": false,
+    "name": "溶けぬ銀氷・フィルレイン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP20-LD04",
+    "prints": [
+      "BP20-LD04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "ぽんず",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-LD05",
+    "is_dual_face": false,
+    "name": "享楽の妖狐・ギンセツ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP20-LD05",
+    "prints": [
+      "BP20-LD05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "南保あたる",
+    "legal_status": null
+  },
+  {
+    "oracle_id": "BP20-LD06",
+    "is_dual_face": false,
+    "name": "悲嘆の聖騎士・ウィルバート",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP20-LD06",
+    "prints": [
+      "BP20-LD06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "illustrator": "みけぼし",
     "legal_status": null
   }
 ]

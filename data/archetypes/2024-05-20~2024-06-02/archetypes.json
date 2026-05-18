@@ -1,6 +1,6 @@
 {
   "ec5ba7": {
-    "name": "ウィッチ（魔女の大釜・永劫を求む者・ケリドウェン）",
+    "name": "土ウィッチ",
     "class": "ウィッチ",
     "prev_id": "086cd1",
     "cards": {
@@ -1135,7 +1135,7 @@
     ]
   },
   "81a867": {
-    "name": "ロイヤル（静寂の元帥・黒の女王・マグナス）",
+    "name": "ミッドレンジロイヤル",
     "class": "ロイヤル",
     "prev_id": "be50f6",
     "cards": {
@@ -1800,7 +1800,7 @@
     ]
   },
   "e91abc": {
-    "name": "ウィッチ（真理の発見・光の道筋）",
+    "name": "超越ウィッチ",
     "class": "ウィッチ",
     "prev_id": "fa4fff",
     "cards": {
@@ -2451,7 +2451,7 @@
     ]
   },
   "18cfca": {
-    "name": "エルフ（回帰する抱擁・ラティカ・スケアリートレント）",
+    "name": "自然エルフ",
     "class": "エルフ",
     "prev_id": "112296",
     "cards": {
@@ -2934,7 +2934,7 @@
     ]
   },
   "f4f3cd": {
-    "name": "ドラゴン（流麗なる竜人・アーマーパージ）",
+    "name": "武装ドラゴン",
     "class": "ドラゴン",
     "prev_id": "6f18d3",
     "cards": {
@@ -3353,7 +3353,7 @@
     ]
   },
   "0730a5": {
-    "name": "ナイトメア（宵の吸血鬼・ヴァーニア・吸血姫・ヴァンピィ）",
+    "name": "吸血鬼ナイトメア",
     "class": "ナイトメア",
     "prev_id": "231ad3",
     "cards": {
@@ -3810,7 +3810,7 @@
     ]
   },
   "93cdf7": {
-    "name": "ウィッチ（白の章・黒の章・破壊の愉悦）",
+    "name": "アイドルウィッチ",
     "class": "ウィッチ",
     "prev_id": "338f17",
     "cards": {
@@ -4177,7 +4177,7 @@
     ]
   },
   "488b59": {
-    "name": "エルフ（心無き決闘・人形の支配者・リーアム）",
+    "name": "人形エルフ",
     "class": "エルフ",
     "prev_id": "7ed953",
     "cards": {
@@ -4511,495 +4511,8 @@
       }
     ]
   },
-  "362a30": {
-    "name": "ドラゴン（ブレイジングブレス・《世界》・ゼルガネイア）",
-    "class": "ドラゴン",
-    "prev_id": "379204",
-    "cards": {
-      "ブレイジングブレス": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.453,
-        "avg_when_used": 3.0
-      },
-      "《世界》・ゼルガネイア": {
-        "avg": 2.7778,
-        "ratio": 1.0,
-        "rank": 0.456,
-        "avg_when_used": 2.78
-      },
-      "竜の託宣": {
-        "avg": 2.6667,
-        "ratio": 0.8889,
-        "rank": 0.369,
-        "avg_when_used": 3.0
-      },
-      "ドラゴニュートの威圧": {
-        "avg": 2.5556,
-        "ratio": 0.8889,
-        "rank": 0.338,
-        "avg_when_used": 2.88
-      },
-      "斬竜剣士・ロイ": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 0.303,
-        "avg_when_used": 3.0
-      },
-      "絆の竜剣士・アイラ": {
-        "avg": 1.8889,
-        "ratio": 0.6667,
-        "rank": 0.494,
-        "avg_when_used": 2.83
-      },
-      "灼熱の嵐": {
-        "avg": 1.8889,
-        "ratio": 0.6667,
-        "rank": 0.337,
-        "avg_when_used": 2.83
-      },
-      "銀氷のドラゴニュート・フィルレイン": {
-        "avg": 1.5556,
-        "ratio": 0.5556,
-        "rank": 0.371,
-        "avg_when_used": 2.8
-      },
-      "竜の怒り": {
-        "avg": 1.5556,
-        "ratio": 0.5556,
-        "rank": 0.578,
-        "avg_when_used": 2.8
-      },
-      "リントヴルム": {
-        "avg": 1.5556,
-        "ratio": 0.5556,
-        "rank": 0.164,
-        "avg_when_used": 2.8
-      },
-      "辻野あかり": {
-        "avg": 1.2222,
-        "ratio": 0.4444,
-        "rank": 0.28,
-        "avg_when_used": 2.75
-      },
-      "《正義》・イランツァ": {
-        "avg": 1.2222,
-        "ratio": 0.6667,
-        "rank": 0.085,
-        "avg_when_used": 1.83
-      },
-      "ドラゴニックメイル・ギルヴァ": {
-        "avg": 1.1111,
-        "ratio": 0.4444,
-        "rank": 0.658,
-        "avg_when_used": 2.5
-      },
-      "天界の尖兵": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "竜巫女の儀式": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.71,
-        "avg_when_used": 3.0
-      },
-      "イスラーフィール": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.324,
-        "avg_when_used": 3.0
-      },
-      "ドラゴンの卵": {
-        "avg": 0.8889,
-        "ratio": 0.3333,
-        "rank": 0.666,
-        "avg_when_used": 2.67
-      },
-      "銀氷の吐息": {
-        "avg": 0.8889,
-        "ratio": 0.5556,
-        "rank": 0.386,
-        "avg_when_used": 1.6
-      },
-      "光の道筋": {
-        "avg": 0.6667,
-        "ratio": 0.2222,
-        "rank": 0.551,
-        "avg_when_used": 3.0
-      },
-      "水呼びの竜使い": {
-        "avg": 0.6667,
-        "ratio": 0.2222,
-        "rank": 0.551,
-        "avg_when_used": 3.0
-      },
-      "竜の伝令": {
-        "avg": 0.4444,
-        "ratio": 0.2222,
-        "rank": 0.054,
-        "avg_when_used": 2.0
-      },
-      "エターナルホエール": {
-        "avg": 0.4444,
-        "ratio": 0.2222,
-        "rank": 0.107,
-        "avg_when_used": 2.0
-      },
-      "ぶちあがれ感情": {
-        "avg": 0.4444,
-        "ratio": 0.2222,
-        "rank": 0.0,
-        "avg_when_used": 2.0
-      },
-      "竜の翼": {
-        "avg": 0.4444,
-        "ratio": 0.2222,
-        "rank": 0.214,
-        "avg_when_used": 2.0
-      },
-      "アンネローゼ": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "ダークドラグーン・フォルテ": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "竜の炎・ジルニトラ": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "ワンダーコック": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "荒野の案内人": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "雷電のヴェロキラプトル": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "旋風のプテラノドン": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "影の侵食": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "呪われし影・ヴァイディ": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "母なる君": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "猛火のティラノサウルス": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.803,
-        "avg_when_used": 3.0
-      },
-      "覇極": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 0.432,
-        "avg_when_used": 1.0
-      },
-      "ドラゴンスマッシュ": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.061,
-        "avg_when_used": 3.0
-      },
-      "無謀なる戦": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.061,
-        "avg_when_used": 3.0
-      },
-      "日輪のドラゴン": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.247,
-        "avg_when_used": 3.0
-      },
-      "星灯りの女神": {
-        "avg": 0.3333,
-        "ratio": 0.1111,
-        "rank": 0.247,
-        "avg_when_used": 3.0
-      },
-      "ジルニトラ": {
-        "avg": 0.2222,
-        "ratio": 0.1111,
-        "rank": 0.728,
-        "avg_when_used": 2.0
-      },
-      "アジ・ダハーカ": {
-        "avg": 0.2222,
-        "ratio": 0.1111,
-        "rank": 0.728,
-        "avg_when_used": 2.0
-      },
-      "神龍": {
-        "avg": 0.2222,
-        "ratio": 0.2222,
-        "rank": 0.509,
-        "avg_when_used": 1.0
-      },
-      "覇道の龍人・ガリュウ": {
-        "avg": 0.2222,
-        "ratio": 0.1111,
-        "rank": 0.29,
-        "avg_when_used": 2.0
-      },
-      "断罪者・シルヴィア": {
-        "avg": 0.2222,
-        "ratio": 0.1111,
-        "rank": 0.29,
-        "avg_when_used": 2.0
-      },
-      "ワイルド・マナ": {
-        "avg": 0.1111,
-        "ratio": 0.1111,
-        "rank": 0.621,
-        "avg_when_used": 1.0
-      },
-      "竜の誕生": {
-        "avg": 0.1111,
-        "ratio": 0.1111,
-        "rank": 0.354,
-        "avg_when_used": 1.0
-      },
-      "ジャバウォック": {
-        "avg": 0.1111,
-        "ratio": 0.1111,
-        "rank": 0.354,
-        "avg_when_used": 1.0
-      },
-      "ゴッドバレットゴーレム": {
-        "avg": 0.1111,
-        "ratio": 0.1111,
-        "rank": 0.264,
-        "avg_when_used": 1.0
-      },
-      "タル子マン": {
-        "avg": 0.1111,
-        "ratio": 0.1111,
-        "rank": 0.621,
-        "avg_when_used": 1.0
-      },
-      "ジェネシスドラゴン": {
-        "avg": 0.1111,
-        "ratio": 0.1111,
-        "rank": 0.354,
-        "avg_when_used": 1.0
-      }
-    },
-    "decks": [
-      {
-        "event": "712311",
-        "deck_id": "6LJ8E",
-        "rank": 4,
-        "tourney_size": 3,
-        "participants": 15,
-        "player": "キヨマリ",
-        "friend_code": "ALQTY",
-        "venue": "ゲームショップ　コロッサス",
-        "date": "2024-05-26",
-        "pref_code": 22,
-        "variant_cards": [
-          {
-            "name": "アンネローゼ",
-            "flag": "in"
-          },
-          {
-            "name": "ジルニトラ",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "728424",
-        "deck_id": "67DQJ",
-        "rank": 4,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "-天羽-",
-        "friend_code": "ICPXB",
-        "venue": "駿河屋 新天町店トレカ館",
-        "date": "2024-05-26",
-        "pref_code": 40,
-        "variant_cards": [
-          {
-            "name": "ワンダーコック",
-            "flag": "in"
-          },
-          {
-            "name": "ワイルド・マナ",
-            "flag": "in"
-          },
-          {
-            "name": "ドラゴニュートの威圧",
-            "flag": "out"
-          },
-          {
-            "name": "竜の託宣",
-            "flag": "out"
-          }
-        ]
-      },
-      {
-        "event": "728424",
-        "deck_id": "5TMJ6",
-        "rank": 5,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "TomaTo",
-        "friend_code": "MQAMA",
-        "venue": "駿河屋 新天町店トレカ館",
-        "date": "2024-05-26",
-        "pref_code": 40,
-        "variant_cards": [
-          {
-            "name": "竜の誕生",
-            "flag": "in"
-          },
-          {
-            "name": "覇道の龍人・ガリュウ",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "728477",
-        "deck_id": "635S6",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 21,
-        "player": "痛風持ち一般男性",
-        "friend_code": "NFKJN",
-        "venue": "竜星の嵐　小倉駅前店",
-        "date": "2024-05-26",
-        "pref_code": 40
-      },
-      {
-        "event": "731752",
-        "deck_id": "5QXMY",
-        "rank": 8,
-        "tourney_size": 4,
-        "participants": 23,
-        "player": "ゲンキ",
-        "friend_code": "TQZUK",
-        "venue": "ゲームバー236",
-        "date": "2024-05-25",
-        "pref_code": 27,
-        "variant_cards": [
-          {
-            "name": "ドラゴンスマッシュ",
-            "flag": "in"
-          },
-          {
-            "name": "ゴッドバレットゴーレム",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "725819",
-        "deck_id": "61M70",
-        "rank": 6,
-        "tourney_size": 3,
-        "participants": 13,
-        "player": "なの",
-        "friend_code": "LYBDV",
-        "venue": "スキップ",
-        "date": "2024-05-22",
-        "pref_code": 27
-      },
-      {
-        "event": "720217",
-        "deck_id": "3DJB2",
-        "rank": 3,
-        "tourney_size": 4,
-        "participants": 17,
-        "player": "ひじり",
-        "friend_code": "XGNHR",
-        "venue": "ドラゴンスター日本橋2号店",
-        "date": "2024-05-20",
-        "pref_code": 27
-      },
-      {
-        "event": "753345",
-        "deck_id": "3PBX0",
-        "rank": 4,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "yeter",
-        "friend_code": "LTHAF",
-        "venue": "トレカショップ ジョニー",
-        "date": "2024-06-01",
-        "pref_code": 3,
-        "variant_cards": [
-          {
-            "name": "タル子マン",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "753345",
-        "deck_id": "6YGQ6",
-        "rank": 8,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "_",
-        "friend_code": "UXFGY",
-        "venue": "トレカショップ ジョニー",
-        "date": "2024-06-01",
-        "pref_code": 3,
-        "variant_cards": [
-          {
-            "name": "日輪のドラゴン",
-            "flag": "in"
-          },
-          {
-            "name": "星灯りの女神",
-            "flag": "in"
-          }
-        ]
-      }
-    ]
-  },
   "0524e0": {
-    "name": "ビショップ（愚神礼賛・ケリュネイア）",
+    "name": "アミュレットビショップ",
     "class": "ビショップ",
     "prev_id": "393fe1",
     "cards": {
@@ -5298,7 +4811,7 @@
     ]
   },
   "9f5000": {
-    "name": "ナイトメア（巨大なる怨念・マスカレードゴースト）",
+    "name": "ゴーストナイトメア",
     "class": "ナイトメア",
     "prev_id": "03ef3d",
     "cards": {
@@ -5513,7 +5026,7 @@
     ]
   },
   "0f49f8": {
-    "name": "ナイトメア（アリオーシュ・冥守の戦士・カムラ）",
+    "name": "ネフティスナイトメア",
     "class": "ナイトメア",
     "prev_id": "af677d",
     "cards": {
@@ -5804,7 +5317,7 @@
     ]
   },
   "4d758f": {
-    "name": "ウィッチ（魔術の始祖・マナリア・アンの大魔法）",
+    "name": "学園ウィッチ",
     "class": "ウィッチ",
     "prev_id": "cedf18",
     "cards": {
@@ -6004,8 +5517,215 @@
       }
     ]
   },
+  "f42d7e": {
+    "name": "リントヴルムドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "379204",
+    "cards": {
+      "ブレイジングブレス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.596,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.596,
+        "avg_when_used": 3.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.596,
+        "avg_when_used": 3.0
+      },
+      "斬竜剣士・ロイ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.596,
+        "avg_when_used": 3.0
+      },
+      "リントヴルム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.596,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.674,
+        "avg_when_used": 2.75
+      },
+      "灼熱の嵐": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.674,
+        "avg_when_used": 2.75
+      },
+      "銀氷のドラゴニュート・フィルレイン": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.866,
+        "avg_when_used": 3.0
+      },
+      "竜の怒り": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.866,
+        "avg_when_used": 3.0
+      },
+      "辻野あかり": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.866,
+        "avg_when_used": 3.0
+      },
+      "絆の竜剣士・アイラ": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.866,
+        "avg_when_used": 3.0
+      },
+      "イスラーフィール": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.866,
+        "avg_when_used": 3.0
+      },
+      "銀氷の吐息": {
+        "avg": 1.5,
+        "ratio": 0.75,
+        "rank": 0.832,
+        "avg_when_used": 2.0
+      },
+      "《正義》・イランツァ": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.36,
+        "avg_when_used": 1.5
+      },
+      "ぶちあがれ感情": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "竜の伝令": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082,
+        "avg_when_used": 3.0
+      },
+      "ドラゴンスマッシュ": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082,
+        "avg_when_used": 3.0
+      },
+      "竜の翼": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082,
+        "avg_when_used": 3.0
+      },
+      "無謀なる戦": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082,
+        "avg_when_used": 3.0
+      },
+      "エターナルホエール": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.192,
+        "avg_when_used": 2.0
+      },
+      "覇極": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "ゴッドバレットゴーレム": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.351,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "728477",
+        "deck_id": "635S6",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 21,
+        "player": "痛風持ち一般男性",
+        "friend_code": "NFKJN",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2024-05-26",
+        "pref_code": 40
+      },
+      {
+        "event": "731752",
+        "deck_id": "5QXMY",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "ゲンキ",
+        "friend_code": "TQZUK",
+        "venue": "ゲームバー236",
+        "date": "2024-05-25",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "竜の伝令",
+            "flag": "in"
+          },
+          {
+            "name": "ドラゴンスマッシュ",
+            "flag": "in"
+          },
+          {
+            "name": "銀氷のドラゴニュート・フィルレイン",
+            "flag": "out"
+          },
+          {
+            "name": "銀氷の吐息",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "725819",
+        "deck_id": "61M70",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "なの",
+        "friend_code": "LYBDV",
+        "venue": "スキップ",
+        "date": "2024-05-22",
+        "pref_code": 27
+      },
+      {
+        "event": "720217",
+        "deck_id": "3DJB2",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "ひじり",
+        "friend_code": "XGNHR",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-05-20",
+        "pref_code": 27
+      }
+    ]
+  },
   "e500b1": {
-    "name": "エルフ（不殺の狂信者・不殺の円陣）",
+    "name": "狩人エルフ",
     "class": "エルフ",
     "prev_id": "320c70",
     "cards": {
@@ -6192,7 +5912,7 @@
     ]
   },
   "65b711": {
-    "name": "ドラゴン（片倉小十郎・気高き雷・ロマロニア）",
+    "name": "武闘竜人ドラゴン",
     "class": "ドラゴン",
     "prev_id": "508095",
     "cards": {
@@ -6399,7 +6119,7 @@
     ]
   },
   "1c38b9": {
-    "name": "ビショップ（歌劇姫・フェリア・アンドロメダ）",
+    "name": "童話ビショップ",
     "class": "ビショップ",
     "prev_id": "323fb0",
     "cards": {
@@ -6593,191 +6313,8 @@
       }
     ]
   },
-  "ac5715": {
-    "name": "エルフ（小さな勇士・スクナ・マドロスエルフ）",
-    "class": "エルフ",
-    "prev_id": "1462ff",
-    "cards": {
-      "小さな勇士・スクナ": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "マドロスエルフ": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "爆砕の傭兵・フィーナ": {
-        "avg": 2.5,
-        "ratio": 1.0,
-        "rank": 0.616,
-        "avg_when_used": 2.5
-      },
-      "スピリットシャイン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "フェアリーサークル": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "クリスタリア・リリィ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "フェアリードラゴン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "フェアリーブレイダー・アマツ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "ブレスフェアリーダンサー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "妖精の調べ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "エルフプリンセスメイジ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "人形の少女・オーキス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "クイーンセイバー・シンシア": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "オウルマン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "クロッカスラット": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "チェシャキャット": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "自然の導き": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "アネモネタイガー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "エンシェントエルフ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "森林の撃砕者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "サルビアパンサー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "アナスタシア": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "神秘の番人・スピネ": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.074,
-        "avg_when_used": 2.0
-      },
-      "ブロッサムウルフ・スレイド": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.926,
-        "avg_when_used": 2.0
-      },
-      "コスモスファング": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.926,
-        "avg_when_used": 2.0
-      }
-    },
-    "decks": [
-      {
-        "event": "730673",
-        "deck_id": "3LAMC",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "ウノビースケ",
-        "friend_code": "BHHDW",
-        "venue": "スミレヤ",
-        "date": "2024-05-25",
-        "pref_code": 37
-      },
-      {
-        "event": "762197",
-        "deck_id": "47R2B",
-        "rank": 3,
-        "tourney_size": 4,
-        "participants": 21,
-        "player": "ひよこ",
-        "friend_code": "UAZZZ",
-        "venue": "トーナメントセンターバトロコ 新津田沼駅前",
-        "date": "2024-06-01",
-        "pref_code": 12
-      }
-    ]
-  },
   "ef069a": {
-    "name": "ナイトメア（マシンエンジェル・メカニカルガンナー）",
+    "name": "機械ナイトメア",
     "class": "ナイトメア",
     "prev_id": "abdc7c",
     "cards": {
@@ -6900,7 +6437,7 @@
     ]
   },
   "4cf8e9": {
-    "name": "ナイトメア（欲望の翼・クラッシュデビル・デモニア）",
+    "name": "真紅ナイトメア",
     "class": "ナイトメア",
     "prev_id": null,
     "cards": {
@@ -7101,7 +6638,7 @@
     ]
   },
   "e71526": {
-    "name": "ビショップ（グランドナイト・ウィルバート・アメシストレオ）",
+    "name": "守護ビショップ",
     "class": "ビショップ",
     "prev_id": "ef6360",
     "cards": {
@@ -7265,197 +6802,8 @@
       }
     ]
   },
-  "d98bb8": {
-    "name": "ビショップ（ツタンカーメン・安息の絶傑・マーウィン）",
-    "class": "ビショップ",
-    "prev_id": "c8ec4f",
-    "cards": {
-      "安息の絶傑・マーウィン": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "ツタンカーメン": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "《世界》・ゼルガネイア": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "烈火の魔弾": {
-        "avg": 2.5,
-        "ratio": 1.0,
-        "rank": 0.384,
-        "avg_when_used": 2.5
-      },
-      "白牙の神殿": {
-        "avg": 2.5,
-        "ratio": 1.0,
-        "rank": 0.384,
-        "avg_when_used": 2.5
-      },
-      "射殺す輝き": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "アーツマスター・カルラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "破邪の光": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "デウスエクスマキナ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "テミスの審判": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "鉄腕の修道女": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "マシンファルコン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "星導の天球儀": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "均衡の光・マーロン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "欠落の聖女・リモニウム": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "《力》・ソフィーナ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "先見の神官": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "白翼の守護神・アイテール": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "エンジェルバレッジ": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      },
-      "ブーストキッカー": {
-        "avg": 1.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 1.0
-      },
-      "漆黒の法典": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      },
-      "安息の使徒": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      },
-      "堕天": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      },
-      "天界の尖兵": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.202,
-        "avg_when_used": 1.0
-      },
-      "虚脱の剛腕": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.798,
-        "avg_when_used": 1.0
-      },
-      "高垣楓": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.798,
-        "avg_when_used": 1.0
-      }
-    },
-    "decks": [
-      {
-        "event": "728477",
-        "deck_id": "4VXHQ",
-        "rank": 8,
-        "tourney_size": 4,
-        "participants": 21,
-        "player": "ユウヤ",
-        "friend_code": "CYHFS",
-        "venue": "竜星の嵐　小倉駅前店",
-        "date": "2024-05-26",
-        "pref_code": 40
-      },
-      {
-        "event": "737973",
-        "deck_id": "54HCE",
-        "rank": 4,
-        "tourney_size": 4,
-        "participants": 19,
-        "player": "m12",
-        "friend_code": "AAMPO",
-        "venue": "カードショップデュエルガルド中央町店",
-        "date": "2024-05-25",
-        "pref_code": 15
-      }
-    ]
-  },
   "a5fdf0": {
-    "name": "ロイヤル（簒奪の絶傑・オクトリス・簒奪の蛇剣）",
+    "name": "簒奪ロイヤル",
     "class": "ロイヤル",
     "prev_id": "7935c4",
     "cards": {
@@ -7614,7 +6962,7 @@
     ]
   },
   "22c011": {
-    "name": "ロイヤル（光の道筋・スパルタクス）",
+    "name": "天使ロイヤル",
     "class": "ロイヤル",
     "prev_id": "cd95ba",
     "cards": {
@@ -7803,7 +7151,7 @@
     ]
   },
   "72a09d": {
-    "name": "ロイヤル（ウォードッグ・音速の機構・ララミア）",
+    "name": "アグロロイヤル",
     "class": "ロイヤル",
     "prev_id": "856846",
     "cards": {
@@ -7979,191 +7327,167 @@
       }
     ]
   },
-  "d78053": {
-    "name": "ロイヤル（空の指揮官・セリア・動乱商人・イルミスナ）",
-    "class": "ロイヤル",
-    "prev_id": null,
+  "b17da4": {
+    "name": "ディスカードドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "e3a04e",
     "cards": {
-      "空の指揮官・セリア": {
+      "ブレイジングブレス": {
         "avg": 3.0,
         "ratio": 1.0,
         "rank": 0.5,
         "avg_when_used": 3.0
       },
-      "武器商人・エルネスタ": {
+      "ドラゴンの卵": {
         "avg": 3.0,
         "ratio": 1.0,
         "rank": 0.5,
         "avg_when_used": 3.0
       },
-      "動乱商人・イルミスナ": {
+      "光の道筋": {
         "avg": 3.0,
         "ratio": 1.0,
         "rank": 0.5,
         "avg_when_used": 3.0
       },
-      "戦争商人・アルヤスカ": {
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "水呼びの竜使い": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "竜巫女の儀式": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニュートの威圧": {
         "avg": 2.5,
         "ratio": 1.0,
-        "rank": 0.616,
+        "rank": 0.382,
         "avg_when_used": 2.5
       },
-      "アックスプリンセス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "歌劇姫・フェリア": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "ソードエンジェル・エフェメラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "ベルエンジェル": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "メイドリーダー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "プリンセスキス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "わがままな呼び出し": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "異界を統べる者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "鉄壁のガードナー": {
+      "斬竜剣士・ロイ": {
         "avg": 1.5,
         "ratio": 0.5,
         "rank": 1.0,
         "avg_when_used": 3.0
-      },
-      "エアリアルスラッシュ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ウィンドスラッシャー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "スピアナイト・アミロス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "月の刃・リオード": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ヴァリアントフェンサー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "マッハナイト": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ヒロイックエントリー！": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "オケアノス": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.074,
-        "avg_when_used": 2.0
       },
       "天界の尖兵": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "竜の怒り": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "絆の竜剣士・アイラ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "日輪のドラゴン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "星灯りの女神": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "《正義》・イランツァ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "断罪者・シルヴィア": {
         "avg": 1.0,
         "ratio": 0.5,
-        "rank": 0.074,
+        "rank": 0.081,
         "avg_when_used": 2.0
       },
-      "白翼の戦神・アイテール": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.926,
-        "avg_when_used": 2.0
-      },
-      "ライトニングキッカー": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.926,
-        "avg_when_used": 2.0
-      },
-      "スパルタクス": {
+      "竜の翼": {
         "avg": 0.5,
         "ratio": 0.5,
-        "rank": 0.205,
+        "rank": 0.781,
+        "avg_when_used": 1.0
+      },
+      "タル子マン": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.781,
+        "avg_when_used": 1.0
+      },
+      "神龍": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.219,
+        "avg_when_used": 1.0
+      },
+      "ジェネシスドラゴン": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.219,
         "avg_when_used": 1.0
       }
     },
     "decks": [
       {
-        "event": "734231",
-        "deck_id": "5EFDU",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "ふみたろう",
-        "friend_code": "UQOTB",
-        "venue": "オレタン松山店",
-        "date": "2024-05-26",
-        "pref_code": 38
+        "event": "753345",
+        "deck_id": "3PBX0",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "yeter",
+        "friend_code": "LTHAF",
+        "venue": "トレカショップ ジョニー",
+        "date": "2024-06-01",
+        "pref_code": 3
       },
       {
-        "event": "725819",
-        "deck_id": "25KGN",
-        "rank": 7,
+        "event": "753345",
+        "deck_id": "6YGQ6",
+        "rank": 8,
         "tourney_size": 3,
-        "participants": 13,
-        "player": "ナカタク",
-        "friend_code": "KQAOJ",
-        "venue": "スキップ",
-        "date": "2024-05-22",
-        "pref_code": 27
+        "participants": 10,
+        "player": "_",
+        "friend_code": "UXFGY",
+        "venue": "トレカショップ ジョニー",
+        "date": "2024-06-01",
+        "pref_code": 3
       }
     ]
   },
   "24bd76": {
-    "name": "アイドルマスター シンデレラガールズ（女神は朝焼けの海に・荒木比奈）",
+    "name": "コンボデレマス",
     "class": "アイドルマスター シンデレラガールズ",
     "prev_id": null,
     "cards": {
@@ -8274,7 +7598,7 @@
     ]
   },
   "03b57c": {
-    "name": "ウィッチ（フォーリンショット・天界の尖兵）",
+    "name": "天使ウィッチ",
     "class": "ウィッチ",
     "prev_id": "6e0305",
     "cards": {
@@ -8391,7 +7715,7 @@
     ]
   },
   "764aa2": {
-    "name": "ナイトメア（烈火の魔弾・片翼の悪魔・ピユラ）",
+    "name": "2コスナイトメア",
     "class": "ナイトメア",
     "prev_id": "2970c0",
     "cards": {
@@ -8514,7 +7838,7 @@
     ]
   },
   "e0ee6b": {
-    "name": "ビショップ（天使の泉・イスラーフィール）",
+    "name": "天使ビショップ",
     "class": "ビショップ",
     "prev_id": "c8ec4f",
     "cards": {
@@ -8615,6 +7939,1029 @@
         "venue": "TSUTAYA西友町田店",
         "date": "2024-06-01",
         "pref_code": 13
+      }
+    ]
+  },
+  "1c8083": {
+    "name": "妖精エルフ",
+    "class": "エルフ",
+    "prev_id": "1462ff",
+    "cards": {
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "スピリットシャイン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "フェアリーサークル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "クリスタリア・リリィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "フェアリードラゴン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "フェアリーブレイダー・アマツ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ブレスフェアリーダンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "マドロスエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "妖精の調べ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "エルフプリンセスメイジ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "人形の少女・オーキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "クイーンセイバー・シンシア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "神秘の番人・スピネ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      }
+    },
+    "decks": [
+      {
+        "event": "730673",
+        "deck_id": "3LAMC",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ウノビースケ",
+        "friend_code": "BHHDW",
+        "venue": "スミレヤ",
+        "date": "2024-05-25",
+        "pref_code": 37
+      }
+    ]
+  },
+  "b51f0b": {
+    "name": "獣エルフ",
+    "class": "エルフ",
+    "prev_id": "0150f9",
+    "cards": {
+      "オウルマン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "クロッカスラット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "チェシャキャット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "自然の導き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アネモネタイガー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "エンシェントエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "森林の撃砕者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "マドロスエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "サルビアパンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アナスタシア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ブロッサムウルフ・スレイド": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "コスモスファング": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      }
+    },
+    "decks": [
+      {
+        "event": "762197",
+        "deck_id": "47R2B",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 21,
+        "player": "ひよこ",
+        "friend_code": "UAZZZ",
+        "venue": "トーナメントセンターバトロコ 新津田沼駅前",
+        "date": "2024-06-01",
+        "pref_code": 12
+      }
+    ]
+  },
+  "d48a35": {
+    "name": "ヒーローロイヤル",
+    "class": "ロイヤル",
+    "prev_id": "f7254a",
+    "cards": {
+      "空の指揮官・セリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "鉄壁のガードナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "武器商人・エルネスタ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "エアリアルスラッシュ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ウィンドスラッシャー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "スピアナイト・アミロス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "月の刃・リオード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ヴァリアントフェンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "動乱商人・イルミスナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "マッハナイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ヒロイックエントリー！": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "戦争商人・アルヤスカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "白翼の戦神・アイテール": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ライトニングキッカー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      }
+    },
+    "decks": [
+      {
+        "event": "725819",
+        "deck_id": "25KGN",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "ナカタク",
+        "friend_code": "KQAOJ",
+        "venue": "スキップ",
+        "date": "2024-05-22",
+        "pref_code": 27
+      }
+    ]
+  },
+  "d0da81": {
+    "name": "1コスロイヤル",
+    "class": "ロイヤル",
+    "prev_id": null,
+    "cards": {
+      "アックスプリンセス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "歌劇姫・フェリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ソードエンジェル・エフェメラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "空の指揮官・セリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "武器商人・エルネスタ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ベルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "メイドリーダー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "プリンセスキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "わがままな呼び出し": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "動乱商人・イルミスナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "異界を統べる者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "オケアノス": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "天界の尖兵": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "戦争商人・アルヤスカ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "スパルタクス": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "734231",
+        "deck_id": "5EFDU",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ふみたろう",
+        "friend_code": "UQOTB",
+        "venue": "オレタン松山店",
+        "date": "2024-05-26",
+        "pref_code": 38
+      }
+    ]
+  },
+  "bb64e8": {
+    "name": "機械守護ビショップ",
+    "class": "ビショップ",
+    "prev_id": null,
+    "cards": {
+      "鉄腕の修道女": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "マシンファルコン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "星導の天球儀": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "均衡の光・マーロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "欠落の聖女・リモニウム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "安息の絶傑・マーウィン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《力》・ソフィーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ツタンカーメン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "先見の神官": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "白翼の守護神・アイテール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "烈火の魔弾": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "白牙の神殿": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ブーストキッカー": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "虚脱の剛腕": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "高垣楓": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "737973",
+        "deck_id": "54HCE",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 19,
+        "player": "m12",
+        "friend_code": "AAMPO",
+        "venue": "カードショップデュエルガルド中央町店",
+        "date": "2024-05-25",
+        "pref_code": 15
+      }
+    ]
+  },
+  "0a1851": {
+    "name": "コントロールビショップ",
+    "class": "ビショップ",
+    "prev_id": "c8ec4f",
+    "cards": {
+      "射殺す輝き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "烈火の魔弾": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アーツマスター・カルラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "白牙の神殿": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "安息の絶傑・マーウィン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ツタンカーメン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "破邪の光": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "デウスエクスマキナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "テミスの審判": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "エンジェルバレッジ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "漆黒の法典": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "安息の使徒": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "堕天": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ブーストキッカー": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "天界の尖兵": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "728477",
+        "deck_id": "4VXHQ",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 21,
+        "player": "ユウヤ",
+        "friend_code": "CYHFS",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2024-05-26",
+        "pref_code": 40
+      }
+    ]
+  },
+  "a12d95": {
+    "name": "ジャバウォックドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "379204",
+    "cards": {
+      "銀氷のドラゴニュート・フィルレイン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ブレイジングブレス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "斬竜剣士・ロイ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "絆の竜剣士・アイラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "灼熱の嵐": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "辻野あかり": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "エターナルホエール": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "覇道の龍人・ガリュウ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "《正義》・イランツァ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "リントヴルム": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "竜の伝令": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "銀氷の吐息": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "覇極": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "竜の誕生": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "ジャバウォック": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "728424",
+        "deck_id": "5TMJ6",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "TomaTo",
+        "friend_code": "MQAMA",
+        "venue": "駿河屋 新天町店トレカ館",
+        "date": "2024-05-26",
+        "pref_code": 40
+      }
+    ]
+  },
+  "4479c8": {
+    "name": "自然ドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "b24a17",
+    "cards": {
+      "ワンダーコック": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ブレイジングブレス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "荒野の案内人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "雷電のヴェロキラプトル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "旋風のプテラノドン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "影の侵食": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "竜巫女の儀式": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "呪われし影・ヴァイディ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "母なる君": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "猛火のティラノサウルス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ワイルド・マナ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "神龍": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "728424",
+        "deck_id": "67DQJ",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "-天羽-",
+        "friend_code": "ICPXB",
+        "venue": "駿河屋 新天町店トレカ館",
+        "date": "2024-05-26",
+        "pref_code": 40
+      }
+    ]
+  },
+  "b2c416": {
+    "name": "ランプドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "3ea8b9",
+    "cards": {
+      "ブレイジングブレス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アンネローゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "灼熱の嵐": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "竜の炎・ジルニトラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "銀氷のドラゴニュート・フィルレイン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ドラゴンの卵": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ジルニトラ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "竜の怒り": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "絆の竜剣士・アイラ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "アジ・ダハーカ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "銀氷の吐息": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "712311",
+        "deck_id": "6LJ8E",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 15,
+        "player": "キヨマリ",
+        "friend_code": "ALQTY",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2024-05-26",
+        "pref_code": 22
       }
     ]
   }

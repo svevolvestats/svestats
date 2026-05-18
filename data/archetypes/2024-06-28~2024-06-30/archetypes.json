@@ -1,6 +1,6 @@
 {
   "289556": {
-    "name": "カードファイト!! ヴァンガード（槍の化身 ター・ドラゴニック・オーバーロード・ジ・エンド）",
+    "name": "かげろう",
     "class": "カードファイト!! ヴァンガード",
     "prev_id": null,
     "cards": {
@@ -705,7 +705,7 @@
     ]
   },
   "65ed12": {
-    "name": "ウィッチ（真理の発見・陰陽の開祖・クオン）",
+    "name": "超越ウィッチ",
     "class": "ウィッチ",
     "prev_id": "4d6426",
     "cards": {
@@ -1629,7 +1629,7 @@
     ]
   },
   "5c77c3": {
-    "name": "ウィッチ（魔女の大釜・雄大なる教え）",
+    "name": "土ウィッチ",
     "class": "ウィッチ",
     "prev_id": "78fc26",
     "cards": {
@@ -2690,7 +2690,7 @@
     ]
   },
   "b6a44d": {
-    "name": "ナイトメア（眷属への贈り物・悪夢の始まり）",
+    "name": "吸血鬼ナイトメア",
     "class": "ナイトメア",
     "prev_id": "9ff0d9",
     "cards": {
@@ -3772,7 +3772,7 @@
     ]
   },
   "dcdfd1": {
-    "name": "ドラゴン（槍の化身 ター・ドラゴニック・オーバーロード）",
+    "name": "かげろうドラゴン",
     "class": "ドラゴン",
     "prev_id": null,
     "cards": {
@@ -3983,7 +3983,7 @@
     ]
   },
   "f64760": {
-    "name": "ビショップ（ダークオファリング・神の盾・ブローディア）",
+    "name": "アミュレットビショップ1",
     "class": "ビショップ",
     "prev_id": "3fc811",
     "cards": {
@@ -4272,7 +4272,7 @@
     ]
   },
   "e4ff5e": {
-    "name": "エルフ（ユグドラシル・自然の導き）",
+    "name": "自然エルフ",
     "class": "エルフ",
     "prev_id": "1eb5cf",
     "cards": {
@@ -4605,7 +4605,7 @@
     ]
   },
   "ebd801": {
-    "name": "ロイヤル（動乱商人・イルミスナ・空の指揮官・セリア）",
+    "name": "ミッドレンジロイヤル",
     "class": "ロイヤル",
     "prev_id": "69b6cb",
     "cards": {
@@ -5057,7 +5057,7 @@
     ]
   },
   "bedfa6": {
-    "name": "ドラゴン（流麗なる竜人・デュアルレイジ）",
+    "name": "武装ドラゴン",
     "class": "ドラゴン",
     "prev_id": "94986f",
     "cards": {
@@ -5192,7 +5192,7 @@
     ]
   },
   "f6b606": {
-    "name": "ドラゴン（光の道筋・星灯りの女神）",
+    "name": "ディスカードドラゴン",
     "class": "ドラゴン",
     "prev_id": null,
     "cards": {
@@ -5351,7 +5351,7 @@
     ]
   },
   "d17504": {
-    "name": "ドラゴン（侮蔑の狂信者・侮蔑の従者）",
+    "name": "ランプドラゴン",
     "class": "ドラゴン",
     "prev_id": "94e47b",
     "cards": {
@@ -5704,203 +5704,8 @@
       }
     ]
   },
-  "7473d8": {
-    "name": "ナイトメア（《恋人》・ミルティオ・死の祝福）",
-    "class": "ナイトメア",
-    "prev_id": "8f20f7",
-    "cards": {
-      "《恋人》・ミルティオ": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "死の祝福": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "夢のささやき": {
-        "avg": 2.5,
-        "ratio": 1.0,
-        "rank": 0.615,
-        "avg_when_used": 2.5
-      },
-      "バロン・ダブルフィール": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "禁絶の一撃": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "禁絶の腕・ニコラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "沈黙の絶傑・ルルナイ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "冥守の戦士・カムラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "アリオーシュ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ネフティス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ベルエンジェル": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "反転する翼": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "フォーリンショット": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "天使の泉": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "天界の尖兵": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "アークエンジェル・レイナ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "コラプションガーディアン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "サハクィエル": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "イスラーフィール": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "沈黙の詩": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.929,
-        "avg_when_used": 2.0
-      },
-      "紫紺の抵抗者・エンネア": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.929,
-        "avg_when_used": 2.0
-      },
-      "《世界》・ゼルガネイア": {
-        "avg": 1.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 1.0
-      },
-      "ブラックスワン・オディール": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.929,
-        "avg_when_used": 2.0
-      },
-      "仁義の悪魔・ユヅキ": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.929,
-        "avg_when_used": 2.0
-      },
-      "ソウルコンバージョン": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.071,
-        "avg_when_used": 2.0
-      },
-      "堕天": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.071,
-        "avg_when_used": 2.0
-      },
-      "《節制》・ルーゼン": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.801,
-        "avg_when_used": 1.0
-      }
-    },
-    "decks": [
-      {
-        "event": "757273",
-        "deck_id": "7SF7K",
-        "rank": 1,
-        "tourney_size": 4,
-        "participants": 23,
-        "player": "鮫チキン",
-        "friend_code": "AYGYH",
-        "venue": "竜星の嵐　小倉駅前店",
-        "date": "2024-06-30",
-        "pref_code": 40
-      },
-      {
-        "event": "759040",
-        "deck_id": "2923V",
-        "rank": 7,
-        "tourney_size": 4,
-        "participants": 29,
-        "player": "しぇり",
-        "friend_code": "VSVCE",
-        "venue": "オレタン福岡天神店",
-        "date": "2024-06-29",
-        "pref_code": 40
-      }
-    ]
-  },
   "8cd30d": {
-    "name": "ビショップ（ツタンカーメン・高垣楓）",
+    "name": "アミュレットビショップ2",
     "class": "ビショップ",
     "prev_id": null,
     "cards": {
@@ -6119,7 +5924,7 @@
     ]
   },
   "58d10f": {
-    "name": "ロイヤル（母なる君・王の一閃）",
+    "name": "自然ロイヤル",
     "class": "ロイヤル",
     "prev_id": null,
     "cards": {
@@ -6248,7 +6053,7 @@
     ]
   },
   "edb9e1": {
-    "name": "ロイヤル（簒奪の狂信者・簒奪の従者）",
+    "name": "簒奪ロイヤル",
     "class": "ロイヤル",
     "prev_id": null,
     "cards": {
@@ -6383,7 +6188,7 @@
     ]
   },
   "0fbd30": {
-    "name": "ウィッチ（魔術の始祖・マナリア・術式の教師・ジル）",
+    "name": "学園ウィッチ",
     "class": "ウィッチ",
     "prev_id": null,
     "cards": {
@@ -6494,7 +6299,7 @@
     ]
   },
   "b48b80": {
-    "name": "エルフ（爆砕の傭兵・フィーナ・人形の支配者・リーアム）",
+    "name": "人形エルフ",
     "class": "エルフ",
     "prev_id": "b642b0",
     "cards": {
@@ -6728,7 +6533,7 @@
     ]
   },
   "5504a5": {
-    "name": "ドラゴン（暴竜・伊達政宗・白亜の竜騎士）",
+    "name": "武闘竜人ドラゴン",
     "class": "ドラゴン",
     "prev_id": "da72de",
     "cards": {
@@ -6845,7 +6650,7 @@
     ]
   },
   "6e6ffb": {
-    "name": "ナイトメア（スピリットキュレーター・マスカレードゴースト）",
+    "name": "ゴーストナイトメア",
     "class": "ナイトメア",
     "prev_id": null,
     "cards": {
@@ -6952,6 +6757,234 @@
         "venue": "フルコンプ仙台駅前店",
         "date": "2024-06-30",
         "pref_code": 4
+      }
+    ]
+  },
+  "2816c5": {
+    "name": "ネフティスナイトメア",
+    "class": "ナイトメア",
+    "prev_id": "5a765e",
+    "cards": {
+      "バロン・ダブルフィール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "禁絶の一撃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "夢のささやき": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "禁絶の腕・ニコラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "沈黙の絶傑・ルルナイ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《恋人》・ミルティオ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "冥守の戦士・カムラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アリオーシュ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "死の祝福": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ネフティス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "沈黙の詩": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "紫紺の抵抗者・エンネア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ブラックスワン・オディール": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "仁義の悪魔・ユヅキ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "《節制》・ルーゼン": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "757273",
+        "deck_id": "7SF7K",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "鮫チキン",
+        "friend_code": "AYGYH",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2024-06-30",
+        "pref_code": 40
+      }
+    ]
+  },
+  "507536": {
+    "name": "天使ナイトメア",
+    "class": "ナイトメア",
+    "prev_id": "8f20f7",
+    "cards": {
+      "ベルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "反転する翼": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "フォーリンショット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "天使の泉": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アークエンジェル・レイナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《恋人》・ミルティオ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "コラプションガーディアン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "サハクィエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "死の祝福": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "イスラーフィール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ソウルコンバージョン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "夢のささやき": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "堕天": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "759040",
+        "deck_id": "2923V",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "しぇり",
+        "friend_code": "VSVCE",
+        "venue": "オレタン福岡天神店",
+        "date": "2024-06-29",
+        "pref_code": 40
       }
     ]
   }

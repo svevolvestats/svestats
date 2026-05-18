@@ -1,18 +1,18 @@
 {
   "_ref": {
     "e4ff5e": {
-      "name": "エルフ（ユグドラシル・自然の導き）",
+      "name": "自然エルフ",
       "class": "エルフ",
       "auto_prev_id": "1eb5cf",
-      "auto_prev_name": "エルフ（マーベラスサンデー・不殺の使徒）",
+      "auto_prev_name": "狩人エルフ",
       "auto_prev_sim": 0.601,
       "manual_prev_id": null
     },
     "b48b80": {
-      "name": "エルフ（爆砕の傭兵・フィーナ・人形の支配者・リーアム）",
+      "name": "人形エルフ",
       "class": "エルフ",
       "auto_prev_id": "b642b0",
-      "auto_prev_name": "エルフ（人形の支配者・リーアム・人形の少女・オーキス）",
+      "auto_prev_name": "人形エルフ",
       "auto_prev_sim": 0.936,
       "manual_prev_id": null
     },
@@ -25,15 +25,15 @@
       "manual_prev_id": null
     },
     "ebd801": {
-      "name": "ロイヤル（動乱商人・イルミスナ・空の指揮官・セリア）",
+      "name": "ミッドレンジロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": "69b6cb",
-      "auto_prev_name": "ロイヤル（月の刃・リオード・空の指揮官・セリア）",
+      "auto_prev_name": "ミッドレンジロイヤル",
       "auto_prev_sim": 0.958,
       "manual_prev_id": null
     },
     "58d10f": {
-      "name": "ロイヤル（母なる君・王の一閃）",
+      "name": "自然ロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -41,7 +41,7 @@
       "manual_prev_id": null
     },
     "edb9e1": {
-      "name": "ロイヤル（簒奪の狂信者・簒奪の従者）",
+      "name": "簒奪ロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -49,18 +49,18 @@
       "manual_prev_id": null
     },
     "65ed12": {
-      "name": "ウィッチ（真理の発見・陰陽の開祖・クオン）",
+      "name": "超越ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "4d6426",
-      "auto_prev_name": "ウィッチ（スキュア・チェックメイト）",
+      "auto_prev_name": "超越ウィッチ",
       "auto_prev_sim": 0.989,
       "manual_prev_id": null
     },
     "5c77c3": {
-      "name": "ウィッチ（魔女の大釜・雄大なる教え）",
+      "name": "土ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "78fc26",
-      "auto_prev_name": "ウィッチ（永劫を求む者・ケリドウェン・サモンサークル）",
+      "auto_prev_name": "土ウィッチ",
       "auto_prev_sim": 0.974,
       "manual_prev_id": null
     },
@@ -73,7 +73,7 @@
       "manual_prev_id": null
     },
     "0fbd30": {
-      "name": "ウィッチ（魔術の始祖・マナリア・術式の教師・ジル）",
+      "name": "学園ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -81,7 +81,7 @@
       "manual_prev_id": null
     },
     "dcdfd1": {
-      "name": "ドラゴン（槍の化身 ター・ドラゴニック・オーバーロード）",
+      "name": "かげろうドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -89,15 +89,15 @@
       "manual_prev_id": null
     },
     "bedfa6": {
-      "name": "ドラゴン（流麗なる竜人・デュアルレイジ）",
+      "name": "武装ドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": "94986f",
-      "auto_prev_name": "ドラゴン（ハンマードラゴニュート・アーマーパージ）",
+      "auto_prev_name": "武装ドラゴン",
       "auto_prev_sim": 0.982,
       "manual_prev_id": null
     },
     "f6b606": {
-      "name": "ドラゴン（光の道筋・星灯りの女神）",
+      "name": "ディスカードドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -105,26 +105,26 @@
       "manual_prev_id": null
     },
     "d17504": {
-      "name": "ドラゴン（侮蔑の狂信者・侮蔑の従者）",
+      "name": "ランプドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": "94e47b",
-      "auto_prev_name": "ドラゴン（辻野あかり・《世界》・ゼルガネイア）",
+      "auto_prev_name": "ランプドラゴン",
       "auto_prev_sim": 0.579,
       "manual_prev_id": null
     },
     "5504a5": {
-      "name": "ドラゴン（暴竜・伊達政宗・白亜の竜騎士）",
+      "name": "武闘竜人ドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": "da72de",
-      "auto_prev_name": "ドラゴン（大鎌の竜騎・暴竜・伊達政宗）",
+      "auto_prev_name": "武闘竜人ドラゴン",
       "auto_prev_sim": 0.908,
       "manual_prev_id": null
     },
     "b6a44d": {
-      "name": "ナイトメア（眷属への贈り物・悪夢の始まり）",
+      "name": "吸血鬼ナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": "9ff0d9",
-      "auto_prev_name": "ナイトメア（吸血姫・ヴァンピィ・血統の王）",
+      "auto_prev_name": "吸血鬼ナイトメア",
       "auto_prev_sim": 0.987,
       "manual_prev_id": null
     },
@@ -133,35 +133,43 @@
       "class": "ナイトメア",
       "auto_prev_id": null,
       "auto_prev_name": null,
-      "auto_prev_sim": 0.067,
-      "manual_prev_id": null
-    },
-    "7473d8": {
-      "name": "ナイトメア（《恋人》・ミルティオ・死の祝福）",
-      "class": "ナイトメア",
-      "auto_prev_id": "8f20f7",
-      "auto_prev_name": "ナイトメア（フォーリンショット・片翼の反逆者）",
-      "auto_prev_sim": 0.647,
+      "auto_prev_sim": 0.106,
       "manual_prev_id": null
     },
     "6e6ffb": {
-      "name": "ナイトメア（スピリットキュレーター・マスカレードゴースト）",
+      "name": "ゴーストナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": null,
       "auto_prev_name": null,
       "auto_prev_sim": 0.155,
       "manual_prev_id": null
     },
+    "2816c5": {
+      "name": "ネフティスナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "5a765e",
+      "auto_prev_name": "ネフティスナイトメア",
+      "auto_prev_sim": 0.955,
+      "manual_prev_id": null
+    },
+    "507536": {
+      "name": "天使ナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "8f20f7",
+      "auto_prev_name": "天使ナイトメア",
+      "auto_prev_sim": 0.831,
+      "manual_prev_id": null
+    },
     "f64760": {
-      "name": "ビショップ（ダークオファリング・神の盾・ブローディア）",
+      "name": "アミュレットビショップ1",
       "class": "ビショップ",
       "auto_prev_id": "3fc811",
-      "auto_prev_name": "ビショップ（神の盾・ブローディア・ケリュネイア）",
+      "auto_prev_name": "アミュレットビショップ",
       "auto_prev_sim": 0.97,
       "manual_prev_id": null
     },
     "8cd30d": {
-      "name": "ビショップ（ツタンカーメン・高垣楓）",
+      "name": "アミュレットビショップ2",
       "class": "ビショップ",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -169,7 +177,7 @@
       "manual_prev_id": null
     },
     "289556": {
-      "name": "カードファイト!! ヴァンガード（槍の化身 ター・ドラゴニック・オーバーロード・ジ・エンド）",
+      "name": "かげろう",
       "class": "カードファイト!! ヴァンガード",
       "auto_prev_id": null,
       "auto_prev_name": null,

@@ -1,6 +1,6 @@
 {
   "1e439c": {
-    "name": "ナイトメア（デッドペナルティ・カオスルーラー・アイシィレンドリング）",
+    "name": "NCナイトメア",
     "class": "ナイトメア",
     "prev_id": "fadfbc",
     "cards": {
@@ -1169,7 +1169,7 @@
     ]
   },
   "b3627f": {
-    "name": "ウィッチ（魔女の大釜・雄大なる教え）",
+    "name": "土ウィッチ",
     "class": "ウィッチ",
     "prev_id": "9be419",
     "cards": {
@@ -1730,7 +1730,7 @@
     ]
   },
   "8a29b5": {
-    "name": "ロイヤル（アウトローガンナー・ファントムデュオ・バニー＆バロン）",
+    "name": "荒野ロイヤル",
     "class": "ロイヤル",
     "prev_id": null,
     "cards": {
@@ -2583,7 +2583,7 @@
     ]
   },
   "08f582": {
-    "name": "カードファイト!! ヴァンガード（ドラゴニック・オーバーロード・ドラゴニック・オーバーロード・ジ・エンド）",
+    "name": "かげろう",
     "class": "カードファイト!! ヴァンガード",
     "prev_id": "6e67a8",
     "cards": {
@@ -3118,7 +3118,7 @@
     ]
   },
   "d1717e": {
-    "name": "ビショップ（リボルバーイーグル・自由なる冒険者）",
+    "name": "アグロビショップ",
     "class": "ビショップ",
     "prev_id": null,
     "cards": {
@@ -3679,7 +3679,7 @@
     ]
   },
   "62c34d": {
-    "name": "ウィッチ（マーリン・真理の発見）",
+    "name": "超越ウィッチ",
     "class": "ウィッチ",
     "prev_id": "6602e0",
     "cards": {
@@ -3994,7 +3994,7 @@
     ]
   },
   "b06306": {
-    "name": "エルフ（ワイルドリザード・自由なる冒険者）",
+    "name": "荒野エルフ",
     "class": "エルフ",
     "prev_id": null,
     "cards": {
@@ -4339,7 +4339,7 @@
     ]
   },
   "9ea53f": {
-    "name": "ナイトメア（白夜の吸血鬼・ヴァーニア・眷属の召喚）",
+    "name": "吸血鬼ナイトメア",
     "class": "ナイトメア",
     "prev_id": "f5d9a3",
     "cards": {
@@ -4961,7 +4961,7 @@
     ]
   },
   "35a31e": {
-    "name": "ビショップ（テミスの審判・星導の天球儀）",
+    "name": "アミュレットビショップ",
     "class": "ビショップ",
     "prev_id": "d3a722",
     "cards": {
@@ -5384,7 +5384,7 @@
     ]
   },
   "47d8de": {
-    "name": "ロイヤル（光の道筋・母なる君）",
+    "name": "自然ロイヤル",
     "class": "ロイヤル",
     "prev_id": "2e740c",
     "cards": {
@@ -5589,7 +5589,7 @@
     ]
   },
   "6c9667": {
-    "name": "エルフ（人形の支配者・リーアム・人形の少女・オーキス）",
+    "name": "人形エルフ",
     "class": "エルフ",
     "prev_id": "0e36e6",
     "cards": {
@@ -5796,7 +5796,7 @@
     ]
   },
   "9d4f8c": {
-    "name": "ウィッチ（ピースキーパー・ヴィンセント・マジカルシューター）",
+    "name": "ヴィンセントウィッチ",
     "class": "ウィッチ",
     "prev_id": null,
     "cards": {
@@ -5983,7 +5983,7 @@
     ]
   },
   "82b551": {
-    "name": "エルフ（プライマルギガント・荒野の案内人）",
+    "name": "自然エルフ",
     "class": "エルフ",
     "prev_id": null,
     "cards": {
@@ -6178,7 +6178,7 @@
     ]
   },
   "ad3168": {
-    "name": "ドラゴン（竜炎の設計士・レヴィールの無法者）",
+    "name": "フェイスドラゴン",
     "class": "ドラゴン",
     "prev_id": null,
     "cards": {
@@ -6301,7 +6301,7 @@
     ]
   },
   "6d4073": {
-    "name": "ドラゴン（竜の怒り・ブレイジングブレス）",
+    "name": "ドラゴン（ぶちあがれ感情・ドラゴンの卵）",
     "class": "ドラゴン",
     "prev_id": "b550fe",
     "cards": {
@@ -6459,215 +6459,8 @@
       }
     ]
   },
-  "2372d4": {
-    "name": "ロイヤル（閃光の盾 イゾルデ・簒奪の狂信者）",
-    "class": "ロイヤル",
-    "prev_id": "6bcc21",
-    "cards": {
-      "閃光の盾 イゾルデ": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "《世界》・ゼルガネイア": {
-        "avg": 2.5,
-        "ratio": 1.0,
-        "rank": 0.614,
-        "avg_when_used": 2.5
-      },
-      "鮮やかな奪取": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "月の刃・リオード": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "簒奪の狂信者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "簒奪の絶傑・オクトリス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "簒奪の蛇剣": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "デスペラードショット": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "堕天": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "簒奪の使徒": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "簒奪の舞": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ばーくがる": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "ベルエンジェル": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "みるびる": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "メイドリーダー": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "プリンセスキス": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "輝ける剣撃": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "フォーリンショット": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "わがままな呼び出し": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "異界を統べる者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "アヴァリティア": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.932,
-        "avg_when_used": 2.0
-      },
-      "オネストシーフ": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.932,
-        "avg_when_used": 2.0
-      },
-      "ソードエンジェル・エフェメラ": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.068,
-        "avg_when_used": 2.0
-      },
-      "エンジェルバレッジ": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.068,
-        "avg_when_used": 2.0
-      },
-      "思わぬ躓き": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.068,
-        "avg_when_used": 2.0
-      },
-      "スパルタクス": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.068,
-        "avg_when_used": 2.0
-      },
-      "タイラントオーダー": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.807,
-        "avg_when_used": 1.0
-      },
-      "冥府への道": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.807,
-        "avg_when_used": 1.0
-      },
-      "カースドクイーン・ナハト・ナハト": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 0.807,
-        "avg_when_used": 1.0
-      }
-    },
-    "decks": [
-      {
-        "event": "815171",
-        "deck_id": "4C9EH",
-        "rank": 4,
-        "tourney_size": 3,
-        "participants": 9,
-        "player": "Basil",
-        "friend_code": "SLSRA",
-        "venue": "トーナメントセンターバトロコ横浜伊勢佐木町",
-        "date": "2024-08-24",
-        "pref_code": 14
-      },
-      {
-        "event": "802155",
-        "deck_id": "2HHU1",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 28,
-        "player": "果実農家",
-        "friend_code": "YXEXC",
-        "venue": "カードベース ジャブロー",
-        "date": "2024-08-24",
-        "pref_code": 15
-      }
-    ]
-  },
   "c048d4": {
-    "name": "ウィッチ（魔術の始祖・マナリア・術式の教師・ジル）",
+    "name": "学園ウィッチ",
     "class": "ウィッチ",
     "prev_id": "dcffc6",
     "cards": {
@@ -6772,7 +6565,7 @@
     ]
   },
   "e26e3c": {
-    "name": "カードファイト!! ヴァンガード（ダイナマイト・ジャグラー・星空の旋律使い ファラ）",
+    "name": "カードファイト!! ヴァンガード（星空の旋律使い ファラ・銀の茨の竜使い ルキエ）",
     "class": "カードファイト!! ヴァンガード",
     "prev_id": null,
     "cards": {
@@ -6895,7 +6688,7 @@
     ]
   },
   "70a202": {
-    "name": "ドラゴン（ドラゴニック・オーバーロード・約束の火 エルモ）",
+    "name": "かげろうドラゴン",
     "class": "ドラゴン",
     "prev_id": "a2f0ed",
     "cards": {
@@ -6996,6 +6789,234 @@
         "venue": "BOOK OFF SUPER BAZAAR 甲府貢川店",
         "date": "2024-08-25",
         "pref_code": 19
+      }
+    ]
+  },
+  "7c76b9": {
+    "name": "1コスロイヤル",
+    "class": "ロイヤル",
+    "prev_id": null,
+    "cards": {
+      "ばーくがる": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ベルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "みるびる": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "メイドリーダー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "プリンセスキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "輝ける剣撃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "閃光の盾 イゾルデ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "フォーリンショット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "わがままな呼び出し": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "異界を統べる者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ソードエンジェル・エフェメラ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "エンジェルバレッジ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "思わぬ躓き": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "スパルタクス": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      }
+    },
+    "decks": [
+      {
+        "event": "802155",
+        "deck_id": "2HHU1",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "果実農家",
+        "friend_code": "YXEXC",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-08-24",
+        "pref_code": 15
+      }
+    ]
+  },
+  "21e5bd": {
+    "name": "簒奪ロイヤル",
+    "class": "ロイヤル",
+    "prev_id": "6bcc21",
+    "cards": {
+      "鮮やかな奪取": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "閃光の盾 イゾルデ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "月の刃・リオード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "簒奪の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "簒奪の蛇剣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "デスペラードショット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "堕天": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "簒奪の使徒": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "簒奪の舞": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アヴァリティア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "オネストシーフ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "タイラントオーダー": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "冥府への道": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "815171",
+        "deck_id": "4C9EH",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 9,
+        "player": "Basil",
+        "friend_code": "SLSRA",
+        "venue": "トーナメントセンターバトロコ横浜伊勢佐木町",
+        "date": "2024-08-24",
+        "pref_code": 14
       }
     ]
   }

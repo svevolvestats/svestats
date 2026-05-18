@@ -1,0 +1,37 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "0b4600",
+      "rules": [
+        {
+          "required": ["異界を統べる者"],
+          "name": "2コスウィッチ"
+        },
+        {
+          "required": [],
+          "name": "天使ウィッチ"
+        }
+      ]
+    },
+    {
+      "source": "8367e2",
+      "rules": [
+        {
+          "required": ["ネフティス"],
+          "name": "ネフティスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "機械ナイトメア"
+        }
+      ]
+    }
+  ]
+}

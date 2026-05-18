@@ -1,7 +1,7 @@
 {
   "_ref": {
     "18cfca": {
-      "name": "エルフ（回帰する抱擁・ラティカ・スケアリートレント）",
+      "name": "自然エルフ",
       "class": "エルフ",
       "auto_prev_id": "112296",
       "auto_prev_name": "自然エルフ",
@@ -9,7 +9,7 @@
       "manual_prev_id": null
     },
     "488b59": {
-      "name": "エルフ（心無き決闘・人形の支配者・リーアム）",
+      "name": "人形エルフ",
       "class": "エルフ",
       "auto_prev_id": "7ed953",
       "auto_prev_name": "人形エルフ",
@@ -17,23 +17,31 @@
       "manual_prev_id": null
     },
     "e500b1": {
-      "name": "エルフ（不殺の狂信者・不殺の円陣）",
+      "name": "狩人エルフ",
       "class": "エルフ",
       "auto_prev_id": "320c70",
       "auto_prev_name": "狩人エルフ",
       "auto_prev_sim": 0.976,
       "manual_prev_id": null
     },
-    "ac5715": {
-      "name": "エルフ（小さな勇士・スクナ・マドロスエルフ）",
+    "1c8083": {
+      "name": "妖精エルフ",
       "class": "エルフ",
       "auto_prev_id": "1462ff",
       "auto_prev_name": "妖精エルフ",
-      "auto_prev_sim": 0.694,
+      "auto_prev_sim": 0.901,
+      "manual_prev_id": null
+    },
+    "b51f0b": {
+      "name": "獣エルフ",
+      "class": "エルフ",
+      "auto_prev_id": "0150f9",
+      "auto_prev_name": "獣エルフ",
+      "auto_prev_sim": 0.811,
       "manual_prev_id": null
     },
     "81a867": {
-      "name": "ロイヤル（静寂の元帥・黒の女王・マグナス）",
+      "name": "ミッドレンジロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": "be50f6",
       "auto_prev_name": "ミッドレンジロイヤル",
@@ -41,7 +49,7 @@
       "manual_prev_id": null
     },
     "a5fdf0": {
-      "name": "ロイヤル（簒奪の絶傑・オクトリス・簒奪の蛇剣）",
+      "name": "簒奪ロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": "7935c4",
       "auto_prev_name": "簒奪ロイヤル",
@@ -49,7 +57,7 @@
       "manual_prev_id": null
     },
     "22c011": {
-      "name": "ロイヤル（光の道筋・スパルタクス）",
+      "name": "天使ロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": "cd95ba",
       "auto_prev_name": "天使ロイヤル",
@@ -57,23 +65,31 @@
       "manual_prev_id": null
     },
     "72a09d": {
-      "name": "ロイヤル（ウォードッグ・音速の機構・ララミア）",
+      "name": "アグロロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": "856846",
       "auto_prev_name": "アグロロイヤル",
       "auto_prev_sim": 0.58,
       "manual_prev_id": null
     },
-    "d78053": {
-      "name": "ロイヤル（空の指揮官・セリア・動乱商人・イルミスナ）",
+    "d48a35": {
+      "name": "ヒーローロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "f7254a",
+      "auto_prev_name": "ヒーローロイヤル",
+      "auto_prev_sim": 0.718,
+      "manual_prev_id": null
+    },
+    "d0da81": {
+      "name": "1コスロイヤル",
       "class": "ロイヤル",
       "auto_prev_id": null,
       "auto_prev_name": null,
-      "auto_prev_sim": 0.461,
+      "auto_prev_sim": 0.429,
       "manual_prev_id": null
     },
     "ec5ba7": {
-      "name": "ウィッチ（魔女の大釜・永劫を求む者・ケリドウェン）",
+      "name": "土ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "086cd1",
       "auto_prev_name": "土ウィッチ",
@@ -81,7 +97,7 @@
       "manual_prev_id": null
     },
     "e91abc": {
-      "name": "ウィッチ（真理の発見・光の道筋）",
+      "name": "超越ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "fa4fff",
       "auto_prev_name": "超越ウィッチ",
@@ -89,7 +105,7 @@
       "manual_prev_id": null
     },
     "93cdf7": {
-      "name": "ウィッチ（白の章・黒の章・破壊の愉悦）",
+      "name": "アイドルウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "338f17",
       "auto_prev_name": "アイドルウィッチ",
@@ -97,7 +113,7 @@
       "manual_prev_id": null
     },
     "4d758f": {
-      "name": "ウィッチ（魔術の始祖・マナリア・アンの大魔法）",
+      "name": "学園ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "cedf18",
       "auto_prev_name": "学園ウィッチ",
@@ -105,7 +121,7 @@
       "manual_prev_id": null
     },
     "03b57c": {
-      "name": "ウィッチ（フォーリンショット・天界の尖兵）",
+      "name": "天使ウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": "6e0305",
       "auto_prev_name": "天使ウィッチ",
@@ -113,31 +129,63 @@
       "manual_prev_id": null
     },
     "f4f3cd": {
-      "name": "ドラゴン（流麗なる竜人・アーマーパージ）",
+      "name": "武装ドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": "6f18d3",
       "auto_prev_name": "武装ドラゴン",
       "auto_prev_sim": 0.984,
       "manual_prev_id": null
     },
-    "362a30": {
-      "name": "ドラゴン（ブレイジングブレス・《世界》・ゼルガネイア）",
+    "f42d7e": {
+      "name": "リントヴルムドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": "379204",
       "auto_prev_name": "リントヴルムドラゴン",
-      "auto_prev_sim": 0.904,
+      "auto_prev_sim": 0.976,
       "manual_prev_id": null
     },
     "65b711": {
-      "name": "ドラゴン（片倉小十郎・気高き雷・ロマロニア）",
+      "name": "武闘竜人ドラゴン",
       "class": "ドラゴン",
       "auto_prev_id": "508095",
       "auto_prev_name": "武闘竜人ドラゴン",
       "auto_prev_sim": 0.973,
       "manual_prev_id": null
     },
+    "b17da4": {
+      "name": "ディスカードドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "e3a04e",
+      "auto_prev_name": "ディスカードドラゴン",
+      "auto_prev_sim": 0.919,
+      "manual_prev_id": null
+    },
+    "a12d95": {
+      "name": "ジャバウォックドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "379204",
+      "auto_prev_name": "リントヴルムドラゴン",
+      "auto_prev_sim": 0.847,
+      "manual_prev_id": null
+    },
+    "4479c8": {
+      "name": "自然ドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "b24a17",
+      "auto_prev_name": "自然ドラゴン",
+      "auto_prev_sim": 0.799,
+      "manual_prev_id": null
+    },
+    "b2c416": {
+      "name": "ランプドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "3ea8b9",
+      "auto_prev_name": "ランプドラゴン",
+      "auto_prev_sim": 0.651,
+      "manual_prev_id": null
+    },
     "0730a5": {
-      "name": "ナイトメア（宵の吸血鬼・ヴァーニア・吸血姫・ヴァンピィ）",
+      "name": "吸血鬼ナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": "231ad3",
       "auto_prev_name": "吸血鬼ナイトメア",
@@ -145,7 +193,7 @@
       "manual_prev_id": null
     },
     "9f5000": {
-      "name": "ナイトメア（巨大なる怨念・マスカレードゴースト）",
+      "name": "ゴーストナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": "03ef3d",
       "auto_prev_name": "ゴーストナイトメア",
@@ -153,7 +201,7 @@
       "manual_prev_id": null
     },
     "0f49f8": {
-      "name": "ナイトメア（アリオーシュ・冥守の戦士・カムラ）",
+      "name": "ネフティスナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": "af677d",
       "auto_prev_name": "ネフティスナイトメア",
@@ -161,7 +209,7 @@
       "manual_prev_id": null
     },
     "ef069a": {
-      "name": "ナイトメア（マシンエンジェル・メカニカルガンナー）",
+      "name": "機械ナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": "abdc7c",
       "auto_prev_name": "機械ナイトメア",
@@ -169,7 +217,7 @@
       "manual_prev_id": null
     },
     "4cf8e9": {
-      "name": "ナイトメア（欲望の翼・クラッシュデビル・デモニア）",
+      "name": "真紅ナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": null,
       "auto_prev_name": null,
@@ -177,7 +225,7 @@
       "manual_prev_id": null
     },
     "764aa2": {
-      "name": "ナイトメア（烈火の魔弾・片翼の悪魔・ピユラ）",
+      "name": "2コスナイトメア",
       "class": "ナイトメア",
       "auto_prev_id": "2970c0",
       "auto_prev_name": "2コスナイトメア",
@@ -185,7 +233,7 @@
       "manual_prev_id": null
     },
     "0524e0": {
-      "name": "ビショップ（愚神礼賛・ケリュネイア）",
+      "name": "アミュレットビショップ",
       "class": "ビショップ",
       "auto_prev_id": "393fe1",
       "auto_prev_name": "アミュレットビショップ",
@@ -193,7 +241,7 @@
       "manual_prev_id": null
     },
     "1c38b9": {
-      "name": "ビショップ（歌劇姫・フェリア・アンドロメダ）",
+      "name": "童話ビショップ",
       "class": "ビショップ",
       "auto_prev_id": "323fb0",
       "auto_prev_name": "童話ビショップ",
@@ -201,31 +249,39 @@
       "manual_prev_id": null
     },
     "e71526": {
-      "name": "ビショップ（グランドナイト・ウィルバート・アメシストレオ）",
+      "name": "守護ビショップ",
       "class": "ビショップ",
       "auto_prev_id": "ef6360",
       "auto_prev_name": "守護ビショップ",
       "auto_prev_sim": 0.803,
       "manual_prev_id": null
     },
-    "d98bb8": {
-      "name": "ビショップ（ツタンカーメン・安息の絶傑・マーウィン）",
+    "e0ee6b": {
+      "name": "天使ビショップ",
       "class": "ビショップ",
       "auto_prev_id": "c8ec4f",
       "auto_prev_name": "コントロールビショップ",
       "auto_prev_sim": 0.563,
       "manual_prev_id": null
     },
-    "e0ee6b": {
-      "name": "ビショップ（天使の泉・イスラーフィール）",
+    "bb64e8": {
+      "name": "機械守護ビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.242,
+      "manual_prev_id": null
+    },
+    "0a1851": {
+      "name": "コントロールビショップ",
       "class": "ビショップ",
       "auto_prev_id": "c8ec4f",
       "auto_prev_name": "コントロールビショップ",
-      "auto_prev_sim": 0.563,
+      "auto_prev_sim": 0.698,
       "manual_prev_id": null
     },
     "24bd76": {
-      "name": "アイドルマスター シンデレラガールズ（女神は朝焼けの海に・荒木比奈）",
+      "name": "コンボデレマス",
       "class": "アイドルマスター シンデレラガールズ",
       "auto_prev_id": null,
       "auto_prev_name": null,

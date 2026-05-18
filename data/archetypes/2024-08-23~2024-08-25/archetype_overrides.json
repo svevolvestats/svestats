@@ -1,0 +1,37 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "2372d4",
+      "rules": [
+        {
+          "required": ["スパルタクス"],
+          "name": "1コスロイヤル"
+        },
+        {
+          "required": [],
+          "name": "簒奪ロイヤル"
+        }
+      ]
+    },
+    {
+      "source": "fadfbc",
+      "rules": [
+        {
+          "required": ["ネフティス"],
+          "name": "ネフティスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+    }
+  ]
+}

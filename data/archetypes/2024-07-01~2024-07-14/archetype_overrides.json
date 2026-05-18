@@ -1,0 +1,34 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "746ba4",
+      "rules": [
+        {
+          "required": ["ネフティス"],
+          "name": "ネフティスナイトメア"
+        },
+        {
+          "required": ["フォーリンショット"],
+          "name": "天使ナイトメア"
+        },
+        {
+          "required": ["異界を統べる者"],
+          "name": "2コスナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+    }
+  ]
+}
