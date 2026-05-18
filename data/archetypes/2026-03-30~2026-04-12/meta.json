@@ -146,23 +146,6 @@
       "prev_id": "31746f"
     },
     {
-      "id": "de4faf",
-      "name": "コントロールビショップ",
-      "class": "ビショップ",
-      "count": 14,
-      "winner": 1,
-      "finalist": 1,
-      "top8_share": 0.0417,
-      "win_share": 0.0238,
-      "deck_rank": -1.5,
-      "top_cards": [
-        "テミスの審判",
-        "射殺す輝き",
-        "信仰の一撃"
-      ],
-      "prev_id": "fd6f91"
-    },
-    {
       "id": "ee67cc",
       "name": "天使ロイヤル",
       "class": "ロイヤル",
@@ -367,6 +350,40 @@
       "prev_id": "dc9bc7"
     },
     {
+      "id": "aa9c26",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 5,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0149,
+      "win_share": 0.0,
+      "deck_rank": -2.2,
+      "top_cards": [
+        "黄金の鐘",
+        "キャプチャーストリング",
+        "翼天の執行者・ウヌエル"
+      ],
+      "prev_id": "56a731"
+    },
+    {
+      "id": "bad671",
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "count": 5,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0149,
+      "win_share": 0.0238,
+      "deck_rank": 0.2,
+      "top_cards": [
+        "ベルエンジェル・リア",
+        "ダークオファリング",
+        "信仰の一撃"
+      ],
+      "prev_id": "33112d"
+    },
+    {
       "id": "feff6a",
       "name": "アグロビショップ",
       "class": "ビショップ",
@@ -382,6 +399,23 @@
         "絶望の聖女・ジャンヌ"
       ],
       "prev_id": "4165db"
+    },
+    {
+      "id": "b0ee86",
+      "name": "八獄ビショップ",
+      "class": "ビショップ",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0119,
+      "win_share": 0.0,
+      "deck_rank": -2.75,
+      "top_cards": [
+        "結盟の咎人・エルラーデ",
+        "戒律の諜報員",
+        "誓約の幹部"
+      ],
+      "prev_id": "36563e"
     },
     {
       "id": "b0ad8d",
@@ -555,7 +589,7 @@
     },
     {
       "id": "aad30e",
-      "name": "アグロドラゴン",
+      "name": "フェイスドラゴン",
       "class": "ドラゴン",
       "count": 1,
       "winner": 0,

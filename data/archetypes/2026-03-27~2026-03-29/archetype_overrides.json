@@ -1,0 +1,28 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "fd6f91",
+      "rules": [
+        {
+          "required": ["結盟の咎人・エルラーデ"],
+          "name": "八獄ビショップ"
+        },
+        {
+          "required": ["黄金の鐘"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    }
+  ]
+}

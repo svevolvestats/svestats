@@ -180,23 +180,6 @@
       "prev_id": null
     },
     {
-      "id": "fd6f91",
-      "name": "天使ビショップ",
-      "class": "ビショップ",
-      "count": 6,
-      "winner": 1,
-      "finalist": 1,
-      "top8_share": 0.0321,
-      "win_share": 0.0417,
-      "deck_rank": -0.33,
-      "top_cards": [
-        "射殺す輝き",
-        "ダークオファリング",
-        "信仰の一撃"
-      ],
-      "prev_id": null
-    },
-    {
       "id": "dc9bc7",
       "name": "魔法使いウィッチ",
       "class": "ウィッチ",
@@ -316,6 +299,23 @@
       "prev_id": "f80cfc"
     },
     {
+      "id": "56a731",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 4,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0214,
+      "win_share": 0.0417,
+      "deck_rank": 0.75,
+      "top_cards": [
+        "黄金の鐘",
+        "一角獣の祭壇",
+        "翼天の執行者・ウヌエル"
+      ],
+      "prev_id": null
+    },
+    {
       "id": "cd4ed8",
       "name": "カットスロートエルフ",
       "class": "エルフ",
@@ -334,7 +334,7 @@
     },
     {
       "id": "048878",
-      "name": "ドラゴン（いつか、また会う未来で・亀裂の盗人）",
+      "name": "八獄ドラゴン",
       "class": "ドラゴン",
       "count": 3,
       "winner": 1,
@@ -487,7 +487,7 @@
     },
     {
       "id": "dfbe55",
-      "name": "アグロビショップ2",
+      "name": "カットスロートビショップ",
       "class": "ビショップ",
       "count": 1,
       "winner": 0,
@@ -567,6 +567,40 @@
         "機鋒の咎人・カットスロート",
         "黒錆の下っ端",
         "ガンナーメイド・セリエ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "36563e",
+      "name": "八獄ビショップ",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0053,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "白牙の神殿",
+        "戒律の諜報員",
+        "清純なる祈り・エイラ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "33112d",
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0053,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "天使の恩寵",
+        "ブーストキッカー",
+        "ベルエンジェル・リア"
       ],
       "prev_id": null
     }
