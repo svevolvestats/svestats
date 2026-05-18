@@ -299,23 +299,6 @@
       "prev_id": "9f78fd"
     },
     {
-      "id": "c07de6",
-      "name": "超越ウィッチ2",
-      "class": "ウィッチ",
-      "count": 2,
-      "winner": 1,
-      "finalist": 1,
-      "top8_share": 0.0087,
-      "win_share": 0.0345,
-      "deck_rank": 4.0,
-      "top_cards": [
-        "ラピッドファイア",
-        "真理の発見",
-        "ファイアーチェイン"
-      ],
-      "prev_id": "017f8c"
-    },
-    {
       "id": "95ee64",
       "name": "自然エルフ",
       "class": "エルフ",
@@ -368,7 +351,7 @@
     },
     {
       "id": "172029",
-      "name": "超越ウィッチ1",
+      "name": "魔法使いウィッチ",
       "class": "ウィッチ",
       "count": 1,
       "winner": 0,
@@ -431,6 +414,40 @@
         "鮮血の首飾り",
         "魔剣の騎士・ハザン",
         "クラッシュデビル・デモニア"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "4b1661",
+      "name": "魔道具ウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0043,
+      "win_share": 0.0345,
+      "deck_rank": 12.0,
+      "top_cards": [
+        "ラピッドファイア",
+        "魔道具専門店",
+        "スキュア"
+      ],
+      "prev_id": "017f8c"
+    },
+    {
+      "id": "df8e9c",
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0043,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "ラピッドファイア",
+        "烈火の魔弾",
+        "陰陽の開祖・クオン"
       ],
       "prev_id": null
     }

@@ -1,0 +1,24 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "c07de6",
+      "rules": [
+        {
+          "required": ["魔道具専門店"],
+          "name": "魔道具ウィッチ"
+        },
+        {
+          "required": [],
+          "name": "超越ウィッチ"
+        }
+      ]
+    }
+  ]
+}

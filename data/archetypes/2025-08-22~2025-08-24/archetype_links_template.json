@@ -4,7 +4,7 @@
       "name": "人形エルフ",
       "class": "エルフ",
       "auto_prev_id": "5046e7",
-      "auto_prev_name": "エルフ（仲居のエルフ・化かし女将・ホズミ）",
+      "auto_prev_name": "宴楽エルフ",
       "auto_prev_sim": 0.522,
       "manual_prev_id": null
     },
@@ -80,20 +80,28 @@
       "auto_prev_sim": 0.935,
       "manual_prev_id": null
     },
-    "c07de6": {
-      "name": "超越ウィッチ2",
-      "class": "ウィッチ",
-      "auto_prev_id": "017f8c",
-      "auto_prev_name": "超越ウィッチ",
-      "auto_prev_sim": 0.506,
-      "manual_prev_id": null
-    },
     "172029": {
-      "name": "超越ウィッチ1",
+      "name": "魔法使いウィッチ",
       "class": "ウィッチ",
       "auto_prev_id": null,
       "auto_prev_name": null,
       "auto_prev_sim": 0.46,
+      "manual_prev_id": null
+    },
+    "4b1661": {
+      "name": "魔道具ウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": "017f8c",
+      "auto_prev_name": "超越ウィッチ",
+      "auto_prev_sim": 0.647,
+      "manual_prev_id": null
+    },
+    "df8e9c": {
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.236,
       "manual_prev_id": null
     },
     "5a37a0": {
