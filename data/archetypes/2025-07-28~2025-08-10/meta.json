@@ -350,23 +350,6 @@
       "prev_id": "43d02c"
     },
     {
-      "id": "f0789a",
-      "name": "侮蔑ドラゴン",
-      "class": "ドラゴン",
-      "count": 2,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0045,
-      "win_share": 0.0,
-      "deck_rank": -4.0,
-      "top_cards": [
-        "竜の託宣",
-        "迸る光明・アポロン",
-        "《世界》・ゼルガネイア"
-      ],
-      "prev_id": null
-    },
-    {
       "id": "6dc3e8",
       "name": "宴楽ナイトメア",
       "class": "ナイトメア",
@@ -518,6 +501,40 @@
         "ワンダーコック"
       ],
       "prev_id": "12feab"
+    },
+    {
+      "id": "b68080",
+      "name": "侮蔑ドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0022,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "侮蔑の信者",
+        "灯火の烈絶",
+        "ドラゴンナイト・アイラ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "2ca533",
+      "name": "ランプドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0022,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "《世界》・ゼルガネイア",
+        "独尊龍・スーロン",
+        "風を駆る者・エイファ"
+      ],
+      "prev_id": null
     }
   ]
 }

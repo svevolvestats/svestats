@@ -1,10 +1,26 @@
 {
   "_split_suggestions": {
-    "49062f": {
-      "name": "7ドラゴン",
+    "29f273": {
+      "name": "29f273",
       "class": "ドラゴン",
-      "n": 67,
+      "n": 69,
       "pairs": [
+        {
+          "xs": [
+            {
+              "name": "ブレイジングブレス",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "艶麗なる竜人・マリオン",
+              "y_ratio": 52,
+              "co_occur_pct": 0,
+              "diff_pct": -59
+            }
+          ]
+        },
         {
           "xs": [
             {
@@ -15,25 +31,9 @@
           "drops": [
             {
               "y": "ドラゴニックコール",
-              "y_ratio": 48,
+              "y_ratio": 49,
               "co_occur_pct": 0,
-              "diff_pct": -54
-            }
-          ]
-        },
-        {
-          "xs": [
-            {
-              "name": "ドラゴニュートの威圧",
-              "ratio": 31
-            }
-          ],
-          "drops": [
-            {
-              "y": "艶麗なる竜人・マリオン",
-              "y_ratio": 54,
-              "co_occur_pct": 6,
-              "diff_pct": -51
+              "diff_pct": -56
             }
           ]
         }

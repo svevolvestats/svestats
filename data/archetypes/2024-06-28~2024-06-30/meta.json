@@ -292,28 +292,11 @@
       "win_share": 0.0,
       "deck_rank": 1.5,
       "top_cards": [
+        "竜巫女の儀式",
         "光の道筋",
-        "星灯りの女神",
-        "水呼びの竜使い"
+        "星灯りの女神"
       ],
-      "prev_id": null
-    },
-    {
-      "id": "d17504",
-      "name": "ランプドラゴン",
-      "class": "ドラゴン",
-      "count": 2,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0122,
-      "win_share": 0.0,
-      "deck_rank": -3.5,
-      "top_cards": [
-        "侮蔑の狂信者",
-        "侮蔑の従者",
-        "アンネローゼ"
-      ],
-      "prev_id": "94e47b"
+      "prev_id": "ce24a0"
     },
     {
       "id": "010878",
@@ -501,6 +484,40 @@
         "天界の尖兵"
       ],
       "prev_id": "8f20f7"
+    },
+    {
+      "id": "2f5b8d",
+      "name": "侮蔑ドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0061,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "侮蔑の従者",
+        "天界の尖兵",
+        "侮蔑の使徒"
+      ],
+      "prev_id": "cfb1a0"
+    },
+    {
+      "id": "8d1814",
+      "name": "ランプドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0061,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "ジルニトラ",
+        "覇道の龍人・ガリュウ",
+        "アンネローゼ"
+      ],
+      "prev_id": "94e47b"
     }
   ]
 }

@@ -5194,7 +5194,7 @@
   "f6b606": {
     "name": "ディスカードドラゴン",
     "class": "ドラゴン",
-    "prev_id": null,
+    "prev_id": "ce24a0",
     "cards": {
       "ドラゴンの卵": {
         "avg": 3.0,
@@ -5347,195 +5347,6 @@
         "venue": "イエローサブマリン京都",
         "date": "2024-06-29",
         "pref_code": 26
-      }
-    ]
-  },
-  "d17504": {
-    "name": "ランプドラゴン",
-    "class": "ドラゴン",
-    "prev_id": "94e47b",
-    "cards": {
-      "侮蔑の狂信者": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "竜の託宣": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 3.0
-      },
-      "ダークドラグーン・フォルテ": {
-        "avg": 2.0,
-        "ratio": 1.0,
-        "rank": 0.5,
-        "avg_when_used": 2.0
-      },
-      "銀氷のドラゴニュート・フィルレイン": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "アンネローゼ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ドラゴニュートの威圧": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ジルニトラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "絆の竜剣士・アイラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "《世界》・ゼルガネイア": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "覇道の龍人・ガリュウ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "アジ・ダハーカ": {
-        "avg": 1.5,
-        "ratio": 1.0,
-        "rank": 0.333,
-        "avg_when_used": 1.5
-      },
-      "竜の炎・ジルニトラ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "《正義》・イランツァ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "侮蔑の信者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "侮蔑の炎爪": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "侮蔑の従者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "覇極": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "精霊竜姫": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "天界の尖兵": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "侮蔑の使徒": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "侮蔑の絶傑・ガルミーユ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "銀氷の吐息": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.928,
-        "avg_when_used": 2.0
-      },
-      "イスラーフィール": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.928,
-        "avg_when_used": 2.0
-      },
-      "侮蔑の嘲笑": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      },
-      "ブレイジングブレス": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      },
-      "灼熱の嵐": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 0.072,
-        "avg_when_used": 2.0
-      }
-    },
-    "decks": [
-      {
-        "event": "751743",
-        "deck_id": "3YJN5",
-        "rank": 5,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "そーどぱんち",
-        "friend_code": "YBTDT",
-        "venue": "遊ING浜町店",
-        "date": "2024-06-30",
-        "pref_code": 42
-      },
-      {
-        "event": "755544",
-        "deck_id": "4TU1P",
-        "rank": 6,
-        "tourney_size": 4,
-        "participants": 21,
-        "player": "カブ",
-        "friend_code": "ZYIWN",
-        "venue": "TSUTAYAイオンタウン郡山店",
-        "date": "2024-06-29",
-        "pref_code": 7
       }
     ]
   },
@@ -6985,6 +6796,228 @@
         "venue": "オレタン福岡天神店",
         "date": "2024-06-29",
         "pref_code": 40
+      }
+    ]
+  },
+  "2f5b8d": {
+    "name": "侮蔑ドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "cfb1a0",
+    "cards": {
+      "侮蔑の信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の炎爪": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の従者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "覇極": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "精霊竜姫": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の使徒": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の絶傑・ガルミーユ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の嘲笑": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ブレイジングブレス": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "灼熱の嵐": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "アジ・ダハーカ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      }
+    },
+    "decks": [
+      {
+        "event": "755544",
+        "deck_id": "4TU1P",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 21,
+        "player": "カブ",
+        "friend_code": "ZYIWN",
+        "venue": "TSUTAYAイオンタウン郡山店",
+        "date": "2024-06-29",
+        "pref_code": 7
+      }
+    ]
+  },
+  "8d1814": {
+    "name": "ランプドラゴン",
+    "class": "ドラゴン",
+    "prev_id": "94e47b",
+    "cards": {
+      "銀氷のドラゴニュート・フィルレイン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "アンネローゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "侮蔑の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "ジルニトラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "絆の竜剣士・アイラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "覇道の龍人・ガリュウ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "竜の炎・ジルニトラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "《正義》・イランツァ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "銀氷の吐息": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "イスラーフィール": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "アジ・ダハーカ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "751743",
+        "deck_id": "3YJN5",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "そーどぱんち",
+        "friend_code": "YBTDT",
+        "venue": "遊ING浜町店",
+        "date": "2024-06-30",
+        "pref_code": 42
       }
     ]
   }

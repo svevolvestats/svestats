@@ -231,23 +231,6 @@
       "prev_id": "69d52a"
     },
     {
-      "id": "60afce",
-      "name": "自然ドラゴン",
-      "class": "ドラゴン",
-      "count": 2,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0132,
-      "win_share": 0.0,
-      "deck_rank": -1.5,
-      "top_cards": [
-        "ダークドラグーン・フォルテ",
-        "侮蔑の絶傑・ガルミーユ",
-        "侮蔑の従者"
-      ],
-      "prev_id": "7eb9d7"
-    },
-    {
       "id": "8f20f7",
       "name": "天使ナイトメア",
       "class": "ナイトメア",
@@ -382,6 +365,40 @@
         "ファースト・ワン"
       ],
       "prev_id": "2abe51"
+    },
+    {
+      "id": "ce24a0",
+      "name": "自然ドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "竜巫女の儀式",
+        "呪われし影・ヴァイディ",
+        "旋風のプテラノドン"
+      ],
+      "prev_id": "7eb9d7"
+    },
+    {
+      "id": "cfb1a0",
+      "name": "侮蔑ドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0066,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "侮蔑の絶傑・ガルミーユ",
+        "侮蔑の従者",
+        "侮蔑の炎爪"
+      ],
+      "prev_id": "4e8db8"
     }
   ]
 }
