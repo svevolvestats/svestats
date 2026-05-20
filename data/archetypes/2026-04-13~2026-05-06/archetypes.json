@@ -7474,867 +7474,6 @@
       }
     ]
   },
-  "1f2602": {
-    "name": "ビショップ（射殺す輝き・信仰の一撃）",
-    "class": "ビショップ",
-    "prev_id": "bad671",
-    "cards": {
-      "射殺す輝き": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.304,
-        "avg_when_used": 3.0
-      },
-      "テミスの審判": {
-        "avg": 2.8947,
-        "ratio": 1.0,
-        "rank": 0.263,
-        "avg_when_used": 2.89
-      },
-      "ダークオファリング": {
-        "avg": 2.8421,
-        "ratio": 0.9474,
-        "rank": 0.3,
-        "avg_when_used": 3.0
-      },
-      "干絶の飢餓・ギルネリーゼ": {
-        "avg": 2.5789,
-        "ratio": 0.8947,
-        "rank": 0.186,
-        "avg_when_used": 2.88
-      },
-      "信仰の一撃": {
-        "avg": 2.5789,
-        "ratio": 1.0,
-        "rank": 0.172,
-        "avg_when_used": 2.58
-      },
-      "絶望の安息・マーウィン": {
-        "avg": 2.3158,
-        "ratio": 0.7895,
-        "rank": 0.244,
-        "avg_when_used": 2.93
-      },
-      "悠久の絶望": {
-        "avg": 2.2105,
-        "ratio": 0.7368,
-        "rank": 0.279,
-        "avg_when_used": 3.0
-      },
-      "烈火の魔弾": {
-        "avg": 1.7368,
-        "ratio": 0.6316,
-        "rank": 0.0,
-        "avg_when_used": 2.75
-      },
-      "《世界》・ゼルガネイア": {
-        "avg": 1.5789,
-        "ratio": 0.8947,
-        "rank": 0.076,
-        "avg_when_used": 1.76
-      },
-      "ベルエンジェル・リア": {
-        "avg": 1.5789,
-        "ratio": 0.5263,
-        "rank": 0.065,
-        "avg_when_used": 3.0
-      },
-      "一角獣の祭壇": {
-        "avg": 1.4211,
-        "ratio": 0.4737,
-        "rank": 0.548,
-        "avg_when_used": 3.0
-      },
-      "伝道の司祭・ロレーナ": {
-        "avg": 1.1579,
-        "ratio": 0.4211,
-        "rank": 0.085,
-        "avg_when_used": 2.75
-      },
-      "黄金の鐘": {
-        "avg": 1.0526,
-        "ratio": 0.3684,
-        "rank": 0.68,
-        "avg_when_used": 2.86
-      },
-      "漆黒の法典": {
-        "avg": 0.7368,
-        "ratio": 0.3158,
-        "rank": 0.11,
-        "avg_when_used": 2.33
-      },
-      "翼天の執行者・ウヌエル": {
-        "avg": 0.7368,
-        "ratio": 0.3158,
-        "rank": 0.478,
-        "avg_when_used": 2.33
-      },
-      "古き護り手": {
-        "avg": 0.6842,
-        "ratio": 0.6842,
-        "rank": 0.32,
-        "avg_when_used": 1.0
-      },
-      "神の盾・ブローディア": {
-        "avg": 0.6316,
-        "ratio": 0.3158,
-        "rank": 0.853,
-        "avg_when_used": 2.0
-      },
-      "ベルエンジェル": {
-        "avg": 0.6316,
-        "ratio": 0.2105,
-        "rank": 0.198,
-        "avg_when_used": 3.0
-      },
-      "天使の恩寵": {
-        "avg": 0.5789,
-        "ratio": 0.2632,
-        "rank": 0.312,
-        "avg_when_used": 2.2
-      },
-      "裁決のアナテマ・ロデオ": {
-        "avg": 0.5263,
-        "ratio": 0.4737,
-        "rank": 0.319,
-        "avg_when_used": 1.11
-      },
-      "飛翔の看守": {
-        "avg": 0.5263,
-        "ratio": 0.2105,
-        "rank": 0.934,
-        "avg_when_used": 2.5
-      },
-      "キャプチャーストリング": {
-        "avg": 0.5263,
-        "ratio": 0.2632,
-        "rank": 0.114,
-        "avg_when_used": 2.0
-      },
-      "封じられた法典": {
-        "avg": 0.5263,
-        "ratio": 0.2105,
-        "rank": 0.259,
-        "avg_when_used": 2.5
-      },
-      "贖罪の司祭・イリス": {
-        "avg": 0.4737,
-        "ratio": 0.2105,
-        "rank": 0.546,
-        "avg_when_used": 2.25
-      },
-      "光輝の宝珠": {
-        "avg": 0.4737,
-        "ratio": 0.3158,
-        "rank": 0.546,
-        "avg_when_used": 1.5
-      },
-      "清浄の領域": {
-        "avg": 0.4211,
-        "ratio": 0.4211,
-        "rank": 0.337,
-        "avg_when_used": 1.0
-      },
-      "その背中を越えて": {
-        "avg": 0.4211,
-        "ratio": 0.1579,
-        "rank": 0.021,
-        "avg_when_used": 2.67
-      },
-      "聖なるジャッジガベル": {
-        "avg": 0.3684,
-        "ratio": 0.2105,
-        "rank": 1.0,
-        "avg_when_used": 1.75
-      },
-      "永久の盾・シオン": {
-        "avg": 0.3158,
-        "ratio": 0.2105,
-        "rank": 0.137,
-        "avg_when_used": 1.5
-      },
-      "ムニャール登場": {
-        "avg": 0.3158,
-        "ratio": 0.1053,
-        "rank": 0.73,
-        "avg_when_used": 3.0
-      },
-      "狂信の偶像": {
-        "avg": 0.3158,
-        "ratio": 0.1579,
-        "rank": 0.522,
-        "avg_when_used": 2.0
-      },
-      "戒律の諜報員": {
-        "avg": 0.3158,
-        "ratio": 0.1053,
-        "rank": 0.153,
-        "avg_when_used": 3.0
-      },
-      "誓約の幹部": {
-        "avg": 0.3158,
-        "ratio": 0.1053,
-        "rank": 0.153,
-        "avg_when_used": 3.0
-      },
-      "結盟の咎人・エルラーデ": {
-        "avg": 0.3158,
-        "ratio": 0.1053,
-        "rank": 0.153,
-        "avg_when_used": 3.0
-      },
-      "祈りの燭台": {
-        "avg": 0.2632,
-        "ratio": 0.1053,
-        "rank": 0.918,
-        "avg_when_used": 2.5
-      },
-      "星導の天球儀": {
-        "avg": 0.1579,
-        "ratio": 0.0526,
-        "rank": 0.523,
-        "avg_when_used": 3.0
-      },
-      "天界の尖兵": {
-        "avg": 0.1579,
-        "ratio": 0.0526,
-        "rank": 0.332,
-        "avg_when_used": 3.0
-      },
-      "勇壮の堕天使・オリヴィエ": {
-        "avg": 0.1579,
-        "ratio": 0.1053,
-        "rank": 0.353,
-        "avg_when_used": 1.5
-      },
-      "宗規の構成員": {
-        "avg": 0.1579,
-        "ratio": 0.1053,
-        "rank": 0.162,
-        "avg_when_used": 1.5
-      },
-      "清純なる祈り・エイラ": {
-        "avg": 0.1579,
-        "ratio": 0.0526,
-        "rank": 0.332,
-        "avg_when_used": 3.0
-      },
-      "アーツマスター・カルラ": {
-        "avg": 0.1579,
-        "ratio": 0.0526,
-        "rank": 0.332,
-        "avg_when_used": 3.0
-      },
-      "白牙の神殿": {
-        "avg": 0.1579,
-        "ratio": 0.0526,
-        "rank": 0.332,
-        "avg_when_used": 3.0
-      },
-      "ブーストキッカー": {
-        "avg": 0.1579,
-        "ratio": 0.0526,
-        "rank": 0.013,
-        "avg_when_used": 3.0
-      },
-      "獣姫の誓約": {
-        "avg": 0.1053,
-        "ratio": 0.1053,
-        "rank": 0.612,
-        "avg_when_used": 1.0
-      },
-      "最果ての罪・サタン": {
-        "avg": 0.1053,
-        "ratio": 0.1053,
-        "rank": 0.612,
-        "avg_when_used": 1.0
-      },
-      "コンセントレイト": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.468,
-        "avg_when_used": 2.0
-      },
-      "巡礼の道": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.898,
-        "avg_when_used": 2.0
-      },
-      "粛清の英雄・メイシア": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.325,
-        "avg_when_used": 2.0
-      },
-      "戒信の六銘伝・聖士郎": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.325,
-        "avg_when_used": 2.0
-      },
-      "粛清の一刀": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.325,
-        "avg_when_used": 2.0
-      },
-      "紅蓮の凍結": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.182,
-        "avg_when_used": 2.0
-      },
-      "ネクベト": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.087,
-        "avg_when_used": 2.0
-      },
-      "帥忍部長・煤木万裁": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.325,
-        "avg_when_used": 2.0
-      },
-      "聖なる願い": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.134,
-        "avg_when_used": 2.0
-      },
-      "堕天": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.134,
-        "avg_when_used": 2.0
-      },
-      "破邪の光": {
-        "avg": 0.1053,
-        "ratio": 0.0526,
-        "rank": 0.134,
-        "avg_when_used": 2.0
-      },
-      "夢想の白兎": {
-        "avg": 0.0526,
-        "ratio": 0.0526,
-        "rank": 0.398,
-        "avg_when_used": 1.0
-      },
-      "天狐の社": {
-        "avg": 0.0526,
-        "ratio": 0.0526,
-        "rank": 0.398,
-        "avg_when_used": 1.0
-      },
-      "エイラの祈祷": {
-        "avg": 0.0526,
-        "ratio": 0.0526,
-        "rank": 0.317,
-        "avg_when_used": 1.0
-      },
-      "マチカネフクキタル": {
-        "avg": 0.0526,
-        "ratio": 0.0526,
-        "rank": 0.317,
-        "avg_when_used": 1.0
-      },
-      "砂浜の調べ・リテュエル": {
-        "avg": 0.0526,
-        "ratio": 0.0526,
-        "rank": 0.208,
-        "avg_when_used": 1.0
-      },
-      "希望の女王・リテュエル": {
-        "avg": 0.0526,
-        "ratio": 0.0526,
-        "rank": 0.208,
-        "avg_when_used": 1.0
-      }
-    },
-    "evolve_cards": {
-      "干絶の飢餓・ギルネリーゼ": {
-        "avg": 2.1579,
-        "ratio": 0.8947
-      },
-      "絶望の安息・マーウィン": {
-        "avg": 2.1053,
-        "ratio": 0.7895
-      },
-      "大いなる《世界》・ゼルガネイア": {
-        "avg": 1.1053,
-        "ratio": 0.8947
-      },
-      "伝道の司祭・ロレーナ": {
-        "avg": 0.8421,
-        "ratio": 0.4211
-      },
-      "翼天の執行者・ウヌエル": {
-        "avg": 0.7368,
-        "ratio": 0.3158
-      },
-      "神の盾・ブローディア": {
-        "avg": 0.6316,
-        "ratio": 0.3158
-      },
-      "裁決のアナテマ・ロデオ": {
-        "avg": 0.5263,
-        "ratio": 0.4737
-      },
-      "飛翔の看守": {
-        "avg": 0.3158,
-        "ratio": 0.2105
-      },
-      "ベルエンジェル": {
-        "avg": 0.2632,
-        "ratio": 0.2105
-      },
-      "狂信の偶像": {
-        "avg": 0.2632,
-        "ratio": 0.1579
-      },
-      "レリックゴッデス": {
-        "avg": 0.2105,
-        "ratio": 0.2105
-      },
-      "戒律の諜報員": {
-        "avg": 0.2105,
-        "ratio": 0.1053
-      },
-      "勇壮の堕天使・オリヴィエ": {
-        "avg": 0.1579,
-        "ratio": 0.1053
-      },
-      "天界の尖兵": {
-        "avg": 0.1053,
-        "ratio": 0.0526
-      },
-      "アーツマスター・カルラ": {
-        "avg": 0.1053,
-        "ratio": 0.0526
-      },
-      "戒信の六銘伝・聖士郎": {
-        "avg": 0.1053,
-        "ratio": 0.0526
-      },
-      "ネクベト": {
-        "avg": 0.1053,
-        "ratio": 0.0526
-      },
-      "粛清の英雄・メイシア": {
-        "avg": 0.0526,
-        "ratio": 0.0526
-      }
-    },
-    "decks": [
-      {
-        "event": "1548647",
-        "deck_id": "4GYAX",
-        "rank": 2,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "Realia",
-        "friend_code": "TOTTH",
-        "venue": "再起堂書店",
-        "date": "2026-04-29",
-        "pref_code": 20,
-        "variant_cards": [
-          {
-            "name": "夢想の白兎",
-            "flag": "in"
-          },
-          {
-            "name": "星導の天球儀",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1549160",
-        "deck_id": "4JX4T",
-        "rank": 3,
-        "tourney_size": 4,
-        "participants": 30,
-        "player": "HIRO",
-        "friend_code": "YJBNN",
-        "venue": "カードボックス広島店",
-        "date": "2026-04-26",
-        "pref_code": 34,
-        "variant_cards": [
-          {
-            "name": "天界の尖兵",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1553411",
-        "deck_id": "4ZY6F",
-        "rank": 5,
-        "tourney_size": 5,
-        "participants": 33,
-        "player": "bonanz",
-        "friend_code": "OXQDS",
-        "venue": "TSUTAYA西五反田店",
-        "date": "2026-04-20",
-        "pref_code": 13
-      },
-      {
-        "event": "1547407",
-        "deck_id": "3SCVX",
-        "rank": 1,
-        "tourney_size": 4,
-        "participants": 24,
-        "player": "モナフィ",
-        "friend_code": "KBVOI",
-        "venue": "ザウルス",
-        "date": "2026-04-19",
-        "pref_code": 26
-      },
-      {
-        "event": "1540162",
-        "deck_id": "33ELT",
-        "rank": 2,
-        "tourney_size": 3,
-        "participants": 11,
-        "player": "サトウ",
-        "friend_code": "GDQYS",
-        "venue": "遊ING浜町店",
-        "date": "2026-04-19",
-        "pref_code": 42,
-        "variant_cards": [
-          {
-            "name": "コンセントレイト",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1538292",
-        "deck_id": "4EC7R",
-        "rank": 6,
-        "tourney_size": 4,
-        "participants": 24,
-        "player": "ハヤツ",
-        "friend_code": "YCRTQ",
-        "venue": "平安堂　川中島店",
-        "date": "2026-04-19",
-        "pref_code": 20
-      },
-      {
-        "event": "1536910",
-        "deck_id": "2EYN7",
-        "rank": 1,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "ダンテ",
-        "friend_code": "LJKHC",
-        "venue": "マスターズギルド",
-        "date": "2026-04-18",
-        "pref_code": 22,
-        "variant_cards": [
-          {
-            "name": "巡礼の道",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1543592",
-        "deck_id": "13MZV",
-        "rank": 4,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "レックス",
-        "friend_code": "OQEMM",
-        "venue": "トーナメントセンターバトロコ金沢駅前",
-        "date": "2026-04-18",
-        "pref_code": 17,
-        "variant_cards": [
-          {
-            "name": "粛清の英雄・メイシア",
-            "flag": "in"
-          },
-          {
-            "name": "清純なる祈り・エイラ",
-            "flag": "in"
-          },
-          {
-            "name": "ダークオファリング",
-            "flag": "out"
-          }
-        ]
-      },
-      {
-        "event": "1537731",
-        "deck_id": "4LQE3",
-        "rank": 7,
-        "tourney_size": 4,
-        "participants": 27,
-        "player": "アネモネ",
-        "friend_code": "CFWNT",
-        "venue": "フルコンプ千葉店",
-        "date": "2026-04-18",
-        "pref_code": 12
-      },
-      {
-        "event": "1575393",
-        "deck_id": "410WV",
-        "rank": 3,
-        "tourney_size": 3,
-        "participants": 14,
-        "player": "あとらす",
-        "friend_code": "FPKWA",
-        "venue": "コミかる　伊勢崎店",
-        "date": "2026-05-06",
-        "pref_code": 10
-      },
-      {
-        "event": "1582444",
-        "deck_id": "23EZX",
-        "rank": 5,
-        "tourney_size": 5,
-        "participants": 37,
-        "player": "イケおじローウェン",
-        "friend_code": "QHTRQ",
-        "venue": "カードショップ もののふ",
-        "date": "2026-05-06",
-        "pref_code": 23
-      },
-      {
-        "event": "1595573",
-        "deck_id": "57J8Z",
-        "rank": 6,
-        "tourney_size": 3,
-        "participants": 9,
-        "player": "キオ",
-        "friend_code": "PWKLA",
-        "venue": "カードボックスイオンモール高知店",
-        "date": "2026-05-06",
-        "pref_code": 39
-      },
-      {
-        "event": "1594279",
-        "deck_id": "5BZYZ",
-        "rank": 6,
-        "tourney_size": 3,
-        "participants": 13,
-        "player": "ゆずりは",
-        "friend_code": "MNZYQ",
-        "venue": "スキップ",
-        "date": "2026-05-05",
-        "pref_code": 27,
-        "variant_cards": [
-          {
-            "name": "紅蓮の凍結",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1577824",
-        "deck_id": "1J8NR",
-        "rank": 6,
-        "tourney_size": 5,
-        "participants": 55,
-        "player": "キョウスケ",
-        "friend_code": "NVHZO",
-        "venue": "ホビーステーション千葉店",
-        "date": "2026-05-03",
-        "pref_code": 12,
-        "variant_cards": [
-          {
-            "name": "ブーストキッカー",
-            "flag": "in"
-          },
-          {
-            "name": "ネクベト",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1596470",
-        "deck_id": "37U0T",
-        "rank": 4,
-        "tourney_size": 4,
-        "participants": 32,
-        "player": "Shina",
-        "friend_code": "QQCLH",
-        "venue": "ゲームショップブリックス",
-        "date": "2026-05-02",
-        "pref_code": 27,
-        "variant_cards": [
-          {
-            "name": "帥忍部長・煤木万裁",
-            "flag": "in"
-          },
-          {
-            "name": "マチカネフクキタル",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1593191",
-        "deck_id": "4ZY6F",
-        "rank": 4,
-        "tourney_size": 5,
-        "participants": 59,
-        "player": "戊辰",
-        "friend_code": "OXQDS",
-        "venue": "フェイズ四日市店",
-        "date": "2026-05-02",
-        "pref_code": 23
-      },
-      {
-        "event": "1574513",
-        "deck_id": "35GEM",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 27,
-        "player": "HIRO",
-        "friend_code": "YJBNN",
-        "venue": "GIRAFULL 広島ドンキ店",
-        "date": "2026-05-02",
-        "pref_code": 34,
-        "variant_cards": [
-          {
-            "name": "砂浜の調べ・リテュエル",
-            "flag": "in"
-          },
-          {
-            "name": "聖なる願い",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1569393",
-        "deck_id": "3R9EV",
-        "rank": 6,
-        "tourney_size": 5,
-        "participants": 52,
-        "player": "チー",
-        "friend_code": "WDORL",
-        "venue": "カードシークレット池袋",
-        "date": "2026-05-02",
-        "pref_code": 13
-      },
-      {
-        "event": "1583467",
-        "deck_id": "V1SZ",
-        "rank": 5,
-        "tourney_size": 3,
-        "participants": 16,
-        "player": "モナフィ",
-        "friend_code": "KBVOI",
-        "venue": "GIRAFULL 京都店",
-        "date": "2026-05-01",
-        "pref_code": 26
-      }
-    ],
-    "split_pairs": [
-      {
-        "xs": [
-          {
-            "name": "光輝の宝珠",
-            "ratio": 32
-          },
-          {
-            "name": "翼天の執行者・ウヌエル",
-            "ratio": 32
-          },
-          {
-            "name": "黄金の鐘",
-            "ratio": 37
-          },
-          {
-            "name": "神の盾・ブローディア",
-            "ratio": 32
-          },
-          {
-            "name": "キャプチャーストリング",
-            "ratio": 26
-          },
-          {
-            "name": "一角獣の祭壇",
-            "ratio": 47
-          }
-        ],
-        "drops": [
-          {
-            "y": "烈火の魔弾",
-            "y_ratio": 63,
-            "co_occur_pct": 0,
-            "diff_pct": -92
-          },
-          {
-            "y": "ベルエンジェル・リア",
-            "y_ratio": 53,
-            "co_occur_pct": 0,
-            "diff_pct": -77
-          },
-          {
-            "y": "伝道の司祭・ロレーナ",
-            "y_ratio": 42,
-            "co_occur_pct": 0,
-            "diff_pct": -62
-          },
-          {
-            "y": "悠久の絶望",
-            "y_ratio": 74,
-            "co_occur_pct": 11,
-            "diff_pct": -59
-          }
-        ]
-      },
-      {
-        "xs": [
-          {
-            "name": "烈火の魔弾",
-            "ratio": 63
-          },
-          {
-            "name": "悠久の絶望",
-            "ratio": 74
-          }
-        ],
-        "drops": [
-          {
-            "y": "飛翔の看守",
-            "y_ratio": 21,
-            "co_occur_pct": 0,
-            "diff_pct": -57
-          },
-          {
-            "y": "贖罪の司祭・イリス",
-            "y_ratio": 21,
-            "co_occur_pct": 0,
-            "diff_pct": -57
-          },
-          {
-            "y": "聖なるジャッジガベル",
-            "y_ratio": 21,
-            "co_occur_pct": 0,
-            "diff_pct": -57
-          },
-          {
-            "y": "封じられた法典",
-            "y_ratio": 21,
-            "co_occur_pct": 0,
-            "diff_pct": -57
-          },
-          {
-            "y": "狂信の偶像",
-            "y_ratio": 16,
-            "co_occur_pct": 0,
-            "diff_pct": -60
-          }
-        ]
-      }
-    ]
-  },
   "c8e429": {
     "name": "八獄ウィッチ",
     "class": "ウィッチ",
@@ -11735,6 +10874,417 @@
       }
     ]
   },
+  "9c9070": {
+    "name": "コントロールビショップ",
+    "class": "ビショップ",
+    "prev_id": "bad671",
+    "cards": {
+      "ダークオファリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "悠久の絶望": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "射殺す輝き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "信仰の一撃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "テミスの審判": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.0
+      },
+      "ベルエンジェル・リア": {
+        "avg": 2.7,
+        "ratio": 0.9,
+        "rank": 0.546,
+        "avg_when_used": 3.0
+      },
+      "烈火の魔弾": {
+        "avg": 2.7,
+        "ratio": 1.0,
+        "rank": 0.298,
+        "avg_when_used": 2.7
+      },
+      "伝道の司祭・ロレーナ": {
+        "avg": 2.2,
+        "ratio": 0.8,
+        "rank": 0.472,
+        "avg_when_used": 2.75
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.39,
+        "avg_when_used": 2.0
+      },
+      "漆黒の法典": {
+        "avg": 1.4,
+        "ratio": 0.6,
+        "rank": 0.473,
+        "avg_when_used": 2.33
+      },
+      "ベルエンジェル": {
+        "avg": 1.2,
+        "ratio": 0.4,
+        "rank": 0.655,
+        "avg_when_used": 3.0
+      },
+      "天使の恩寵": {
+        "avg": 1.1,
+        "ratio": 0.5,
+        "rank": 0.907,
+        "avg_when_used": 2.2
+      },
+      "古き護り手": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 1.0
+      },
+      "裁決のアナテマ・ロデオ": {
+        "avg": 0.7,
+        "ratio": 0.6,
+        "rank": 0.297,
+        "avg_when_used": 1.17
+      },
+      "清浄の領域": {
+        "avg": 0.6,
+        "ratio": 0.6,
+        "rank": 0.399,
+        "avg_when_used": 1.0
+      },
+      "永久の盾・シオン": {
+        "avg": 0.6,
+        "ratio": 0.4,
+        "rank": 0.399,
+        "avg_when_used": 1.5
+      },
+      "一角獣の祭壇": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 0.325,
+        "avg_when_used": 3.0
+      },
+      "天界の尖兵": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.74,
+        "avg_when_used": 3.0
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.3,
+        "ratio": 0.2,
+        "rank": 0.789,
+        "avg_when_used": 1.5
+      },
+      "ブーストキッカー": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "コンセントレイト": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 1.0,
+        "avg_when_used": 2.0
+      },
+      "紅蓮の凍結": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.337,
+        "avg_when_used": 2.0
+      },
+      "ネクベト": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.116,
+        "avg_when_used": 2.0
+      },
+      "帥忍部長・煤木万裁": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.668,
+        "avg_when_used": 2.0
+      },
+      "聖なる願い": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.226,
+        "avg_when_used": 2.0
+      },
+      "堕天": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.226,
+        "avg_when_used": 2.0
+      },
+      "破邪の光": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.226,
+        "avg_when_used": 2.0
+      },
+      "マチカネフクキタル": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.578,
+        "avg_when_used": 1.0
+      },
+      "砂浜の調べ・リテュエル": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.326,
+        "avg_when_used": 1.0
+      },
+      "希望の女王・リテュエル": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.326,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "絶望の安息・マーウィン": {
+        "avg": 2.8,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.6,
+        "ratio": 1.0
+      },
+      "伝道の司祭・ロレーナ": {
+        "avg": 1.6,
+        "ratio": 0.8
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 1.1,
+        "ratio": 1.0
+      },
+      "裁決のアナテマ・ロデオ": {
+        "avg": 0.7,
+        "ratio": 0.6
+      },
+      "ベルエンジェル": {
+        "avg": 0.5,
+        "ratio": 0.4
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.3,
+        "ratio": 0.2
+      },
+      "天界の尖兵": {
+        "avg": 0.2,
+        "ratio": 0.1
+      },
+      "ネクベト": {
+        "avg": 0.2,
+        "ratio": 0.1
+      }
+    },
+    "decks": [
+      {
+        "event": "1549160",
+        "deck_id": "4JX4T",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "HIRO",
+        "friend_code": "YJBNN",
+        "venue": "カードボックス広島店",
+        "date": "2026-04-26",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "天界の尖兵",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1553411",
+        "deck_id": "4ZY6F",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "bonanz",
+        "friend_code": "OXQDS",
+        "venue": "TSUTAYA西五反田店",
+        "date": "2026-04-20",
+        "pref_code": 13
+      },
+      {
+        "event": "1540162",
+        "deck_id": "33ELT",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 11,
+        "player": "サトウ",
+        "friend_code": "GDQYS",
+        "venue": "遊ING浜町店",
+        "date": "2026-04-19",
+        "pref_code": 42,
+        "variant_cards": [
+          {
+            "name": "コンセントレイト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1575393",
+        "deck_id": "410WV",
+        "rank": 3,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "あとらす",
+        "friend_code": "FPKWA",
+        "venue": "コミかる　伊勢崎店",
+        "date": "2026-05-06",
+        "pref_code": 10
+      },
+      {
+        "event": "1582444",
+        "deck_id": "23EZX",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 37,
+        "player": "イケおじローウェン",
+        "friend_code": "QHTRQ",
+        "venue": "カードショップ もののふ",
+        "date": "2026-05-06",
+        "pref_code": 23
+      },
+      {
+        "event": "1594279",
+        "deck_id": "5BZYZ",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "ゆずりは",
+        "friend_code": "MNZYQ",
+        "venue": "スキップ",
+        "date": "2026-05-05",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "紅蓮の凍結",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1577824",
+        "deck_id": "1J8NR",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 55,
+        "player": "キョウスケ",
+        "friend_code": "NVHZO",
+        "venue": "ホビーステーション千葉店",
+        "date": "2026-05-03",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "ブーストキッカー",
+            "flag": "in"
+          },
+          {
+            "name": "ネクベト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1596470",
+        "deck_id": "37U0T",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Shina",
+        "friend_code": "QQCLH",
+        "venue": "ゲームショップブリックス",
+        "date": "2026-05-02",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "帥忍部長・煤木万裁",
+            "flag": "in"
+          },
+          {
+            "name": "マチカネフクキタル",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1593191",
+        "deck_id": "4ZY6F",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 59,
+        "player": "戊辰",
+        "friend_code": "OXQDS",
+        "venue": "フェイズ四日市店",
+        "date": "2026-05-02",
+        "pref_code": 23
+      },
+      {
+        "event": "1574513",
+        "deck_id": "35GEM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "HIRO",
+        "friend_code": "YJBNN",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "date": "2026-05-02",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "砂浜の調べ・リテュエル",
+            "flag": "in"
+          },
+          {
+            "name": "聖なる願い",
+            "flag": "in"
+          },
+          {
+            "name": "ベルエンジェル・リア",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
   "8dc5c3": {
     "name": "透京エルフ",
     "class": "エルフ",
@@ -12679,6 +12229,339 @@
             "flag": "in"
           }
         ]
+      }
+    ]
+  },
+  "ec1025": {
+    "name": "アミュレットビショップ",
+    "class": "ビショップ",
+    "prev_id": null,
+    "cards": {
+      "ダークオファリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.52,
+        "avg_when_used": 3.0
+      },
+      "一角獣の祭壇": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.52,
+        "avg_when_used": 3.0
+      },
+      "射殺す輝き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.52,
+        "avg_when_used": 3.0
+      },
+      "黄金の鐘": {
+        "avg": 2.8571,
+        "ratio": 1.0,
+        "rank": 0.514,
+        "avg_when_used": 2.86
+      },
+      "テミスの審判": {
+        "avg": 2.7143,
+        "ratio": 1.0,
+        "rank": 0.468,
+        "avg_when_used": 2.71
+      },
+      "信仰の一撃": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.357,
+        "avg_when_used": 2.0
+      },
+      "翼天の執行者・ウヌエル": {
+        "avg": 2.0,
+        "ratio": 0.8571,
+        "rank": 0.366,
+        "avg_when_used": 2.33
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.8571,
+        "ratio": 0.7143,
+        "rank": 0.404,
+        "avg_when_used": 2.6
+      },
+      "神の盾・ブローディア": {
+        "avg": 1.7143,
+        "ratio": 0.8571,
+        "rank": 0.715,
+        "avg_when_used": 2.0
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 1.5714,
+        "ratio": 0.5714,
+        "rank": 0.637,
+        "avg_when_used": 2.75
+      },
+      "飛翔の看守": {
+        "avg": 1.4286,
+        "ratio": 0.5714,
+        "rank": 0.81,
+        "avg_when_used": 2.5
+      },
+      "キャプチャーストリング": {
+        "avg": 1.4286,
+        "ratio": 0.7143,
+        "rank": 0.068,
+        "avg_when_used": 2.0
+      },
+      "封じられた法典": {
+        "avg": 1.4286,
+        "ratio": 0.5714,
+        "rank": 0.199,
+        "avg_when_used": 2.5
+      },
+      "悠久の絶望": {
+        "avg": 1.2857,
+        "ratio": 0.4286,
+        "rank": 0.822,
+        "avg_when_used": 3.0
+      },
+      "贖罪の司祭・イリス": {
+        "avg": 1.2857,
+        "ratio": 0.5714,
+        "rank": 0.47,
+        "avg_when_used": 2.25
+      },
+      "光輝の宝珠": {
+        "avg": 1.2857,
+        "ratio": 0.8571,
+        "rank": 0.47,
+        "avg_when_used": 1.5
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 1.1429,
+        "ratio": 0.8571,
+        "rank": 0.24,
+        "avg_when_used": 1.33
+      },
+      "その背中を越えて": {
+        "avg": 1.1429,
+        "ratio": 0.4286,
+        "rank": 0.0,
+        "avg_when_used": 2.67
+      },
+      "聖なるジャッジガベル": {
+        "avg": 1.0,
+        "ratio": 0.5714,
+        "rank": 0.919,
+        "avg_when_used": 1.75
+      },
+      "ムニャール登場": {
+        "avg": 0.8571,
+        "ratio": 0.2857,
+        "rank": 0.689,
+        "avg_when_used": 3.0
+      },
+      "狂信の偶像": {
+        "avg": 0.8571,
+        "ratio": 0.4286,
+        "rank": 0.493,
+        "avg_when_used": 2.0
+      },
+      "祈りの燭台": {
+        "avg": 0.7143,
+        "ratio": 0.2857,
+        "rank": 0.892,
+        "avg_when_used": 2.5
+      },
+      "星導の天球儀": {
+        "avg": 0.4286,
+        "ratio": 0.1429,
+        "rank": 0.576,
+        "avg_when_used": 3.0
+      },
+      "古き護り手": {
+        "avg": 0.4286,
+        "ratio": 0.4286,
+        "rank": 0.702,
+        "avg_when_used": 1.0
+      },
+      "裁決のアナテマ・ロデオ": {
+        "avg": 0.4286,
+        "ratio": 0.4286,
+        "rank": 0.702,
+        "avg_when_used": 1.0
+      },
+      "獣姫の誓約": {
+        "avg": 0.2857,
+        "ratio": 0.2857,
+        "rank": 0.709,
+        "avg_when_used": 1.0
+      },
+      "清浄の領域": {
+        "avg": 0.2857,
+        "ratio": 0.2857,
+        "rank": 0.709,
+        "avg_when_used": 1.0
+      },
+      "最果ての罪・サタン": {
+        "avg": 0.2857,
+        "ratio": 0.2857,
+        "rank": 0.709,
+        "avg_when_used": 1.0
+      },
+      "巡礼の道": {
+        "avg": 0.2857,
+        "ratio": 0.1429,
+        "rank": 1.0,
+        "avg_when_used": 2.0
+      },
+      "夢想の白兎": {
+        "avg": 0.1429,
+        "ratio": 0.1429,
+        "rank": 0.547,
+        "avg_when_used": 1.0
+      },
+      "天狐の社": {
+        "avg": 0.1429,
+        "ratio": 0.1429,
+        "rank": 0.547,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "翼天の執行者・ウヌエル": {
+        "avg": 2.0,
+        "ratio": 0.8571
+      },
+      "神の盾・ブローディア": {
+        "avg": 1.7143,
+        "ratio": 0.8571
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.2857,
+        "ratio": 0.7143
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 1.2857,
+        "ratio": 0.5714
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 1.1429,
+        "ratio": 0.8571
+      },
+      "飛翔の看守": {
+        "avg": 0.8571,
+        "ratio": 0.5714
+      },
+      "狂信の偶像": {
+        "avg": 0.7143,
+        "ratio": 0.4286
+      },
+      "レリックゴッデス": {
+        "avg": 0.5714,
+        "ratio": 0.5714
+      },
+      "裁決のアナテマ・ロデオ": {
+        "avg": 0.4286,
+        "ratio": 0.4286
+      }
+    },
+    "decks": [
+      {
+        "event": "1548647",
+        "deck_id": "4GYAX",
+        "rank": 2,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "Realia",
+        "friend_code": "TOTTH",
+        "venue": "再起堂書店",
+        "date": "2026-04-29",
+        "pref_code": 20,
+        "variant_cards": [
+          {
+            "name": "夢想の白兎",
+            "flag": "in"
+          },
+          {
+            "name": "星導の天球儀",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1547407",
+        "deck_id": "3SCVX",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "モナフィ",
+        "friend_code": "KBVOI",
+        "venue": "ザウルス",
+        "date": "2026-04-19",
+        "pref_code": 26
+      },
+      {
+        "event": "1538292",
+        "deck_id": "4EC7R",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "ハヤツ",
+        "friend_code": "YCRTQ",
+        "venue": "平安堂　川中島店",
+        "date": "2026-04-19",
+        "pref_code": 20
+      },
+      {
+        "event": "1536910",
+        "deck_id": "2EYN7",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ダンテ",
+        "friend_code": "LJKHC",
+        "venue": "マスターズギルド",
+        "date": "2026-04-18",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "巡礼の道",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1595573",
+        "deck_id": "57J8Z",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 9,
+        "player": "キオ",
+        "friend_code": "PWKLA",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2026-05-06",
+        "pref_code": 39
+      },
+      {
+        "event": "1569393",
+        "deck_id": "3R9EV",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 52,
+        "player": "チー",
+        "friend_code": "WDORL",
+        "venue": "カードシークレット池袋",
+        "date": "2026-05-02",
+        "pref_code": 13
+      },
+      {
+        "event": "1583467",
+        "deck_id": "V1SZ",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 16,
+        "player": "モナフィ",
+        "friend_code": "KBVOI",
+        "venue": "GIRAFULL 京都店",
+        "date": "2026-05-01",
+        "pref_code": 26
       }
     ]
   },
@@ -17232,6 +17115,195 @@
         "venue": "こども楽園",
         "date": "2026-05-05",
         "pref_code": 21
+      }
+    ]
+  },
+  "fe0e7c": {
+    "name": "八獄ビショップ",
+    "class": "ビショップ",
+    "prev_id": null,
+    "cards": {
+      "戒律の諜報員": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "射殺す輝き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "烈火の魔弾": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "誓約の幹部": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "テミスの審判": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "結盟の咎人・エルラーデ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "信仰の一撃": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.382,
+        "avg_when_used": 2.5
+      },
+      "宗規の構成員": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.333,
+        "avg_when_used": 1.5
+      },
+      "清純なる祈り・エイラ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "アーツマスター・カルラ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "白牙の神殿": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "ベルエンジェル・リア": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "ダークオファリング": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "悠久の絶望": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "粛清の英雄・メイシア": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.919,
+        "avg_when_used": 2.0
+      },
+      "戒信の六銘伝・聖士郎": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.919,
+        "avg_when_used": 2.0
+      },
+      "粛清の一刀": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.919,
+        "avg_when_used": 2.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.081,
+        "avg_when_used": 2.0
+      },
+      "エイラの祈祷": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.781,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "戒律の諜報員": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "絶望の安息・マーウィン": {
+        "avg": 1.5,
+        "ratio": 0.5
+      },
+      "アーツマスター・カルラ": {
+        "avg": 1.0,
+        "ratio": 0.5
+      },
+      "戒信の六銘伝・聖士郎": {
+        "avg": 1.0,
+        "ratio": 0.5
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 0.5
+      },
+      "粛清の英雄・メイシア": {
+        "avg": 0.5,
+        "ratio": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1543592",
+        "deck_id": "13MZV",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "レックス",
+        "friend_code": "OQEMM",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "date": "2026-04-18",
+        "pref_code": 17
+      },
+      {
+        "event": "1537731",
+        "deck_id": "4LQE3",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "アネモネ",
+        "friend_code": "CFWNT",
+        "venue": "フルコンプ千葉店",
+        "date": "2026-04-18",
+        "pref_code": 12
       }
     ]
   },
