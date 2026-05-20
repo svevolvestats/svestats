@@ -25188,7 +25188,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 380
+    "min_price": 680
   },
   {
     "oracle_id": "BP05-057",
@@ -39232,7 +39232,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "irua",
     "legal_status": null,
-    "min_price": 4480
+    "min_price": 680
   },
   {
     "oracle_id": "BP08-038",
@@ -48449,7 +48449,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "ツネくん",
     "legal_status": null,
-    "min_price": 380
+    "min_price": 480
   },
   {
     "oracle_id": "BP10-021",
@@ -48491,7 +48491,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "N.A",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 180
   },
   {
     "oracle_id": "BP10-022",
@@ -72457,7 +72457,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "藤木ゆう",
     "legal_status": null,
-    "min_price": 180
+    "min_price": 1180
   },
   {
     "oracle_id": "BP15-002",
@@ -94350,13 +94350,13 @@
       "BP05-T03"
     ],
     "mentions_by_name_contains": [
+      "BP08-004",
+      "BP08-005",
+      "BP19-004",
       "BP08-002",
       "BP08-003",
       "BP08-LD01",
-      "BP16-003",
-      "BP08-004",
-      "BP08-005",
-      "BP19-004"
+      "BP16-003"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -96427,7 +96427,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "久方綜司",
     "legal_status": null,
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "BP19-060",
@@ -97713,7 +97713,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "久方綜司",
     "legal_status": null,
-    "min_price": 880
+    "min_price": 980
   },
   {
     "oracle_id": "BP19-093",
@@ -99769,7 +99769,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "LQH",
     "legal_status": null,
-    "min_price": 30
+    "min_price": 50
   },
   {
     "oracle_id": "SD02-013",
@@ -108180,16 +108180,16 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-023",
-      "CP02-024",
-      "CSD02A-001",
-      "CSD02A-LD01",
-      "ECP02-015",
       "CP02-022",
       "CSD02C-001",
       "CSD02C-LD01",
       "ECP02-013",
-      "ECP02-014"
+      "ECP02-014",
+      "CP02-023",
+      "CP02-024",
+      "CSD02A-001",
+      "CSD02A-LD01",
+      "ECP02-015"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -108229,15 +108229,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012",
       "CP02-023",
       "CP02-024",
       "CSD02A-001",
       "CSD02A-LD01",
-      "ECP02-015",
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012"
+      "ECP02-015"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -108320,15 +108320,15 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-021",
-      "CSD02B-001",
-      "CSD02B-LD01",
-      "ECP02-012",
       "CP02-022",
       "CSD02C-001",
       "CSD02C-LD01",
       "ECP02-013",
-      "ECP02-014"
+      "ECP02-014",
+      "CP02-021",
+      "CSD02B-001",
+      "CSD02B-LD01",
+      "ECP02-012"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -125800,7 +125800,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 180
+    "min_price": 1780
   },
   {
     "oracle_id": "ECP01-005",
@@ -128042,7 +128042,7 @@
     ],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 2780
+    "min_price": 3280
   },
   {
     "oracle_id": "ECP02-005",
@@ -129305,10 +129305,10 @@
       "CP02-037",
       "CP02-T01",
       "ECP02-034",
-      "ECP02-027",
-      "CP02-044",
       "CP02-038",
-      "ECP02-026"
+      "ECP02-026",
+      "CP02-044",
+      "ECP02-027"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -131965,7 +131965,7 @@
     "mentions_by_name_contains": [],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 580
+    "min_price": 380
   },
   {
     "oracle_id": "PCS01-049",
@@ -137064,11 +137064,19 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "BP05-001",
-      "BP05-002",
-      "BP10-LD01",
-      "BP15-001",
-      "BP20-001",
+      "BP05-052",
+      "BP05-053",
+      "BP10-LD05",
+      "BP15-057",
+      "BP20-056",
+      "BP20-T05",
+      "BP05-070",
+      "BP05-071",
+      "BP10-LD07",
+      "BP15-078",
+      "BP15-T04",
+      "BP20-074",
+      "BP20-075",
       "BP05-035",
       "BP05-036",
       "BP10-LD03",
@@ -137079,29 +137087,12 @@
       "BP10-LD06",
       "BP15-076",
       "BP15-077",
-      "BP20-074",
-      "BP20-075",
-      "BP05-052",
-      "BP05-053",
-      "BP10-LD05",
-      "BP15-057",
-      "BP20-056",
-      "BP20-T05",
-      "BP05-105",
-      "BP15-113",
-      "BP15-114",
-      "BP20-113",
-      "BP05-037",
-      "BP10-LD04",
-      "BP15-039",
-      "BP15-040",
-      "BP20-037",
-      "BP05-103",
-      "BP05-104",
-      "BP15-112",
-      "BP20-111",
-      "BP20-112",
-      "BP20-T11",
+      "BP05-018",
+      "BP05-019",
+      "BP10-LD02",
+      "BP15-020",
+      "BP20-019",
+      "BP20-T02",
       "BP05-086",
       "BP05-087",
       "BP10-LD08",
@@ -137109,17 +137100,26 @@
       "BP15-095",
       "BP20-093",
       "BP20-T07",
-      "BP05-018",
-      "BP05-019",
-      "BP10-LD02",
-      "BP15-020",
-      "BP20-019",
-      "BP20-T02",
-      "BP05-070",
-      "BP05-071",
-      "BP10-LD07",
-      "BP15-078",
-      "BP15-T04"
+      "BP05-105",
+      "BP15-113",
+      "BP15-114",
+      "BP20-113",
+      "BP05-103",
+      "BP05-104",
+      "BP15-112",
+      "BP20-111",
+      "BP20-112",
+      "BP20-T11",
+      "BP05-001",
+      "BP05-002",
+      "BP10-LD01",
+      "BP15-001",
+      "BP20-001",
+      "BP05-037",
+      "BP10-LD04",
+      "BP15-039",
+      "BP15-040",
+      "BP20-037"
     ],
     "illustrator": "SEMSEI",
     "legal_status": null,
