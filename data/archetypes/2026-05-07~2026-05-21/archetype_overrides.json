@@ -1,0 +1,41 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": ["9e4c30", "720bbc"],
+      "name": "スペルプリコネ"
+    }
+  ],
+  "splits": [
+    {
+      "source": "f08562",
+      "rules": [
+        {
+          "required": ["グランドナイト・ウィルバート"],
+          "name": "守護ビショップ"
+        },
+        {
+          "required": [],
+          "name": "アグロビショップ"
+        }
+      ]
+    },
+    {
+      "source": "5dc12a",
+      "rules": [
+        {
+          "required": ["結盟の咎人・エルラーデ"],
+          "name": "八獄ビショップ"
+        },
+        {
+          "required": ["黄金の鐘"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    }
+  ]
+}
