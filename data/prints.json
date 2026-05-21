@@ -83442,7 +83442,7 @@
         "date": "2026-05-21"
       }
     },
-    "mercard_id": 6963
+    "mercard_id": 6961
   },
   {
     "cardno": "BP12-T08",
@@ -83500,7 +83500,15 @@
     "text": "【必殺】",
     "illustrator": "Budi",
     "oracle_id": "BP04-T01",
-    "release_date": "2024-10-18"
+    "release_date": "2024-10-18",
+    "prices": {
+      "mercard": {
+        "price": 30,
+        "sold_out": false,
+        "date": "2026-05-21"
+      }
+    },
+    "mercard_id": 6963
   },
   {
     "cardno": "BP12-T10",
@@ -207152,7 +207160,15 @@
     "text": "【守護】（これが場に出たときか、自分のエンドフェイズにこれをアクトできる。相手は、アクト状態の【守護】を持つフォロワー以外を攻撃できない）\n【ファンファーレ】自分のデッキから元のコスト2以下の武闘竜人・フォロワーをカード名が異なるように2枚まで探し、場に出す。",
     "illustrator": "皆葉英夫（CyDesignation）",
     "oracle_id": "DSD01b-006",
-    "release_date": "2024-04-19"
+    "release_date": "2024-04-19",
+    "prices": {
+      "mercard": {
+        "price": 120,
+        "sold_out": false,
+        "date": "2026-05-21"
+      }
+    },
+    "mercard_id": 3946
   },
   {
     "cardno": "DSD01b-P02",
@@ -207284,7 +207300,7 @@
         "date": "2026-05-21"
       }
     },
-    "mercard_id": 3946
+    "mercard_id": 3945
   },
   {
     "cardno": "DSD01b-P06",
@@ -212247,7 +212263,7 @@
         "date": "2026-05-21"
       }
     },
-    "mercard_id": 3732
+    "mercard_id": 3730
   },
   {
     "cardno": "SP01-T02",
@@ -212305,7 +212321,15 @@
     "text": "これが場を離れたとき、1枚引く。自分の手札1枚を捨てる。\n【起動】コスト1：これを墓場に置く。",
     "illustrator": "モノクロ",
     "oracle_id": "BP07-T03",
-    "release_date": "2024-09-27"
+    "release_date": "2024-09-27",
+    "prices": {
+      "mercard": {
+        "price": 180,
+        "sold_out": true,
+        "date": "2026-05-21"
+      }
+    },
+    "mercard_id": 3732
   },
   {
     "cardno": "SP01-U01",
@@ -227296,7 +227320,15 @@
     "text": "【進化】コスト1：これは進化する。\n【食事】コスト1：これは出走する。\n【ファンファーレ】自分のデッキの上1枚を見る。その中から、ウマ娘・カード1枚を公開して手札に加えてよい。",
     "illustrator": "PEPPY",
     "oracle_id": "CP01-040",
-    "release_date": null
+    "release_date": null,
+    "prices": {
+      "mercard": {
+        "price": 79800,
+        "sold_out": true,
+        "date": "2026-05-21"
+      }
+    },
+    "mercard_id": 7516
   },
   {
     "cardno": "PR-351",
@@ -227635,12 +227667,12 @@
     "release_date": null,
     "prices": {
       "mercard": {
-        "price": 74800,
+        "price": 4980,
         "sold_out": true,
         "date": "2026-05-21"
       }
     },
-    "mercard_id": 7516
+    "mercard_id": 4387
   },
   {
     "cardno": "PR-361",
