@@ -7123,7 +7123,6 @@
       "BP01-010",
       "BP02-016",
       "BP04-008",
-      "BP04-009",
       "BP06-007",
       "BP07-003",
       "BP08-013",
@@ -7856,13 +7855,10 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [
       "BP02-069",
-      "BP02-070",
       "BP02-076",
-      "BP02-077",
       "BP02-078",
       "BP02-079",
       "BP02-081",
-      "BP02-082",
       "BP06-083",
       "BP06-087",
       "BP09-069",
@@ -11198,7 +11194,9 @@
     "oracle_id": "BP02-069",
     "is_dual_face": false,
     "name": "吸血姫・ヴァンピィ",
-    "alt_names": [],
+    "alt_names": [
+      "ラプラスの魔 ラプラス・ダークネス"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー"
@@ -11219,7 +11217,9 @@
     "canonical_print": "BP02-069",
     "prints": [
       "BP02-069",
+      "BP02-070",
       "BP02-SL13",
+      "BP02-SP01",
       "BP02-U05"
     ],
     "evolves_to": [],
@@ -11238,49 +11238,6 @@
       "BP18-084"
     ],
     "illustrator": "まよこ",
-    "legal_status": null,
-    "min_price": 280
-  },
-  {
-    "oracle_id": "BP02-070",
-    "is_dual_face": false,
-    "name": "ラプラスの魔 ラプラス・ダークネス",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "吸血鬼",
-      "プリンセス"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": 2,
-    "hp": 2,
-    "text": "【ファンファーレ】これは攻撃力+X/体力+Xする。Xは「自分の場の『フォレストバット』の数」である。\n【起動】コスト1『フォレストバット』1体を墓場に置く：相手のフォロワー1体を選ぶ。それに3ダメージ。それのリーダーに1ダメージ。",
-    "keywords": [
-      "ファンファーレ",
-      "起動"
-    ],
-    "canonical_print": "BP02-070",
-    "prints": [
-      "BP02-070",
-      "BP02-SP01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP01-T15"
-    ],
-    "mentions_tokens": [
-      "BP01-T15"
-    ],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 80
   },
@@ -11491,7 +11448,9 @@
     "oracle_id": "BP02-076",
     "is_dual_face": false,
     "name": "吸血鬼の古城",
-    "alt_names": [],
+    "alt_names": [
+      "ラプラトン星"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "アミュレット"
@@ -11510,47 +11469,7 @@
     ],
     "canonical_print": "BP02-076",
     "prints": [
-      "BP02-076"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP01-T15"
-    ],
-    "mentions_tokens": [
-      "BP01-T15"
-    ],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "石山裕之",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP02-077",
-    "is_dual_face": false,
-    "name": "ラプラトン星",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "アミュレット"
-    ],
-    "tribe": [
-      "吸血鬼"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、吸血鬼・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】コスト1これをアクト墓場に置く：『フォレストバット』1体を出す。",
-    "keywords": [
-      "ファンファーレ",
-      "起動"
-    ],
-    "canonical_print": "BP02-077",
-    "prints": [
+      "BP02-076",
       "BP02-077"
     ],
     "evolves_to": [],
@@ -11565,7 +11484,7 @@
     ],
     "mentions_by_name_contains": [],
     "mentioned_from": [],
-    "illustrator": "",
+    "illustrator": "石山裕之",
     "legal_status": null,
     "min_price": 50
   },
@@ -11706,7 +11625,9 @@
     "oracle_id": "BP02-081",
     "is_dual_face": false,
     "name": "貴き血牙",
-    "alt_names": [],
+    "alt_names": [
+      "Yes My Dark"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "スペル"
@@ -11722,44 +11643,7 @@
     "keywords": [],
     "canonical_print": "BP02-081",
     "prints": [
-      "BP02-081"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP01-T15"
-    ],
-    "mentions_tokens": [
-      "BP01-T15"
-    ],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "SEMSEI",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP02-082",
-    "is_dual_face": false,
-    "name": "Yes My Dark",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "吸血鬼"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "下記から1つチョイスする。【1】『フォレストバット』を「相手の場のカードの枚数」と同じだけ出す。【2】自分の『フォレストバット』すべては攻撃力+1/体力+1する。",
-    "keywords": [],
-    "canonical_print": "BP02-082",
-    "prints": [
+      "BP02-081",
       "BP02-082"
     ],
     "evolves_to": [],
@@ -11774,7 +11658,7 @@
     ],
     "mentions_by_name_contains": [],
     "mentioned_from": [],
-    "illustrator": "",
+    "illustrator": "SEMSEI",
     "legal_status": null,
     "min_price": 50
   },
@@ -12938,7 +12822,9 @@
     "oracle_id": "BP02-112",
     "is_dual_face": false,
     "name": "烈火の魔弾",
-    "alt_names": [],
+    "alt_names": [
+      "スパークルアサルト"
+    ],
     "class": "ニュートラル",
     "card_type": [
       "スペル"
@@ -12957,7 +12843,8 @@
     "canonical_print": "BP02-112",
     "prints": [
       "BP02-112",
-      "PR-047"
+      "PR-047",
+      "PR-406"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -14436,7 +14323,9 @@
     "oracle_id": "BP03-018",
     "is_dual_face": false,
     "name": "シンデレラ",
-    "alt_names": [],
+    "alt_names": [
+      "目指せお嬢様・サロメ"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -14458,7 +14347,9 @@
     "canonical_print": "BP03-018",
     "prints": [
       "BP03-018",
+      "BP03-019",
       "BP03-SL04",
+      "BP03-SP01",
       "BP03-U02"
     ],
     "evolves_to": [],
@@ -14470,46 +14361,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "LM7",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP03-019",
-    "is_dual_face": false,
-    "name": "目指せお嬢様・サロメ",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "プリンセス",
-      "童話"
-    ],
-    "title": null,
-    "cost": 7,
-    "atk": 5,
-    "hp": 5,
-    "text": "【疾走】\n【攻撃時】これの童話カウンター1つを取る：自分のデッキの上4枚を見る。その中から、コスト5以下のフォロワー1枚を場に出してよい。残りを墓場に置く。\n【ファンファーレ】自分の場に他の童話・フォロワーがいるなら、これに童話カウンター1つを置く。",
-    "keywords": [
-      "ファンファーレ",
-      "疾走",
-      "攻撃時"
-    ],
-    "canonical_print": "BP03-019",
-    "prints": [
-      "BP03-019",
-      "BP03-SP01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 50
   },
@@ -14721,7 +14572,9 @@
     "oracle_id": "BP03-025",
     "is_dual_face": false,
     "name": "天空城",
-    "alt_names": [],
+    "alt_names": [
+      "お天空城"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "アミュレット"
@@ -14741,44 +14594,7 @@
     ],
     "canonical_print": "BP03-025",
     "prints": [
-      "BP03-025"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "石山裕之",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP03-026",
-    "is_dual_face": false,
-    "name": "お天空城",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "アミュレット"
-    ],
-    "tribe": [
-      "指揮官"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "【ファンファーレ】自分のデッキから【疾走】を持つフォロワー1枚を探し、手札に加える。\n【起動】これをアクト墓場に置く：【疾走】を持つ自分のフォロワー1体を選ぶ。それは攻撃力+1する。\n【起動】コスト10これをアクト墓場に置く：自分の手札の【疾走】を持つフォロワーを好きな枚数場に出してよい。それは攻撃力+2/体力+2する。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "疾走"
-    ],
-    "canonical_print": "BP03-026",
-    "prints": [
+      "BP03-025",
       "BP03-026"
     ],
     "evolves_to": [],
@@ -14789,7 +14605,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [],
-    "illustrator": "",
+    "illustrator": "石山裕之",
     "legal_status": null,
     "min_price": 30
   },
@@ -14921,7 +14737,9 @@
     "oracle_id": "BP03-030",
     "is_dual_face": false,
     "name": "プリンセスキス",
-    "alt_names": [],
+    "alt_names": [
+      "おプリンセスキス"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "スペル"
@@ -14938,41 +14756,7 @@
     "keywords": [],
     "canonical_print": "BP03-030",
     "prints": [
-      "BP03-030"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "カズキテエリ",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP03-031",
-    "is_dual_face": false,
-    "name": "おプリンセスキス",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "プリンセス",
-      "童話"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "これをプレイする際、自分の場にプリンセス・フォロワーがいるなら、コストを-1する。\n下記から1つチョイスする。【1】自分のフォロワー1体を選ぶ。それは攻撃力+1する。それに童話カウンター1つを置いてよい。【2】自分の墓場のロイヤルフォロワー3枚まで選ぶ。それをデッキに戻し、シャッフルする。1枚引く。",
-    "keywords": [],
-    "canonical_print": "BP03-031",
-    "prints": [
+      "BP03-030",
       "BP03-031"
     ],
     "evolves_to": [],
@@ -14983,7 +14767,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [],
-    "illustrator": "",
+    "illustrator": "カズキテエリ",
     "legal_status": null,
     "min_price": 50
   },
@@ -18948,7 +18732,9 @@
     "oracle_id": "BP04-001",
     "is_dual_face": false,
     "name": "カシオペア",
-    "alt_names": [],
+    "alt_names": [
+      "森の魔女・C.C."
+    ],
     "class": "エルフ",
     "card_type": [
       "フォロワー"
@@ -18968,6 +18754,7 @@
     "canonical_print": "BP04-001",
     "prints": [
       "BP04-001",
+      "BP04-002",
       "BP04-SL01",
       "BP04-U01"
     ],
@@ -18980,43 +18767,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "虫麻呂",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP04-002",
-    "is_dual_face": false,
-    "name": "森の魔女・C.C.",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "精霊",
-      "星神"
-    ],
-    "title": null,
-    "cost": 5,
-    "atk": 4,
-    "hp": 5,
-    "text": "【ファンファーレ】相手のフォロワーを好きな枚数選ぶ。それにXダメージを割りふる。Xは「自分の手札とEXエリアのカードの合計」である。",
-    "keywords": [
-      "ファンファーレ"
-    ],
-    "canonical_print": "BP04-002",
-    "prints": [
-      "BP04-002"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 50
   },
@@ -19226,7 +18976,9 @@
     "oracle_id": "BP04-008",
     "is_dual_face": false,
     "name": "新緑の加護",
-    "alt_names": [],
+    "alt_names": [
+      "不可侵領域"
+    ],
     "class": "エルフ",
     "card_type": [
       "アミュレット"
@@ -19245,47 +18997,7 @@
     ],
     "canonical_print": "BP04-008",
     "prints": [
-      "BP04-008"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP01-T02"
-    ],
-    "mentions_tokens": [
-      "BP01-T02"
-    ],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "ASO",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-009",
-    "is_dual_face": false,
-    "name": "不可侵領域",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "アミュレット"
-    ],
-    "tribe": [
-      "エルフ族"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "これが場を離れたとき、『フェアリーウィスプ』1枚をEXエリアに置く。\n【起動】コスト1これをアクト墓場に置く：自分のエルフフォロワー1体を選ぶ。それは体力+1する。【コンボ_3】さらに攻撃力+1する。\n―――――――――――――――\n『フェアリーウィスプ』エルフ妖精・フォロワーコスト0攻撃力1/体力1",
-    "keywords": [
-      "起動",
-      "コンボ"
-    ],
-    "canonical_print": "BP04-009",
-    "prints": [
+      "BP04-008",
       "BP04-009"
     ],
     "evolves_to": [],
@@ -19300,7 +19012,7 @@
     ],
     "mentions_by_name_contains": [],
     "mentioned_from": [],
-    "illustrator": "",
+    "illustrator": "ASO",
     "legal_status": null,
     "min_price": 30
   },
@@ -20644,7 +20356,9 @@
     "oracle_id": "BP04-044",
     "is_dual_face": false,
     "name": "コールチェイン",
-    "alt_names": [],
+    "alt_names": [
+      "気高き先導"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "スペル"
@@ -20664,6 +20378,7 @@
     "canonical_print": "BP04-044",
     "prints": [
       "BP04-044",
+      "BP04-045",
       "PR-255"
     ],
     "evolves_to": [],
@@ -20675,43 +20390,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "Budi",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-045",
-    "is_dual_face": false,
-    "name": "気高き先導",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "魔法使い"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "【クイック】\n自分のデッキの上5枚を見る。その中から、ウィッチフォロワー1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。【スペルチェイン_10】自分のPPを1回復する。",
-    "keywords": [
-      "クイック",
-      "スペルチェイン"
-    ],
-    "canonical_print": "BP04-045",
-    "prints": [
-      "BP04-045"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 30
   },
@@ -21149,7 +20827,9 @@
     "oracle_id": "BP04-057",
     "is_dual_face": false,
     "name": "水竜神の巫女",
-    "alt_names": [],
+    "alt_names": [
+      "紅の夜叉・カレン"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -21169,6 +20849,7 @@
     "canonical_print": "BP04-057",
     "prints": [
       "BP04-057",
+      "BP04-058",
       "BP04-SL10"
     ],
     "evolves_to": [],
@@ -21180,43 +20861,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "虹原",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP04-058",
-    "is_dual_face": false,
-    "name": "紅の夜叉・カレン",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "竜使い"
-    ],
-    "title": null,
-    "cost": 3,
-    "atk": 3,
-    "hp": 4,
-    "text": "自分のエンドフェイズが来たとき、自分のリーダーは体力+1する。【覚醒】状態なら、代わりに体力+2する。\n【ファンファーレ】【覚醒】状態なら、これは攻撃力+1/体力+1する。自分のPP最大値を+1する。",
-    "keywords": [
-      "ファンファーレ",
-      "覚醒"
-    ],
-    "canonical_print": "BP04-058",
-    "prints": [
-      "BP04-058"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 50
   },
@@ -22149,7 +21793,10 @@
     "oracle_id": "BP04-082",
     "is_dual_face": false,
     "name": "魔将軍・ヘクター",
-    "alt_names": [],
+    "alt_names": [
+      "正義の皇帝・ルルーシュ",
+      "黒の騎士団総司令・ルルーシュ"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー"
@@ -22170,45 +21817,9 @@
     "canonical_print": "BP04-082",
     "prints": [
       "BP04-082",
+      "BP04-083",
+      "BP04-SP01",
       "PR-161"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-083",
-    "is_dual_face": false,
-    "name": "黒の騎士団総司令・ルルーシュ",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "死者"
-    ],
-    "title": null,
-    "cost": 7,
-    "atk": 5,
-    "hp": 6,
-    "text": "これがいる限り、自分のナイトメアフォロワーすべては【突進】を持つ。\n【ファンファーレ】【ネクロチャージ_10】自分の墓場のコスト2以下のナイトメアフォロワー2枚まで選ぶ。それを場に出す。自分の他のフォロワーすべては攻撃力+1/体力+1する。【NC_20】代わりに攻撃力+3/体力+3する。",
-    "keywords": [
-      "ファンファーレ",
-      "突進",
-      "ネクロチャージ"
-    ],
-    "canonical_print": "BP04-083",
-    "prints": [
-      "BP04-083"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -22488,7 +22099,9 @@
     "oracle_id": "BP04-090",
     "is_dual_face": false,
     "name": "冒涜の墓場",
-    "alt_names": [],
+    "alt_names": [
+      "皇帝の証"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "アミュレット"
@@ -22508,6 +22121,7 @@
     "canonical_print": "BP04-090",
     "prints": [
       "BP04-090",
+      "BP04-091",
       "EBD03-016"
     ],
     "evolves_to": [],
@@ -22519,43 +22133,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "NAVAR",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-091",
-    "is_dual_face": false,
-    "name": "皇帝の証",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "アミュレット"
-    ],
-    "tribe": [
-      "死者"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "【ファンファーレ】自分のデッキの上2枚を墓場に置く。\n【起動】コスト2これをアクト墓場に置く：自分の墓場の死者・フォロワー1枚を選ぶ。それを手札に加える。",
-    "keywords": [
-      "ファンファーレ",
-      "起動"
-    ],
-    "canonical_print": "BP04-091",
-    "prints": [
-      "BP04-091"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 30
   },
@@ -23048,7 +22625,9 @@
     "oracle_id": "BP04-104",
     "is_dual_face": false,
     "name": "星導の天球儀",
-    "alt_names": [],
+    "alt_names": [
+      "漆黒のカリスマ"
+    ],
     "class": "ビショップ",
     "card_type": [
       "アミュレット"
@@ -23070,6 +22649,7 @@
     "canonical_print": "BP04-104",
     "prints": [
       "BP04-104",
+      "BP04-105",
       "EBD04-013"
     ],
     "evolves_to": [],
@@ -23081,45 +22661,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "電蝶",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-105",
-    "is_dual_face": false,
-    "name": "漆黒のカリスマ",
-    "alt_names": [],
-    "class": "ビショップ",
-    "card_type": [
-      "アミュレット"
-    ],
-    "tribe": [
-      "信仰",
-      "星神"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "【ファンファーレ】自分のデッキからアミュレット1枚を探し、手札に加える。\n【クイック】【起動】コスト2これをアクト墓場に置く：自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [
-      "クイック",
-      "ファンファーレ",
-      "起動"
-    ],
-    "canonical_print": "BP04-105",
-    "prints": [
-      "BP04-105"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 30
   },
@@ -24092,44 +23633,6 @@
     "illustrator": "alchemaniac",
     "legal_status": null,
     "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-SP01",
-    "is_dual_face": false,
-    "name": "正義の皇帝・ルルーシュ",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "死者"
-    ],
-    "title": null,
-    "cost": 7,
-    "atk": 5,
-    "hp": 6,
-    "text": "これがいる限り、自分のナイトメアフォロワーすべては【突進】を持つ。\n【ファンファーレ】【ネクロチャージ_10】自分の墓場のコスト2以下のナイトメアフォロワー2枚まで選ぶ。それを場に出す。自分の他のフォロワーすべては攻撃力+1/体力+1する。【NC_20】代わりに攻撃力+3/体力+3する。",
-    "keywords": [
-      "ファンファーレ",
-      "突進",
-      "ネクロチャージ"
-    ],
-    "canonical_print": "BP04-SP01",
-    "prints": [
-      "BP04-SP01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1480
   },
   {
     "oracle_id": "BP04-T01",
@@ -31147,7 +30650,9 @@
     "oracle_id": "BP06-035",
     "is_dual_face": false,
     "name": "陰陽の開祖・クオン",
-    "alt_names": [],
+    "alt_names": [
+      "澄明なる頭脳・博衣こより"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "フォロワー"
@@ -31170,7 +30675,9 @@
     "canonical_print": "BP06-035",
     "prints": [
       "BP06-035",
+      "BP06-036",
       "BP06-SL07",
+      "BP06-SP01",
       "BP06-U03",
       "PR-165"
     ],
@@ -31187,51 +30694,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "虹原",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "BP06-036",
-    "is_dual_face": false,
-    "name": "澄明なる頭脳・博衣こより",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "挑戦者",
-      "陰陽師"
-    ],
-    "title": null,
-    "cost": 15,
-    "atk": 5,
-    "hp": 5,
-    "text": "これをプレイする際、コストを-Xする。Xは「自分の墓場の陰陽師・カードやスペルの枚数の合計」である。\n【ファンファーレ】自分の場に『天后』がいないなら、『天后』1体を出す。\n【起動】これをアクト：自分の場の式神・フォロワー2体まで選ぶ。それは【疾走】を持つ。\n―――――――――――――――\n『天后』ウィッチ式神・フォロワーコスト4攻撃力4/体力5【オーラ】",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "疾走",
-      "オーラ"
-    ],
-    "canonical_print": "BP06-036",
-    "prints": [
-      "BP06-036",
-      "BP06-SP01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP06-T01"
-    ],
-    "mentions_tokens": [
-      "BP06-T01"
-    ],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 80
   },
@@ -31451,7 +30913,9 @@
     "oracle_id": "BP06-042",
     "is_dual_face": false,
     "name": "式神の使役",
-    "alt_names": [],
+    "alt_names": [
+      "こよの大発明"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "スペル"
@@ -31470,6 +30934,7 @@
     "canonical_print": "BP06-042",
     "prints": [
       "BP06-042",
+      "BP06-043",
       "PR-132"
     ],
     "evolves_to": [],
@@ -31487,44 +30952,6 @@
       "BP06-048"
     ],
     "illustrator": "ShuLa",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP06-043",
-    "is_dual_face": false,
-    "name": "こよの大発明",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "陰陽師"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "『形代』1体を出す。自分の墓場の陰陽師・カードやスペルが7枚以上なら、1枚引く。",
-    "keywords": [],
-    "canonical_print": "BP06-043",
-    "prints": [
-      "BP06-043"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP06-T02"
-    ],
-    "mentions_tokens": [
-      "BP06-T02"
-    ],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 30
   },
@@ -32026,7 +31453,9 @@
     "oracle_id": "BP06-056",
     "is_dual_face": false,
     "name": "銀氷のドラゴニュート・フィルレイン",
-    "alt_names": [],
+    "alt_names": [
+      "滄海の捕食者・沙花叉クロヱ"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -32046,7 +31475,9 @@
     "canonical_print": "BP06-056",
     "prints": [
       "BP06-056",
+      "BP06-057",
       "BP06-SL12",
+      "BP06-SP02",
       "BP06-U04",
       "SP01-027",
       "SP01-SL27",
@@ -32064,51 +31495,10 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [
       "BP06-061",
-      "BP06-062",
       "BP15-059",
       "BP15-065"
     ],
     "illustrator": "ぽんず",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "BP06-057",
-    "is_dual_face": false,
-    "name": "滄海の捕食者・沙花叉クロヱ",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "ドラゴニュート"
-    ],
-    "title": null,
-    "cost": 1,
-    "atk": 1,
-    "hp": 3,
-    "text": "【ファンファーレ】相手の場のフォロワー1体を選ぶ。それをアクトする。それは次の相手のスタートフェイズにスタンドしない。\n【ファンファーレ】【覚醒】状態なら、自分のデッキから『銀氷の吐息』1枚を探し、EXエリアに置く。",
-    "keywords": [
-      "ファンファーレ",
-      "覚醒"
-    ],
-    "canonical_print": "BP06-057",
-    "prints": [
-      "BP06-057",
-      "BP06-SP02"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP06-061"
-    ],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 80
   },
@@ -32235,7 +31625,9 @@
     "oracle_id": "BP06-061",
     "is_dual_face": false,
     "name": "銀氷の吐息",
-    "alt_names": [],
+    "alt_names": [
+      "お掃除しちゃうぞ♡"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "スペル"
@@ -32254,6 +31646,7 @@
     "canonical_print": "BP06-061",
     "prints": [
       "BP06-061",
+      "BP06-062",
       "PR-317"
     ],
     "evolves_to": [],
@@ -32267,48 +31660,9 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [
       "BP06-056",
-      "BP06-057",
       "BP15-059"
     ],
     "illustrator": "ぽんず",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "BP06-062",
-    "is_dual_face": false,
-    "name": "お掃除しちゃうぞ♡",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "ドラゴニュート"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "これをプレイする際、【覚醒】状態なら、コストを-1する。\nアクト状態の相手の場のフォロワー1体を選ぶ。それを破壊する。自分の場に『銀氷のドラゴニュート・フィルレイン』がいるなら、それのリーダーに2ダメージ。",
-    "keywords": [
-      "覚醒"
-    ],
-    "canonical_print": "BP06-062",
-    "prints": [
-      "BP06-062"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [
-      "BP06-056"
-    ],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 30
   },
@@ -34665,8 +34019,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "BP06-035",
-      "BP06-036"
+      "BP06-035"
     ],
     "illustrator": "みけぼし",
     "legal_status": null,
@@ -34709,7 +34062,6 @@
     "mentioned_from": [
       "BP06-039",
       "BP06-042",
-      "BP06-043",
       "BP06-045",
       "BP06-046",
       "BP15-046",
@@ -37850,7 +37202,7 @@
     ],
     "illustrator": "irua",
     "legal_status": null,
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "BP07-071",
@@ -39333,7 +38685,7 @@
     ],
     "illustrator": "ell",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 280
   },
   {
     "oracle_id": "BP07-106",
@@ -58060,7 +57412,7 @@
     "mentioned_from": [],
     "illustrator": "ヘスン",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 180
   },
   {
     "oracle_id": "BP11-054",
@@ -58101,7 +57453,7 @@
     "mentioned_from": [],
     "illustrator": "おにねこ",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 4480
   },
   {
     "oracle_id": "BP11-055",
@@ -66758,7 +66110,7 @@
     ],
     "illustrator": "ell",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "BP13-021",
@@ -71005,7 +70357,7 @@
     ],
     "illustrator": "N.A",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 280
   },
   {
     "oracle_id": "BP14-002",
@@ -78576,7 +77928,7 @@
     ],
     "illustrator": "ぽんず",
     "legal_status": null,
-    "min_price": 180
+    "min_price": 580
   },
   {
     "oracle_id": "BP15-059",
@@ -80117,7 +79469,7 @@
     ],
     "illustrator": "シュイトン",
     "legal_status": null,
-    "min_price": 980
+    "min_price": 280
   },
   {
     "oracle_id": "BP15-096",
@@ -97437,7 +96789,7 @@
     "mentioned_from": [],
     "illustrator": "えなれいん",
     "legal_status": null,
-    "min_price": 30
+    "min_price": 580
   },
   {
     "oracle_id": "BP18-109",
@@ -110244,7 +109596,13 @@
     "oracle_id": "CP01-085",
     "is_dual_face": false,
     "name": "にんじん",
-    "alt_names": [],
+    "alt_names": [
+      "1日の終わりに",
+      "合宿ッ！農家体験ッ！",
+      "聖なる夜に重なるキセキ",
+      "開催大成功！",
+      "開幕ッ！大農耕時代ッ！"
+    ],
     "class": "ニュートラル",
     "card_type": [
       "スペル",
@@ -110265,6 +109623,16 @@
     "prints": [
       "CP01-085",
       "CSD01-032",
+      "ECP01-058",
+      "ECP01-059",
+      "ECP01-060",
+      "ECP01-061",
+      "ECP01-062",
+      "ECP01-SL27",
+      "ECP01-SL28",
+      "ECP01-SL29",
+      "ECP01-SL30",
+      "ECP01-SL31",
       "PR-052"
     ],
     "evolves_to": [],
@@ -112420,7 +111788,10 @@
     "oracle_id": "CP02-003",
     "is_dual_face": false,
     "name": "前川みく",
-    "alt_names": [],
+    "alt_names": [
+      "*（Asterisk）",
+      "〔サマーキャット☆ランデブー〕前川みく"
+    ],
     "class": "エルフ",
     "card_type": [
       "フォロワー"
@@ -112444,7 +111815,12 @@
     "prints": [
       "CP02-003",
       "CP02-SL03",
-      "PR-152"
+      "CP02-SP01a",
+      "CP02-SP01b",
+      "CP02-U01a",
+      "CP02-U01b",
+      "PR-152",
+      "PR-436"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -112458,7 +111834,7 @@
     ],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 280
+    "min_price": 80
   },
   {
     "oracle_id": "CP02-004",
@@ -112551,7 +111927,9 @@
     "oracle_id": "CP02-006",
     "is_dual_face": false,
     "name": "アナスタシア",
-    "alt_names": [],
+    "alt_names": [
+      "〔よくばりサニーバカンス〕アナスタシア"
+    ],
     "class": "エルフ",
     "card_type": [
       "フォロワー"
@@ -112573,7 +111951,8 @@
       "CP02-006",
       "CP02-P03",
       "CP02-SP02",
-      "CP02-U02"
+      "CP02-U02",
+      "PR-435"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -112583,8 +111962,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "ECP02-004",
-      "ECP02-SP01"
+      "ECP02-004"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -112753,7 +112131,9 @@
     "oracle_id": "CP02-011",
     "is_dual_face": false,
     "name": "女神は朝焼けの海に",
-    "alt_names": [],
+    "alt_names": [
+      "夏色の南風"
+    ],
     "class": "エルフ",
     "card_type": [
       "スペル"
@@ -112771,7 +112151,8 @@
     "canonical_print": "CP02-011",
     "prints": [
       "CP02-011",
-      "CP02-P08"
+      "CP02-P08",
+      "PR-437"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -113114,7 +112495,9 @@
     "oracle_id": "CP02-020",
     "is_dual_face": false,
     "name": "久川凪",
-    "alt_names": [],
+    "alt_names": [
+      "miroir"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -113138,6 +112521,10 @@
     "prints": [
       "CP02-020",
       "CP02-SL06",
+      "CP02-SP04a",
+      "CP02-SP04b",
+      "CP02-U04a",
+      "CP02-U04b",
       "PR-153"
     ],
     "evolves_to": [],
@@ -113192,12 +112579,10 @@
       "CP02-024",
       "CSD02A-001",
       "ECP02-015",
-      "ECP02-SP04",
       "CP02-022",
       "CSD02C-001",
       "ECP02-013",
-      "ECP02-014",
-      "PR-439"
+      "ECP02-014"
     ],
     "mentioned_from": [
       "CP02-022",
@@ -113245,7 +112630,6 @@
       "CP02-024",
       "CSD02A-001",
       "ECP02-015",
-      "ECP02-SP04",
       "CP02-021",
       "CSD02B-001",
       "ECP02-012"
@@ -113345,8 +112729,7 @@
       "CP02-022",
       "CSD02C-001",
       "ECP02-013",
-      "ECP02-014",
-      "PR-439"
+      "ECP02-014"
     ],
     "mentioned_from": [
       "CP02-021",
@@ -113887,7 +113270,9 @@
     "oracle_id": "CP02-038",
     "is_dual_face": false,
     "name": "塩見周子",
-    "alt_names": [],
+    "alt_names": [
+      "羽衣小町"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "フォロワー"
@@ -113907,7 +113292,11 @@
     "canonical_print": "CP02-038",
     "prints": [
       "CP02-038",
-      "CP02-P29"
+      "CP02-P29",
+      "CP02-SP06a",
+      "CP02-SP06b",
+      "CP02-U06a",
+      "CP02-U06b"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -114010,7 +113399,9 @@
     "oracle_id": "CP02-041",
     "is_dual_face": false,
     "name": "センター・オブ・ストリート",
-    "alt_names": [],
+    "alt_names": [
+      "メモリアル★ビーチサイド"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "スペル"
@@ -114030,7 +113421,8 @@
     "canonical_print": "CP02-041",
     "prints": [
       "CP02-041",
-      "CP02-P32"
+      "CP02-P32",
+      "PR-440"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -114568,7 +113960,9 @@
     "oracle_id": "CP02-055",
     "is_dual_face": false,
     "name": "鷺沢文香",
-    "alt_names": [],
+    "alt_names": [
+      "BRIGHT:LIGHTS"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -114589,6 +113983,10 @@
     "prints": [
       "CP02-055",
       "CP02-P43",
+      "CP02-SP08a",
+      "CP02-SP08b",
+      "CP02-U08a",
+      "CP02-U08b",
       "PR-154"
     ],
     "evolves_to": [],
@@ -114853,7 +114251,9 @@
     "oracle_id": "CP02-062",
     "is_dual_face": false,
     "name": "ぶちあがれ感情",
-    "alt_names": [],
+    "alt_names": [
+      "夢見りあむが見た夢"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "スペル"
@@ -114871,7 +114271,8 @@
     "canonical_print": "CP02-062",
     "prints": [
       "CP02-062",
-      "CP02-P50"
+      "CP02-P50",
+      "PR-148"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -115162,8 +114563,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "ECP02-052",
-      "ECP02-SP10"
+      "ECP02-052"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -115173,7 +114573,9 @@
     "oracle_id": "CP02-070",
     "is_dual_face": false,
     "name": "神崎蘭子",
-    "alt_names": [],
+    "alt_names": [
+      "フォルトゥナ・レジーナ"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー",
@@ -115196,7 +114598,11 @@
     "canonical_print": "CP02-070",
     "prints": [
       "CP02-070",
-      "CP02-SL14"
+      "CP02-SL14",
+      "CP02-SP09a",
+      "CP02-SP09b",
+      "CP02-U09a",
+      "CP02-U09b"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -115208,8 +114614,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "ECP02-052",
-      "ECP02-SP10"
+      "ECP02-052"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -115383,7 +114788,9 @@
     "oracle_id": "CP02-075",
     "is_dual_face": false,
     "name": "夢のささやき",
-    "alt_names": [],
+    "alt_names": [
+      "めぐりあう夏"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "スペル"
@@ -115403,7 +114810,8 @@
     "canonical_print": "CP02-075",
     "prints": [
       "CP02-075",
-      "CP02-P60"
+      "CP02-P60",
+      "PR-441"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -115415,7 +114823,7 @@
     "mentioned_from": [],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 280
   },
   {
     "oracle_id": "CP02-076",
@@ -115789,7 +115197,9 @@
     "oracle_id": "CP02-085",
     "is_dual_face": false,
     "name": "ラストデイライト",
-    "alt_names": [],
+    "alt_names": [
+      "美味しく､食べて……?"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "スペル"
@@ -115807,7 +115217,8 @@
     "canonical_print": "CP02-085",
     "prints": [
       "CP02-085",
-      "CP02-P70"
+      "CP02-P70",
+      "PR-149"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -115821,7 +115232,7 @@
     ],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 30
+    "min_price": 80
   },
   {
     "oracle_id": "CP02-086",
@@ -115914,7 +115325,9 @@
     "oracle_id": "CP02-088",
     "is_dual_face": false,
     "name": "佐藤心",
-    "alt_names": [],
+    "alt_names": [
+      "しゅがしゅが☆み〜ん"
+    ],
     "class": "ビショップ",
     "card_type": [
       "フォロワー",
@@ -115935,7 +115348,11 @@
     "canonical_print": "CP02-088",
     "prints": [
       "CP02-088",
-      "CP02-SL18"
+      "CP02-SL18",
+      "CP02-SP12a",
+      "CP02-SP12b",
+      "CP02-U12a",
+      "CP02-U12b"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -116528,7 +115945,9 @@
     "oracle_id": "CP02-103",
     "is_dual_face": false,
     "name": "ニュージェネレーションズ",
-    "alt_names": [],
+    "alt_names": [
+      "#UNICUS"
+    ],
     "class": "ニュートラル",
     "card_type": [
       "フォロワー"
@@ -116554,7 +115973,11 @@
       "CP02-103",
       "CP02-SL19a",
       "CP02-SL19b",
-      "CP02-SL19c"
+      "CP02-SL19c",
+      "CP02-SP13",
+      "CP02-U13a",
+      "CP02-U13b",
+      "CP02-U13c"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -116763,304 +116186,36 @@
     "min_price": 30
   },
   {
-    "oracle_id": "CP02-SP01a",
-    "is_dual_face": false,
-    "name": "*（Asterisk）",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": 3,
-    "hp": 1,
-    "text": "【攻撃時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【起動】コスト1【レッスン_1】：これは【疾走】を持つ。",
-    "keywords": [
-      "起動",
-      "攻撃時",
-      "レッスン",
-      "疾走"
-    ],
-    "canonical_print": "CP02-SP01a",
-    "prints": [
-      "CP02-SP01a",
-      "CP02-SP01b",
-      "CP02-U01a",
-      "CP02-U01b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1480
-  },
-  {
-    "oracle_id": "CP02-SP04a",
-    "is_dual_face": false,
-    "name": "miroir",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": 4,
-    "hp": 4,
-    "text": "【ファンファーレ】墓場の元のコスト1のカード2枚を消滅：下記から2つまでチョイスする。【1】相手の場のフォロワー1体を選ぶ。それを破壊する。【2】相手のリーダーすべてに2ダメージ。【3】1枚引く。自分の手札1枚を捨てる。\n【起動】コスト1【レッスン_1】：これは【突進】を持つ。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "レッスン",
-      "突進"
-    ],
-    "canonical_print": "CP02-SP04a",
-    "prints": [
-      "CP02-SP04a",
-      "CP02-SP04b",
-      "CP02-U04a",
-      "CP02-U04b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1480
-  },
-  {
-    "oracle_id": "CP02-SP06a",
-    "is_dual_face": false,
-    "name": "羽衣小町",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 9,
-    "atk": 3,
-    "hp": 3,
-    "text": "これをプレイする際、手札のデレマス・カード3枚を捨てる：コストを-6する。\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それに4ダメージ。2枚引く。",
-    "keywords": [
-      "ファンファーレ"
-    ],
-    "canonical_print": "CP02-SP06a",
-    "prints": [
-      "CP02-SP06a",
-      "CP02-SP06b",
-      "CP02-U06a",
-      "CP02-U06b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1280
-  },
-  {
-    "oracle_id": "CP02-SP08a",
-    "is_dual_face": false,
-    "name": "BRIGHT:LIGHTS",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 7,
-    "atk": 4,
-    "hp": 4,
-    "text": "自分の場に他のデレマス・フォロワーが出たとき、相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【ファンファーレ】自分のデッキから元のコスト3のフォロワー1枚と元のコスト1のフォロワー1枚を探し、場に出す。",
-    "keywords": [
-      "ファンファーレ"
-    ],
-    "canonical_print": "CP02-SP08a",
-    "prints": [
-      "CP02-SP08a",
-      "CP02-SP08b",
-      "CP02-U08a",
-      "CP02-U08b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 2480
-  },
-  {
-    "oracle_id": "CP02-SP09a",
-    "is_dual_face": false,
-    "name": "フォルトゥナ・レジーナ",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": null,
-    "atk": 4,
-    "hp": 4,
-    "text": "【進化時】自分のデッキの上4枚を見る。その中から、1枚をEXエリアに置いてよい。残りを墓場に置く。\n【起動】コスト1【レッスン_2】：相手の場のフォロワー2体まで選ぶ。それに2ダメージ。",
-    "keywords": [
-      "起動",
-      "進化時",
-      "レッスン"
-    ],
-    "canonical_print": "CP02-SP09a",
-    "prints": [
-      "CP02-SP09a",
-      "CP02-SP09b",
-      "CP02-U09a",
-      "CP02-U09b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1480
-  },
-  {
-    "oracle_id": "CP02-SP12a",
-    "is_dual_face": false,
-    "name": "しゅがしゅが☆み〜ん",
-    "alt_names": [],
-    "class": "ビショップ",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": null,
-    "atk": 5,
-    "hp": 5,
-    "text": "【進化時】自分の墓場の元のコスト8以下のフォロワー1枚を選ぶ。それを場に出す。",
-    "keywords": [
-      "進化時"
-    ],
-    "canonical_print": "CP02-SP12a",
-    "prints": [
-      "CP02-SP12a",
-      "CP02-SP12b",
-      "CP02-U12a",
-      "CP02-U12b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 780
-  },
-  {
-    "oracle_id": "CP02-SP13",
-    "is_dual_face": false,
-    "name": "#UNICUS",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート",
-      "クール",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 10,
-    "atk": 5,
-    "hp": 5,
-    "text": "これをプレイする際、墓場のキュート・カード3枚とクール・カード3枚とパッション・カード3枚を消滅：コストを-9する。\n【疾走】【必殺】【守護】",
-    "keywords": [
-      "疾走",
-      "必殺",
-      "守護"
-    ],
-    "canonical_print": "CP02-SP13",
-    "prints": [
-      "CP02-SP13",
-      "CP02-U13a",
-      "CP02-U13b",
-      "CP02-U13c"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 2480
-  },
-  {
     "oracle_id": "CP02-T01",
     "is_dual_face": false,
-    "name": "キュートイヤリング",
-    "alt_names": [],
+    "name": "魔法のアイテム",
+    "alt_names": [
+      "〔Brand new！〕辻野あかり",
+      "〔Lunatic Show〕輿水幸子",
+      "〔Nation Blue〕神崎蘭子",
+      "〔Nation Blue〕高垣楓",
+      "〔つはものの道〕依田芳乃",
+      "〔つぼみ〕一ノ瀬志希",
+      "〔イケナイGO AHEAD〕橘ありす",
+      "〔エイトビートロッカー〕多田李衣菜",
+      "〔ステップトゥーミライ〕佐々木千枝",
+      "〔ド根性☆レポーター〕佐藤心",
+      "〔パステルピンクな恋〕小早川紗枝",
+      "〔ラブレター〕五十嵐響子",
+      "〔咲いてJewel〕二宮飛鳥",
+      "〔重ねた手と日々〕佐城雪美",
+      "キュートイヤリング",
+      "キュートティアラ",
+      "キュートペンダント",
+      "クールイヤリング",
+      "クールティアラ",
+      "クールペンダント",
+      "パッションイヤリング",
+      "パッションティアラ",
+      "パッションペンダント",
+      "魔法のドレス",
+      "魔法の靴"
+    ],
     "class": "ニュートラル",
     "card_type": [
       "スペル",
@@ -117078,289 +116233,47 @@
     "canonical_print": "CP02-T01",
     "prints": [
       "CP02-T01",
-      "CSD02A-T01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T02",
-    "is_dual_face": false,
-    "name": "キュートペンダント",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T02",
-    "prints": [
-      "CP02-T02"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T03",
-    "is_dual_face": false,
-    "name": "キュートティアラ",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T03",
-    "prints": [
-      "CP02-T03"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T04",
-    "is_dual_face": false,
-    "name": "クールイヤリング",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T04",
-    "prints": [
+      "CP02-T02",
+      "CP02-T03",
       "CP02-T04",
-      "CSD02B-T01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T05",
-    "is_dual_face": false,
-    "name": "クールペンダント",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T05",
-    "prints": [
-      "CP02-T05"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T06",
-    "is_dual_face": false,
-    "name": "クールティアラ",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T06",
-    "prints": [
-      "CP02-T06"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T07",
-    "is_dual_face": false,
-    "name": "パッションイヤリング",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T07",
-    "prints": [
+      "CP02-T05",
+      "CP02-T06",
       "CP02-T07",
-      "CSD02C-T01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T08",
-    "is_dual_face": false,
-    "name": "パッションペンダント",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T08",
-    "prints": [
-      "CP02-T08"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP02-T09",
-    "is_dual_face": false,
-    "name": "パッションティアラ",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "CP02-T09",
-    "prints": [
-      "CP02-T09"
+      "CP02-T08",
+      "CP02-T09",
+      "CSD02A-T01",
+      "CSD02B-T01",
+      "CSD02C-T01",
+      "ECP02-SL34",
+      "ECP02-SL35",
+      "ECP02-SL36",
+      "ECP02-SL37",
+      "ECP02-SL38",
+      "ECP02-SL39",
+      "ECP02-SL40",
+      "ECP02-SL41",
+      "ECP02-SL42",
+      "ECP02-SL43",
+      "ECP02-SL44",
+      "ECP02-SL45",
+      "ECP02-SL46",
+      "ECP02-SL47",
+      "ECP02-T01",
+      "ECP02-T02",
+      "ECP02-T03",
+      "ECP02-T04",
+      "ECP02-T05",
+      "ECP02-T06",
+      "ECP02-T07",
+      "ECP02-T08",
+      "ECP02-T09",
+      "ECP02-T10",
+      "ECP02-T11",
+      "ECP02-T12",
+      "ECP02-T13",
+      "ECP02-T14",
+      "PR-155",
+      "PR-156"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -123666,7 +122579,9 @@
     "oracle_id": "CP04-010",
     "is_dual_face": false,
     "name": "リノ",
-    "alt_names": [],
+    "alt_names": [
+      "シズル＆リノ"
+    ],
     "class": "エルフ",
     "card_type": [
       "フォロワー",
@@ -123688,7 +122603,8 @@
     "canonical_print": "CP04-010",
     "prints": [
       "CP04-010",
-      "CP04-P06"
+      "CP04-P06",
+      "PCS01-005"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -124899,7 +123815,9 @@
     "oracle_id": "CP04-039",
     "is_dual_face": false,
     "name": "ユニ",
-    "alt_names": [],
+    "alt_names": [
+      "ユニ＆クロエ＆チエル"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "フォロワー"
@@ -124920,7 +123838,11 @@
     "canonical_print": "CP04-039",
     "prints": [
       "CP04-039",
-      "CP04-SL11"
+      "CP04-SL11",
+      "CP04-SP06a",
+      "CP04-SP06b",
+      "CP04-SP06c",
+      "CP04-U06"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -125188,7 +124110,9 @@
     "oracle_id": "CP04-046",
     "is_dual_face": false,
     "name": "キョウカ",
-    "alt_names": [],
+    "alt_names": [
+      "ミソギ＆ミミ＆キョウカ"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "フォロワー",
@@ -125210,7 +124134,8 @@
     "canonical_print": "CP04-046",
     "prints": [
       "CP04-046",
-      "CP04-P34"
+      "CP04-P34",
+      "PCS01-019"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -126409,7 +125334,9 @@
     "oracle_id": "CP04-075",
     "is_dual_face": false,
     "name": "ランファ",
-    "alt_names": [],
+    "alt_names": [
+      "ランファ＆ミソラ"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー"
@@ -126430,7 +125357,10 @@
     "canonical_print": "CP04-075",
     "prints": [
       "CP04-075",
-      "CP04-SL19"
+      "CP04-SL19",
+      "CP04-SP10a",
+      "CP04-SP10b",
+      "CP04-U10"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -127119,7 +126049,9 @@
     "oracle_id": "CP04-092",
     "is_dual_face": false,
     "name": "サレン",
-    "alt_names": [],
+    "alt_names": [
+      "アキノ＆サレン"
+    ],
     "class": "ビショップ",
     "card_type": [
       "フォロワー",
@@ -127144,7 +126076,8 @@
       "CP04-092",
       "CP04-SL22",
       "CP04-SP11",
-      "CP04-U11"
+      "CP04-U11",
+      "PCS01-040"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -127164,7 +126097,9 @@
     "oracle_id": "CP04-093",
     "is_dual_face": false,
     "name": "ノゾミ",
-    "alt_names": [],
+    "alt_names": [
+      "ノゾミ＆チカ＆ツムギ"
+    ],
     "class": "ビショップ",
     "card_type": [
       "フォロワー"
@@ -127186,7 +126121,11 @@
     "canonical_print": "CP04-093",
     "prints": [
       "CP04-093",
-      "CP04-SL23"
+      "CP04-SL23",
+      "CP04-SP12a",
+      "CP04-SP12b",
+      "CP04-SP12c",
+      "CP04-U12"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -128270,129 +127209,6 @@
     "min_price": 30
   },
   {
-    "oracle_id": "CP04-U06",
-    "is_dual_face": false,
-    "name": "ユニ＆クロエ＆チエル",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "プリコネ",
-      "なかよし部"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": 5,
-    "atk": 4,
-    "hp": 4,
-    "text": "【UB】【ファンファーレ】自分のデッキから元のコスト2以下のなかよし部・カードをカード名が異なるように2枚まで探し、EXエリアに置く。このターン、それをプレイする際、コストを-2する。\n----------\n自分の場の他のフォロワーの【UB】能力が発動したとき、このターン、次に自分がプリコネ・スペルをプレイする際、コストを-2する。",
-    "keywords": [
-      "UB",
-      "ファンファーレ"
-    ],
-    "canonical_print": "CP04-U06",
-    "prints": [
-      "CP04-SP06a",
-      "CP04-SP06b",
-      "CP04-SP06c",
-      "CP04-U06"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 7980
-  },
-  {
-    "oracle_id": "CP04-U10",
-    "is_dual_face": false,
-    "name": "ランファ＆ミソラ",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "プリコネ",
-      "〈レイジ・レギオン〉"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": 4,
-    "atk": 3,
-    "hp": 5,
-    "text": "【UB】【ファンファーレ】相手の場のフォロワー1体を選ぶ。それに5ダメージ。これが手札以外から場に出ていたなら、自分のPPを2回復する。\n----------\n自分の場の他のフォロワーの【UB】能力が発動したとき、下記から1つチョイスする。このターン、この能力でチョイスした選択肢はチョイスできない。【1】相手のリーダーすべてに2ダメージ。【2】自分のリーダーは体力+2する。",
-    "keywords": [
-      "UB",
-      "ファンファーレ"
-    ],
-    "canonical_print": "CP04-U10",
-    "prints": [
-      "CP04-SP10a",
-      "CP04-SP10b",
-      "CP04-U10"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 3480
-  },
-  {
-    "oracle_id": "CP04-U12",
-    "is_dual_face": false,
-    "name": "ノゾミ＆チカ＆ツムギ",
-    "alt_names": [],
-    "class": "ビショップ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "プリコネ",
-      "カルミナ"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": 3,
-    "atk": 1,
-    "hp": 3,
-    "text": "【UB】【ファンファーレ】自分のデッキからアミュレット1枚を探し、手札に加える。\n----------\n【起動】場のアミュレット1つをアクト：相手の場のフォロワー1体を選ぶ。それに1ダメージ。\n【起動】これをアクト場のアミュレット3つを墓場に置く：相手の場のフォロワー1体を選ぶ。それとそれのリーダーに3ダメージ。",
-    "keywords": [
-      "UB",
-      "ファンファーレ",
-      "起動"
-    ],
-    "canonical_print": "CP04-U12",
-    "prints": [
-      "CP04-SP12a",
-      "CP04-SP12b",
-      "CP04-SP12c",
-      "CP04-U12"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1480
-  },
-  {
     "oracle_id": "CP04-T01",
     "is_dual_face": false,
     "name": "アメスアミュレット",
@@ -129407,7 +128223,9 @@
     "oracle_id": "CSD02A-003",
     "is_dual_face": false,
     "name": "〔P.C.S〕小日向美穂",
-    "alt_names": [],
+    "alt_names": [
+      "〔踏み出す夏空〕小日向美穂"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -129428,7 +128246,8 @@
     "canonical_print": "CSD02A-003",
     "prints": [
       "CSD02A-003",
-      "CSD02A-SL03"
+      "CSD02A-SL03",
+      "PR-438"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -130292,7 +129111,9 @@
     "oracle_id": "CSD02C-001",
     "is_dual_face": false,
     "name": "〔ポジティブパッション〕本田未央",
-    "alt_names": [],
+    "alt_names": [
+      "〔マーメイド・スター〕本田未央"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -130315,7 +129136,8 @@
     "canonical_print": "CSD02C-001",
     "prints": [
       "CSD02C-001",
-      "CSD02C-SL01"
+      "CSD02C-SL01",
+      "PR-439"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -133401,7 +132223,7 @@
     "mentioned_from": [],
     "illustrator": "",
     "legal_status": null,
-    "min_price": 80
+    "min_price": 280
   },
   {
     "oracle_id": "ECP01-039",
@@ -134157,186 +132979,6 @@
     "min_price": 30
   },
   {
-    "oracle_id": "ECP01-058",
-    "is_dual_face": false,
-    "name": "開催大成功！",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "これはエボルヴデッキに10枚まで入れることができる。",
-    "keywords": [],
-    "canonical_print": "ECP01-058",
-    "prints": [
-      "ECP01-058",
-      "ECP01-SL27"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP01-059",
-    "is_dual_face": false,
-    "name": "聖なる夜に重なるキセキ",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "これはエボルヴデッキに10枚まで入れることができる。",
-    "keywords": [],
-    "canonical_print": "ECP01-059",
-    "prints": [
-      "ECP01-059",
-      "ECP01-SL28"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "ECP01-060",
-    "is_dual_face": false,
-    "name": "1日の終わりに",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "これはエボルヴデッキに10枚まで入れることができる。",
-    "keywords": [],
-    "canonical_print": "ECP01-060",
-    "prints": [
-      "ECP01-060",
-      "ECP01-SL29"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP01-061",
-    "is_dual_face": false,
-    "name": "開幕ッ！大農耕時代ッ！",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "これはエボルヴデッキに10枚まで入れることができる。",
-    "keywords": [],
-    "canonical_print": "ECP01-061",
-    "prints": [
-      "ECP01-061",
-      "ECP01-SL30"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP01-062",
-    "is_dual_face": false,
-    "name": "合宿ッ！農家体験ッ！",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "これはエボルヴデッキに10枚まで入れることができる。",
-    "keywords": [],
-    "canonical_print": "ECP01-062",
-    "prints": [
-      "ECP01-062",
-      "ECP01-SL31"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
     "oracle_id": "ECP02-001",
     "is_dual_face": false,
     "name": "〔光を捕まえて〕アナスタシア",
@@ -134374,8 +133016,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "ECP02-004",
-      "ECP02-SP01"
+      "ECP02-004"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -134419,8 +133060,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "ECP02-004",
-      "ECP02-SP01"
+      "ECP02-004"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -134469,7 +133109,9 @@
     "oracle_id": "ECP02-004",
     "is_dual_face": false,
     "name": "〔渚の花嫁〕新田美波",
-    "alt_names": [],
+    "alt_names": [
+      "〔女神は朝焼けの海に〕新田美波"
+    ],
     "class": "エルフ",
     "card_type": [
       "フォロワー"
@@ -134491,7 +133133,9 @@
     "canonical_print": "ECP02-004",
     "prints": [
       "ECP02-004",
-      "ECP02-SL04"
+      "ECP02-SL04",
+      "ECP02-SP01",
+      "ECP02-U01"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -134502,8 +133146,7 @@
     "mentions_by_name_contains": [
       "CP02-006",
       "ECP02-001",
-      "ECP02-002",
-      "PR-435"
+      "ECP02-002"
     ],
     "mentioned_from": [],
     "illustrator": "",
@@ -134514,7 +133157,9 @@
     "oracle_id": "ECP02-005",
     "is_dual_face": false,
     "name": "〔フルスイング☆エール〕姫川友紀",
-    "alt_names": [],
+    "alt_names": [
+      "〔挑戦者たちのエール〕姫川友紀"
+    ],
     "class": "エルフ",
     "card_type": [
       "フォロワー"
@@ -134535,7 +133180,9 @@
     "canonical_print": "ECP02-005",
     "prints": [
       "ECP02-005",
-      "ECP02-SL05"
+      "ECP02-SL05",
+      "ECP02-SP02",
+      "ECP02-U02"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -134753,8 +133400,7 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "CP02-003",
-      "PR-436"
+      "CP02-003"
     ],
     "mentioned_from": [],
     "illustrator": "",
@@ -134801,7 +133447,9 @@
     "oracle_id": "ECP02-012",
     "is_dual_face": false,
     "name": "〔シンデレラガール〕渋谷凛",
-    "alt_names": [],
+    "alt_names": [
+      "凛＆未央"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -134823,7 +133471,11 @@
     "canonical_print": "ECP02-012",
     "prints": [
       "ECP02-012",
-      "ECP02-SL06"
+      "ECP02-SL06",
+      "ECP02-SP03a",
+      "ECP02-SP03b",
+      "ECP02-U03a",
+      "ECP02-U03b"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -134934,7 +133586,9 @@
     "oracle_id": "ECP02-015",
     "is_dual_face": false,
     "name": "〔シンデレラガール〕島村卯月",
-    "alt_names": [],
+    "alt_names": [
+      "〔普通の私に特別な魔法を〕島村卯月"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -134956,7 +133610,9 @@
     "canonical_print": "ECP02-015",
     "prints": [
       "ECP02-015",
-      "ECP02-SL09"
+      "ECP02-SL09",
+      "ECP02-SP04",
+      "ECP02-U04"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -135016,7 +133672,9 @@
     "oracle_id": "ECP02-017",
     "is_dual_face": false,
     "name": "〔シンデレラガール〕十時愛梨",
-    "alt_names": [],
+    "alt_names": [
+      "〔アニバーサリープリンセス〕十時愛梨"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "フォロワー"
@@ -135038,7 +133696,8 @@
     "canonical_print": "ECP02-017",
     "prints": [
       "ECP02-017",
-      "ECP02-SL11"
+      "ECP02-SL11",
+      "PR-442"
     ],
     "evolves_to": [
       "ECP02-018"
@@ -135436,7 +134095,9 @@
     "oracle_id": "ECP02-027",
     "is_dual_face": false,
     "name": "〔アタシ★スタイル〕城ヶ崎美嘉",
-    "alt_names": [],
+    "alt_names": [
+      "美嘉＆莉嘉"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "フォロワー"
@@ -135458,7 +134119,11 @@
     "canonical_print": "ECP02-027",
     "prints": [
       "ECP02-027",
-      "ECP02-SL14"
+      "ECP02-SL14",
+      "ECP02-SP05a",
+      "ECP02-SP05b",
+      "ECP02-U05a",
+      "ECP02-U05b"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -135478,7 +134143,9 @@
     "oracle_id": "ECP02-028",
     "is_dual_face": false,
     "name": "〔カム・ウィズミー！〕乙倉悠貴",
-    "alt_names": [],
+    "alt_names": [
+      "〔リプル・マイハート〕乙倉悠貴"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "フォロワー"
@@ -135500,7 +134167,9 @@
     "canonical_print": "ECP02-028",
     "prints": [
       "ECP02-028",
-      "ECP02-SL15"
+      "ECP02-SL15",
+      "ECP02-SP06",
+      "ECP02-U06"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -135971,7 +134640,9 @@
     "oracle_id": "ECP02-040",
     "is_dual_face": false,
     "name": "〔すく×2あかりんご〕辻野あかり",
-    "alt_names": [],
+    "alt_names": [
+      "あかり＆あきら"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -135993,7 +134664,11 @@
     "canonical_print": "ECP02-040",
     "prints": [
       "ECP02-040",
-      "ECP02-SL20"
+      "ECP02-SL20",
+      "ECP02-SP07a",
+      "ECP02-SP07b",
+      "ECP02-U07a",
+      "ECP02-U07b"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -136011,7 +134686,9 @@
     "oracle_id": "ECP02-041",
     "is_dual_face": false,
     "name": "〔夢見りあむのパーリナイ〕夢見りあむ",
-    "alt_names": [],
+    "alt_names": [
+      "〔絶対お気持ち宣言〕夢見りあむ"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "フォロワー"
@@ -136035,7 +134712,9 @@
     "canonical_print": "ECP02-041",
     "prints": [
       "ECP02-041",
-      "ECP02-SL21"
+      "ECP02-SL21",
+      "ECP02-SP08",
+      "ECP02-U08"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -136260,7 +134939,9 @@
     "oracle_id": "ECP02-047",
     "is_dual_face": false,
     "name": "〔シンデレラガール〕神崎蘭子",
-    "alt_names": [],
+    "alt_names": [
+      "〔祝宴の白姫〕神崎蘭子"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー"
@@ -136284,7 +134965,9 @@
     "canonical_print": "ECP02-047",
     "prints": [
       "ECP02-047",
-      "ECP02-SL22"
+      "ECP02-SL22",
+      "ECP02-SP09",
+      "ECP02-U09"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -136294,8 +134977,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "ECP02-052",
-      "ECP02-SP10"
+      "ECP02-052"
     ],
     "illustrator": "",
     "legal_status": null,
@@ -136484,7 +135166,9 @@
     "oracle_id": "ECP02-052",
     "is_dual_face": false,
     "name": "〔チャーミング・スウィート〕二宮飛鳥",
-    "alt_names": [],
+    "alt_names": [
+      "〔ゆららに待つ宵〕二宮飛鳥"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー"
@@ -136506,7 +135190,9 @@
     "canonical_print": "ECP02-052",
     "prints": [
       "ECP02-052",
-      "ECP02-SL27"
+      "ECP02-SL27",
+      "ECP02-SP10",
+      "ECP02-U10"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -136517,8 +135203,7 @@
     "mentions_by_name_contains": [
       "CP02-069",
       "CP02-070",
-      "ECP02-047",
-      "ECP02-SP09"
+      "ECP02-047"
     ],
     "mentioned_from": [],
     "illustrator": "",
@@ -136944,7 +135629,9 @@
     "oracle_id": "ECP02-063",
     "is_dual_face": false,
     "name": "〔シンデレラガール〕イヴ・サンタクロース",
-    "alt_names": [],
+    "alt_names": [
+      "〔ミラクルホーリーナイト〕イヴ・サンタクロース"
+    ],
     "class": "ビショップ",
     "card_type": [
       "フォロワー"
@@ -136966,7 +135653,9 @@
     "canonical_print": "ECP02-063",
     "prints": [
       "ECP02-063",
-      "ECP02-SL31"
+      "ECP02-SL31",
+      "ECP02-SP11",
+      "ECP02-U11"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -136984,7 +135673,9 @@
     "oracle_id": "ECP02-064",
     "is_dual_face": false,
     "name": "〔ルージュクチュール〕三船美優",
-    "alt_names": [],
+    "alt_names": [
+      "〔パルファム・ゼラニウム〕三船美優"
+    ],
     "class": "ビショップ",
     "card_type": [
       "フォロワー"
@@ -137006,7 +135697,9 @@
     "canonical_print": "ECP02-064",
     "prints": [
       "ECP02-064",
-      "ECP02-SL32"
+      "ECP02-SL32",
+      "ECP02-SP12",
+      "ECP02-U12"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -137348,1015 +136041,6 @@
     "illustrator": "",
     "legal_status": null,
     "min_price": 180
-  },
-  {
-    "oracle_id": "ECP02-T01",
-    "is_dual_face": false,
-    "name": "〔ラブレター〕五十嵐響子",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T01",
-    "prints": [
-      "ECP02-SL34",
-      "ECP02-T01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T02",
-    "is_dual_face": false,
-    "name": "〔つぼみ〕一ノ瀬志希",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T02",
-    "prints": [
-      "ECP02-SL35",
-      "ECP02-T02"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T03",
-    "is_dual_face": false,
-    "name": "〔Lunatic Show〕輿水幸子",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T03",
-    "prints": [
-      "ECP02-SL36",
-      "ECP02-T03"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T04",
-    "is_dual_face": false,
-    "name": "〔Nation Blue〕高垣楓",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T04",
-    "prints": [
-      "ECP02-SL37",
-      "ECP02-T04"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T05",
-    "is_dual_face": false,
-    "name": "〔エイトビートロッカー〕多田李衣菜",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T05",
-    "prints": [
-      "ECP02-SL38",
-      "ECP02-T05"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T06",
-    "is_dual_face": false,
-    "name": "〔パステルピンクな恋〕小早川紗枝",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T06",
-    "prints": [
-      "ECP02-SL39",
-      "ECP02-T06"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T07",
-    "is_dual_face": false,
-    "name": "〔Nation Blue〕神崎蘭子",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T07",
-    "prints": [
-      "ECP02-SL40",
-      "ECP02-T07"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T08",
-    "is_dual_face": false,
-    "name": "〔ド根性☆レポーター〕佐藤心",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T08",
-    "prints": [
-      "ECP02-SL41",
-      "ECP02-T08"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T09",
-    "is_dual_face": false,
-    "name": "〔Brand new！〕辻野あかり",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T09",
-    "prints": [
-      "ECP02-SL42",
-      "ECP02-T09"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 180
-  },
-  {
-    "oracle_id": "ECP02-T10",
-    "is_dual_face": false,
-    "name": "〔咲いてJewel〕二宮飛鳥",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T10",
-    "prints": [
-      "ECP02-SL43",
-      "ECP02-T10"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T11",
-    "is_dual_face": false,
-    "name": "〔つはものの道〕依田芳乃",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T11",
-    "prints": [
-      "ECP02-SL44",
-      "ECP02-T11"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T12",
-    "is_dual_face": false,
-    "name": "〔ステップトゥーミライ〕佐々木千枝",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T12",
-    "prints": [
-      "ECP02-SL45",
-      "ECP02-T12"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T13",
-    "is_dual_face": false,
-    "name": "〔イケナイGO AHEAD〕橘ありす",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T13",
-    "prints": [
-      "ECP02-SL46",
-      "ECP02-T13"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-T14",
-    "is_dual_face": false,
-    "name": "〔重ねた手と日々〕佐城雪美",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。",
-    "keywords": [],
-    "canonical_print": "ECP02-T14",
-    "prints": [
-      "ECP02-SL47",
-      "ECP02-T14"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "ECP02-SP01",
-    "is_dual_face": false,
-    "name": "〔女神は朝焼けの海に〕新田美波",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 3,
-    "atk": 3,
-    "hp": 3,
-    "text": "【ファンファーレ】自分のデッキから「カード名に『アナスタシア』を含むフォロワー」1枚を探し、EXエリアに置く。このターン、それをプレイする際、コストを-3する。\n【起動】【レッスン_1】これをアクト：相手の場のフォロワー1体を選ぶ。それをアクトする。それは次のそれのプレイヤーのスタートフェイズにスタンドしない。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP01",
-    "prints": [
-      "ECP02-SP01",
-      "ECP02-U01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [
-      "CP02-006",
-      "ECP02-001",
-      "ECP02-002",
-      "PR-435"
-    ],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 16800
-  },
-  {
-    "oracle_id": "ECP02-SP02",
-    "is_dual_face": false,
-    "name": "〔挑戦者たちのエール〕姫川友紀",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 7,
-    "atk": 4,
-    "hp": 4,
-    "text": "【疾走】\n【ファンファーレ】相手の場のフォロワーすべてに4ダメージ。自分の場のパッション・カードの元のコストの合計が10以上なら、代わりに8ダメージ。自分の場のパッション・カードの元のコストの合計が20以上なら、相手のリーダーすべてに4ダメージ。",
-    "keywords": [
-      "ファンファーレ",
-      "疾走"
-    ],
-    "canonical_print": "ECP02-SP02",
-    "prints": [
-      "ECP02-SP02",
-      "ECP02-U02"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1980
-  },
-  {
-    "oracle_id": "ECP02-SP03a",
-    "is_dual_face": false,
-    "name": "凛＆未央",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": 2,
-    "hp": 1,
-    "text": "【疾走】\n【ファンファーレ】【レッスン_2】：相手の場のフォロワー1体を選ぶ。それに「自分の場のクール・フォロワーの数」と同じダメージ。",
-    "keywords": [
-      "ファンファーレ",
-      "疾走",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP03a",
-    "prints": [
-      "ECP02-SP03a",
-      "ECP02-SP03b",
-      "ECP02-U03a",
-      "ECP02-U03b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 780
-  },
-  {
-    "oracle_id": "ECP02-SP04",
-    "is_dual_face": false,
-    "name": "〔普通の私に特別な魔法を〕島村卯月",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 6,
-    "atk": 4,
-    "hp": 4,
-    "text": "【ファンファーレ】自分のデッキから「これと同名を除くデレマス・カード」1枚を探し、EXエリアに置く。自分の墓場のキュート・カードが5枚以上なら、代わりに2枚まで。\n【起動】【レッスン_1】：自分のEXエリアのデレマス・カード1枚を選ぶ。それは「これをプレイする際、コストを-5する。」を持つ。この能力は1ターンに1回使える。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP04",
-    "prints": [
-      "ECP02-SP04",
-      "ECP02-U04"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [
-      "CP02-021",
-      "CP02-022"
-    ],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 2480
-  },
-  {
-    "oracle_id": "ECP02-SP05a",
-    "is_dual_face": false,
-    "name": "美嘉＆莉嘉",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": 3,
-    "hp": 3,
-    "text": "【ファンファーレ】自分のデッキからデレマス・スペル1枚を探し、EXエリアに置く。このターン、それをプレイする際、コストを-3する。\n【起動】【レッスン_1】：自分の墓場のデレマス・スペル1枚を選ぶ。それをEXエリアに置く。このターン、それをプレイする際、コストを-3する。この能力は自分の墓場のパッション・カードが10枚以上なら、1ターンに1回使える。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP05a",
-    "prints": [
-      "ECP02-SP05a",
-      "ECP02-SP05b",
-      "ECP02-U05a",
-      "ECP02-U05b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1280
-  },
-  {
-    "oracle_id": "ECP02-SP06",
-    "is_dual_face": false,
-    "name": "〔リプル・マイハート〕乙倉悠貴",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 3,
-    "atk": 3,
-    "hp": 3,
-    "text": "【ファンファーレ】相手の場のフォロワー1体を選ぶ。それは攻撃力-3/体力-3する。自分の場に他のキュート・フォロワーがいるなら、代わりに攻撃力-5/体力-5する。\n【起動】コスト0：これは【疾走】を持つ。『魔法のアイテム』1枚をEXエリアに置く。この能力は自分の墓場のキュート・カードが10枚以上なら、1ターンに1回使える。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "疾走"
-    ],
-    "canonical_print": "ECP02-SP06",
-    "prints": [
-      "ECP02-SP06",
-      "ECP02-U06"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1780
-  },
-  {
-    "oracle_id": "ECP02-SP07a",
-    "is_dual_face": false,
-    "name": "あかり＆あきら",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 3,
-    "atk": 3,
-    "hp": 3,
-    "text": "【突進】\n【ファンファーレ】自分のデッキの上3枚を墓場に置く。キュート・カードを墓場に置いたなら、自分のリーダーは体力+2する。クール・カードを墓場に置いたなら、これは【指定攻撃】を持つ。パッション・カードを墓場に置いたなら、これは攻撃力+2する。",
-    "keywords": [
-      "ファンファーレ",
-      "突進",
-      "指定攻撃"
-    ],
-    "canonical_print": "ECP02-SP07a",
-    "prints": [
-      "ECP02-SP07a",
-      "ECP02-SP07b",
-      "ECP02-U07a",
-      "ECP02-U07b"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 780
-  },
-  {
-    "oracle_id": "ECP02-SP08",
-    "is_dual_face": false,
-    "name": "〔絶対お気持ち宣言〕夢見りあむ",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 8,
-    "atk": 7,
-    "hp": 7,
-    "text": "【ファンファーレ】相手の場のフォロワーすべてに7ダメージ。自分の墓場のキュート・カードとクール・カードとパッション・カードがそれぞれ3枚以上なら、これは【疾走】を持つ。自分のPPを1回復する。\n【クイック】【起動】コスト1【レッスン_1】手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
-    "keywords": [
-      "クイック",
-      "ファンファーレ",
-      "起動",
-      "疾走",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP08",
-    "prints": [
-      "ECP02-SP08",
-      "ECP02-U08"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1780
-  },
-  {
-    "oracle_id": "ECP02-SP09",
-    "is_dual_face": false,
-    "name": "〔祝宴の白姫〕神崎蘭子",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 5,
-    "atk": 5,
-    "hp": 5,
-    "text": "【守護】\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それを破壊する。【ネクロチャージ_5】自分のリーダーは体力+3する。【NC_10】相手のリーダーすべてに3ダメージ。\n【起動】【レッスン_1】：1枚引く。この能力は1ターンに1回使える。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "守護",
-      "ネクロチャージ",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP09",
-    "prints": [
-      "ECP02-SP09",
-      "ECP02-U09"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [
-      "ECP02-052",
-      "ECP02-SP10"
-    ],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 4480
-  },
-  {
-    "oracle_id": "ECP02-SP10",
-    "is_dual_face": false,
-    "name": "〔ゆららに待つ宵〕二宮飛鳥",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": 3,
-    "hp": 2,
-    "text": "自分の場にクール・フォロワーが3体以上いる限り、これは【疾走】を持つ。\n【ファンファーレ】コスト2【レッスン_1】：自分のデッキから「カード名に『神崎蘭子』を含むフォロワー」1枚を探し、EXエリアに置く。このターン、それをプレイする際、コストを-4する。",
-    "keywords": [
-      "ファンファーレ",
-      "疾走",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP10",
-    "prints": [
-      "ECP02-SP10",
-      "ECP02-U10"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [
-      "CP02-069",
-      "CP02-070",
-      "ECP02-047",
-      "ECP02-SP09"
-    ],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 1980
-  },
-  {
-    "oracle_id": "ECP02-SP11",
-    "is_dual_face": false,
-    "name": "〔ミラクルホーリーナイト〕イヴ・サンタクロース",
-    "alt_names": [],
-    "class": "ビショップ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 1,
-    "atk": 1,
-    "hp": 2,
-    "text": "【ファンファーレ】自分のデッキの上2枚を見る。その中から、好きな枚数を好きな順にデッキの上に置く。残りを好きな順にデッキの下に置く。\n【起動】【レッスン_2】：自分のデッキの上1枚を見る。その中から、デレマス・カード1枚を公開して手札に加えてよい。この能力は1ターンに1回使える。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP11",
-    "prints": [
-      "ECP02-SP11",
-      "ECP02-U11"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 2480
-  },
-  {
-    "oracle_id": "ECP02-SP12",
-    "is_dual_face": false,
-    "name": "〔パルファム・ゼラニウム〕三船美優",
-    "alt_names": [],
-    "class": "ビショップ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 3,
-    "atk": 3,
-    "hp": 3,
-    "text": "【ファンファーレ】自分のデッキから元のコスト1のデレマス・フォロワー1枚を探し、場に出す。\n【起動】コスト1【レッスン_1】これをアクト：自分のデッキから元のコスト1のデレマス・フォロワー1枚を探し、場に出す。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "レッスン"
-    ],
-    "canonical_print": "ECP02-SP12",
-    "prints": [
-      "ECP02-SP12",
-      "ECP02-U12"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 780
   },
   {
     "oracle_id": "DSD01a-001",
@@ -139494,124 +137178,6 @@
     "min_price": 2280
   },
   {
-    "oracle_id": "PCS01-005",
-    "is_dual_face": false,
-    "name": "シズル＆リノ",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "プリコネ",
-      "ラビリンス"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": null,
-    "atk": 2,
-    "hp": 2,
-    "text": "【UB】【進化時】相手の場のフォロワーすべてに1ダメージ。",
-    "keywords": [
-      "UB",
-      "進化時"
-    ],
-    "canonical_print": "PCS01-005",
-    "prints": [
-      "PCS01-005"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 180
-  },
-  {
-    "oracle_id": "PCS01-019",
-    "is_dual_face": false,
-    "name": "ミソギ＆ミミ＆キョウカ",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "プリコネ",
-      "リトルリリカル"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": null,
-    "atk": 3,
-    "hp": 3,
-    "text": "【UB】【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。このターン、自分がスペルをプレイしていたなら、それのリーダーに2ダメージ。",
-    "keywords": [
-      "UB",
-      "進化時"
-    ],
-    "canonical_print": "PCS01-019",
-    "prints": [
-      "PCS01-019"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 380
-  },
-  {
-    "oracle_id": "PCS01-040",
-    "is_dual_face": false,
-    "name": "アキノ＆サレン",
-    "alt_names": [],
-    "class": "ビショップ",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "プリコネ",
-      "サレンディア救護院"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": null,
-    "atk": 4,
-    "hp": 4,
-    "text": "【UB】【進化時】相手の場のフォロワー1体を選ぶ。それに4ダメージ。それ以外の相手の場のフォロワーすべてに1ダメージ。\n----------\n【超進化時】相手のリーダーすべてと相手の場のフォロワーすべてに2ダメージ。",
-    "keywords": [
-      "UB",
-      "進化時",
-      "超進化時"
-    ],
-    "canonical_print": "PCS01-040",
-    "prints": [
-      "PCS01-040"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 280
-  },
-  {
     "oracle_id": "PCS01-048",
     "is_dual_face": false,
     "name": "プリンセスナイト",
@@ -139758,146 +137324,6 @@
     "illustrator": "",
     "legal_status": null,
     "min_price": 4980
-  },
-  {
-    "oracle_id": "PR-148",
-    "is_dual_face": false,
-    "name": "夢見りあむが見た夢",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "これをプレイする際、コストを+Xする。Xは「場のフォロワーの数」である。\n場のフォロワーすべてに7ダメージ。",
-    "keywords": [],
-    "canonical_print": "PR-148",
-    "prints": [
-      "PR-148"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "PR-149",
-    "is_dual_face": false,
-    "name": "美味しく､食べて……?",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "相手の場のフォロワー1体を選ぶ。それに3ダメージ。元のコスト1以下の自分の場のフォロワーすべては攻撃力+1する。",
-    "keywords": [],
-    "canonical_print": "PR-149",
-    "prints": [
-      "PR-149"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "PR-155",
-    "is_dual_face": false,
-    "name": "魔法の靴",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "PR-155",
-    "prints": [
-      "PR-155"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "PR-156",
-    "is_dual_face": false,
-    "name": "魔法のドレス",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル",
-      "トークン"
-    ],
-    "tribe": [
-      "デレマス"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 4,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+1する。1枚引く。\n----------\n（※バトル開始時、自分のデッキ構築が「アイドルマスターシンデレラガールズ」タイトル構築なら、『魔法のアイテム』5枚をEXエリアに置く）",
-    "keywords": [],
-    "canonical_print": "PR-156",
-    "prints": [
-      "PR-156"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 180
   },
   {
     "oracle_id": "PR-260",
@@ -140214,42 +137640,6 @@
     "min_price": 5480
   },
   {
-    "oracle_id": "PR-406",
-    "is_dual_face": false,
-    "name": "スパークルアサルト",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "傭兵"
-    ],
-    "title": null,
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "【クイック】\n相手のフォロワー1体を選ぶ。それに3ダメージ。それがエボルヴフォロワーなら、代わりに4ダメージ。",
-    "keywords": [
-      "クイック"
-    ],
-    "canonical_print": "PR-406",
-    "prints": [
-      "PR-406"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "ヤナガワ",
-    "legal_status": null,
-    "min_price": 580
-  },
-  {
     "oracle_id": "PR-417",
     "is_dual_face": false,
     "name": "EP",
@@ -140281,317 +137671,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "乃木Lief",
-    "legal_status": null,
-    "min_price": 780
-  },
-  {
-    "oracle_id": "PR-435",
-    "is_dual_face": false,
-    "name": "〔よくばりサニーバカンス〕アナスタシア",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 5,
-    "atk": 2,
-    "hp": 4,
-    "text": "自分のターン中、自分がカードをプレイしたとき、このターン中に3枚目のカードなら、自分のPPを2回復する。このターン中に5枚目のカードなら、自分の場のフォロワーすべては攻撃力+1/体力+1する。\n【ファンファーレ】自分のPPを2回復する。",
-    "keywords": [
-      "ファンファーレ"
-    ],
-    "canonical_print": "PR-435",
-    "prints": [
-      "PR-435"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [
-      "ECP02-004",
-      "ECP02-SP01"
-    ],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 2480
-  },
-  {
-    "oracle_id": "PR-436",
-    "is_dual_face": false,
-    "name": "〔サマーキャット☆ランデブー〕前川みく",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": 3,
-    "hp": 1,
-    "text": "【攻撃時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【起動】コスト1【レッスン_1】：これは【疾走】を持つ。",
-    "keywords": [
-      "起動",
-      "攻撃時",
-      "レッスン",
-      "疾走"
-    ],
-    "canonical_print": "PR-436",
-    "prints": [
-      "PR-436"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [
-      "ECP02-010"
-    ],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "PR-437",
-    "is_dual_face": false,
-    "name": "夏色の南風",
-    "alt_names": [],
-    "class": "エルフ",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 1,
-    "atk": null,
-    "hp": null,
-    "text": "1枚引く。自分の場に元のコスト5以上のフォロワーがいるなら、自分のPPを1回復する。",
-    "keywords": [],
-    "canonical_print": "PR-437",
-    "prints": [
-      "PR-437"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "PR-438",
-    "is_dual_face": false,
-    "name": "〔踏み出す夏空〕小日向美穂",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "キュート"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": 2,
-    "hp": 2,
-    "text": "自分の場にキュート・フォロワーが3体以上いる限り、これは【突進】を持つ。\n【ファンファーレ】自分のデッキの上1枚を見る。その中から、キュート・カード1枚を公開して手札に加えてよい。",
-    "keywords": [
-      "ファンファーレ",
-      "突進"
-    ],
-    "canonical_print": "PR-438",
-    "prints": [
-      "PR-438"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "PR-439",
-    "is_dual_face": false,
-    "name": "〔マーメイド・スター〕本田未央",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 6,
-    "atk": 5,
-    "hp": 5,
-    "text": "【突進】\n【ファンファーレ】自分のデッキの上2枚を見る。その中から、パッション・フォロワー1枚を場に出してよい。残りを墓場に置く。\n【起動】コスト2【レッスン_2】：自分のデッキの上2枚を見る。その中から、パッション・フォロワー1枚を場に出してよい。残りを墓場に置く。",
-    "keywords": [
-      "ファンファーレ",
-      "起動",
-      "突進",
-      "レッスン"
-    ],
-    "canonical_print": "PR-439",
-    "prints": [
-      "PR-439"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [
-      "CP02-021",
-      "CP02-024"
-    ],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "PR-440",
-    "is_dual_face": false,
-    "name": "メモリアル★ビーチサイド",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 3,
-    "atk": null,
-    "hp": null,
-    "text": "【クイック】\n相手の場のフォロワー1体を選ぶ。それに5ダメージ。自分の場にパッション・フォロワーがいるなら、1枚引く。",
-    "keywords": [
-      "クイック"
-    ],
-    "canonical_print": "PR-440",
-    "prints": [
-      "PR-440"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 80
-  },
-  {
-    "oracle_id": "PR-441",
-    "is_dual_face": false,
-    "name": "めぐりあう夏",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "デレマス",
-      "クール"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": null,
-    "hp": null,
-    "text": "【クイック】\n元のコスト3以下の相手の場のフォロワー1体を選ぶ。それを破壊する。自分のデッキの上1枚を墓場に置く。",
-    "keywords": [
-      "クイック"
-    ],
-    "canonical_print": "PR-441",
-    "prints": [
-      "PR-441"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "min_price": 280
-  },
-  {
-    "oracle_id": "PR-442",
-    "is_dual_face": false,
-    "name": "〔アニバーサリープリンセス〕十時愛梨",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "デレマス",
-      "パッション"
-    ],
-    "title": "アイドルマスター シンデレラガールズ",
-    "cost": 2,
-    "atk": 2,
-    "hp": 2,
-    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】コスト1【レッスン_1】手札のパッション・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに3ダメージ。",
-    "keywords": [
-      "進化",
-      "ファンファーレ",
-      "レッスン"
-    ],
-    "canonical_print": "PR-442",
-    "prints": [
-      "PR-442"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "min_price": 29800
   },
