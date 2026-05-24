@@ -41,11 +41,11 @@
         "破壊の継承者・アクシア",
         "殲滅の歌声"
       ],
-      "prev_id": "363e62"
+      "prev_id": "681d71"
     },
     {
       "id": "15fdc7",
-      "name": "簒奪ロイヤル1",
+      "name": "八獄簒奪ロイヤル",
       "class": "ロイヤル",
       "count": 36,
       "winner": 8,
@@ -96,7 +96,7 @@
     },
     {
       "id": "19c335",
-      "name": "ウィッチ（絶尽の真実・ライオ・真実の隠者）",
+      "name": "真実ウィッチ",
       "class": "ウィッチ",
       "count": 13,
       "winner": 1,
@@ -181,7 +181,7 @@
     },
     {
       "id": "c812b2",
-      "name": "簒奪ロイヤル2",
+      "name": "簒奪ロイヤル",
       "class": "ロイヤル",
       "count": 5,
       "winner": 1,
@@ -265,40 +265,6 @@
       "prev_id": "3e6581"
     },
     {
-      "id": "d95883",
-      "name": "アミュレットビショップ",
-      "class": "ビショップ",
-      "count": 3,
-      "winner": 0,
-      "finalist": 1,
-      "top8_share": 0.0114,
-      "win_share": 0.0,
-      "deck_rank": 1.33,
-      "top_cards": [
-        "テミスの審判",
-        "射殺す輝き",
-        "ダークオファリング"
-      ],
-      "prev_id": "dec6b4"
-    },
-    {
-      "id": "ebdaaf",
-      "name": "学園ウィッチ",
-      "class": "ウィッチ",
-      "count": 2,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0076,
-      "win_share": 0.0,
-      "deck_rank": -4.0,
-      "top_cards": [
-        "一世の探究",
-        "真理の大文豪・ユキシマ",
-        "インフィニットウィッチ・ドロシー"
-      ],
-      "prev_id": "d3e266"
-    },
-    {
       "id": "c43211",
       "name": "透京エルフ",
       "class": "エルフ",
@@ -351,7 +317,7 @@
     },
     {
       "id": "bbe734",
-      "name": "ナイトメア（混融の肯定者・混融の継承者・シャム＝ナクア）",
+      "name": "混融ナイトメア",
       "class": "ナイトメア",
       "count": 2,
       "winner": 0,
@@ -501,6 +467,91 @@
         "ゴブリンプリンセス"
       ],
       "prev_id": "d7e4ab"
+    },
+    {
+      "id": "fcff49",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0038,
+      "win_share": 0.0,
+      "deck_rank": 4.0,
+      "top_cards": [
+        "黄金の鐘",
+        "キャプチャーストリング",
+        "翼天の執行者・ウヌエル"
+      ],
+      "prev_id": "dec6b4"
+    },
+    {
+      "id": "ac08a3",
+      "name": "クレストビショップ",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0038,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "安息の神殿",
+        "輝く失意",
+        "絶望の顕現・マーウィン"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "350b58",
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0038,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "堕天",
+        "伝道の司祭・ロレーナ",
+        "ウルズ"
+      ],
+      "prev_id": "7b99db"
+    },
+    {
+      "id": "189e9c",
+      "name": "学園ビショップ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0038,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "破式の執行者・シュマエル",
+        "グレアの炎熱",
+        "宿題やるですぅ！"
+      ],
+      "prev_id": "d3e266"
+    },
+    {
+      "id": "b7327a",
+      "name": "魔法使いウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0038,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "水晶の魔剣士",
+        "獣面の魔術師",
+        "ルーキーマジシャン・サミー"
+      ],
+      "prev_id": "98315b"
     }
   ]
 }

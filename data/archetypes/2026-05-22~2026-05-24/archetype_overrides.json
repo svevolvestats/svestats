@@ -1,0 +1,35 @@
+{
+  "auto_splits": [],
+  "splits": [
+    {
+      "source": "d95883",
+      "rules": [
+        {
+          "required": ["黄金の鐘"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": ["安息の継承者・ヒメカ"],
+          "name": "クレストビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    },
+    {
+      "source": "ebdaaf",
+      "rules": [
+        {
+          "required": ["魔術の始祖・マナリア"],
+          "name": "学園ビショップ"
+        },
+        {
+          "required": [],
+          "name": "魔法使いウィッチ"
+        }
+      ]
+    }
+  ]
+}

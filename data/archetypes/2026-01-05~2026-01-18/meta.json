@@ -486,23 +486,6 @@
       "prev_id": "5ce94f"
     },
     {
-      "id": "363e62",
-      "name": "アイドルウィッチ",
-      "class": "ウィッチ",
-      "count": 2,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0042,
-      "win_share": 0.0,
-      "deck_rank": -1.5,
-      "top_cards": [
-        "ラピッドファイア",
-        "ファイアーチェイン",
-        "知恵の光"
-      ],
-      "prev_id": "4aead9"
-    },
-    {
       "id": "2160e4",
       "name": "スペルウマ娘",
       "class": "ウマ娘 プリティーダービー",
@@ -654,6 +637,40 @@
         "因果の迷い子・アンサージュ"
       ],
       "prev_id": "5f5125"
+    },
+    {
+      "id": "0be70c",
+      "name": "魔法使いウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0021,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "ラピッドファイア",
+        "知恵の光",
+        "陰陽の開祖・クオン"
+      ],
+      "prev_id": "8ac067"
+    },
+    {
+      "id": "681d71",
+      "name": "アイドルウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0021,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "白の章・黒の章",
+        "舞い戻る奏絶",
+        "奏絶の破壊・リーシェナ"
+      ],
+      "prev_id": "4aead9"
     }
   ]
 }
