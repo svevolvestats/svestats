@@ -56,6 +56,11 @@ async function serveWithOG(context, ogProps) {
 // archetype/[id].js
 async function onRequest(context) {
   const { params, request } = context;
+  const ua = request.headers.get("user-agent") || "";
+  const isBot = /discord|slack|twitter|facebook|kakao|bot/i.test(ua);
+  if (!isBot) {
+    return context.env.ASSETS.fetch(request);
+  }
   const archId = decodeURIComponent(params.id);
   const url = new URL(request.url);
   const origin = url.origin;
