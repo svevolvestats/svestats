@@ -4,9 +4,9 @@
     "end": "2026-05-24"
   },
   "prev_period": "2026-05-07~2026-05-21",
-  "total_decks": 264,
-  "total_winners": 33,
-  "total_finalists": 66,
+  "total_decks": 280,
+  "total_winners": 37,
+  "total_finalists": 72,
   "event_title": null,
   "archetypes": [
     {
@@ -16,8 +16,8 @@
       "count": 63,
       "winner": 8,
       "finalist": 14,
-      "top8_share": 0.2386,
-      "win_share": 0.2424,
+      "top8_share": 0.225,
+      "win_share": 0.2162,
       "deck_rank": -0.17,
       "top_cards": [
         "烈絶の侮蔑・ガルミーユ",
@@ -33,8 +33,8 @@
       "count": 46,
       "winner": 6,
       "finalist": 10,
-      "top8_share": 0.1742,
-      "win_share": 0.1818,
+      "top8_share": 0.1643,
+      "win_share": 0.1622,
       "deck_rank": 0.37,
       "top_cards": [
         "破壊の荒野",
@@ -50,8 +50,8 @@
       "count": 36,
       "winner": 8,
       "finalist": 13,
-      "top8_share": 0.1364,
-      "win_share": 0.2424,
+      "top8_share": 0.1286,
+      "win_share": 0.2162,
       "deck_rank": 1.69,
       "top_cards": [
         "簒奪の絶傑・オクトリス",
@@ -67,8 +67,8 @@
       "count": 26,
       "winner": 3,
       "finalist": 11,
-      "top8_share": 0.0985,
-      "win_share": 0.0909,
+      "top8_share": 0.0929,
+      "win_share": 0.0811,
       "deck_rank": 1.15,
       "top_cards": [
         "不殺の肯定者",
@@ -78,31 +78,14 @@
       "prev_id": "1bfd75"
     },
     {
-      "id": "5046ba",
-      "name": "スペルプリコネ",
-      "class": "プリンセスコネクト！Re:Dive",
-      "count": 16,
-      "winner": 4,
-      "finalist": 6,
-      "top8_share": 0.0606,
-      "win_share": 0.1212,
-      "deck_rank": 1.31,
-      "top_cards": [
-        "クロエ",
-        "チエル",
-        "ちぇるちぇる☆かあにばる"
-      ],
-      "prev_id": "b85d15"
-    },
-    {
       "id": "19c335",
       "name": "真実ウィッチ",
       "class": "ウィッチ",
       "count": 13,
       "winner": 1,
       "finalist": 2,
-      "top8_share": 0.0492,
-      "win_share": 0.0303,
+      "top8_share": 0.0464,
+      "win_share": 0.027,
       "deck_rank": -0.92,
       "top_cards": [
         "真実の掟",
@@ -112,13 +95,47 @@
       "prev_id": "acbfcc"
     },
     {
+      "id": "3c3abc",
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 12,
+      "winner": 2,
+      "finalist": 4,
+      "top8_share": 0.0429,
+      "win_share": 0.0541,
+      "deck_rank": 0.08,
+      "top_cards": [
+        "エリス",
+        "キャル",
+        "ダークエクリプス"
+      ],
+      "prev_id": "b85d15"
+    },
+    {
+      "id": "3c3abc",
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 12,
+      "winner": 2,
+      "finalist": 4,
+      "top8_share": 0.0429,
+      "win_share": 0.0541,
+      "deck_rank": 0.08,
+      "top_cards": [
+        "エリス",
+        "キャル",
+        "ダークエクリプス"
+      ],
+      "prev_id": "b85d15"
+    },
+    {
       "id": "af0b9d",
       "name": "コンボエルフ",
       "class": "エルフ",
       "count": 7,
       "winner": 0,
       "finalist": 3,
-      "top8_share": 0.0265,
+      "top8_share": 0.025,
       "win_share": 0.0,
       "deck_rank": 0.0,
       "top_cards": [
@@ -135,7 +152,7 @@
       "count": 5,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0189,
+      "top8_share": 0.0179,
       "win_share": 0.0,
       "deck_rank": -2.6,
       "top_cards": [
@@ -152,7 +169,7 @@
       "count": 5,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0189,
+      "top8_share": 0.0179,
       "win_share": 0.0,
       "deck_rank": -4.0,
       "top_cards": [
@@ -169,7 +186,7 @@
       "count": 5,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0189,
+      "top8_share": 0.0179,
       "win_share": 0.0,
       "deck_rank": -3.2,
       "top_cards": [
@@ -186,8 +203,8 @@
       "count": 5,
       "winner": 1,
       "finalist": 1,
-      "top8_share": 0.0189,
-      "win_share": 0.0303,
+      "top8_share": 0.0179,
+      "win_share": 0.027,
       "deck_rank": -1.2,
       "top_cards": [
         "極意たる空絶",
@@ -203,7 +220,7 @@
       "count": 4,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0152,
+      "top8_share": 0.0143,
       "win_share": 0.0,
       "deck_rank": -3.25,
       "top_cards": [
@@ -220,7 +237,7 @@
       "count": 4,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0152,
+      "top8_share": 0.0143,
       "win_share": 0.0,
       "deck_rank": -3.0,
       "top_cards": [
@@ -231,14 +248,48 @@
       "prev_id": "444047"
     },
     {
+      "id": "dc9cf6",
+      "name": "スペルランププリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 4,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.0143,
+      "win_share": 0.0541,
+      "deck_rank": 5.0,
+      "top_cards": [
+        "イノリ",
+        "ムイミ",
+        "ホマレ"
+      ],
+      "prev_id": "65cbec"
+    },
+    {
+      "id": "dc9cf6",
+      "name": "スペルランププリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 4,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.0143,
+      "win_share": 0.0541,
+      "deck_rank": 5.0,
+      "top_cards": [
+        "イノリ",
+        "ムイミ",
+        "ホマレ"
+      ],
+      "prev_id": "65cbec"
+    },
+    {
       "id": "cbe8e7",
       "name": "7ドラゴン",
       "class": "ドラゴン",
       "count": 3,
       "winner": 1,
       "finalist": 1,
-      "top8_share": 0.0114,
-      "win_share": 0.0303,
+      "top8_share": 0.0107,
+      "win_share": 0.027,
       "deck_rank": 0.0,
       "top_cards": [
         "荒波のドラグーン・ザハール",
@@ -254,7 +305,7 @@
       "count": 3,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0114,
+      "top8_share": 0.0107,
       "win_share": 0.0,
       "deck_rank": -1.67,
       "top_cards": [
@@ -271,8 +322,8 @@
       "count": 2,
       "winner": 1,
       "finalist": 1,
-      "top8_share": 0.0076,
-      "win_share": 0.0303,
+      "top8_share": 0.0071,
+      "win_share": 0.027,
       "deck_rank": 3.0,
       "top_cards": [
         "魔汚区役所職員・災藤",
@@ -288,7 +339,7 @@
       "count": 2,
       "winner": 0,
       "finalist": 1,
-      "top8_share": 0.0076,
+      "top8_share": 0.0071,
       "win_share": 0.0,
       "deck_rank": 1.5,
       "top_cards": [
@@ -305,7 +356,7 @@
       "count": 2,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0076,
+      "top8_share": 0.0071,
       "win_share": 0.0,
       "deck_rank": -1.5,
       "top_cards": [
@@ -322,7 +373,7 @@
       "count": 2,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0076,
+      "top8_share": 0.0071,
       "win_share": 0.0,
       "deck_rank": -3.5,
       "top_cards": [
@@ -334,12 +385,12 @@
     },
     {
       "id": "e0560f",
-      "name": "アグロビショップ",
+      "name": "クレストアグロビショップ",
       "class": "ビショップ",
       "count": 2,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0076,
+      "top8_share": 0.0071,
       "win_share": 0.0,
       "deck_rank": -2.0,
       "top_cards": [
@@ -356,7 +407,7 @@
       "count": 2,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0076,
+      "top8_share": 0.0071,
       "win_share": 0.0,
       "deck_rank": -3.5,
       "top_cards": [
@@ -373,7 +424,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": -4.0,
       "top_cards": [
@@ -390,7 +441,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 1,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": 3.0,
       "top_cards": [
@@ -407,7 +458,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 1,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": 5.0,
       "top_cards": [
@@ -424,7 +475,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": -5.0,
       "top_cards": [
@@ -441,7 +492,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": -4.0,
       "top_cards": [
@@ -458,7 +509,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": 0.0,
       "top_cards": [
@@ -475,7 +526,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 1,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": 4.0,
       "top_cards": [
@@ -492,7 +543,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": 0.0,
       "top_cards": [
@@ -509,7 +560,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": 0.0,
       "top_cards": [
@@ -526,7 +577,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": -3.0,
       "top_cards": [
@@ -543,7 +594,7 @@
       "count": 1,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0038,
+      "top8_share": 0.0036,
       "win_share": 0.0,
       "deck_rank": -5.0,
       "top_cards": [
