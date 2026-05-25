@@ -1,0 +1,26 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "c93652",
+      "rules": [
+        {
+          "required": ["真実の絶傑・ライオ"],
+          "name": "真実ウィッチ"
+        },
+        {
+          "required": [],
+          "name": "魔法使いウィッチ"
+        }
+      ]
+    }
+  ]
+}
