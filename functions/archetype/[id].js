@@ -28,10 +28,16 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     /(<meta property="og:title" content=")[^"]*(")/,
     `$1${escapeHtml(title)}$2`
   );
+  const descEscaped = escapeHtml(description);
+  const prevOut = out;
   out = out.replace(
-    /(<meta property="og:description" content=")[^"]*(")/,
-    `$1${escapeHtml(description)}$2`
+    /(<meta property="og:description" content=")[\s\S]*?(")/,
+    `$1${descEscaped}$2`
   );
+  if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  out = out.replace(/<meta property="og:url"[^>]*>/g, "");
+  out = out.replace(/<meta property="og:image"[^>]*>/g, "");
+  out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
     imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
@@ -59,7 +65,8 @@ async function onRequest(context) {
   const ua = request.headers.get("user-agent") || "";
   const isBot = /discord|slack|twitter|facebook|kakao|bot/i.test(ua);
   if (!isBot) {
-    return context.env.ASSETS.fetch(request);
+    const origin2 = new URL(request.url).origin;
+    return context.env.ASSETS.fetch(new Request(`${origin2}/index.html`));
   }
   const archId = decodeURIComponent(params.id);
   const url = new URL(request.url);
@@ -101,13 +108,13 @@ async function onRequest(context) {
       contextLabel = ev?.short_name || ev?.event_title || meta.event_title || p.start || "";
     }
     const periodStr = contextLabel ? `\uFF08${contextLabel}\uFF09` : "";
-    const title = `${archName}${periodStr}| \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
+    const title = `${archName}${periodStr} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
     const winPct = ((arch.win_share ?? 0) * 100).toFixed(2);
     const top8Pct = ((arch.top8_share ?? 0) * 100).toFixed(2);
     const totalLabel = meta.total_decks ? `TOP${meta.total_decks}` : "TOP8";
     const desc = `\u512A\u52DD: ${arch.winner ?? 0}\u56DE(${winPct}%) | ${totalLabel}: ${arch.count ?? 0}\u56DE(${top8Pct}%)`;
     const pageUrl = recap ? `${origin}/archetype/${archId}?recap=${recap}` : period ? `${origin}/archetype/${archId}?period=${encodeURIComponent(period)}` : `${origin}/archetype/${archId}`;
-    return serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
+    return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
   } catch {
     return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
   }

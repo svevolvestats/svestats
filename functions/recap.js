@@ -22,10 +22,16 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     /(<meta property="og:title" content=")[^"]*(")/,
     `$1${escapeHtml(title)}$2`
   );
+  const descEscaped = escapeHtml(description);
+  const prevOut = out;
   out = out.replace(
-    /(<meta property="og:description" content=")[^"]*(")/,
-    `$1${escapeHtml(description)}$2`
+    /(<meta property="og:description" content=")[\s\S]*?(")/,
+    `$1${descEscaped}$2`
   );
+  if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  out = out.replace(/<meta property="og:url"[^>]*>/g, "");
+  out = out.replace(/<meta property="og:image"[^>]*>/g, "");
+  out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
     imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
@@ -67,11 +73,11 @@ async function onRequest(context) {
     const p = meta.period ?? {};
     const dateStr = p.start && p.end && p.start !== p.end ? `${p.start}\u301C${p.end}` : p.start || "";
     const title = `${meta.event_title} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
-    const participantCount = meta.participants || meta.total_decks;
-    const desc = `${participantCount}\u540D\u53C2\u52A0\uFF08${dateStr}\uFF09\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790`;
+    const participantCount = meta.participants ?? meta.total_decks;
+    const desc = participantCount != null ? `${participantCount}\u540D\u53C2\u52A0\uFF08${dateStr}\uFF09\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790` : `\uFF08${dateStr}\uFF09\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790`;
     const pageUrl = `${origin}/recap?event=${resolvedEventId}`;
     const imageUrl = `${origin}/og/recap/${resolvedEventId}.png`;
-    return serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
+    return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
   } catch {
     return env.ASSETS.fetch(new Request(`${origin}/index.html`));
   }

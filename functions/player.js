@@ -9,10 +9,16 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     /(<meta property="og:title" content=")[^"]*(")/,
     `$1${escapeHtml(title)}$2`
   );
+  const descEscaped = escapeHtml(description);
+  const prevOut = out;
   out = out.replace(
-    /(<meta property="og:description" content=")[^"]*(")/,
-    `$1${escapeHtml(description)}$2`
+    /(<meta property="og:description" content=")[\s\S]*?(")/,
+    `$1${descEscaped}$2`
   );
+  if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  out = out.replace(/<meta property="og:url"[^>]*>/g, "");
+  out = out.replace(/<meta property="og:image"[^>]*>/g, "");
+  out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
     imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
@@ -39,7 +45,7 @@ async function onRequest(context) {
   const url = new URL(context.request.url);
   const origin = url.origin;
   try {
-    return serveWithOG(context, {
+    return await serveWithOG(context, {
       title: "\u9078\u624B\u691C\u7D22 | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40",
       description: "\u500B\u4EBA\u6226CS\u53C2\u52A0\u9078\u624B\u306E\u6226\u7E3E\u30FB\u30E9\u30F3\u30AD\u30F3\u30B0",
       imageUrl: `${origin}/og/player-index.png`,
