@@ -111,7 +111,7 @@ async function onRequest(context) {
     const title = `${archName}${periodStr} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
     const winPct = ((arch.win_share ?? 0) * 100).toFixed(2);
     const top8Pct = ((arch.top8_share ?? 0) * 100).toFixed(2);
-    const totalLabel = meta.total_decks ? `TOP${meta.total_decks}` : "TOP8";
+    const totalLabel = recap && meta.total_decks ? `TOP${meta.total_decks}` : "TOP8";
     const desc = `\u512A\u52DD: ${arch.winner ?? 0}\u56DE(${winPct}%) | ${totalLabel}: ${arch.count ?? 0}\u56DE(${top8Pct}%)`;
     const pageUrl = recap ? `${origin}/archetype/${archId}?recap=${recap}` : period ? `${origin}/archetype/${archId}?period=${encodeURIComponent(period)}` : `${origin}/archetype/${archId}`;
     return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
