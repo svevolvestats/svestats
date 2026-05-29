@@ -54,6 +54,7 @@ async function serveWithOG(context, ogProps) {
 }
 
 // player/[friendcode].js
+var VERCEL_OG = "https://project-1ahhd.vercel.app";
 async function onRequest(context) {
   const url = new URL(context.request.url);
   const origin = url.origin;
@@ -78,6 +79,7 @@ async function onRequest(context) {
     return serveWithOG(context, {
       title: `${name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description: desc,
+      imageUrl: p ? `${VERCEL_OG}/api/og/player?fc=${encodeURIComponent(fc)}` : void 0,
       pageUrl: `${origin}/player/${encodeURIComponent(fc)}`
     });
   } catch {

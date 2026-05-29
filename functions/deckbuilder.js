@@ -42,6 +42,7 @@ async function serveWithOG(context, ogProps) {
 
 // deckbuilder.js
 var R2_PUB = "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev";
+var VERCEL_OG = "https://project-1ahhd.vercel.app";
 async function decodeDeckParam(encoded) {
   try {
     const b64 = encoded.replace(/-/g, "+").replace(/_/g, "/");
@@ -97,7 +98,10 @@ async function onRequest(context) {
   if (!data) {
     return serveWithOG(context, { ...DEFAULT_OG, pageUrl: url.href });
   }
-  return serveWithOG(context, buildDeckOG(data, url.href));
+  const ogProps = buildDeckOG(data, url.href);
+  const paramKey = s ? `s=${s}` : `d=${d}`;
+  ogProps.imageUrl = `${VERCEL_OG}/api/og/deck?${paramKey}`;
+  return serveWithOG(context, ogProps);
 }
 export {
   onRequest

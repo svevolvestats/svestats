@@ -54,6 +54,7 @@ async function serveWithOG(context, ogProps) {
 }
 
 // venue/[id].js
+var VERCEL_OG = "https://project-1ahhd.vercel.app";
 function venueId(name) {
   let h = 5381;
   for (let i = 0; i < name.length; i++) {
@@ -72,11 +73,19 @@ async function onRequest(context) {
     const venueName = Object.keys(venueInfo).find((name) => venueId(name) === id);
     if (!venueName) throw new Error("not found");
     const info = venueInfo[venueName];
-    const prefName = info.address ? info.address : null;
-    const description = prefName || "Shadowverse EVOLVE \u500B\u4EBA\u6226CS\u958B\u50AC\u5E97\u8217";
+    const description = info.address || "Shadowverse EVOLVE \u500B\u4EBA\u6226CS\u958B\u50AC\u5E97\u8217";
+    const today = (/* @__PURE__ */ new Date()).toISOString().slice(0, 10);
+    const upcoming = (info.upcoming ?? []).filter((e) => e.date >= today).sort((a, b) => a.date.localeCompare(b.date)).slice(0, 5).map((e) => [e.date, e.type || "", e.name || ""]);
+    const ogParams = new URLSearchParams({
+      name: venueName,
+      addr: info.address || "",
+      ev: JSON.stringify(upcoming)
+    });
+    const imageUrl = `${VERCEL_OG}/api/og/venue?${ogParams}`;
     return serveWithOG(context, {
       title: `${venueName} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description,
+      imageUrl,
       pageUrl: `${origin}/venue/${id}`
     });
   } catch {
