@@ -472,7 +472,13 @@
         "friend_code": "YBMDN",
         "venue": "バトロコミニ前橋荒牧店",
         "date": "2025-01-05",
-        "pref_code": 10
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "不殺の使徒",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "967872",
@@ -502,7 +508,13 @@
         "friend_code": "IZFCR",
         "venue": "バトロコミニ前橋荒牧店",
         "date": "2025-01-05",
-        "pref_code": 10
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "高速遊撃のイルカ兵",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "974465",
@@ -538,7 +550,13 @@
         "friend_code": "YBMDN",
         "venue": "バトロコミニ前橋文京店",
         "date": "2025-01-04",
-        "pref_code": 10
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "不殺の使徒",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "948520",
@@ -584,6 +602,10 @@
         "variant_cards": [
           {
             "name": "クロスボウスナイパー",
+            "flag": "in"
+          },
+          {
+            "name": "不殺の使徒",
             "flag": "in"
           }
         ]
@@ -638,6 +660,10 @@
         "variant_cards": [
           {
             "name": "ワールドブレイク",
+            "flag": "in"
+          },
+          {
+            "name": "高速遊撃のイルカ兵",
             "flag": "in"
           },
           {
@@ -852,7 +878,13 @@
         "friend_code": "SSMUU",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2025-01-02",
-        "pref_code": 12
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "高速遊撃のイルカ兵",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "975789",
@@ -1226,7 +1258,13 @@
         "friend_code": "UGVRP",
         "venue": "CARDBOX青馬堂書店　矢向店",
         "date": "2024-12-31",
-        "pref_code": 14
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "反逆の命・ミリアム",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "934740",
@@ -1358,7 +1396,21 @@
         "friend_code": "XMJWP",
         "venue": "superトレスタ福重店",
         "date": "2025-01-05",
-        "pref_code": 40
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "スカイセイバー・リーシャ",
+            "flag": "in"
+          },
+          {
+            "name": "ワイルドリザード",
+            "flag": "out"
+          },
+          {
+            "name": "レヴィールの無法者",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "975963",
@@ -1370,7 +1422,13 @@
         "friend_code": "OGNWC",
         "venue": "BungBung住吉店",
         "date": "2025-01-05",
-        "pref_code": 28
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "反逆の命・ミリアム",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "974465",
@@ -1447,6 +1505,14 @@
           {
             "name": "劇的な撤退",
             "flag": "in"
+          },
+          {
+            "name": "スカイセイバー・リーシャ",
+            "flag": "in"
+          },
+          {
+            "name": "レヴィールの無法者",
+            "flag": "out"
           }
         ]
       },
@@ -1460,7 +1526,13 @@
         "friend_code": "YWIAC",
         "venue": "superトレスタ福重店",
         "date": "2025-01-05",
-        "pref_code": 40
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "反逆の命・ミリアム",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "975963",
@@ -1513,6 +1585,14 @@
           {
             "name": "マグナゼロ",
             "flag": "in"
+          },
+          {
+            "name": "反逆の命・ミリアム",
+            "flag": "in"
+          },
+          {
+            "name": "久川凪",
+            "flag": "out"
           }
         ]
       },
@@ -1559,6 +1639,10 @@
           {
             "name": "不思議な青空・アリス",
             "flag": "in"
+          },
+          {
+            "name": "ワイルドリザード",
+            "flag": "out"
           }
         ]
       },
@@ -1601,6 +1685,18 @@
           {
             "name": "劇的な撤退",
             "flag": "in"
+          },
+          {
+            "name": "スカイセイバー・リーシャ",
+            "flag": "in"
+          },
+          {
+            "name": "久川凪",
+            "flag": "out"
+          },
+          {
+            "name": "レヴィールの無法者",
+            "flag": "out"
           }
         ]
       },
@@ -1647,6 +1743,10 @@
           {
             "name": "レイジーナイト・ネラン",
             "flag": "in"
+          },
+          {
+            "name": "久川凪",
+            "flag": "out"
           }
         ]
       },
@@ -1705,6 +1805,14 @@
           {
             "name": "ミストデューク・アゾード",
             "flag": "in"
+          },
+          {
+            "name": "ワイルドリザード",
+            "flag": "out"
+          },
+          {
+            "name": "久川凪",
+            "flag": "out"
           }
         ]
       },
@@ -1766,7 +1874,21 @@
         "friend_code": "MHCKH",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2025-01-02",
-        "pref_code": 12
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "スカイセイバー・リーシャ",
+            "flag": "in"
+          },
+          {
+            "name": "久川凪",
+            "flag": "out"
+          },
+          {
+            "name": "レヴィールの無法者",
+            "flag": "out"
+          }
+        ]
       }
     ],
     "split_pairs": [
@@ -2031,6 +2153,14 @@
           {
             "name": "ダークドラグーン・フォルテ",
             "flag": "in"
+          },
+          {
+            "name": "大鎌の竜騎",
+            "flag": "in"
+          },
+          {
+            "name": "覇道の君臨者・フォルテ",
+            "flag": "out"
           }
         ]
       },
@@ -2093,6 +2223,10 @@
             "flag": "in"
           },
           {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          },
+          {
             "name": "残影のドラゴニュート",
             "flag": "out"
           }
@@ -2137,6 +2271,14 @@
           {
             "name": "《世界》・ゼルガネイア",
             "flag": "in"
+          },
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          },
+          {
+            "name": "覇道の君臨者・フォルテ",
+            "flag": "out"
           }
         ]
       },
@@ -2478,7 +2620,17 @@
         "friend_code": "RUPSF",
         "venue": "CARDBOX青馬堂書店　矢向店",
         "date": "2024-12-31",
-        "pref_code": 14
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "魔将軍・ヘクター",
+            "flag": "in"
+          },
+          {
+            "name": "夢のささやき",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "922622",
@@ -2495,6 +2647,10 @@
           {
             "name": "消えぬ怨恨",
             "flag": "in"
+          },
+          {
+            "name": "金鉱のネクロマンサー",
+            "flag": "out"
           }
         ]
       },
@@ -2525,6 +2681,10 @@
           {
             "name": "魔眼の蛇神・メドゥーサ",
             "flag": "in"
+          },
+          {
+            "name": "ベルエンジェル",
+            "flag": "in"
           }
         ]
       },
@@ -2538,7 +2698,13 @@
         "friend_code": "GTAZI",
         "venue": "ドラゴンスター日本橋2号店",
         "date": "2024-12-30",
-        "pref_code": 27
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "《世界》・ゼルガネイア",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "962889",
@@ -2567,6 +2733,10 @@
           {
             "name": "スパルトイサージェント",
             "flag": "in"
+          },
+          {
+            "name": "夢のささやき",
+            "flag": "out"
           }
         ]
       },
@@ -2585,6 +2755,10 @@
           {
             "name": "アザゼル",
             "flag": "in"
+          },
+          {
+            "name": "ベルエンジェル",
+            "flag": "in"
           }
         ]
       },
@@ -2598,7 +2772,13 @@
         "friend_code": "LUZJF",
         "venue": "TSUTAYA西友町田店",
         "date": "2025-01-05",
-        "pref_code": 13
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "魔将軍・ヘクター",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "967693",
@@ -2615,6 +2795,10 @@
           {
             "name": "ヴォイドリアライズ",
             "flag": "in"
+          },
+          {
+            "name": "金鉱のネクロマンサー",
+            "flag": "out"
           }
         ]
       },
@@ -2917,6 +3101,10 @@
         "pref_code": 8,
         "variant_cards": [
           {
+            "name": "蒼嵐竜 メイルストローム",
+            "flag": "in"
+          },
+          {
             "name": "希望の火 エルモ",
             "flag": "out"
           }
@@ -2932,7 +3120,13 @@
         "friend_code": "USQGQ",
         "venue": "カードショップさくら",
         "date": "2025-01-04",
-        "pref_code": 8
+        "pref_code": 8,
+        "variant_cards": [
+          {
+            "name": "蒼嵐竜 メイルストローム",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "962497",
@@ -3208,7 +3402,17 @@
         "friend_code": "CFMYC",
         "venue": "TSUTAYA富士八幡町店",
         "date": "2024-12-30",
-        "pref_code": 22
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "カインドブライト",
+            "flag": "out"
+          },
+          {
+            "name": "セト",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "928163",
@@ -3220,7 +3424,13 @@
         "friend_code": "FPKWA",
         "venue": "コミかる　伊勢崎店",
         "date": "2024-12-30",
-        "pref_code": 10
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "烈火の魔弾",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "928163",
@@ -3285,6 +3495,10 @@
             "flag": "in"
           },
           {
+            "name": "ブーストキッカー",
+            "flag": "in"
+          },
+          {
             "name": "包み込む願い",
             "flag": "out"
           }
@@ -3327,6 +3541,10 @@
           {
             "name": "ルナールプリースト",
             "flag": "in"
+          },
+          {
+            "name": "ブーストキッカー",
+            "flag": "in"
           }
         ]
       },
@@ -3347,6 +3565,10 @@
             "flag": "in"
           },
           {
+            "name": "戦巫女 タギツヒメ",
+            "flag": "in"
+          },
+          {
             "name": "ダークオファリング",
             "flag": "out"
           }
@@ -3362,7 +3584,17 @@
         "friend_code": "QQCLH",
         "venue": "ゲームショップ　コロッサス",
         "date": "2025-01-04",
-        "pref_code": 22
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "カインドブライト",
+            "flag": "out"
+          },
+          {
+            "name": "セト",
+            "flag": "out"
+          }
+        ]
       }
     ],
     "split_pairs": [
@@ -3978,7 +4210,13 @@
         "friend_code": "VUYGM",
         "venue": "CARDBOX青馬堂書店　矢向店",
         "date": "2024-12-31",
-        "pref_code": 14
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "揺蕩う意志・スピネ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "941538",
@@ -4029,6 +4267,10 @@
           {
             "name": "森を彩る者・エルフクイーン",
             "flag": "out"
+          },
+          {
+            "name": "揺蕩う意志・スピネ",
+            "flag": "out"
           }
         ]
       },
@@ -4054,7 +4296,17 @@
         "friend_code": "QFDOT",
         "venue": "superトレスタ福重店",
         "date": "2025-01-05",
-        "pref_code": 40
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "クロスボウスナイパー",
+            "flag": "in"
+          },
+          {
+            "name": "オシャレ女王・ネルシャ",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "965495",
@@ -4428,7 +4680,13 @@
         "friend_code": "STJGE",
         "venue": "カードショップさくら",
         "date": "2025-01-04",
-        "pref_code": 8
+        "pref_code": 8,
+        "variant_cards": [
+          {
+            "name": "カースエンチャンター",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "958053",
@@ -4444,6 +4702,10 @@
         "variant_cards": [
           {
             "name": "鬼呼びの導師",
+            "flag": "in"
+          },
+          {
+            "name": "カースエンチャンター",
             "flag": "in"
           }
         ]
@@ -4750,7 +5012,17 @@
         "friend_code": "XJKGS",
         "venue": "CARDBOX青馬堂書店　矢向店",
         "date": "2024-12-31",
-        "pref_code": 14
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "心読む少女・ミツェル",
+            "flag": "in"
+          },
+          {
+            "name": "神鉄圧錬法",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "934740",
@@ -4766,6 +5038,10 @@
         "variant_cards": [
           {
             "name": "森を彩る者・エルフクイーン",
+            "flag": "in"
+          },
+          {
+            "name": "自然の導き",
             "flag": "in"
           }
         ]
@@ -4785,6 +5061,10 @@
           {
             "name": "揺蕩う意志・スピネ",
             "flag": "in"
+          },
+          {
+            "name": "自然の導き",
+            "flag": "in"
           }
         ]
       },
@@ -4802,6 +5082,10 @@
         "variant_cards": [
           {
             "name": "マドロスエルフ",
+            "flag": "in"
+          },
+          {
+            "name": "大いなる回帰",
             "flag": "in"
           }
         ]
@@ -4838,7 +5122,17 @@
         "friend_code": "ZSVGS",
         "venue": "カードベース ジャブロー",
         "date": "2025-01-03",
-        "pref_code": 15
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "心読む少女・ミツェル",
+            "flag": "in"
+          },
+          {
+            "name": "神鉄圧錬法",
+            "flag": "in"
+          }
+        ]
       }
     ],
     "prev_period": "2024-12-16~2024-12-29"
@@ -5042,7 +5336,17 @@
         "friend_code": "NJGFT",
         "venue": "TSUTAYA富士八幡町店",
         "date": "2024-12-30",
-        "pref_code": 22
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "黄昏の刃・ナノ",
+            "flag": "in"
+          },
+          {
+            "name": "スカイセイバー・リーシャ",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "963326",
@@ -5287,7 +5591,15 @@
             "flag": "in"
           },
           {
+            "name": "レヴィールの無法者",
+            "flag": "in"
+          },
+          {
             "name": "原初の竜使い",
+            "flag": "out"
+          },
+          {
+            "name": "銀氷の吐息",
             "flag": "out"
           }
         ]
@@ -6459,6 +6771,14 @@
           {
             "name": "カオスウィザード",
             "flag": "in"
+          },
+          {
+            "name": "ブリッツ",
+            "flag": "out"
+          },
+          {
+            "name": "真理の発見",
+            "flag": "out"
           }
         ]
       },
@@ -6503,6 +6823,10 @@
           {
             "name": "ラピッドファイア",
             "flag": "in"
+          },
+          {
+            "name": "白霜の風",
+            "flag": "out"
           }
         ]
       }
@@ -6693,6 +7017,14 @@
           {
             "name": "アンネローゼ",
             "flag": "in"
+          },
+          {
+            "name": "ブレイジングブレス",
+            "flag": "out"
+          },
+          {
+            "name": "熾天使の剣",
+            "flag": "out"
           }
         ]
       },
@@ -6891,6 +7223,10 @@
           {
             "name": "闇喰らいの蝙蝠",
             "flag": "in"
+          },
+          {
+            "name": "漆黒の契約",
+            "flag": "out"
           }
         ]
       },
@@ -6913,6 +7249,14 @@
           {
             "name": "銀矢の狩人",
             "flag": "in"
+          },
+          {
+            "name": "パンクデビル・デモニア",
+            "flag": "out"
+          },
+          {
+            "name": "欲望の口付け",
+            "flag": "out"
           }
         ]
       },
@@ -6931,6 +7275,10 @@
           {
             "name": "天界の尖兵",
             "flag": "in"
+          },
+          {
+            "name": "ウールヴヘジン・アラガヴィ",
+            "flag": "out"
           }
         ]
       }
@@ -7181,6 +7529,10 @@
           {
             "name": "魔眼の蛇神・メドゥーサ",
             "flag": "in"
+          },
+          {
+            "name": "欲望の翼",
+            "flag": "out"
           }
         ]
       },
@@ -7203,6 +7555,14 @@
           {
             "name": "生命の量産",
             "flag": "in"
+          },
+          {
+            "name": "鮮血の首飾り",
+            "flag": "out"
+          },
+          {
+            "name": "欲望の口付け",
+            "flag": "out"
           }
         ]
       }
@@ -7491,6 +7851,14 @@
           {
             "name": "ダークオファリング",
             "flag": "in"
+          },
+          {
+            "name": "巡礼の道",
+            "flag": "out"
+          },
+          {
+            "name": "ムニャール登場",
+            "flag": "out"
           }
         ]
       },
@@ -7513,6 +7881,14 @@
           {
             "name": "極炎のドラグーン・ローラ",
             "flag": "in"
+          },
+          {
+            "name": "狂信の偶像",
+            "flag": "out"
+          },
+          {
+            "name": "ケリュネイア",
+            "flag": "out"
           }
         ]
       }
