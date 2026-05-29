@@ -68,18 +68,27 @@ async function onRequest(context) {
   const id = decodeURIComponent(params.id);
   const url = new URL(request.url);
   const origin = url.origin;
+  const gtid = url.searchParams.get("gtid") || "";
   try {
     const venueInfo = await fetchJson(`${origin}/data/venue_info_global.json`);
     const venueName = Object.keys(venueInfo).find((name) => venueId(name) === id);
     if (!venueName) throw new Error("not found");
     const info = venueInfo[venueName];
     const country = COUNTRY_NAME[info.country_id] || null;
-    const parts = [info.city_address, country].filter(Boolean);
-    const description = parts.length ? `${parts.join(", ")} \u2014 Shadowverse: Evolve` : "Shadowverse: Evolve";
+    const addrParts = [info.city_address, country].filter(Boolean);
+    const addr = addrParts.join(", ");
+    const description = addr ? `${addr} \u2014 Shadowverse: Evolve` : "Shadowverse: Evolve";
+    const now = /* @__PURE__ */ new Date();
+    const monthStart = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-01`;
+    const allUpcoming = info.upcoming ?? [];
+    const filteredUpcoming = gtid ? allUpcoming.filter((e) => String(e.game_title_id) === gtid) : allUpcoming;
+    const upcoming = filteredUpcoming.filter((e) => e.date >= monthStart).sort((a, b) => a.date.localeCompare(b.date)).slice(0, 20).map((e) => [e.date, e.type || "", e.name || ""]);
+    const imageUrl = `${origin}/api/og/venue/${id}`;
     return serveWithOG(context, {
       title: `${venueName} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description,
-      pageUrl: `${origin}/venue-global/${id}`
+      imageUrl,
+      pageUrl: `${origin}/venue-global/${id}${gtid ? `?gtid=${gtid}` : ""}`
     });
   } catch {
     return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
