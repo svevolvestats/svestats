@@ -3131,18 +3131,6 @@
         "pref_code": 15
       },
       {
-        "event": "1575927",
-        "deck_id": "2C5SB",
-        "rank": 2,
-        "tourney_size": 4,
-        "participants": 17,
-        "player": "果実農家/かじつのうか",
-        "friend_code": "YXEXC",
-        "venue": "カードベース ジャブロー",
-        "date": "2026-05-30",
-        "pref_code": 15
-      },
-      {
         "event": "1562498",
         "deck_id": "6GYJ7",
         "rank": 1,
@@ -3163,6 +3151,18 @@
             "flag": "in"
           }
         ]
+      },
+      {
+        "event": "1575927",
+        "deck_id": "2C5SB",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "果実農家/かじつのうか",
+        "friend_code": "YXEXC",
+        "venue": "カードベース ジャブロー",
+        "date": "2026-05-30",
+        "pref_code": 15
       },
       {
         "event": "1579953",
@@ -9299,210 +9299,176 @@
     ],
     "prev_period": "2026-05-07~2026-05-21"
   },
-  "eac8fe": {
+  "25b5e8": {
     "name": "スペルランププリコネ",
     "class": "プリンセスコネクト！Re:Dive",
     "prev_id": "65cbec",
     "cards": {
+      "イノリ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.34,
+        "avg_when_used": 3.0
+      },
+      "チエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.34,
+        "avg_when_used": 3.0
+      },
       "ムイミ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.289,
+        "rank": 0.34,
+        "avg_when_used": 3.0
+      },
+      "ちぇるちぇる☆かあにばる": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.34,
         "avg_when_used": 3.0
       },
       "いつか、また会う未来で": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.289,
-        "avg_when_used": 3.0
-      },
-      "ホマレ": {
-        "avg": 2.9091,
-        "ratio": 1.0,
-        "rank": 0.311,
-        "avg_when_used": 2.91
-      },
-      "イノリ": {
-        "avg": 2.7273,
-        "ratio": 0.9091,
-        "rank": 0.082,
-        "avg_when_used": 3.0
-      },
-      "チエル": {
-        "avg": 2.7273,
-        "ratio": 0.9091,
-        "rank": 0.082,
-        "avg_when_used": 3.0
-      },
-      "ちぇるちぇる☆かあにばる": {
-        "avg": 2.7273,
-        "ratio": 0.9091,
-        "rank": 0.082,
+        "rank": 0.34,
         "avg_when_used": 3.0
       },
       "ユニ": {
-        "avg": 2.7273,
-        "ratio": 0.9091,
-        "rank": 0.082,
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.34,
         "avg_when_used": 3.0
       },
+      "ホマレ": {
+        "avg": 2.9,
+        "ratio": 1.0,
+        "rank": 0.374,
+        "avg_when_used": 2.9
+      },
       "クロエ": {
-        "avg": 2.5455,
-        "ratio": 0.9091,
-        "rank": 0.079,
+        "avg": 2.8,
+        "ratio": 1.0,
+        "rank": 0.326,
         "avg_when_used": 2.8
       },
       "真理と実存の共同幻想": {
-        "avg": 2.3636,
-        "ratio": 0.9091,
-        "rank": 0.0,
+        "avg": 2.6,
+        "ratio": 1.0,
+        "rank": 0.146,
         "avg_when_used": 2.6
       },
       "オーロラヒーリング": {
-        "avg": 2.2727,
+        "avg": 2.3,
         "ratio": 1.0,
-        "rank": 0.276,
-        "avg_when_used": 2.27
-      },
-      "シェフィ": {
-        "avg": 2.1818,
-        "ratio": 0.7273,
-        "rank": 0.222,
-        "avg_when_used": 3.0
+        "rank": 0.364,
+        "avg_when_used": 2.3
       },
       "カヤ": {
-        "avg": 1.9091,
-        "ratio": 0.9091,
-        "rank": 0.103,
+        "avg": 2.1,
+        "ratio": 1.0,
+        "rank": 0.349,
         "avg_when_used": 2.1
       },
+      "シェフィ": {
+        "avg": 2.1,
+        "ratio": 0.7,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
       "ユイ": {
-        "avg": 1.7273,
-        "ratio": 0.9091,
-        "rank": 0.126,
+        "avg": 1.9,
+        "ratio": 1.0,
+        "rank": 0.386,
         "avg_when_used": 1.9
       },
-      "イリヤ": {
-        "avg": 1.1818,
-        "ratio": 1.0,
-        "rank": 0.374,
-        "avg_when_used": 1.18
-      },
       "ユキ": {
-        "avg": 1.1818,
-        "ratio": 0.8182,
-        "rank": 0.034,
+        "avg": 1.3,
+        "ratio": 0.9,
+        "rank": 0.138,
         "avg_when_used": 1.44
       },
+      "イリヤ": {
+        "avg": 1.1,
+        "ratio": 1.0,
+        "rank": 0.275,
+        "avg_when_used": 1.1
+      },
       "キョウカ": {
-        "avg": 0.8182,
-        "ratio": 0.2727,
-        "rank": 0.415,
+        "avg": 0.9,
+        "ratio": 0.3,
+        "rank": 0.905,
         "avg_when_used": 3.0
       },
       "羅刹涅槃・無式": {
-        "avg": 0.5455,
-        "ratio": 0.2727,
-        "rank": 0.49,
+        "avg": 0.6,
+        "ratio": 0.3,
+        "rank": 1.0,
         "avg_when_used": 2.0
       },
       "アキノ": {
-        "avg": 0.5455,
-        "ratio": 0.5455,
-        "rank": 0.095,
+        "avg": 0.6,
+        "ratio": 0.6,
+        "rank": 0.166,
         "avg_when_used": 1.0
       },
       "コールオブギルド": {
-        "avg": 0.4545,
-        "ratio": 0.1818,
-        "rank": 0.975,
-        "avg_when_used": 2.5
-      },
-      "スズメ": {
-        "avg": 0.4545,
-        "ratio": 0.1818,
-        "rank": 0.975,
-        "avg_when_used": 2.5
-      },
-      "アメス": {
-        "avg": 0.4545,
-        "ratio": 0.1818,
-        "rank": 0.763,
-        "avg_when_used": 2.5
-      },
-      "エリス": {
-        "avg": 0.4545,
-        "ratio": 0.1818,
-        "rank": 0.763,
-        "avg_when_used": 2.5
-      },
-      "クローチェ": {
-        "avg": 0.2727,
-        "ratio": 0.0909,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "サレン": {
-        "avg": 0.2727,
-        "ratio": 0.0909,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ライラエル": {
-        "avg": 0.2727,
-        "ratio": 0.0909,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "ヴルム": {
-        "avg": 0.1818,
-        "ratio": 0.0909,
-        "rank": 0.81,
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.671,
         "avg_when_used": 2.0
       },
-      "リンド": {
-        "avg": 0.0909,
-        "ratio": 0.0909,
-        "rank": 0.578,
-        "avg_when_used": 1.0
+      "スズメ": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.671,
+        "avg_when_used": 2.0
+      },
+      "アメス": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.103,
+        "avg_when_used": 2.0
+      },
+      "エリス": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.103,
+        "avg_when_used": 2.0
       }
     },
     "evolve_cards": {
       "イノリ": {
-        "avg": 1.9091,
-        "ratio": 0.9091
+        "avg": 2.1,
+        "ratio": 1.0
       },
       "ユイ": {
-        "avg": 1.7273,
-        "ratio": 0.9091
+        "avg": 1.9,
+        "ratio": 1.0
       },
       "カヤ": {
-        "avg": 1.7273,
-        "ratio": 0.9091
+        "avg": 1.9,
+        "ratio": 1.0
       },
       "シェフィ": {
-        "avg": 1.5455,
-        "ratio": 0.7273
+        "avg": 1.4,
+        "ratio": 0.7
       },
       "イリヤ": {
-        "avg": 1.0909,
+        "avg": 1.0,
         "ratio": 1.0
       },
       "ユキ": {
-        "avg": 0.8182,
-        "ratio": 0.8182
+        "avg": 0.9,
+        "ratio": 0.9
       },
       "キョウカ": {
-        "avg": 0.5455,
-        "ratio": 0.2727
+        "avg": 0.6,
+        "ratio": 0.3
       },
       "アメス": {
-        "avg": 0.4545,
-        "ratio": 0.1818
-      },
-      "サレン": {
-        "avg": 0.1818,
-        "ratio": 0.0909
+        "avg": 0.2,
+        "ratio": 0.1
       }
     },
     "decks": [
@@ -9601,36 +9567,6 @@
         "venue": "アイランド",
         "date": "2026-05-30",
         "pref_code": 28
-      },
-      {
-        "event": "1587899",
-        "deck_id": "ZHZ1",
-        "rank": 1,
-        "tourney_size": 5,
-        "participants": 35,
-        "player": "エルファイ",
-        "friend_code": "DXXIZ",
-        "venue": "TSUTAYA西五反田店",
-        "date": "2026-05-26",
-        "pref_code": 13,
-        "variant_cards": [
-          {
-            "name": "クローチェ",
-            "flag": "in"
-          },
-          {
-            "name": "ヴルム",
-            "flag": "in"
-          },
-          {
-            "name": "ユイ",
-            "flag": "out"
-          },
-          {
-            "name": "イノリ",
-            "flag": "out"
-          }
-        ]
       },
       {
         "event": "1571979",
@@ -16289,6 +16225,136 @@
         "venue": "カードボックス福山店",
         "date": "2026-05-24",
         "pref_code": 34
+      }
+    ],
+    "prev_period": "2026-05-07~2026-05-21"
+  },
+  "dd1a88": {
+    "name": "ミッドレンジプリコネ",
+    "class": "プリンセスコネクト！Re:Dive",
+    "prev_id": "6146d5",
+    "cards": {
+      "クローチェ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "コールオブギルド": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "アメス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "シェフィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "スズメ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ムイミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "いつか、また会う未来で": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "エリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "サレン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ホマレ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "ライラエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "オーロラヒーリング": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "イリヤ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "ヴルム": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "リンド": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "アメス": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "シェフィ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "イリヤ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "サレン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1587899",
+        "deck_id": "ZHZ1",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 35,
+        "player": "エルファイ",
+        "friend_code": "DXXIZ",
+        "venue": "TSUTAYA西五反田店",
+        "date": "2026-05-26",
+        "pref_code": 13
       }
     ],
     "prev_period": "2026-05-07~2026-05-21"
