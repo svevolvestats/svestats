@@ -39,9 +39,9 @@
     "name_b": "アイドルウィッチ",
     "class_a": "ウィッチ",
     "class_b": "ウィッチ",
-    "wins_a": 2,
+    "wins_a": 3,
     "wins_b": 1,
-    "total": 3
+    "total": 4
   },
   {
     "arch_a": "1e02f9",
@@ -73,8 +73,8 @@
     "class_a": "ウィッチ",
     "class_b": "ドラゴン",
     "wins_a": 3,
-    "wins_b": 6,
-    "total": 9
+    "wins_b": 7,
+    "total": 10
   },
   {
     "arch_a": "1f542c",
@@ -83,28 +83,6 @@
     "name_b": "アイドルウィッチ",
     "class_a": "アイドルマスター シンデレラガールズ",
     "class_b": "ウィッチ",
-    "wins_a": 0,
-    "wins_b": 1,
-    "total": 1
-  },
-  {
-    "arch_a": "1fde8a",
-    "arch_b": "4301ba",
-    "name_a": "機械ナイトメア",
-    "name_b": "機械ウィッチ",
-    "class_a": "ナイトメア",
-    "class_b": "ウィッチ",
-    "wins_a": 1,
-    "wins_b": 0,
-    "total": 1
-  },
-  {
-    "arch_a": "1fde8a",
-    "arch_b": "61be69",
-    "name_a": "機械ナイトメア",
-    "name_b": "八獄簒奪ロイヤル",
-    "class_a": "ナイトメア",
-    "class_b": "ロイヤル",
     "wins_a": 0,
     "wins_b": 1,
     "total": 1
@@ -243,7 +221,7 @@
   },
   {
     "arch_a": "25b5e8",
-    "arch_b": "a1af02",
+    "arch_b": "c0bcfc",
     "name_a": "スペルランププリコネ",
     "name_b": "ミロエルナイトメア",
     "class_a": "プリンセスコネクト！Re:Dive",
@@ -337,8 +315,8 @@
     "class_a": "エルフ",
     "class_b": "ドラゴン",
     "wins_a": 12,
-    "wins_b": 4,
-    "total": 16
+    "wins_b": 5,
+    "total": 17
   },
   {
     "arch_a": "4301ba",
@@ -374,6 +352,17 @@
     "total": 3
   },
   {
+    "arch_a": "4301ba",
+    "arch_b": "f9e3da",
+    "name_a": "機械ウィッチ",
+    "name_b": "機械ナイトメア",
+    "class_a": "ウィッチ",
+    "class_b": "ナイトメア",
+    "wins_a": 0,
+    "wins_b": 1,
+    "total": 1
+  },
+  {
     "arch_a": "478d14",
     "arch_b": "478d14",
     "name_a": "アイドルウィッチ",
@@ -402,9 +391,9 @@
     "name_b": "八獄簒奪ロイヤル",
     "class_a": "ウィッチ",
     "class_b": "ロイヤル",
-    "wins_a": 16,
+    "wins_a": 17,
     "wins_b": 13,
-    "total": 29
+    "total": 30
   },
   {
     "arch_a": "478d14",
@@ -474,6 +463,17 @@
   },
   {
     "arch_a": "478d14",
+    "arch_b": "c5b907",
+    "name_a": "アイドルウィッチ",
+    "name_b": "ゴーストナイトメア",
+    "class_a": "ウィッチ",
+    "class_b": "ナイトメア",
+    "wins_a": 1,
+    "wins_b": 0,
+    "total": 1
+  },
+  {
+    "arch_a": "478d14",
     "arch_b": "c801a5",
     "name_a": "アイドルウィッチ",
     "name_b": "学院ウィッチ",
@@ -523,9 +523,9 @@
     "name_b": "侮蔑ドラゴン",
     "class_a": "ウィッチ",
     "class_b": "ドラゴン",
-    "wins_a": 22,
-    "wins_b": 11,
-    "total": 33
+    "wins_a": 23,
+    "wins_b": 14,
+    "total": 37
   },
   {
     "arch_a": "4d67c2",
@@ -534,6 +534,17 @@
     "name_b": "侮蔑ドラゴン",
     "class_a": "ロイヤル",
     "class_b": "ドラゴン",
+    "wins_a": 0,
+    "wins_b": 1,
+    "total": 1
+  },
+  {
+    "arch_a": "521f1b",
+    "arch_b": "61be69",
+    "name_a": "2コスナイトメア",
+    "name_b": "八獄簒奪ロイヤル",
+    "class_a": "ナイトメア",
+    "class_b": "ロイヤル",
     "wins_a": 0,
     "wins_b": 1,
     "total": 1
@@ -562,6 +573,17 @@
   },
   {
     "arch_a": "61be69",
+    "arch_b": "731f50",
+    "name_a": "八獄簒奪ロイヤル",
+    "name_b": "混融ナイトメア",
+    "class_a": "ロイヤル",
+    "class_b": "ナイトメア",
+    "wins_a": 1,
+    "wins_b": 0,
+    "total": 1
+  },
+  {
+    "arch_a": "61be69",
     "arch_b": "9699f9",
     "name_a": "八獄簒奪ロイヤル",
     "name_b": "八獄ウィッチ",
@@ -570,17 +592,6 @@
     "wins_a": 0,
     "wins_b": 2,
     "total": 2
-  },
-  {
-    "arch_a": "61be69",
-    "arch_b": "b0ee78",
-    "name_a": "八獄簒奪ロイヤル",
-    "name_b": "2コスナイトメア",
-    "class_a": "ロイヤル",
-    "class_b": "ナイトメア",
-    "wins_a": 1,
-    "wins_b": 0,
-    "total": 1
   },
   {
     "arch_a": "61be69",
@@ -602,17 +613,6 @@
     "class_b": "ビショップ",
     "wins_a": 0,
     "wins_b": 1,
-    "total": 1
-  },
-  {
-    "arch_a": "61be69",
-    "arch_b": "c4cc01",
-    "name_a": "八獄簒奪ロイヤル",
-    "name_b": "混融ナイトメア",
-    "class_a": "ロイヤル",
-    "class_b": "ナイトメア",
-    "wins_a": 1,
-    "wins_b": 0,
     "total": 1
   },
   {
@@ -664,6 +664,17 @@
     "arch_b": "f9b5a9",
     "name_a": "八獄簒奪ロイヤル",
     "name_b": "宴楽ナイトメア",
+    "class_a": "ロイヤル",
+    "class_b": "ナイトメア",
+    "wins_a": 1,
+    "wins_b": 0,
+    "total": 1
+  },
+  {
+    "arch_a": "61be69",
+    "arch_b": "f9e3da",
+    "name_a": "八獄簒奪ロイヤル",
+    "name_b": "機械ナイトメア",
     "class_a": "ロイヤル",
     "class_b": "ナイトメア",
     "wins_a": 1,
@@ -738,7 +749,7 @@
   },
   {
     "arch_a": "875144",
-    "arch_b": "a1af02",
+    "arch_b": "c0bcfc",
     "name_a": "簒奪ロイヤル",
     "name_b": "ミロエルナイトメア",
     "class_a": "ロイヤル",
@@ -748,8 +759,19 @@
     "total": 1
   },
   {
+    "arch_a": "875144",
+    "arch_b": "f46aaf",
+    "name_a": "簒奪ロイヤル",
+    "name_b": "侮蔑ドラゴン",
+    "class_a": "ロイヤル",
+    "class_b": "ドラゴン",
+    "wins_a": 0,
+    "wins_b": 1,
+    "total": 1
+  },
+  {
     "arch_a": "9699f9",
-    "arch_b": "a1af02",
+    "arch_b": "c0bcfc",
     "name_a": "八獄ウィッチ",
     "name_b": "ミロエルナイトメア",
     "class_a": "ウィッチ",
@@ -897,8 +919,19 @@
     "name_b": "侮蔑ドラゴン",
     "class_a": "ドラゴン",
     "class_b": "ドラゴン",
-    "wins_a": 10,
+    "wins_a": 13,
     "wins_b": 8,
-    "total": 18
+    "total": 21
+  },
+  {
+    "arch_a": "f46aaf",
+    "arch_b": "f59b9b",
+    "name_a": "侮蔑ドラゴン",
+    "name_b": "アグロビショップ",
+    "class_a": "ドラゴン",
+    "class_b": "ビショップ",
+    "wins_a": 1,
+    "wins_b": 0,
+    "total": 1
   }
 ]
