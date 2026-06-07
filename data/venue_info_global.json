@@ -721,9 +721,18 @@
         "series_id": 10628,
         "game_title_id": 106,
         "organizer_id": 1635
+      },
+      {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "09:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1635
       }
     ],
-    "_last_seen": "2026-05-24",
+    "_last_seen": "2026-06-14",
     "organizer_id": 1635
   },
   "ASIAN GATE": {
@@ -943,6 +952,15 @@
         "organizer_id": 2
       },
       {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 2
+      },
+      {
         "date": "2026-06-20",
         "type": "ショップ大会",
         "time": "07:00",
@@ -957,6 +975,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 2
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "07:30",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
         "game_title_id": 106,
         "organizer_id": 2
       }
@@ -1713,6 +1740,62 @@
     ],
     "_last_seen": "2026-09-23",
     "organizer_id": 568
+  },
+  "Arkhive Domain": {
+    "country_id": 83,
+    "city_address": "Jakarta",
+    "address": "Jl.Kacer Blok X No.5, Pd.Bambu, Kec.Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",
+    "lat": -6.2334656,
+    "lng": 106.8942693,
+    "upcoming": [
+      {
+        "date": "2026-06-27",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2430
+      },
+      {
+        "date": "2026-07-25",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2430
+      },
+      {
+        "date": "2026-08-29",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2430
+      },
+      {
+        "date": "2026-09-26",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2430
+      },
+      {
+        "date": "2026-11-28",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2430
+      }
+    ],
+    "_last_seen": "2026-11-28",
+    "organizer_id": 2430
   },
   "Arzu TCG": {
     "country_id": 44,
@@ -2555,6 +2638,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 7
+      },
+      {
+        "date": "2026-06-12",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
         "game_title_id": 106,
         "organizer_id": 7
       },
@@ -4324,6 +4416,35 @@
     "_last_seen": "2026-06-24",
     "organizer_id": 1231
   },
+  "Courtside - For Tournaments": {
+    "country_id": 146,
+    "city_address": "Manila",
+    "address": "Ayala Malls Circuit, Circuit Makati, Makati City, Metro Manila, Philippines 1207",
+    "lat": 14.5729125,
+    "lng": 121.0195608,
+    "upcoming": [
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "01:00",
+        "name": "[EN] Bushiroad Summer Festival 2026 - Shadowverse: Evolve",
+        "series_id": 10426,
+        "game_title_id": 6,
+        "organizer_id": 2075
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "05:00",
+        "name": "[EN] Bushiroad Summer Festival 2026 - Shadowverse: Evolve Cross Craft Tournament",
+        "series_id": 10427,
+        "game_title_id": 6,
+        "organizer_id": 2075
+      }
+    ],
+    "_last_seen": "2026-06-28",
+    "organizer_id": 2075
+  },
   "Courtside - Glorietta": {
     "country_id": 146,
     "city_address": "Manila",
@@ -5289,9 +5410,18 @@
         "series_id": 8629,
         "game_title_id": 6,
         "organizer_id": 1315
+      },
+      {
+        "date": "2026-06-20",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1315
       }
     ],
-    "_last_seen": "2026-05-30",
+    "_last_seen": "2026-06-20",
     "organizer_id": 1315
   },
   "Dark Fox TCG": {
@@ -6691,8 +6821,8 @@
     "country_id": 118,
     "city_address": "Tuxpan",
     "address": "Fausto Vega Santander No.83",
-    "lat": 20.9586032,
-    "lng": -97.4014697,
+    "lat": 20.958774585113,
+    "lng": -97.401365339756,
     "upcoming": [
       {
         "date": "2026-05-02",
@@ -6747,9 +6877,18 @@
         "series_id": 8649,
         "game_title_id": 6,
         "organizer_id": 1642
+      },
+      {
+        "date": "2026-08-15",
+        "type": "ショップ大会",
+        "time": "01:30",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1642
       }
     ],
-    "_last_seen": "2026-05-31",
+    "_last_seen": "2026-08-15",
     "organizer_id": 1642
   },
   "ENV Collectible": {
@@ -9849,6 +9988,62 @@
     ],
     "_last_seen": "2026-06-28",
     "organizer_id": 582
+  },
+  "Gattchaa One Batam Mall": {
+    "country_id": 83,
+    "city_address": "Batam",
+    "address": "One Batam Mall Lantai 1 no. 15-A , Jalan Gurindam",
+    "lat": 1.1302904119988,
+    "lng": 104.04557244542,
+    "upcoming": [
+      {
+        "date": "2026-06-28",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2312
+      },
+      {
+        "date": "2026-07-05",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2312
+      },
+      {
+        "date": "2026-07-12",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2312
+      },
+      {
+        "date": "2026-07-19",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2312
+      },
+      {
+        "date": "2026-07-26",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2312
+      }
+    ],
+    "_last_seen": "2026-07-26",
+    "organizer_id": 2312
   },
   "Genesis Frontier - For Tournament": {
     "country_id": 3,
@@ -13688,6 +13883,62 @@
     "_last_seen": "2026-06-27",
     "organizer_id": 1191
   },
+  "Kelostrada Card Shop": {
+    "country_id": 147,
+    "city_address": "Warsaw",
+    "address": "Modlińska 6a/126C, 03-216 Warsaw",
+    "lat": 52.2928191,
+    "lng": 21.0012089,
+    "upcoming": [
+      {
+        "date": "2026-07-10",
+        "type": "ショップ大会",
+        "time": "16:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1249
+      },
+      {
+        "date": "2026-07-31",
+        "type": "ショップ大会",
+        "time": "16:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1249
+      },
+      {
+        "date": "2026-08-07",
+        "type": "ショップ大会",
+        "time": "16:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1249
+      },
+      {
+        "date": "2026-08-21",
+        "type": "ショップ大会",
+        "time": "16:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1249
+      },
+      {
+        "date": "2026-09-04",
+        "type": "ショップ大会",
+        "time": "16:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1249
+      }
+    ],
+    "_last_seen": "2026-09-04",
+    "organizer_id": 1249
+  },
   "Kelzor Roskilde": {
     "country_id": 50,
     "city_address": "Sjælland",
@@ -13763,6 +14014,62 @@
     ],
     "_last_seen": "2026-05-30",
     "organizer_id": 1977
+  },
+  "Kiko TCG Store": {
+    "country_id": 44,
+    "city_address": "Belen",
+    "address": "25 m al este del BCR",
+    "lat": 9.9798551388962,
+    "lng": -84.186997264624,
+    "upcoming": [
+      {
+        "date": "2026-07-18",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1908
+      },
+      {
+        "date": "2026-08-29",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1908
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1908
+      },
+      {
+        "date": "2026-10-17",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1908
+      },
+      {
+        "date": "2026-11-14",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1908
+      }
+    ],
+    "_last_seen": "2026-11-14",
+    "organizer_id": 1908
   },
   "King Kong Comics and Games": {
     "country_id": 2,
@@ -16331,9 +16638,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 587
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "09:01",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 587
       }
     ],
-    "_last_seen": "2026-06-25",
+    "_last_seen": "2026-06-28",
     "organizer_id": 587
   },
   "MiyoBoo Store": {
@@ -16474,6 +16790,26 @@
     ],
     "_last_seen": "2026-08-16",
     "organizer_id": 893
+  },
+  "Mystica San Ramón": {
+    "country_id": 44,
+    "city_address": "Palmares",
+    "address": "Calle central",
+    "lat": 10.0910284,
+    "lng": -84.4703933,
+    "upcoming": [
+      {
+        "date": "2026-07-26",
+        "type": "ショップ大会",
+        "time": "20:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1984
+      }
+    ],
+    "_last_seen": "2026-07-26",
+    "organizer_id": 1984
   },
   "Mythic Hobbies": {
     "country_id": 2,
@@ -17071,6 +17407,26 @@
     ],
     "_last_seen": "2026-08-15",
     "organizer_id": 101
+  },
+  "Nx Gallery - Esplanade": {
+    "country_id": 183,
+    "city_address": "Bangkok",
+    "address": "Esplanade Ratchada, 99 Ratchadaphisek Rd., Din Daeng Subdistrict, Din Daeng District, Bangkok 10400",
+    "lat": 13.763754,
+    "lng": 100.5678928,
+    "upcoming": [
+      {
+        "date": "2026-06-19",
+        "type": "その他",
+        "time": "19:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 2074
+      }
+    ],
+    "_last_seen": "2026-06-19",
+    "organizer_id": 2074
   },
   "Ogre Lair Palem": {
     "country_id": 83,
@@ -19780,6 +20136,15 @@
         "organizer_id": 1794
       },
       {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "07:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1794
+      },
+      {
         "date": "2026-06-28",
         "type": "ショップ大会",
         "time": "05:30",
@@ -20014,6 +20379,26 @@
     "_last_seen": "2026-08-07",
     "organizer_id": 173
   },
+  "R Card": {
+    "country_id": 183,
+    "city_address": "Bangkok",
+    "address": "Suan Luang Square Block 10 Chula Soi 5",
+    "lat": 13.7286376,
+    "lng": 100.4920504,
+    "upcoming": [
+      {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "09:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1454
+      }
+    ],
+    "_last_seen": "2026-06-13",
+    "organizer_id": 1454
+  },
   "RWT Collective": {
     "country_id": 2,
     "city_address": "Los Angeles",
@@ -20175,9 +20560,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1415
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "08:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1415
       }
     ],
-    "_last_seen": "2026-06-20",
+    "_last_seen": "2026-06-27",
     "organizer_id": 1415
   },
   "RedViperGames": {
@@ -22749,6 +23143,15 @@
         "time": "10:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1364
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "08:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
         "game_title_id": 106,
         "organizer_id": 1364
       }
@@ -27462,6 +27865,24 @@
         "organizer_id": 1416
       },
       {
+        "date": "2026-06-12",
+        "type": "その他",
+        "time": "12:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1416
+      },
+      {
+        "date": "2026-06-19",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1416
+      },
+      {
         "date": "2026-06-26",
         "type": "ショップ大会",
         "time": "12:30",
@@ -27556,6 +27977,15 @@
         "organizer_id": 1403
       },
       {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "08:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1403
+      },
+      {
         "date": "2026-06-21",
         "type": "ショップ大会",
         "time": "08:00",
@@ -27626,6 +28056,15 @@
         "time": "09:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1060
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "09:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
         "game_title_id": 106,
         "organizer_id": 1060
       }
@@ -27804,6 +28243,24 @@
         "organizer_id": 1076
       },
       {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "05:30",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1076
+      },
+      {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "08:30",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1076
+      },
+      {
         "date": "2026-06-20",
         "type": "ショップ大会",
         "time": "11:00",
@@ -27840,9 +28297,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1405
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1405
       }
     ],
-    "_last_seen": "2026-06-04",
+    "_last_seen": "2026-06-27",
     "organizer_id": 1405
   },
   "明志玩具": {
@@ -27916,11 +28382,29 @@
         "organizer_id": 1055
       },
       {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "07:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
         "date": "2026-06-20",
         "type": "ショップ大会",
         "time": "06:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
+        "date": "2026-06-21",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
         "game_title_id": 106,
         "organizer_id": 1055
       },
@@ -27936,6 +28420,26 @@
     ],
     "_last_seen": "2026-06-27",
     "organizer_id": 1055
+  },
+  "松梅桌遊舖": {
+    "country_id": 180,
+    "city_address": "高雄市",
+    "address": "1F., No. 11, Ruixing St., Qianzhen Dist., Kaohsiung City 806",
+    "lat": 22.6112528,
+    "lng": 120.3322238,
+    "upcoming": [
+      {
+        "date": "2026-06-21",
+        "type": "その他",
+        "time": "07:30",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 652
+      }
+    ],
+    "_last_seen": "2026-06-21",
+    "organizer_id": 652
   },
   "模卡玩具": {
     "country_id": 180,
@@ -27959,6 +28463,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1056
+      },
+      {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "07:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
         "game_title_id": 106,
         "organizer_id": 1056
       }
@@ -28072,6 +28585,24 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1417
+      },
+      {
+        "date": "2026-06-24",
+        "type": "その他",
+        "time": "11:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1417
+      },
+      {
+        "date": "2026-06-24",
+        "type": "その他",
+        "time": "12:30",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1417
       }
     ],
     "_last_seen": "2026-06-24",
@@ -28119,9 +28650,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1398
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "10:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1398
       }
     ],
-    "_last_seen": "2026-06-20",
+    "_last_seen": "2026-06-27",
     "organizer_id": 1398
   },
   "諾亞方舟益智遊戲-西屯店": {
@@ -28182,6 +28722,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 655
+      },
+      {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
         "game_title_id": 106,
         "organizer_id": 655
       },
@@ -28274,6 +28823,15 @@
         "time": "10:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1084
+      },
+      {
+        "date": "2026-06-20",
+        "type": "その他",
+        "time": "07:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
         "game_title_id": 106,
         "organizer_id": 1084
       },
@@ -28388,6 +28946,24 @@
         "organizer_id": 1086
       },
       {
+        "date": "2026-06-21",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1086
+      },
+      {
+        "date": "2026-06-21",
+        "type": "その他",
+        "time": "07:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1086
+      },
+      {
         "date": "2026-06-26",
         "type": "ショップ大会",
         "time": "11:30",
@@ -28462,11 +29038,29 @@
         "organizer_id": 1081
       },
       {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1081
+      },
+      {
         "date": "2026-06-14",
         "type": "ショップ大会",
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1081
+      },
+      {
+        "date": "2026-06-20",
+        "type": "その他",
+        "time": "06:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
         "game_title_id": 106,
         "organizer_id": 1081
       },
@@ -28570,9 +29164,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1089
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "08:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1089
       }
     ],
-    "_last_seen": "2026-06-24",
+    "_last_seen": "2026-06-28",
     "organizer_id": 1089
   },
   "貝克利": {
@@ -28655,6 +29258,24 @@
         "organizer_id": 1805
       },
       {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1805
+      },
+      {
+        "date": "2026-06-19",
+        "type": "その他",
+        "time": "07:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1805
+      },
+      {
         "date": "2026-06-20",
         "type": "ショップ大会",
         "time": "07:00",
@@ -28679,9 +29300,9 @@
   "雄大TCG休閒館": {
     "country_id": 180,
     "city_address": "Kaohsiung City",
-    "address": "高雄市鳳山區南成里國慶十一街171號",
-    "lat": 22.5894699,
-    "lng": 120.338885,
+    "address": "高雄市前金區中華四路312號",
+    "lat": 22.620343,
+    "lng": 120.2996151,
     "upcoming": [
       {
         "date": "2026-05-02",
@@ -28756,6 +29377,15 @@
         "organizer_id": 1102
       },
       {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "10:00",
+        "name": "[JP] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10981,
+        "game_title_id": 106,
+        "organizer_id": 1102
+      },
+      {
         "date": "2026-06-20",
         "type": "ショップ大会",
         "time": "13:00",
@@ -28772,9 +29402,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1102
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "10:00",
+        "name": "【JP】SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11094,
+        "game_title_id": 106,
+        "organizer_id": 1102
       }
     ],
-    "_last_seen": "2026-06-27",
+    "_last_seen": "2026-06-28",
     "organizer_id": 1102
   },
   "대구듀얼챔프": {
@@ -28964,6 +29603,24 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1497
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "05:00",
+        "name": "[JP][개인전] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10984,
+        "game_title_id": 106,
+        "organizer_id": 1497
+      },
+      {
+        "date": "2026-06-28",
+        "type": "その他",
+        "time": "05:00",
+        "name": "【JP】[개인전] SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11481,
+        "game_title_id": 106,
+        "organizer_id": 1497
       }
     ],
     "_last_seen": "2026-06-28",
@@ -29074,6 +29731,24 @@
         "time": "10:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1503
+      },
+      {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "04:00",
+        "name": "[JP][개인전] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10984,
+        "game_title_id": 106,
+        "organizer_id": 1503
+      },
+      {
+        "date": "2026-06-14",
+        "type": "その他",
+        "time": "04:00",
+        "name": "【JP】[개인전] SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11481,
         "game_title_id": 106,
         "organizer_id": 1503
       },
@@ -29253,6 +29928,24 @@
         "organizer_id": 1482
       },
       {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP][개인전] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10984,
+        "game_title_id": 106,
+        "organizer_id": 1482
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "06:00",
+        "name": "【JP】[개인전] SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11481,
+        "game_title_id": 106,
+        "organizer_id": 1482
+      },
+      {
         "date": "2026-06-30",
         "type": "ショップ大会",
         "time": "10:30",
@@ -29334,6 +30027,15 @@
         "time": "01:00",
         "name": "【JP】Shadowverse EVOLVE Japan Championship 2027 (JCS) in Korea Card Game Festival - 2026 Qualifier",
         "series_id": 11160,
+        "game_title_id": 106,
+        "organizer_id": 1478
+      },
+      {
+        "date": "2026-08-23",
+        "type": "その他",
+        "time": "05:30",
+        "name": "【JP】Shadowverse EVOLVE Festival Cup in Korea Card Game Festival - 2026",
+        "series_id": 11334,
         "game_title_id": 106,
         "organizer_id": 1478
       }
@@ -29688,6 +30390,24 @@
         "organizer_id": 1491
       },
       {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "04:30",
+        "name": "[JP][개인전] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10984,
+        "game_title_id": 106,
+        "organizer_id": 1491
+      },
+      {
+        "date": "2026-06-13",
+        "type": "その他",
+        "time": "04:30",
+        "name": "【JP】[개인전] SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11481,
+        "game_title_id": 106,
+        "organizer_id": 1491
+      },
+      {
         "date": "2026-06-20",
         "type": "ショップ大会",
         "time": "08:00",
@@ -29780,6 +30500,24 @@
         "organizer_id": 1145
       },
       {
+        "date": "2026-06-20",
+        "type": "その他",
+        "time": "04:00",
+        "name": "[JP][개인전] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10984,
+        "game_title_id": 106,
+        "organizer_id": 1145
+      },
+      {
+        "date": "2026-06-20",
+        "type": "その他",
+        "time": "04:00",
+        "name": "【JP】[개인전] SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11481,
+        "game_title_id": 106,
+        "organizer_id": 1145
+      },
+      {
         "date": "2026-06-21",
         "type": "ショップ大会",
         "time": "06:00",
@@ -29863,7 +30601,25 @@
         "organizer_id": 1494
       },
       {
+        "date": "2026-06-11",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
+        "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1494
+      },
+      {
         "date": "2026-06-17",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
+        "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1494
+      },
+      {
+        "date": "2026-06-18",
         "type": "ショップ大会",
         "time": "10:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
@@ -29879,9 +30635,18 @@
         "series_id": 10260,
         "game_title_id": 106,
         "organizer_id": 1494
+      },
+      {
+        "date": "2026-06-25",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
+        "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1494
       }
     ],
-    "_last_seen": "2026-06-24",
+    "_last_seen": "2026-06-25",
     "organizer_id": 1494
   },
   "카드홀릭 평택": {
@@ -30060,6 +30825,24 @@
         "time": "06:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - June 2026",
         "series_id": 10260,
+        "game_title_id": 106,
+        "organizer_id": 1535
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "05:00",
+        "name": "[JP][개인전] Shadowverse EVOLVE CS - June 2026",
+        "series_id": 10984,
+        "game_title_id": 106,
+        "organizer_id": 1535
+      },
+      {
+        "date": "2026-06-27",
+        "type": "その他",
+        "time": "05:00",
+        "name": "【JP】[개인전] SVE CS Serial Card Tournament – June 2026",
+        "series_id": 11481,
         "game_title_id": 106,
         "organizer_id": 1535
       }
