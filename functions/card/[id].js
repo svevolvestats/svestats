@@ -18,6 +18,10 @@ function cardImageUrl(print) {
   const filename = print.image_url.split("/").pop();
   return `${R2_BASE}/images/${print.expansion}/${filename}`;
 }
+function upcomingCardImageUrl(card) {
+  if (!card?.image_url) return null;
+  return `${R2_BASE}/images/upcoming/${card.image_url}`;
+}
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
@@ -80,15 +84,27 @@ async function onRequest(context) {
         resolvedCardId = hit.cardno;
       }
     }
-    if (!oracle) throw new Error("not found");
-    const printCardno = printsMap[resolvedCardId] ? resolvedCardId : oracle.canonical_print;
-    const print = printsMap[printCardno];
-    const title = `${print?.name || oracle.name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
-    const desc = (oracle.text || "").replace(/\n/g, " ").slice(0, 150) || "Shadowverse EVOLVE \u30AB\u30FC\u30C9";
+    if (oracle) {
+      const printCardno = printsMap[resolvedCardId] ? resolvedCardId : oracle.canonical_print;
+      const print = printsMap[printCardno];
+      const title2 = `${print?.name || oracle.name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
+      const desc2 = (oracle.text || "").replace(/\n/g, " ").slice(0, 150) || "Shadowverse EVOLVE \u30AB\u30FC\u30C9";
+      return serveWithOG(context, {
+        title: title2,
+        description: desc2,
+        imageUrl: cardImageUrl(print),
+        pageUrl: `${origin}/card/${cardId}`
+      });
+    }
+    const upcoming = await fetchJson(`${origin}/data/upcoming.json`);
+    const upcomingCard = upcoming.find((c) => c.oracle_id === cardId || c.oracle_id.toLowerCase() === idLower);
+    if (!upcomingCard) throw new Error("not found");
+    const title = `${upcomingCard.name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
+    const desc = (upcomingCard.text || "").replace(/\n/g, " ").slice(0, 150) || "Shadowverse EVOLVE \u30AB\u30FC\u30C9";
     return serveWithOG(context, {
       title,
       description: desc,
-      imageUrl: cardImageUrl(print),
+      imageUrl: upcomingCardImageUrl(upcomingCard),
       pageUrl: `${origin}/card/${cardId}`
     });
   } catch {
