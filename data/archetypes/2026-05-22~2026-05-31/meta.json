@@ -31,11 +31,11 @@
       "name": "アイドルウィッチ",
       "class": "ウィッチ",
       "count": 100,
-      "winner": 18,
+      "winner": 17,
       "finalist": 30,
       "top8_share": 0.1866,
-      "win_share": 0.2687,
-      "deck_rank": 1.16,
+      "win_share": 0.2537,
+      "deck_rank": 1.06,
       "top_cards": [
         "殲滅の歌声",
         "奏絶の顕現・リーシェナ",
@@ -218,11 +218,11 @@
       "name": "機械ウィッチ",
       "class": "ウィッチ",
       "count": 6,
-      "winner": 0,
+      "winner": 1,
       "finalist": 1,
       "top8_share": 0.0112,
-      "win_share": 0.0,
-      "deck_rank": -1.33,
+      "win_share": 0.0149,
+      "deck_rank": 0.33,
       "top_cards": [
         "蒼の反逆者・テトラ",
         "メカニカルガンナー",
@@ -297,23 +297,6 @@
         "ドアマンバット"
       ],
       "prev_id": "23de01"
-    },
-    {
-      "id": "c801a5",
-      "name": "学院ウィッチ",
-      "class": "ウィッチ",
-      "count": 3,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0056,
-      "win_share": 0.0,
-      "deck_rank": -3.67,
-      "top_cards": [
-        "一世の探究",
-        "真理の大文豪・ユキシマ",
-        "インフィニットウィッチ・ドロシー"
-      ],
-      "prev_id": "d3e266"
     },
     {
       "id": "6e08f3",
@@ -501,6 +484,23 @@
         "ヘイブンファイア"
       ],
       "prev_id": "600db4"
+    },
+    {
+      "id": "79e67f",
+      "name": "学院ウィッチ",
+      "class": "ウィッチ",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0037,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "マナリアの叡智",
+        "術式の教師・ジル",
+        "宿題やるですぅ！"
+      ],
+      "prev_id": "d3e266"
     },
     {
       "id": "1f542c",
@@ -705,6 +705,23 @@
         "サレン"
       ],
       "prev_id": "6146d5"
+    },
+    {
+      "id": "5e7c5f",
+      "name": "魔法使いウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0019,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "ルーキーマジシャン・サミー",
+        "水晶の魔剣士",
+        "グランドブレイク"
+      ],
+      "prev_id": "1d4d61"
     }
   ]
 }

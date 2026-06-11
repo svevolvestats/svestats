@@ -237,6 +237,18 @@
     },
     "decks": [
       {
+        "event": "1585726",
+        "deck_id": "7S6TK",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "GIBARA@CR侮蔑",
+        "friend_code": "LLTLK",
+        "venue": "マスターズスクウェア",
+        "date": "2026-05-31",
+        "pref_code": 13
+      },
+      {
         "event": "1594650",
         "deck_id": "50JPR",
         "rank": 1,
@@ -259,18 +271,6 @@
         "venue": "ドラグーン博多",
         "date": "2026-05-31",
         "pref_code": 40
-      },
-      {
-        "event": "1585726",
-        "deck_id": "7S6TK",
-        "rank": 1,
-        "tourney_size": 4,
-        "participants": 30,
-        "player": "GIBARA@CR侮蔑",
-        "friend_code": "LLTLK",
-        "venue": "マスターズスクウェア",
-        "date": "2026-05-31",
-        "pref_code": 13
       },
       {
         "event": "1588877",
@@ -321,6 +321,24 @@
         "venue": "カードショップWiZ",
         "date": "2026-05-31",
         "pref_code": 25
+      },
+      {
+        "event": "1585726",
+        "deck_id": "134TM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "ReN",
+        "friend_code": "YUCDJ",
+        "venue": "マスターズスクウェア",
+        "date": "2026-05-31",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "侮蔑の従者",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1583221",
@@ -383,24 +401,6 @@
           {
             "name": "侮蔑の狂信者",
             "flag": "out"
-          }
-        ]
-      },
-      {
-        "event": "1585726",
-        "deck_id": "134TM",
-        "rank": 2,
-        "tourney_size": 4,
-        "participants": 30,
-        "player": "ReN",
-        "friend_code": "YUCDJ",
-        "venue": "マスターズスクウェア",
-        "date": "2026-05-31",
-        "pref_code": 13,
-        "variant_cards": [
-          {
-            "name": "侮蔑の従者",
-            "flag": "in"
           }
         ]
       },
@@ -895,6 +895,18 @@
         "pref_code": 12
       },
       {
+        "event": "1596784",
+        "deck_id": "31C4B",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "やまっち",
+        "friend_code": "OUXJF",
+        "venue": "カードショップさくら",
+        "date": "2026-05-30",
+        "pref_code": 8
+      },
+      {
         "event": "1579953",
         "deck_id": "7P0VZ",
         "rank": 3,
@@ -936,12 +948,12 @@
       },
       {
         "event": "1596784",
-        "deck_id": "31C4B",
-        "rank": 3,
+        "deck_id": "6XWV1",
+        "rank": 4,
         "tourney_size": 4,
         "participants": 18,
-        "player": "やまっち",
-        "friend_code": "OUXJF",
+        "player": "yuyu",
+        "friend_code": "MTRDU",
         "venue": "カードショップさくら",
         "date": "2026-05-30",
         "pref_code": 8
@@ -981,18 +993,6 @@
         "venue": "カードショップデュエルガルド中央町店",
         "date": "2026-05-30",
         "pref_code": 15
-      },
-      {
-        "event": "1596784",
-        "deck_id": "6XWV1",
-        "rank": 4,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "yuyu",
-        "friend_code": "MTRDU",
-        "venue": "カードショップさくら",
-        "date": "2026-05-30",
-        "pref_code": 8
       },
       {
         "event": "1586300",
@@ -1111,6 +1111,18 @@
         ]
       },
       {
+        "event": "1596784",
+        "deck_id": "5HZEK",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 18,
+        "player": "ゆずりは",
+        "friend_code": "JFGDC",
+        "venue": "カードショップさくら",
+        "date": "2026-05-30",
+        "pref_code": 8
+      },
+      {
         "event": "1573401",
         "deck_id": "5C4Y3",
         "rank": 7,
@@ -1135,18 +1147,6 @@
             "flag": "out"
           }
         ]
-      },
-      {
-        "event": "1596784",
-        "deck_id": "5HZEK",
-        "rank": 7,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "ゆずりは",
-        "friend_code": "JFGDC",
-        "venue": "カードショップさくら",
-        "date": "2026-05-30",
-        "pref_code": 8
       },
       {
         "event": "1571102",
@@ -2547,55 +2547,55 @@
       "殲滅の歌声": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.634,
+        "rank": 0.626,
         "avg_when_used": 3.0
       },
       "破壊の荒野": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.634,
+        "rank": 0.626,
         "avg_when_used": 3.0
       },
       "奏絶の顕現・リーシェナ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.634,
+        "rank": 0.626,
         "avg_when_used": 3.0
       },
       "破壊の継承者・アクシア": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.634,
+        "rank": 0.626,
         "avg_when_used": 3.0
       },
       "奏絶の破壊・リーシェナ": {
         "avg": 2.99,
         "ratio": 1.0,
-        "rank": 0.64,
+        "rank": 0.631,
         "avg_when_used": 2.99
       },
       "破壊の狂信者": {
         "avg": 2.99,
         "ratio": 1.0,
-        "rank": 0.664,
+        "rank": 0.657,
         "avg_when_used": 2.99
       },
       "破壊の隠者": {
         "avg": 2.95,
         "ratio": 0.99,
-        "rank": 0.735,
+        "rank": 0.731,
         "avg_when_used": 2.98
       },
       "舞い戻る奏絶": {
         "avg": 2.9,
         "ratio": 1.0,
-        "rank": 0.652,
+        "rank": 0.64,
         "avg_when_used": 2.9
       },
       "白の章・黒の章": {
         "avg": 2.81,
         "ratio": 0.97,
-        "rank": 0.584,
+        "rank": 0.562,
         "avg_when_used": 2.9
       },
       "破壊の愉悦": {
@@ -2607,37 +2607,37 @@
       "破壊の祈祷者": {
         "avg": 2.59,
         "ratio": 0.99,
-        "rank": 0.853,
+        "rank": 0.893,
         "avg_when_used": 2.62
       },
       "破壊の従者": {
         "avg": 2.58,
         "ratio": 0.97,
-        "rank": 0.535,
+        "rank": 0.554,
         "avg_when_used": 2.66
       },
       "奏絶の崇拝者": {
         "avg": 2.34,
         "ratio": 0.89,
-        "rank": 0.486,
+        "rank": 0.428,
         "avg_when_used": 2.63
       },
       "破壊の絶傑・リーシェナ": {
         "avg": 1.16,
         "ratio": 0.95,
-        "rank": 0.677,
+        "rank": 0.687,
         "avg_when_used": 1.22
       },
       "破壊の歌声": {
         "avg": 0.76,
         "ratio": 0.45,
-        "rank": 0.599,
+        "rank": 0.683,
         "avg_when_used": 1.69
       },
       "破壊の肯定者": {
         "avg": 0.51,
         "ratio": 0.41,
-        "rank": 0.564,
+        "rank": 0.627,
         "avg_when_used": 1.24
       },
       "破壊の団結者": {
@@ -2649,49 +2649,49 @@
       "干絶の飢餓・ギルネリーゼ": {
         "avg": 0.15,
         "ratio": 0.07,
-        "rank": 0.322,
+        "rank": 0.325,
         "avg_when_used": 2.14
       },
       "《世界》・ゼルガネイア": {
         "avg": 0.1,
         "ratio": 0.1,
-        "rank": 0.463,
+        "rank": 0.25,
         "avg_when_used": 1.0
       },
       "造られし獣人・サフィラ": {
         "avg": 0.07,
         "ratio": 0.07,
-        "rank": 0.971,
+        "rank": 0.777,
         "avg_when_used": 1.0
       },
       "最果ての罪・サタン": {
         "avg": 0.05,
         "ratio": 0.05,
-        "rank": 0.878,
+        "rank": 0.898,
         "avg_when_used": 1.0
       },
       "干絶の顕現・ギルネリーゼ": {
         "avg": 0.04,
         "ratio": 0.02,
-        "rank": 0.385,
+        "rank": 0.37,
         "avg_when_used": 2.0
       },
       "熾天使の剣": {
         "avg": 0.03,
         "ratio": 0.02,
-        "rank": 0.386,
+        "rank": 0.368,
         "avg_when_used": 1.5
       },
       "真実の継承者・ヴェハリヤー": {
         "avg": 0.02,
         "ratio": 0.01,
-        "rank": 0.408,
+        "rank": 0.39,
         "avg_when_used": 2.0
       },
       "キャル": {
         "avg": 0.01,
         "ratio": 0.01,
-        "rank": 0.522,
+        "rank": 0.509,
         "avg_when_used": 1.0
       }
     },
@@ -2881,6 +2881,24 @@
         ]
       },
       {
+        "event": "1585726",
+        "deck_id": "6KBJP",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "あぶらな",
+        "friend_code": "WAVQU",
+        "venue": "マスターズスクウェア",
+        "date": "2026-05-31",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "《世界》・ゼルガネイア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
         "event": "1583221",
         "deck_id": "7J8AT",
         "rank": 3,
@@ -2957,24 +2975,6 @@
         ]
       },
       {
-        "event": "1585726",
-        "deck_id": "6KBJP",
-        "rank": 3,
-        "tourney_size": 4,
-        "participants": 30,
-        "player": "あぶらな",
-        "friend_code": "WAVQU",
-        "venue": "マスターズスクウェア",
-        "date": "2026-05-31",
-        "pref_code": 13,
-        "variant_cards": [
-          {
-            "name": "《世界》・ゼルガネイア",
-            "flag": "in"
-          }
-        ]
-      },
-      {
         "event": "1594650",
         "deck_id": "5Y2KZ",
         "rank": 4,
@@ -3023,18 +3023,6 @@
         "pref_code": 15
       },
       {
-        "event": "1582135",
-        "deck_id": "3XP3M",
-        "rank": 5,
-        "tourney_size": 3,
-        "participants": 12,
-        "player": "しゅうさん",
-        "friend_code": "LKOHG",
-        "venue": "カードキングダム徳島店",
-        "date": "2026-05-31",
-        "pref_code": 36
-      },
-      {
         "event": "1585726",
         "deck_id": "3AUY1",
         "rank": 5,
@@ -3055,6 +3043,18 @@
             "flag": "out"
           }
         ]
+      },
+      {
+        "event": "1582135",
+        "deck_id": "3XP3M",
+        "rank": 5,
+        "tourney_size": 3,
+        "participants": 12,
+        "player": "しゅうさん",
+        "friend_code": "LKOHG",
+        "venue": "カードキングダム徳島店",
+        "date": "2026-05-31",
+        "pref_code": 36
       },
       {
         "event": "1593301",
@@ -3249,9 +3249,21 @@
         "pref_code": 15
       },
       {
+        "event": "1575927",
+        "deck_id": "2C5SB",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 17,
+        "player": "果実農家/かじつのうか",
+        "friend_code": "YXEXC",
+        "venue": "カードベース ジャブロー",
+        "date": "2026-05-30",
+        "pref_code": 15
+      },
+      {
         "event": "1562498",
         "deck_id": "6GYJ7",
-        "rank": 1,
+        "rank": 2,
         "tourney_size": 5,
         "participants": 41,
         "player": "ヒマワリの種",
@@ -3271,16 +3283,16 @@
         ]
       },
       {
-        "event": "1575927",
-        "deck_id": "2C5SB",
+        "event": "1596784",
+        "deck_id": "6F2V9",
         "rank": 2,
         "tourney_size": 4,
-        "participants": 17,
-        "player": "果実農家/かじつのうか",
-        "friend_code": "YXEXC",
-        "venue": "カードベース ジャブロー",
+        "participants": 18,
+        "player": "Power",
+        "friend_code": "YRAHJ",
+        "venue": "カードショップさくら",
         "date": "2026-05-30",
-        "pref_code": 15
+        "pref_code": 8
       },
       {
         "event": "1579953",
@@ -3329,18 +3341,6 @@
         "venue": "カードショップデュエルガルド中央町店",
         "date": "2026-05-30",
         "pref_code": 15
-      },
-      {
-        "event": "1596784",
-        "deck_id": "6F2V9",
-        "rank": 2,
-        "tourney_size": 4,
-        "participants": 18,
-        "player": "Power",
-        "friend_code": "YRAHJ",
-        "venue": "カードショップさくら",
-        "date": "2026-05-30",
-        "pref_code": 8
       },
       {
         "event": "1586300",
@@ -4715,18 +4715,6 @@
         ]
       },
       {
-        "event": "1588915",
-        "deck_id": "2AR0T",
-        "rank": 7,
-        "tourney_size": 4,
-        "participants": 23,
-        "player": "セブン",
-        "friend_code": "LTLEF",
-        "venue": "BungBung住吉店",
-        "date": "2026-05-31",
-        "pref_code": 28
-      },
-      {
         "event": "1585726",
         "deck_id": "3Y96K",
         "rank": 7,
@@ -4737,6 +4725,18 @@
         "venue": "マスターズスクウェア",
         "date": "2026-05-31",
         "pref_code": 13
+      },
+      {
+        "event": "1588915",
+        "deck_id": "2AR0T",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 23,
+        "player": "セブン",
+        "friend_code": "LTLEF",
+        "venue": "BungBung住吉店",
+        "date": "2026-05-31",
+        "pref_code": 28
       },
       {
         "event": "1592150",
@@ -6197,18 +6197,6 @@
         ]
       },
       {
-        "event": "1573401",
-        "deck_id": "1VQPM",
-        "rank": 8,
-        "tourney_size": 5,
-        "participants": 64,
-        "player": "ンゴラド",
-        "friend_code": "FYUVK",
-        "venue": "ドラゴンスター日本橋2号店",
-        "date": "2026-05-30",
-        "pref_code": 27
-      },
-      {
         "event": "1596784",
         "deck_id": "6VUSP",
         "rank": 8,
@@ -6219,6 +6207,18 @@
         "venue": "カードショップさくら",
         "date": "2026-05-30",
         "pref_code": 8
+      },
+      {
+        "event": "1573401",
+        "deck_id": "1VQPM",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ンゴラド",
+        "friend_code": "FYUVK",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2026-05-30",
+        "pref_code": 27
       },
       {
         "event": "1587899",
@@ -7665,18 +7665,6 @@
         "pref_code": 4
       },
       {
-        "event": "1583221",
-        "deck_id": "54CVM",
-        "rank": 4,
-        "tourney_size": 3,
-        "participants": 15,
-        "player": "ちゃっぷりん",
-        "friend_code": "JBPCQ",
-        "venue": "CARDBOX青馬堂書店　矢向店",
-        "date": "2026-05-31",
-        "pref_code": 14
-      },
-      {
         "event": "1585726",
         "deck_id": "25CXF",
         "rank": 4,
@@ -7687,6 +7675,18 @@
         "venue": "マスターズスクウェア",
         "date": "2026-05-31",
         "pref_code": 13
+      },
+      {
+        "event": "1583221",
+        "deck_id": "54CVM",
+        "rank": 4,
+        "tourney_size": 3,
+        "participants": 15,
+        "player": "ちゃっぷりん",
+        "friend_code": "JBPCQ",
+        "venue": "CARDBOX青馬堂書店　矢向店",
+        "date": "2026-05-31",
+        "pref_code": 14
       },
       {
         "event": "1583221",
@@ -10633,85 +10633,85 @@
       "機械兵": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "メカニカルガンナー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "叡智の結実": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "清澄の蒼・テトラ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "マシンブックソーサラー": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "蒼の反逆者・テトラ": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "結束の魔術": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "戦慄の侵略": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "極致の創造主・ベルフォメット": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "天地の侵略者・ベルフォメット": {
         "avg": 3.0,
         "ratio": 1.0,
-        "rank": 0.478,
+        "rank": 0.581,
         "avg_when_used": 3.0
       },
       "フロートボードマーセナリー": {
         "avg": 2.6667,
         "ratio": 1.0,
-        "rank": 0.529,
+        "rank": 0.676,
         "avg_when_used": 2.67
       },
       "ソニック・フォー": {
         "avg": 2.0,
         "ratio": 1.0,
-        "rank": 0.242,
+        "rank": 0.21,
         "avg_when_used": 2.0
       },
       "撃針の看守": {
         "avg": 1.8333,
         "ratio": 0.8333,
-        "rank": 0.66,
+        "rank": 0.982,
         "avg_when_used": 2.2
       },
       "弾哭の執行者・キルザエル": {
         "avg": 1.6667,
         "ratio": 0.8333,
-        "rank": 0.337,
+        "rank": 0.6,
         "avg_when_used": 2.0
       },
       "アイアロンの支配者・ベルフォメット": {
@@ -10729,13 +10729,13 @@
       "ウィズダム・コア": {
         "avg": 0.1667,
         "ratio": 0.1667,
-        "rank": 0.631,
+        "rank": 0.561,
         "avg_when_used": 1.0
       },
       "機械神": {
         "avg": 0.1667,
         "ratio": 0.1667,
-        "rank": 0.631,
+        "rank": 0.561,
         "avg_when_used": 1.0
       }
     },
@@ -10761,7 +10761,7 @@
       {
         "event": "1562498",
         "deck_id": "4J25V",
-        "rank": 2,
+        "rank": 1,
         "tourney_size": 5,
         "participants": 41,
         "player": "渋井丸択雄",
@@ -12170,312 +12170,6 @@
       }
     ],
     "prev_period": "2026-05-07~2026-05-21"
-  },
-  "c801a5": {
-    "name": "学院ウィッチ",
-    "class": "ウィッチ",
-    "prev_id": "d3e266",
-    "cards": {
-      "インフィニットウィッチ・ドロシー": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.613,
-        "avg_when_used": 3.0
-      },
-      "一世の探究": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.613,
-        "avg_when_used": 3.0
-      },
-      "真理の大文豪・ユキシマ": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 0.613,
-        "avg_when_used": 3.0
-      },
-      "術式の教師・ジル": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "グレアの炎熱": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "宿題やるですぅ！": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "マナリアの叡智": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "アドラブルティーチャー・ミラ": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "魔術の始祖・マナリア": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "破式の執行者・シュマエル": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "マナリアの知識": {
-        "avg": 1.6667,
-        "ratio": 0.6667,
-        "rank": 0.981,
-        "avg_when_used": 2.5
-      },
-      "マナリアウィザード・クレイグ": {
-        "avg": 1.6667,
-        "ratio": 0.6667,
-        "rank": 0.981,
-        "avg_when_used": 2.5
-      },
-      "連鎖する雷": {
-        "avg": 1.6667,
-        "ratio": 1.0,
-        "rank": 0.319,
-        "avg_when_used": 1.67
-      },
-      "真実の継承者・ヴェハリヤー": {
-        "avg": 1.3333,
-        "ratio": 0.6667,
-        "rank": 0.185,
-        "avg_when_used": 2.0
-      },
-      "獣面の魔術師": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "ルーキーマジシャン・サミー": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "グランドブレイク": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "剥落の暴圧": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "《愚者》・リンクル": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "グリモアソーサラー": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "水晶の魔剣士": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真実の宣告": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "マナリアクイーン・アン": {
-        "avg": 0.6667,
-        "ratio": 0.3333,
-        "rank": 0.867,
-        "avg_when_used": 2.0
-      },
-      "次元の超越": {
-        "avg": 0.6667,
-        "ratio": 0.6667,
-        "rank": 0.867,
-        "avg_when_used": 1.0
-      },
-      "マナリアの竜姫・グレア": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 0.78,
-        "avg_when_used": 1.0
-      },
-      "蒙昧なる術式": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 0.279,
-        "avg_when_used": 1.0
-      },
-      "アブソーブスペル": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 0.78,
-        "avg_when_used": 1.0
-      },
-      "コールチェイン": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 0.78,
-        "avg_when_used": 1.0
-      }
-    },
-    "evolve_cards": {
-      "魔術の始祖・マナリア": {
-        "avg": 2.0,
-        "ratio": 0.6667
-      },
-      "マナリアウィザード・クレイグ": {
-        "avg": 1.6667,
-        "ratio": 0.6667
-      },
-      "真実の継承者・ヴェハリヤー": {
-        "avg": 1.0,
-        "ratio": 0.6667
-      },
-      "グリモアソーサラー": {
-        "avg": 1.0,
-        "ratio": 0.3333
-      },
-      "マナリアの竜姫・グレア": {
-        "avg": 0.6667,
-        "ratio": 0.3333
-      },
-      "イクシードブラスト": {
-        "avg": 0.6667,
-        "ratio": 0.3333
-      },
-      "《愚者》・リンクル": {
-        "avg": 0.6667,
-        "ratio": 0.3333
-      },
-      "水晶の魔剣士": {
-        "avg": 0.6667,
-        "ratio": 0.3333
-      },
-      "シュヴァルグラン": {
-        "avg": 0.6667,
-        "ratio": 0.3333
-      },
-      "ルーキーマジシャン・サミー": {
-        "avg": 0.3333,
-        "ratio": 0.3333
-      },
-      "越光の六銘伝・マナ": {
-        "avg": 0.3333,
-        "ratio": 0.3333
-      },
-      "カオスウィザード": {
-        "avg": 0.3333,
-        "ratio": 0.3333
-      }
-    },
-    "decks": [
-      {
-        "event": "1576260",
-        "deck_id": "5FS77",
-        "rank": 6,
-        "tourney_size": 3,
-        "participants": 14,
-        "player": "soma",
-        "friend_code": "DOQYW",
-        "venue": "ゲームショップ　コロッサス",
-        "date": "2026-05-31",
-        "pref_code": 22,
-        "variant_cards": [
-          {
-            "name": "マナリアクイーン・アン",
-            "flag": "in"
-          },
-          {
-            "name": "マナリアの竜姫・グレア",
-            "flag": "in"
-          }
-        ]
-      },
-      {
-        "event": "1595210",
-        "deck_id": "5CWV1",
-        "rank": 5,
-        "tourney_size": 5,
-        "participants": 38,
-        "player": "きむこつ",
-        "friend_code": "EZHIO",
-        "venue": "トーナメントセンターバトロコ八千代台駅前",
-        "date": "2026-05-24",
-        "pref_code": 12,
-        "variant_cards": [
-          {
-            "name": "獣面の魔術師",
-            "flag": "in"
-          },
-          {
-            "name": "ルーキーマジシャン・サミー",
-            "flag": "in"
-          },
-          {
-            "name": "術式の教師・ジル",
-            "flag": "out"
-          },
-          {
-            "name": "グレアの炎熱",
-            "flag": "out"
-          }
-        ]
-      },
-      {
-        "event": "1570370",
-        "deck_id": "68QLK",
-        "rank": 8,
-        "tourney_size": 3,
-        "participants": 14,
-        "player": "　たけ　",
-        "friend_code": "YYFSS",
-        "venue": "TSUTAYA山口葵店",
-        "date": "2026-05-24",
-        "pref_code": 35,
-        "variant_cards": [
-          {
-            "name": "アブソーブスペル",
-            "flag": "in"
-          },
-          {
-            "name": "コールチェイン",
-            "flag": "in"
-          },
-          {
-            "name": "真実の継承者・ヴェハリヤー",
-            "flag": "out"
-          }
-        ]
-      }
-    ],
-    "prev_period": "2026-04-13~2026-05-06"
   },
   "6e08f3": {
     "name": "人形エルフ",
@@ -14785,6 +14479,188 @@
     ],
     "prev_period": "2026-05-07~2026-05-21"
   },
+  "79e67f": {
+    "name": "学院ウィッチ",
+    "class": "ウィッチ",
+    "prev_id": "d3e266",
+    "cards": {
+      "術式の教師・ジル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "グレアの炎熱": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "宿題やるですぅ！": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "マナリアの叡智": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "アドラブルティーチャー・ミラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "インフィニットウィッチ・ドロシー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "魔術の始祖・マナリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "一世の探究": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "真理の大文豪・ユキシマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "破式の執行者・シュマエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "マナリアの知識": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.5
+      },
+      "マナリアウィザード・クレイグ": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.5
+      },
+      "マナリアクイーン・アン": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "連鎖する雷": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      },
+      "次元の超越": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      },
+      "真実の継承者・ヴェハリヤー": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "マナリアの竜姫・グレア": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "アブソーブスペル": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "コールチェイン": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "魔術の始祖・マナリア": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "マナリアウィザード・クレイグ": {
+        "avg": 2.5,
+        "ratio": 1.0
+      },
+      "マナリアの竜姫・グレア": {
+        "avg": 1.0,
+        "ratio": 0.5
+      },
+      "イクシードブラスト": {
+        "avg": 1.0,
+        "ratio": 0.5
+      },
+      "シュヴァルグラン": {
+        "avg": 1.0,
+        "ratio": 0.5
+      },
+      "真実の継承者・ヴェハリヤー": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "越光の六銘伝・マナ": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "カオスウィザード": {
+        "avg": 0.5,
+        "ratio": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1576260",
+        "deck_id": "5FS77",
+        "rank": 6,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "soma",
+        "friend_code": "DOQYW",
+        "venue": "ゲームショップ　コロッサス",
+        "date": "2026-05-31",
+        "pref_code": 22
+      },
+      {
+        "event": "1570370",
+        "deck_id": "68QLK",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 14,
+        "player": "　たけ　",
+        "friend_code": "YYFSS",
+        "venue": "TSUTAYA山口葵店",
+        "date": "2026-05-24",
+        "pref_code": 35
+      }
+    ],
+    "prev_period": "2026-04-13~2026-05-06"
+  },
   "1f542c": {
     "name": "パッションデレマス",
     "class": "アイドルマスター シンデレラガールズ",
@@ -16612,5 +16488,133 @@
       }
     ],
     "prev_period": "2026-05-07~2026-05-21"
+  },
+  "5e7c5f": {
+    "name": "魔法使いウィッチ",
+    "class": "ウィッチ",
+    "prev_id": "1d4d61",
+    "cards": {
+      "獣面の魔術師": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "ルーキーマジシャン・サミー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "グランドブレイク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "剥落の暴圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "《愚者》・リンクル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "グリモアソーサラー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "真実の継承者・ヴェハリヤー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "インフィニットウィッチ・ドロシー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "水晶の魔剣士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "一世の探究": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "真実の宣告": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "連鎖する雷": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "真理の大文豪・ユキシマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "蒙昧なる術式": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "グリモアソーサラー": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "《愚者》・リンクル": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "真実の継承者・ヴェハリヤー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "水晶の魔剣士": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ルーキーマジシャン・サミー": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1595210",
+        "deck_id": "5CWV1",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 38,
+        "player": "きむこつ",
+        "friend_code": "EZHIO",
+        "venue": "トーナメントセンターバトロコ八千代台駅前",
+        "date": "2026-05-24",
+        "pref_code": 12
+      }
+    ],
+    "prev_period": "2026-03-16~2026-03-26"
   }
 }
