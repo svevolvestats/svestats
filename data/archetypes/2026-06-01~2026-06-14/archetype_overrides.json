@@ -1,0 +1,37 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "96bf0b",
+      "rules": [
+        {
+          "required": ["エリス"],
+          "name": "スペルプリコネ"
+        },
+        {
+          "required": [],
+          "name": "スペルランププリコネ"
+        }
+      ]
+    },
+    {
+      "source": "b80db3",
+      "rules": [
+        {
+          "required": ["絶望の顕現・マーウィン"],
+          "name": "クレストビショップ"
+        },
+        {
+          "required": ["異端の修道女・メルコット"],
+          "name": "メルコットコントロールビショップ"
+        }
+      ]
+    }
+  ]
+}
