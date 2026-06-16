@@ -34,6 +34,10 @@
 
     if(H==='svestats.cc'){
       if(BOT)return;
+      // Storage-independent loop guard (key for in-app browsers like X/Twitter that drop
+      // localStorage/sessionStorage across navigations): if we just came back from the old
+      // domain or the /migrate handler, migration already ran/attempted — never bounce again.
+      try{var ref=document.referrer||'';if(ref.indexOf('//svestats.pages.dev')!==-1||ref.indexOf('//svestats.cc/migrate')!==-1)return;}catch(e){}
       var migrated=false;try{migrated=!!localStorage.getItem('sve-migrated');}catch(e){}
       if(migrated)return;
       var canWrite=false;try{localStorage.setItem('sve-wtest','1');localStorage.removeItem('sve-wtest');canWrite=true;}catch(e){}
@@ -66,7 +70,7 @@
     gtag('js', new Date());
     gtag('config', 'G-0QBNR5JS39');
   </script>
-  <script type="module" crossorigin src="/assets/index-GH8S84At.js"></script>
+  <script type="module" crossorigin src="/assets/index-Bqaa-0V3.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-BV8sFM4Z.css">
 </head>
 <body>
