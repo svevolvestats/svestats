@@ -23,17 +23,20 @@ function bootstrap(payloadB64, path) {
 (function(){
   var dest=${dest};
   try{
-    if(${p} && !localStorage.getItem('sve-migrated')){
-      var bin=atob(${p});
-      var bytes=new Uint8Array(bin.length);
-      for(var i=0;i<bin.length;i++)bytes[i]=bin.charCodeAt(i);
-      var data=JSON.parse(new TextDecoder().decode(bytes));
-      var allow=${keys};
-      for(var k in data){
-        if(allow.indexOf(k)!==-1 && typeof data[k]==='string'){
-          try{localStorage.setItem(k,data[k]);}catch(e){}
+    if(!localStorage.getItem('sve-migrated')){
+      if(${p}){
+        var bin=atob(${p});
+        var bytes=new Uint8Array(bin.length);
+        for(var i=0;i<bin.length;i++)bytes[i]=bin.charCodeAt(i);
+        var data=JSON.parse(new TextDecoder().decode(bytes));
+        var allow=${keys};
+        for(var k in data){
+          if(allow.indexOf(k)!==-1 && typeof data[k]==='string'){
+            try{localStorage.setItem(k,data[k]);}catch(e){}
+          }
         }
       }
+      // Set the flag even with no/empty payload so .cc never bounces again.
       try{localStorage.setItem('sve-migrated',new Date().toISOString());}catch(e){}
     }
   }catch(e){}
