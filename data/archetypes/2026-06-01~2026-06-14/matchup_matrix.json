@@ -89,17 +89,6 @@
   },
   {
     "arch_a": "03edf4",
-    "arch_b": "40ea08",
-    "name_a": "八獄簒奪ロイヤル",
-    "name_b": "コンボエルフ",
-    "class_a": "ロイヤル",
-    "class_b": "エルフ",
-    "wins_a": 0,
-    "wins_b": 1,
-    "total": 1
-  },
-  {
-    "arch_a": "03edf4",
     "arch_b": "53a89f",
     "name_a": "八獄簒奪ロイヤル",
     "name_b": "アグロロイヤル",
@@ -294,6 +283,17 @@
     "class_b": "ドラゴン",
     "wins_a": 1,
     "wins_b": 0,
+    "total": 1
+  },
+  {
+    "arch_a": "03edf4",
+    "arch_b": "f5326c",
+    "name_a": "八獄簒奪ロイヤル",
+    "name_b": "コンボエルフ",
+    "class_a": "ロイヤル",
+    "class_b": "エルフ",
+    "wins_a": 0,
+    "wins_b": 1,
     "total": 1
   },
   {
@@ -594,9 +594,9 @@
     "total": 3
   },
   {
-    "arch_a": "40ea08",
+    "arch_a": "46da73",
     "arch_b": "55320f",
-    "name_a": "コンボエルフ",
+    "name_a": "八獄エルフ",
     "name_b": "侮蔑ドラゴン",
     "class_a": "エルフ",
     "class_b": "ドラゴン",
@@ -605,34 +605,23 @@
     "total": 2
   },
   {
-    "arch_a": "40ea08",
+    "arch_a": "46da73",
     "arch_b": "70156e",
-    "name_a": "コンボエルフ",
+    "name_a": "八獄エルフ",
     "name_b": "アイドルウィッチ",
     "class_a": "エルフ",
     "class_b": "ウィッチ",
-    "wins_a": 3,
-    "wins_b": 2,
-    "total": 5
+    "wins_a": 2,
+    "wins_b": 1,
+    "total": 3
   },
   {
-    "arch_a": "40ea08",
+    "arch_a": "46da73",
     "arch_b": "bd6892",
-    "name_a": "コンボエルフ",
+    "name_a": "八獄エルフ",
     "name_b": "魔法使いウィッチ",
     "class_a": "エルフ",
     "class_b": "ウィッチ",
-    "wins_a": 1,
-    "wins_b": 0,
-    "total": 1
-  },
-  {
-    "arch_a": "40ea08",
-    "arch_b": "ff50ef",
-    "name_a": "コンボエルフ",
-    "name_b": "守護ビショップ",
-    "class_a": "エルフ",
-    "class_b": "ビショップ",
     "wins_a": 1,
     "wins_b": 0,
     "total": 1
@@ -991,6 +980,17 @@
   },
   {
     "arch_a": "70156e",
+    "arch_b": "f5326c",
+    "name_a": "アイドルウィッチ",
+    "name_b": "コンボエルフ",
+    "class_a": "ウィッチ",
+    "class_b": "エルフ",
+    "wins_a": 1,
+    "wins_b": 1,
+    "total": 2
+  },
+  {
+    "arch_a": "70156e",
     "arch_b": "ff27bc",
     "name_a": "アイドルウィッチ",
     "name_b": "人形エルフ",
@@ -1040,6 +1040,17 @@
     "name_b": "武闘竜人ドラゴン",
     "class_a": "ウィッチ",
     "class_b": "ドラゴン",
+    "wins_a": 1,
+    "wins_b": 0,
+    "total": 1
+  },
+  {
+    "arch_a": "f5326c",
+    "arch_b": "ff50ef",
+    "name_a": "コンボエルフ",
+    "name_b": "守護ビショップ",
+    "class_a": "エルフ",
+    "class_b": "ビショップ",
     "wins_a": 1,
     "wins_b": 0,
     "total": 1
