@@ -220,7 +220,13 @@
         "friend_code": "AWCDH",
         "venue": "TSUTAYA籠原店",
         "date": "2026-03-22",
-        "pref_code": 11
+        "pref_code": 11,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1495288",
@@ -244,7 +250,13 @@
         "friend_code": "UWMGA",
         "venue": "カードショップWiZ",
         "date": "2026-03-22",
-        "pref_code": 25
+        "pref_code": 25,
+        "variant_cards": [
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1495288",
@@ -292,7 +304,13 @@
         "friend_code": "SQKQU",
         "venue": "カードキングダム徳島店",
         "date": "2026-03-22",
-        "pref_code": 36
+        "pref_code": 36,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1486173",
@@ -340,7 +358,13 @@
         "friend_code": "APVBA",
         "venue": "カードショップデュエルガルド中央町店",
         "date": "2026-03-21",
-        "pref_code": 15
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1513200",
@@ -376,7 +400,13 @@
         "friend_code": "GXKFF",
         "venue": "フルコンプ仙台駅前店",
         "date": "2026-03-21",
-        "pref_code": 4
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1507699",
@@ -430,7 +460,13 @@
         "friend_code": "SRJGP",
         "venue": "アドバンテージ岐阜店",
         "date": "2026-03-21",
-        "pref_code": 23
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1513200",
@@ -466,7 +502,13 @@
         "friend_code": "XSDMV",
         "venue": "TSUTAYA Trading Card 北千住店",
         "date": "2026-03-21",
-        "pref_code": 13
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1512658",
@@ -490,7 +532,13 @@
         "friend_code": "LPYEO",
         "venue": "カードショップデュエルガルド中央町店",
         "date": "2026-03-21",
-        "pref_code": 15
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1505236",
@@ -628,7 +676,13 @@
         "friend_code": "QQMOK",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2026-03-20",
-        "pref_code": 12
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1519521",
@@ -660,7 +714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "81c1b8": {
     "name": "スペルプリコネ",
@@ -1028,6 +1083,10 @@
           {
             "name": "シェフィ",
             "flag": "out"
+          },
+          {
+            "name": "イリヤ",
+            "flag": "out"
           }
         ]
       },
@@ -1094,6 +1153,14 @@
           {
             "name": "羅刹涅槃・無式",
             "flag": "in"
+          },
+          {
+            "name": "キョウカ",
+            "flag": "in"
+          },
+          {
+            "name": "イリヤ",
+            "flag": "out"
           }
         ]
       },
@@ -1128,6 +1195,10 @@
           {
             "name": "羅刹涅槃・無式",
             "flag": "in"
+          },
+          {
+            "name": "イリヤ",
+            "flag": "out"
           }
         ]
       },
@@ -1204,6 +1275,10 @@
           {
             "name": "ムイミ",
             "flag": "in"
+          },
+          {
+            "name": "キョウカ",
+            "flag": "in"
           }
         ]
       },
@@ -1267,7 +1342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "c6990e": {
     "name": "NCナイトメア",
@@ -1536,7 +1612,17 @@
         "friend_code": "CLSNT",
         "venue": "TSUTAYA籠原店",
         "date": "2026-03-22",
-        "pref_code": 11
+        "pref_code": 11,
+        "variant_cards": [
+          {
+            "name": "ソウルコンバージョン",
+            "flag": "in"
+          },
+          {
+            "name": "ソウルガイド・エイミー",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1516859",
@@ -1548,7 +1634,17 @@
         "friend_code": "EVXNS",
         "venue": "エディオン横浜西口本店トレカキャピタル",
         "date": "2026-03-21",
-        "pref_code": 14
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "魂の一刀",
+            "flag": "in"
+          },
+          {
+            "name": "幽霊支配人・アーカス",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1481024",
@@ -1572,7 +1668,13 @@
         "friend_code": "CPHBG",
         "venue": "ドラグーン博多",
         "date": "2026-03-21",
-        "pref_code": 40
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "幽霊支配人・アーカス",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1512658",
@@ -1626,7 +1728,17 @@
         "friend_code": "CLSNT",
         "venue": "コミかる　伊勢崎店",
         "date": "2026-03-20",
-        "pref_code": 10
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "ソウルコンバージョン",
+            "flag": "in"
+          },
+          {
+            "name": "ソウルガイド・エイミー",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1499520",
@@ -1676,7 +1788,8 @@
         "date": "2026-03-17",
         "pref_code": 13
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "2871de": {
     "name": "機械ウィッチ",
@@ -1895,7 +2008,13 @@
         "friend_code": "GHUUV",
         "venue": "ブックオフ広島段原店",
         "date": "2026-03-21",
-        "pref_code": 34
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "試作機械兵",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1481024",
@@ -1907,7 +2026,13 @@
         "friend_code": "YAGMH",
         "venue": "イエローサブマリン京都",
         "date": "2026-03-21",
-        "pref_code": 26
+        "pref_code": 26,
+        "variant_cards": [
+          {
+            "name": "造られし獣人・サフィラ",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1519421",
@@ -1921,6 +2046,14 @@
         "date": "2026-03-21",
         "pref_code": 4,
         "variant_cards": [
+          {
+            "name": "ジェットウィッチ",
+            "flag": "in"
+          },
+          {
+            "name": "試作機械兵",
+            "flag": "in"
+          },
           {
             "name": "メカニカルガンナー",
             "flag": "out"
@@ -2007,7 +2140,13 @@
         "friend_code": "OUXJF",
         "venue": "トーナメントセンターバトロコ 新津田沼駅前",
         "date": "2026-03-20",
-        "pref_code": 12
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "ジェットウィッチ",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1519353",
@@ -2021,7 +2160,8 @@
         "date": "2026-03-20",
         "pref_code": 27
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "91cca1": {
     "name": "透京エルフ",
@@ -2202,7 +2342,13 @@
         "friend_code": "NYEFO",
         "venue": "秋葉原チェルモ",
         "date": "2026-03-26",
-        "pref_code": 13
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "堕落の決意",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1515996",
@@ -2230,6 +2376,10 @@
         "variant_cards": [
           {
             "name": "キングエレファント",
+            "flag": "in"
+          },
+          {
+            "name": "自然の導き",
             "flag": "in"
           }
         ]
@@ -2268,7 +2418,13 @@
         "friend_code": "XSHCS",
         "venue": "ドラグーン博多",
         "date": "2026-03-21",
-        "pref_code": 40
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "オケアノス",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1519353",
@@ -2284,6 +2440,10 @@
         "variant_cards": [
           {
             "name": "むつらの刻印",
+            "flag": "in"
+          },
+          {
+            "name": "自然の導き",
             "flag": "in"
           },
           {
@@ -2320,7 +2480,13 @@
         "friend_code": "UQIME",
         "venue": "TSUTAYA西五反田店",
         "date": "2026-03-17",
-        "pref_code": 13
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "オケアノス",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1519521",
@@ -2332,9 +2498,16 @@
         "friend_code": "NYEFO",
         "venue": "TSUTAYA西五反田店",
         "date": "2026-03-17",
-        "pref_code": 13
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "堕落の決意",
+            "flag": "in"
+          }
+        ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "89a79c": {
     "name": "7ドラゴン",
@@ -2606,6 +2779,14 @@
           {
             "name": "ダークドラグーン・フォルテ",
             "flag": "in"
+          },
+          {
+            "name": "竜巫女の儀式",
+            "flag": "out"
+          },
+          {
+            "name": "猛火のティラノサウルス",
+            "flag": "out"
           }
         ]
       },
@@ -2631,7 +2812,13 @@
         "friend_code": "NJYQP",
         "venue": "カードショップデュエルガルド中央町店",
         "date": "2026-03-21",
-        "pref_code": 15
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "邪智の竜・ファフニール",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1503154",
@@ -2643,7 +2830,13 @@
         "friend_code": "NJYQP",
         "venue": "カードベース ジャブロー",
         "date": "2026-03-21",
-        "pref_code": 15
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "邪智の竜・ファフニール",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1519421",
@@ -2680,6 +2873,10 @@
           {
             "name": "天威のドラグーン",
             "flag": "out"
+          },
+          {
+            "name": "竜巫女の儀式",
+            "flag": "out"
           }
         ]
       },
@@ -2705,6 +2902,10 @@
           },
           {
             "name": "ドラゴニックコール",
+            "flag": "out"
+          },
+          {
+            "name": "猛火のティラノサウルス",
             "flag": "out"
           }
         ]
@@ -2739,7 +2940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "637b1a": {
     "name": "簒奪ロイヤル",
@@ -3008,7 +3210,8 @@
         "date": "2026-03-20",
         "pref_code": 27
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "ed3c2e": {
     "name": "機械ナイトメア",
@@ -3251,7 +3454,8 @@
         "date": "2026-03-20",
         "pref_code": 33
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "39250d": {
     "name": "武闘竜人ドラゴン",
@@ -3422,7 +3626,13 @@
         "friend_code": "ALQTY",
         "venue": "TSUTAYA富士八幡町店",
         "date": "2026-03-21",
-        "pref_code": 22
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "爆炎の咆哮",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1516859",
@@ -3434,7 +3644,17 @@
         "friend_code": "FYHUX",
         "venue": "エディオン横浜西口本店トレカキャピタル",
         "date": "2026-03-21",
-        "pref_code": 14
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "爆炎の咆哮",
+            "flag": "in"
+          },
+          {
+            "name": "覇道の竜翼・フォルテ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1496803",
@@ -3475,6 +3695,10 @@
           {
             "name": "ガルグイユ",
             "flag": "in"
+          },
+          {
+            "name": "覇道の竜翼・フォルテ",
+            "flag": "out"
           }
         ]
       },
@@ -3490,7 +3714,8 @@
         "date": "2026-03-21",
         "pref_code": 40
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "cade83": {
     "name": "ミッドレンジプリコネ",
@@ -3782,6 +4007,14 @@
           {
             "name": "ネビア",
             "flag": "in"
+          },
+          {
+            "name": "アメス",
+            "flag": "out"
+          },
+          {
+            "name": "サレン",
+            "flag": "out"
           }
         ]
       },
@@ -3816,6 +4049,14 @@
           {
             "name": "ユイ",
             "flag": "in"
+          },
+          {
+            "name": "クローチェ",
+            "flag": "out"
+          },
+          {
+            "name": "ヴルム",
+            "flag": "out"
           }
         ]
       },
@@ -3843,7 +4084,8 @@
         "date": "2026-03-20",
         "pref_code": 43
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "8a28e8": {
     "name": "横並びウマ娘",
@@ -4054,7 +4296,8 @@
         "date": "2026-03-17",
         "pref_code": 13
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "1c509f": {
     "name": "真紅ナイトメア1",
@@ -4218,6 +4461,10 @@
         "pref_code": 26,
         "variant_cards": [
           {
+            "name": "パンクデビル・デモニア",
+            "flag": "in"
+          },
+          {
             "name": "魔剣の騎士・ハザン",
             "flag": "out"
           }
@@ -4233,7 +4480,13 @@
         "friend_code": "KAUYR",
         "venue": "ゲームショップブリックス",
         "date": "2026-03-20",
-        "pref_code": 27
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "パンクデビル・デモニア",
+            "flag": "in"
+          }
+        ]
       },
       {
         "event": "1499520",
@@ -4253,10 +4506,11 @@
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "f80cfc": {
-    "name": "ロイヤル（勇猛のルミナスランサー・統率のルミナスナイト）",
+    "name": "アグロロイヤル",
     "class": "ロイヤル",
     "prev_id": "a51ba3",
     "cards": {
@@ -4435,6 +4689,14 @@
         "pref_code": 15,
         "variant_cards": [
           {
+            "name": "キャットアドミラル",
+            "flag": "in"
+          },
+          {
+            "name": "アウトローガンナー",
+            "flag": "in"
+          },
+          {
             "name": "辺境の騎士見習い",
             "flag": "out"
           }
@@ -4454,6 +4716,10 @@
         "variant_cards": [
           {
             "name": "貴族の舞踏",
+            "flag": "in"
+          },
+          {
+            "name": "キャットアドミラル",
             "flag": "in"
           },
           {
@@ -4481,10 +4747,19 @@
           {
             "name": "月光の執行者・リオード",
             "flag": "in"
+          },
+          {
+            "name": "紫電の黒豹",
+            "flag": "in"
+          },
+          {
+            "name": "神速の歩法",
+            "flag": "out"
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "6efd46": {
     "name": "宴楽ロイヤル",
@@ -4735,7 +5010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "f6a812": {
     "name": "1コスプリコネ",
@@ -4884,7 +5160,13 @@
         "friend_code": "JRJNV",
         "venue": "アドバンテージ岐阜店",
         "date": "2026-03-21",
-        "pref_code": 23
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "レイ",
+            "flag": "out"
+          }
+        ]
       },
       {
         "event": "1516408",
@@ -4904,12 +5186,13 @@
           }
         ]
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "53c8bd": {
     "name": "キュートデレマス",
     "class": "アイドルマスター シンデレラガールズ",
-    "prev_id": null,
+    "prev_id": "221928",
     "cards": {
       "〔individuals〕早坂美玲": {
         "avg": 3.0,
@@ -5169,240 +5452,8 @@
         "date": "2026-03-21",
         "pref_code": 34
       }
-    ]
-  },
-  "c93652": {
-    "name": "ウィッチ（絶尽の真実・ライオ・真実の隠者）",
-    "class": "ウィッチ",
-    "prev_id": "8e7c5e",
-    "cards": {
-      "グリモアソーサラー": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "真実の宣告": {
-        "avg": 3.0,
-        "ratio": 1.0,
-        "rank": 1.0,
-        "avg_when_used": 3.0
-      },
-      "インフィニットウィッチ・ドロシー": {
-        "avg": 2.5,
-        "ratio": 1.0,
-        "rank": 1.0,
-        "avg_when_used": 2.5
-      },
-      "絶尽の崇拝者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "未来視の魔女": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "レヴィールの保安官補": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真実の隠者": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真実の使徒": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "石英の魔女": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真実の掟": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真実の絶傑・ライオ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "絶尽の真実・ライオ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "剥落の暴圧": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "楽園への来訪": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "ラピッドファイア": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "《愚者》・リンクル": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "宿帳のフクロウ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "天命の編纂者・ジズドヴェンド": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "一世の探究": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真理の大文豪・ユキシマ": {
-        "avg": 1.5,
-        "ratio": 0.5,
-        "rank": 0.0,
-        "avg_when_used": 3.0
-      },
-      "真実の狂信者": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 2.0
-      },
-      "蒙昧なる術式": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 2.0
-      },
-      "ファイアーチェイン": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 2.0
-      },
-      "管弦の魔術師": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 2.0
-      },
-      "究明の魔術師・イザベル": {
-        "avg": 1.0,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 2.0
-      },
-      "真実の信者": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 1.0
-      },
-      "連鎖する雷": {
-        "avg": 0.5,
-        "ratio": 0.5,
-        "rank": 1.0,
-        "avg_when_used": 1.0
-      }
-    },
-    "evolve_cards": {
-      "グリモアソーサラー": {
-        "avg": 2.0,
-        "ratio": 1.0
-      },
-      "絶尽の崇拝者": {
-        "avg": 1.5,
-        "ratio": 0.5
-      },
-      "真実の使徒": {
-        "avg": 1.0,
-        "ratio": 0.5
-      },
-      "真実の絶傑・ライオ": {
-        "avg": 1.0,
-        "ratio": 0.5
-      },
-      "《愚者》・リンクル": {
-        "avg": 1.0,
-        "ratio": 0.5
-      },
-      "管弦の魔術師": {
-        "avg": 1.0,
-        "ratio": 0.5
-      },
-      "究明の魔術師・イザベル": {
-        "avg": 1.0,
-        "ratio": 0.5
-      },
-      "天命の編纂者・ジズドヴェンド": {
-        "avg": 1.0,
-        "ratio": 0.5
-      },
-      "未来視の魔女": {
-        "avg": 0.5,
-        "ratio": 0.5
-      }
-    },
-    "decks": [
-      {
-        "event": "1510757",
-        "deck_id": "25T4P",
-        "rank": 7,
-        "tourney_size": 3,
-        "participants": 10,
-        "player": "大妖怪ワミダシ",
-        "friend_code": "DGDCB",
-        "venue": "秋葉原チェルモ",
-        "date": "2026-03-26",
-        "pref_code": 13
-      },
-      {
-        "event": "1505470",
-        "deck_id": "1MAUF",
-        "rank": 8,
-        "tourney_size": 3,
-        "participants": 13,
-        "player": "Rumis",
-        "friend_code": "SLLIN",
-        "venue": "平安堂　川中島店",
-        "date": "2026-03-22",
-        "pref_code": 20
-      }
-    ]
+    ],
+    "prev_period": "2025-12-22~2026-01-04"
   },
   "e2d5e5": {
     "name": "自然エルフ",
@@ -5563,12 +5614,13 @@
         "date": "2026-03-20",
         "pref_code": 33
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "f8a483": {
     "name": "透京ビショップ",
     "class": "ビショップ",
-    "prev_id": null,
+    "prev_id": "1d2d15",
     "cards": {
       "加罰の担い手": {
         "avg": 3.0,
@@ -5778,7 +5830,8 @@
         "date": "2026-03-21",
         "pref_code": 15
       }
-    ]
+    ],
+    "prev_period": "2026-01-19~2026-01-29"
   },
   "0f9f1a": {
     "name": "透京ロイヤル",
@@ -5939,7 +5992,8 @@
         "date": "2026-03-21",
         "pref_code": 15
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "25ea8b": {
     "name": "天使ロイヤル",
@@ -6134,12 +6188,13 @@
         "date": "2026-03-21",
         "pref_code": 15
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "5cc814": {
-    "name": "学園ウィッチ",
+    "name": "学院ウィッチ",
     "class": "ウィッチ",
-    "prev_id": null,
+    "prev_id": "13439e",
     "cards": {
       "グレアの炎熱": {
         "avg": 3.0,
@@ -6257,7 +6312,8 @@
         "date": "2026-03-17",
         "pref_code": 13
       }
-    ]
+    ],
+    "prev_period": "2026-02-16~2026-03-01"
   },
   "314a2c": {
     "name": "ランプドラゴン",
@@ -6384,12 +6440,13 @@
         "date": "2026-03-21",
         "pref_code": 22
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "42a8ad": {
-    "name": "自然ドラゴン1",
+    "name": "自然ドラゴン",
     "class": "ドラゴン",
-    "prev_id": null,
+    "prev_id": "b7087c",
     "cards": {
       "デュアルエンジェル": {
         "avg": 3.0,
@@ -6527,7 +6584,8 @@
         "date": "2026-03-21",
         "pref_code": 40
       }
-    ]
+    ],
+    "prev_period": "2026-01-05~2026-01-18"
   },
   "44f8cb": {
     "name": "吸血鬼ナイトメア",
@@ -6650,12 +6708,13 @@
         "date": "2026-03-22",
         "pref_code": 20
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "cf8b6f": {
     "name": "真紅ナイトメア2",
     "class": "ナイトメア",
-    "prev_id": null,
+    "prev_id": "b8eaed",
     "cards": {
       "ストレイホロウ・イルガンノ": {
         "avg": 3.0,
@@ -6783,7 +6842,8 @@
         "date": "2026-03-21",
         "pref_code": 15
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "768585": {
     "name": "2コスナイトメア",
@@ -6926,7 +6986,8 @@
         "date": "2026-03-21",
         "pref_code": 13
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "3ac719": {
     "name": "アグロビショップ",
@@ -7059,7 +7120,8 @@
         "date": "2026-03-21",
         "pref_code": 34
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "54df16": {
     "name": "機械ビショップ",
@@ -7192,12 +7254,13 @@
         "date": "2026-03-21",
         "pref_code": 14
       }
-    ]
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   },
   "205fa8": {
     "name": "ディアボロスプリコネ",
     "class": "プリンセスコネクト！Re:Dive",
-    "prev_id": null,
+    "prev_id": "09f954",
     "cards": {
       "グレイス": {
         "avg": 3.0,
@@ -7335,6 +7398,275 @@
         "date": "2026-03-22",
         "pref_code": 11
       }
-    ]
+    ],
+    "prev_period": "2026-02-16~2026-03-01"
+  },
+  "acbfcc": {
+    "name": "真実ウィッチ",
+    "class": "ウィッチ",
+    "prev_id": "8e7c5e",
+    "cards": {
+      "グリモアソーサラー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "絶尽の崇拝者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "未来視の魔女": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "レヴィールの保安官補": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "インフィニットウィッチ・ドロシー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の隠者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の使徒": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "石英の魔女": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の宣告": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の掟": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の絶傑・ライオ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "絶尽の真実・ライオ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の狂信者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "真実の信者": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      },
+      "連鎖する雷": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      }
+    },
+    "evolve_cards": {
+      "絶尽の崇拝者": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "グリモアソーサラー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "真実の使徒": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "真実の絶傑・ライオ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "未来視の魔女": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1510757",
+        "deck_id": "25T4P",
+        "rank": 7,
+        "tourney_size": 3,
+        "participants": 10,
+        "player": "大妖怪ワミダシ",
+        "friend_code": "DGDCB",
+        "venue": "秋葉原チェルモ",
+        "date": "2026-03-26",
+        "pref_code": 13
+      }
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
+  },
+  "1d4d61": {
+    "name": "魔法使いウィッチ",
+    "class": "ウィッチ",
+    "prev_id": "98315b",
+    "cards": {
+      "剥落の暴圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "楽園への来訪": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "ラピッドファイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "《愚者》・リンクル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "グリモアソーサラー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "宿帳のフクロウ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "天命の編纂者・ジズドヴェンド": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "一世の探究": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真実の宣告": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "真理の大文豪・ユキシマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "蒙昧なる術式": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "ファイアーチェイン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "インフィニットウィッチ・ドロシー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "管弦の魔術師": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "究明の魔術師・イザベル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      }
+    },
+    "evolve_cards": {
+      "《愚者》・リンクル": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "グリモアソーサラー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "管弦の魔術師": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "究明の魔術師・イザベル": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "天命の編纂者・ジズドヴェンド": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1505470",
+        "deck_id": "1MAUF",
+        "rank": 8,
+        "tourney_size": 3,
+        "participants": 13,
+        "player": "Rumis",
+        "friend_code": "SLLIN",
+        "venue": "平安堂　川中島店",
+        "date": "2026-03-22",
+        "pref_code": 20
+      }
+    ],
+    "prev_period": "2026-03-02~2026-03-15"
   }
 }

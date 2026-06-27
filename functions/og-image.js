@@ -19299,7 +19299,7 @@ function metaOgElement({ period, tournamentCount, archetypes, archetypesWithImag
     flex({ gap: GAP, alignItems: "center" }, [pie, cardGrid])
   ]);
 }
-function recapOgElement({ eventTitle, shortName, period, participants, archetypes, winnerCardInfo = null }) {
+function recapOgElement({ eventTitle, shortName, period, participants, archetypes, winnerArchs, winnerCardInfos = [] }) {
   const dateStr = period.start === period.end ? period.start : `${period.start}\u301C${period.end}`;
   const displayTitle = eventTitle.length > 32 && shortName ? shortName : eventTitle;
   const classMap = {};
@@ -19312,21 +19312,28 @@ function recapOgElement({ eventTitle, shortName, period, participants, archetype
     classSummary.map(({ cls, count }) => ({ color: classColor(cls), value: count, label: classShort(cls) })),
     PIE
   );
-  const winnerArch = archetypes.find((a) => (a.winner ?? 0) > 0) ?? archetypes[0];
-  const winnerColor = winnerArch ? classColor(winnerArch.class) : ACCENT;
+  const resolvedArchs = winnerArchs ?? (archetypes.filter((a) => (a.winner ?? 0) > 0).length > 0 ? archetypes.filter((a) => (a.winner ?? 0) > 0) : archetypes.slice(0, 1));
+  const resolvedInfos = winnerCardInfos.length > 0 ? winnerCardInfos : [null];
+  const n = resolvedArchs.length;
+  const cardW = n >= 3 ? 150 : n === 2 ? 185 : 250;
+  const cardH = n >= 3 ? 220 : n === 2 ? 275 : 370;
+  const winnerCards = resolvedArchs.map((arch, i) => {
+    const info = resolvedInfos[i] ?? null;
+    return flex({ flexDirection: "column", alignItems: "center", gap: 6 }, [
+      cardImageEl(info, classColor(arch.class), cardW, cardH),
+      flex({ flexDirection: "column", alignItems: "center", gap: 2 }, [
+        span("\u512A\u52DD", { fontSize: 13, color: ACCENT }),
+        span(arch.name ?? "", { fontSize: n >= 2 ? 14 : 22, fontWeight: 700, color: TEXT_PRIMARY, textAlign: "center" })
+      ])
+    ]);
+  });
   const rightSection = flex({
     flex: 1,
-    flexDirection: "column",
+    flexDirection: "row",
     alignItems: "center",
     justifyContent: "center",
-    gap: 14
-  }, [
-    cardImageEl(winnerCardInfo, winnerColor, 250, 370),
-    winnerArch ? flex({ flexDirection: "column", alignItems: "center", gap: 4 }, [
-      span("\u512A\u52DD", { fontSize: 15, color: ACCENT }),
-      span(winnerArch.name ?? "", { fontSize: 22, fontWeight: 700, color: TEXT_PRIMARY })
-    ]) : null
-  ]);
+    gap: n >= 3 ? 10 : 16
+  }, winnerCards);
   return baseLayout([
     span(displayTitle, { fontSize: 38, fontWeight: 700, lineHeight: 1.25, marginBottom: 6 }),
     span(`${dateStr}\u3000\u53C2\u52A0\u8005 ${participants}\u540D`, { fontSize: 18, color: TEXT_DIM, marginBottom: 18 }),

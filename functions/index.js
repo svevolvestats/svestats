@@ -22,10 +22,16 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     /(<meta property="og:title" content=")[^"]*(")/,
     `$1${escapeHtml(title)}$2`
   );
+  const descEscaped = escapeHtml(description);
+  const prevOut = out;
   out = out.replace(
-    /(<meta property="og:description" content=")[^"]*(")/,
-    `$1${escapeHtml(description)}$2`
+    /(<meta property="og:description" content=")[\s\S]*?(")/,
+    `$1${descEscaped}$2`
   );
+  if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  out = out.replace(/<meta property="og:url"[^>]*>/g, "");
+  out = out.replace(/<meta property="og:image"[^>]*>/g, "");
+  out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
     imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",

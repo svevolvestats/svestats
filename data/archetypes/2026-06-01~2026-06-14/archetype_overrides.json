@@ -1,0 +1,50 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": ["49b99e", "bcec54"],
+      "name": "八獄簒奪ロイヤル"
+    }
+  ],
+  "splits": [
+    {
+      "source": "96bf0b",
+      "rules": [
+        {
+          "required": ["エリス"],
+          "name": "スペルプリコネ"
+        },
+        {
+          "required": [],
+          "name": "スペルランププリコネ"
+        }
+      ]
+    },
+    {
+      "source": "bda335",
+      "rules": [
+        {
+          "required": ["絶望の顕現・マーウィン"],
+          "name": "クレストビショップ"
+        },
+        {
+          "required": ["異端の修道女・メルコット"],
+          "name": "メルコットコントロールビショップ"
+        }
+      ]
+    },
+    {
+      "source": "40ea08",
+      "rules": [
+        {
+          "required": ["アナスタシア"],
+          "name": "コンボエルフ"
+        },
+        {
+          "required": [],
+          "name": "八獄エルフ"
+        }
+      ]
+    }
+  ]
+}

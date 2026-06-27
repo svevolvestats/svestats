@@ -1,0 +1,65 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "8ed214",
+      "rules": [
+        {
+          "required": ["安息の継承者・ヒメカ"],
+          "name": "クレストアグロビショップ"
+        },
+        {
+          "required": [],
+          "name": "アグロビショップ"
+        }
+      ]
+    },
+    {
+      "source": "0e2dab",
+      "rules": [
+        {
+          "required": ["黄金の鐘"],
+          "name": "アミュレットビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    },
+    {
+      "source": "eac8fe",
+      "rules": [
+        {
+          "required": ["ユニ"],
+          "name": "スペルランププリコネ"
+        },
+        {
+          "required": [],
+          "name": "ミッドレンジプリコネ"
+        }
+      ]
+    },
+    {
+      "source": "c801a5",
+      "rules": [
+        {
+          "required": ["魔術の始祖・マナリア"],
+          "name": "学院ウィッチ"
+        },
+        {
+          "required": [],
+          "name": "魔法使いウィッチ"
+        }
+      ]
+    }
+  ]
+}

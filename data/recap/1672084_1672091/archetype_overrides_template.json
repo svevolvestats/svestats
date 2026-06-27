@@ -1,0 +1,146 @@
+{
+  "_split_suggestions": {
+    "82c986": {
+      "name": "簒奪ロイヤル",
+      "class": "ロイヤル",
+      "n": 19,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "鮮やかな奪取",
+              "ratio": 26
+            }
+          ],
+          "drops": [
+            {
+              "y": "アサルトバンデッド",
+              "y_ratio": 84,
+              "co_occur_pct": 11,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "簒奪の継承者・シンセライズ",
+              "ratio": 26
+            }
+          ],
+          "drops": [
+            {
+              "y": "干絶の飢餓・ギルネリーゼ",
+              "y_ratio": 63,
+              "co_occur_pct": 5,
+              "diff_pct": -59
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "干絶の飢餓・ギルネリーゼ",
+              "ratio": 63
+            }
+          ],
+          "drops": [
+            {
+              "y": "アルセーヌ・ルパン",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            }
+          ]
+        }
+      ]
+    },
+    "7071eb": {
+      "name": "7071eb",
+      "class": "エルフ",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "優美な猫姉妹・シャム＆シャマ",
+              "ratio": 50
+            },
+            {
+              "name": "不殺の里",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "スピアーエルフ",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            },
+            {
+              "y": "絶命の不殺・エズディア",
+              "y_ratio": 50,
+              "co_occur_pct": 10,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "絶命の不殺・エズディア",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "優美な猫姉妹・シャム＆シャマ",
+              "y_ratio": 50,
+              "co_occur_pct": 10,
+              "diff_pct": -60
+            },
+            {
+              "y": "不殺の里",
+              "y_ratio": 50,
+              "co_occur_pct": 10,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single ID to split. rules are applied in order; unmatched decks become a remainder entry.",
+      "source": "",
+      "class": "",
+      "rep_card": "",
+      "rules": [
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        },
+        {
+          "required": [],
+          "class": "",
+          "rep_card": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

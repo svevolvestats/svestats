@@ -1,0 +1,45 @@
+{
+  "_split_suggestions": {},
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "475687",
+      "rules": [
+        {
+          "required": ["人形の少女・オーキス"],
+          "name": "人形エルフ"
+        },
+        {
+          "required": ["アナスタシア"],
+          "name": "コンボエルフ"
+        },
+        {
+          "required": [],
+          "name": "狩人エルフ"
+        }
+      ]
+    },
+    {
+      "source": "a99c3b",
+      "rules": [
+        {
+          "required": ["エリス"],
+          "name": "スペルプリコネ"
+        },
+        {
+          "required": [],
+          "name": "スペルランププリコネ"
+        }
+      ]
+    }
+  ]
+}

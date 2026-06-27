@@ -1,0 +1,380 @@
+{
+  "_ref": {
+    "a79984": {
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "auto_prev_id": "ffe43d",
+      "auto_prev_name": "コンボエルフ",
+      "auto_prev_sim": 0.989,
+      "manual_prev_id": null
+    },
+    "a1097e": {
+      "name": "八獄エルフ",
+      "class": "エルフ",
+      "auto_prev_id": "616577",
+      "auto_prev_name": "八獄エルフ",
+      "auto_prev_sim": 0.997,
+      "manual_prev_id": null
+    },
+    "fe458b": {
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "auto_prev_id": "d46284",
+      "auto_prev_name": "人形エルフ",
+      "auto_prev_sim": 0.964,
+      "manual_prev_id": null
+    },
+    "8dc5c3": {
+      "name": "透京エルフ",
+      "class": "エルフ",
+      "auto_prev_id": "38d60b",
+      "auto_prev_name": "透京エルフ",
+      "auto_prev_sim": 0.987,
+      "manual_prev_id": null
+    },
+    "5fd237": {
+      "name": "カットスロートエルフ",
+      "class": "エルフ",
+      "auto_prev_id": "b0ad8d",
+      "auto_prev_name": "カットスロートエルフ",
+      "auto_prev_sim": 0.816,
+      "manual_prev_id": null
+    },
+    "2a6d39": {
+      "name": "簒奪ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "cdb4e9",
+      "auto_prev_name": "八獄ロイヤル",
+      "auto_prev_sim": 0.98,
+      "manual_prev_id": null
+    },
+    "b86cfd": {
+      "name": "アグロ簒奪ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "0857d8",
+      "auto_prev_name": "簒奪ロイヤル",
+      "auto_prev_sim": 0.988,
+      "manual_prev_id": null
+    },
+    "2ef519": {
+      "name": "天使ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "ee67cc",
+      "auto_prev_name": "天使ロイヤル",
+      "auto_prev_sim": 0.99,
+      "manual_prev_id": null
+    },
+    "f7f228": {
+      "name": "カットスロートロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.398,
+      "manual_prev_id": null
+    },
+    "ef96ef": {
+      "name": "アグロロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "ba746d",
+      "auto_prev_name": "アグロロイヤル",
+      "auto_prev_sim": 0.837,
+      "manual_prev_id": null
+    },
+    "004c4b": {
+      "name": "透京ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.118,
+      "manual_prev_id": null
+    },
+    "657064": {
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "ebb9a8",
+      "auto_prev_name": "自然ロイヤル",
+      "auto_prev_sim": 0.966,
+      "manual_prev_id": null
+    },
+    "ef09e1": {
+      "name": "宴楽ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "3030fe",
+      "auto_prev_name": "宴楽ロイヤル",
+      "auto_prev_sim": 0.625,
+      "manual_prev_id": null
+    },
+    "3db37b": {
+      "name": "八獄ロイヤル",
+      "class": "ロイヤル",
+      "auto_prev_id": "cdb4e9",
+      "auto_prev_name": "八獄ロイヤル",
+      "auto_prev_sim": 0.614,
+      "manual_prev_id": null
+    },
+    "c20156": {
+      "name": "機械ウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": "fe7d2b",
+      "auto_prev_name": "機械ウィッチ",
+      "auto_prev_sim": 0.998,
+      "manual_prev_id": null
+    },
+    "b2949c": {
+      "name": "ゼラエル八獄ウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": "498045",
+      "auto_prev_name": "八獄ウィッチ",
+      "auto_prev_sim": 0.979,
+      "manual_prev_id": null
+    },
+    "c8e429": {
+      "name": "八獄ウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": "498045",
+      "auto_prev_name": "八獄ウィッチ",
+      "auto_prev_sim": 0.807,
+      "manual_prev_id": null
+    },
+    "d3e266": {
+      "name": "学院ウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.332,
+      "manual_prev_id": null
+    },
+    "11d692": {
+      "name": "魔法使いウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": "a06aeb",
+      "auto_prev_name": "魔法使いウィッチ",
+      "auto_prev_sim": 0.965,
+      "manual_prev_id": null
+    },
+    "68c73f": {
+      "name": "オニオンウィッチ",
+      "class": "ウィッチ",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.217,
+      "manual_prev_id": null
+    },
+    "e884db": {
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "5eec41",
+      "auto_prev_name": "武闘竜人ドラゴン",
+      "auto_prev_sim": 0.963,
+      "manual_prev_id": null
+    },
+    "54a064": {
+      "name": "7ドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "261e63",
+      "auto_prev_name": "7ドラゴン",
+      "auto_prev_sim": 0.98,
+      "manual_prev_id": null
+    },
+    "ba3acb": {
+      "name": "海洋ドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "624897",
+      "auto_prev_name": "海洋ドラゴン",
+      "auto_prev_sim": 0.973,
+      "manual_prev_id": null
+    },
+    "2149ee": {
+      "name": "八獄ドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "5be7db",
+      "auto_prev_name": "八獄ドラゴン",
+      "auto_prev_sim": 0.944,
+      "manual_prev_id": null
+    },
+    "2d1d83": {
+      "name": "カットスロートドラゴン",
+      "class": "ドラゴン",
+      "auto_prev_id": "574310",
+      "auto_prev_name": "カットスロートドラゴン",
+      "auto_prev_sim": 0.846,
+      "manual_prev_id": null
+    },
+    "eaf0ca": {
+      "name": "宴楽ナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "b59b8c",
+      "auto_prev_name": "宴楽ナイトメア",
+      "auto_prev_sim": 0.999,
+      "manual_prev_id": null
+    },
+    "933ca2": {
+      "name": "ミロエルナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "000222",
+      "auto_prev_name": "ミロエルナイトメア",
+      "auto_prev_sim": 0.953,
+      "manual_prev_id": null
+    },
+    "85b0ce": {
+      "name": "NCナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "a29fb3",
+      "auto_prev_name": "NCナイトメア",
+      "auto_prev_sim": 0.991,
+      "manual_prev_id": null
+    },
+    "a0f1bc": {
+      "name": "真紅ナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "f5e363",
+      "auto_prev_name": "真紅ナイトメア",
+      "auto_prev_sim": 0.983,
+      "manual_prev_id": null
+    },
+    "0e0ca7": {
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "4841df",
+      "auto_prev_name": "機械ナイトメア",
+      "auto_prev_sim": 0.994,
+      "manual_prev_id": null
+    },
+    "e34376": {
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "abd1fa",
+      "auto_prev_name": "吸血鬼ナイトメア",
+      "auto_prev_sim": 0.958,
+      "manual_prev_id": null
+    },
+    "462a10": {
+      "name": "ルルナイナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.443,
+      "manual_prev_id": null
+    },
+    "4aff28": {
+      "name": "カットスロートナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": "c45f72",
+      "auto_prev_name": "カットスロートナイトメア",
+      "auto_prev_sim": 0.723,
+      "manual_prev_id": null
+    },
+    "74b920": {
+      "name": "ゴーストナイトメア",
+      "class": "ナイトメア",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": 0.15,
+      "manual_prev_id": null
+    },
+    "f48ee4": {
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": "feff6a",
+      "auto_prev_name": "アグロビショップ",
+      "auto_prev_sim": 0.951,
+      "manual_prev_id": null
+    },
+    "9c9070": {
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": "bad671",
+      "auto_prev_name": "コントロールビショップ",
+      "auto_prev_sim": 0.947,
+      "manual_prev_id": null
+    },
+    "ec1025": {
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": "aa9c26",
+      "auto_prev_name": "アミュレットビショップ",
+      "auto_prev_sim": 0.947,
+      "manual_prev_id": null
+    },
+    "64a246": {
+      "name": "カットスロートビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": "65b232",
+      "auto_prev_name": "カットスロートビショップ",
+      "auto_prev_sim": 0.896,
+      "manual_prev_id": null
+    },
+    "af1255": {
+      "name": "守護ビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": "2e68a9",
+      "auto_prev_name": "守護ビショップ",
+      "auto_prev_sim": 0.613,
+      "manual_prev_id": null
+    },
+    "fe0e7c": {
+      "name": "八獄ビショップ",
+      "class": "ビショップ",
+      "auto_prev_id": "b0ee86",
+      "auto_prev_name": "八獄ビショップ",
+      "auto_prev_sim": 0.947,
+      "manual_prev_id": null
+    },
+    "8b2e6a": {
+      "name": "ランプウマ娘",
+      "class": "ウマ娘 プリティーダービー",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": null,
+      "manual_prev_id": null
+    },
+    "9fa04a": {
+      "name": "横並びウマ娘",
+      "class": "ウマ娘 プリティーダービー",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": null,
+      "manual_prev_id": null
+    },
+    "641e7f": {
+      "name": "クールデレマス",
+      "class": "アイドルマスター シンデレラガールズ",
+      "auto_prev_id": null,
+      "auto_prev_name": null,
+      "auto_prev_sim": null,
+      "manual_prev_id": null
+    },
+    "47e31c": {
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "auto_prev_id": "a9629e",
+      "auto_prev_name": "スペルプリコネ",
+      "auto_prev_sim": 0.992,
+      "manual_prev_id": null
+    },
+    "98100f": {
+      "name": "ミッドレンジプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "auto_prev_id": "4b135d",
+      "auto_prev_name": "ミッドレンジプリコネ",
+      "auto_prev_sim": 0.889,
+      "manual_prev_id": null
+    },
+    "048c48": {
+      "name": "1コスプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "auto_prev_id": "34fd75",
+      "auto_prev_name": "1コスプリコネ",
+      "auto_prev_sim": 0.801,
+      "manual_prev_id": null
+    },
+    "2414a7": {
+      "name": "ディアボロスプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "auto_prev_id": "bc0a06",
+      "auto_prev_name": "ディアボロスプリコネ",
+      "auto_prev_sim": 0.971,
+      "manual_prev_id": null
+    }
+  }
+}
