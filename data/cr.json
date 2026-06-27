@@ -2,6 +2,7 @@
  "version": "1.26.0",
  "updated": "2026-05-18",
  "source": "ShadowverseEVOLVE_cr_1.26.0.md",
+ "source_url": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2026/05/18110703/ShadowverseEVOLVE_cr_1.26.0_260518.pdf",
  "rules": [
   {
    "num": "1",
@@ -250,8 +251,36 @@
    "depth": 3,
    "page": 3,
    "text": "クラスはアイコンで表記されます。",
-   "icons": "icons/2_2_2.png",
-   "icons_labeled": true
+   "grid": [
+    {
+     "icon": "icons/cls_0.png",
+     "label": "ニュートラル"
+    },
+    {
+     "icon": "icons/cls_1.png",
+     "label": "エルフ"
+    },
+    {
+     "icon": "icons/cls_2.png",
+     "label": "ロイヤル"
+    },
+    {
+     "icon": "icons/cls_3.png",
+     "label": "ウィッチ"
+    },
+    {
+     "icon": "icons/cls_4.png",
+     "label": "ドラゴン"
+    },
+    {
+     "icon": "icons/cls_5.png",
+     "label": "ナイトメア"
+    },
+    {
+     "icon": "icons/cls_6.png",
+     "label": "ビショップ"
+    }
+   ]
   },
   {
    "num": "2.2.3",
