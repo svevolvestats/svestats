@@ -1,0 +1,24 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": ["2885d2", "725519"],
+      "name": "八獄簒奪ロイヤル"
+    }
+  ],
+  "splits": [
+    {
+      "source": "c8f530",
+      "rules": [
+        {
+          "required": ["絶尽の真実・ライオ"],
+          "name": "真実ウィッチ"
+        },
+        {
+          "required": [],
+          "name": "魔法使いウィッチ"
+        }
+      ]
+    }
+  ]
+}
