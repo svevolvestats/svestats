@@ -1,0 +1,1042 @@
+{
+  "generated_at": "2026-07-02",
+  "expansions": [
+    {
+      "expansion": "BP21",
+      "name": "ブースターパック「Academy Royale」",
+      "release_date": "2026-07-31",
+      "totals": {
+        "LG": 28,
+        "GR": 26,
+        "SR": 26,
+        "BR": 36
+      },
+      "total_count": 116,
+      "revealed_count": 17,
+      "n_layouts": 8961034329,
+      "unique": false,
+      "classes": [
+        "エルフ",
+        "ロイヤル",
+        "ウィッチ",
+        "ドラゴン",
+        "ナイトメア",
+        "ビショップ",
+        "ニュートラル"
+      ],
+      "rarities": [
+        "LG",
+        "GR",
+        "SR",
+        "BR"
+      ],
+      "cells": {
+        "エルフ|LG": {
+          "class": "エルフ",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 1,
+              "cardno": "BP21-001",
+              "status": "confirmed"
+            },
+            {
+              "num": 2,
+              "cardno": "BP21-002",
+              "status": "revealed",
+              "oracle_id": "BP21-002",
+              "kind": "base"
+            },
+            {
+              "num": 3,
+              "cardno": "BP21-003",
+              "status": "revealed",
+              "oracle_id": "BP21-003",
+              "kind": "evolve"
+            },
+            {
+              "num": 4,
+              "cardno": "BP21-004",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 2,
+          "confirmed_count": 1,
+          "estimated_count": 1,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 1
+        },
+        "エルフ|GR": {
+          "class": "エルフ",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 5,
+              "cardno": "BP21-005",
+              "status": "estimated"
+            },
+            {
+              "num": 6,
+              "cardno": "BP21-006",
+              "status": "estimated"
+            },
+            {
+              "num": 7,
+              "cardno": "BP21-007",
+              "status": "estimated"
+            },
+            {
+              "num": 8,
+              "cardno": "BP21-008",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "エルフ|SR": {
+          "class": "エルフ",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 9,
+              "cardno": "BP21-009",
+              "status": "estimated"
+            },
+            {
+              "num": 10,
+              "cardno": "BP21-010",
+              "status": "estimated"
+            },
+            {
+              "num": 11,
+              "cardno": "BP21-011",
+              "status": "estimated"
+            },
+            {
+              "num": 12,
+              "cardno": "BP21-012",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "エルフ|BR": {
+          "class": "エルフ",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 13,
+              "cardno": "BP21-013",
+              "status": "estimated"
+            },
+            {
+              "num": 14,
+              "cardno": "BP21-014",
+              "status": "estimated"
+            },
+            {
+              "num": 15,
+              "cardno": "BP21-015",
+              "status": "estimated"
+            },
+            {
+              "num": 16,
+              "cardno": "BP21-016",
+              "status": "estimated"
+            },
+            {
+              "num": 17,
+              "cardno": "BP21-017",
+              "status": "estimated"
+            },
+            {
+              "num": 18,
+              "cardno": "BP21-018",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 6,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|LG": {
+          "class": "ロイヤル",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 19,
+              "cardno": "BP21-019",
+              "status": "estimated"
+            },
+            {
+              "num": 20,
+              "cardno": "BP21-020",
+              "status": "estimated"
+            },
+            {
+              "num": 21,
+              "cardno": "BP21-021",
+              "status": "estimated"
+            },
+            {
+              "num": 22,
+              "cardno": "BP21-022",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|GR": {
+          "class": "ロイヤル",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 23,
+              "cardno": "BP21-023",
+              "status": "estimated"
+            },
+            {
+              "num": 24,
+              "cardno": "BP21-024",
+              "status": "estimated"
+            },
+            {
+              "num": 25,
+              "cardno": "BP21-025",
+              "status": "estimated"
+            },
+            {
+              "num": 26,
+              "cardno": "BP21-026",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|SR": {
+          "class": "ロイヤル",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 27,
+              "cardno": "BP21-027",
+              "status": "estimated"
+            },
+            {
+              "num": 28,
+              "cardno": "BP21-028",
+              "status": "estimated"
+            },
+            {
+              "num": 29,
+              "cardno": "BP21-029",
+              "status": "estimated"
+            },
+            {
+              "num": 30,
+              "cardno": "BP21-030",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|BR": {
+          "class": "ロイヤル",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 31,
+              "cardno": "BP21-031",
+              "status": "estimated"
+            },
+            {
+              "num": 32,
+              "cardno": "BP21-032",
+              "status": "estimated"
+            },
+            {
+              "num": 33,
+              "cardno": "BP21-033",
+              "status": "estimated"
+            },
+            {
+              "num": 34,
+              "cardno": "BP21-034",
+              "status": "estimated"
+            },
+            {
+              "num": 35,
+              "cardno": "BP21-035",
+              "status": "estimated"
+            },
+            {
+              "num": 36,
+              "cardno": "BP21-036",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 6,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|LG": {
+          "class": "ウィッチ",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 37,
+              "cardno": "BP21-037",
+              "status": "revealed",
+              "oracle_id": "BP21-037",
+              "kind": "base"
+            },
+            {
+              "num": 38,
+              "cardno": "BP21-038",
+              "status": "estimated"
+            },
+            {
+              "num": 39,
+              "cardno": "BP21-039",
+              "status": "estimated"
+            },
+            {
+              "num": 40,
+              "cardno": "BP21-040",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 1,
+          "confirmed_count": 0,
+          "estimated_count": 3,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|GR": {
+          "class": "ウィッチ",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 41,
+              "cardno": "BP21-041",
+              "status": "estimated"
+            },
+            {
+              "num": 42,
+              "cardno": "BP21-042",
+              "status": "estimated"
+            },
+            {
+              "num": 43,
+              "cardno": "BP21-043",
+              "status": "estimated"
+            },
+            {
+              "num": 44,
+              "cardno": "BP21-044",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|SR": {
+          "class": "ウィッチ",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 45,
+              "cardno": "BP21-045",
+              "status": "estimated"
+            },
+            {
+              "num": 46,
+              "cardno": "BP21-046",
+              "status": "estimated"
+            },
+            {
+              "num": 47,
+              "cardno": "BP21-047",
+              "status": "estimated"
+            },
+            {
+              "num": 48,
+              "cardno": "BP21-048",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|BR": {
+          "class": "ウィッチ",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 49,
+              "cardno": "BP21-049",
+              "status": "estimated"
+            },
+            {
+              "num": 50,
+              "cardno": "BP21-050",
+              "status": "estimated"
+            },
+            {
+              "num": 51,
+              "cardno": "BP21-051",
+              "status": "estimated"
+            },
+            {
+              "num": 52,
+              "cardno": "BP21-052",
+              "status": "estimated"
+            },
+            {
+              "num": 53,
+              "cardno": "BP21-053",
+              "status": "estimated"
+            },
+            {
+              "num": 54,
+              "cardno": "BP21-054",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 6,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ドラゴン|LG": {
+          "class": "ドラゴン",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 55,
+              "cardno": "BP21-055",
+              "status": "estimated"
+            },
+            {
+              "num": 56,
+              "cardno": "BP21-056",
+              "status": "estimated"
+            },
+            {
+              "num": 57,
+              "cardno": "BP21-057",
+              "status": "estimated"
+            },
+            {
+              "num": 58,
+              "cardno": "BP21-058",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ドラゴン|GR": {
+          "class": "ドラゴン",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 59,
+              "cardno": "BP21-059",
+              "status": "revealed",
+              "oracle_id": "BP21-059",
+              "kind": "base"
+            },
+            {
+              "num": 60,
+              "cardno": "BP21-060",
+              "status": "revealed",
+              "oracle_id": "BP21-060",
+              "kind": "evolve"
+            },
+            {
+              "num": 61,
+              "cardno": "BP21-061",
+              "status": "estimated"
+            },
+            {
+              "num": 62,
+              "cardno": "BP21-062",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 2,
+          "confirmed_count": 0,
+          "estimated_count": 2,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 1
+        },
+        "ドラゴン|SR": {
+          "class": "ドラゴン",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 63,
+              "cardno": "BP21-063",
+              "status": "estimated"
+            },
+            {
+              "num": 64,
+              "cardno": "BP21-064",
+              "status": "estimated"
+            },
+            {
+              "num": 65,
+              "cardno": "BP21-065",
+              "status": "estimated"
+            },
+            {
+              "num": 66,
+              "cardno": "BP21-066",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ドラゴン|BR": {
+          "class": "ドラゴン",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 67,
+              "cardno": "BP21-067",
+              "status": "estimated"
+            },
+            {
+              "num": 68,
+              "cardno": "BP21-068",
+              "status": "estimated"
+            },
+            {
+              "num": 69,
+              "cardno": "BP21-069",
+              "status": "revealed",
+              "oracle_id": "BP21-069",
+              "kind": "base"
+            },
+            {
+              "num": 70,
+              "cardno": "BP21-070",
+              "status": "confirmed"
+            },
+            {
+              "num": 71,
+              "cardno": "BP21-071",
+              "status": "estimated"
+            },
+            {
+              "num": 72,
+              "cardno": "BP21-072",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 1,
+          "confirmed_count": 1,
+          "estimated_count": 4,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|LG": {
+          "class": "ナイトメア",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 73,
+              "cardno": "BP21-073",
+              "status": "estimated"
+            },
+            {
+              "num": 74,
+              "cardno": "BP21-074",
+              "status": "estimated"
+            },
+            {
+              "num": 75,
+              "cardno": "BP21-075",
+              "status": "revealed",
+              "oracle_id": "BP21-075",
+              "kind": "base"
+            },
+            {
+              "num": 76,
+              "cardno": "BP21-076",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 1,
+          "confirmed_count": 0,
+          "estimated_count": 3,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|GR": {
+          "class": "ナイトメア",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 77,
+              "cardno": "BP21-077",
+              "status": "revealed",
+              "oracle_id": "BP21-077",
+              "kind": "base"
+            },
+            {
+              "num": 78,
+              "cardno": "BP21-078",
+              "status": "revealed",
+              "oracle_id": "BP21-078",
+              "kind": "evolve"
+            },
+            {
+              "num": 79,
+              "cardno": "BP21-079",
+              "status": "confirmed"
+            },
+            {
+              "num": 80,
+              "cardno": "BP21-080",
+              "status": "revealed",
+              "oracle_id": "BP21-080",
+              "kind": "base"
+            }
+          ],
+          "revealed_count": 3,
+          "confirmed_count": 1,
+          "estimated_count": 0,
+          "size": 4,
+          "size_status": "confirmed",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 1
+        },
+        "ナイトメア|SR": {
+          "class": "ナイトメア",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 81,
+              "cardno": "BP21-081",
+              "status": "revealed",
+              "oracle_id": "BP21-081",
+              "kind": "base"
+            },
+            {
+              "num": 82,
+              "cardno": "BP21-082",
+              "status": "revealed",
+              "oracle_id": "BP21-082",
+              "kind": "evolve"
+            },
+            {
+              "num": 83,
+              "cardno": "BP21-083",
+              "status": "revealed",
+              "oracle_id": "BP21-083",
+              "kind": "base"
+            },
+            {
+              "num": 84,
+              "cardno": "BP21-084",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 3,
+          "confirmed_count": 0,
+          "estimated_count": 1,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 1
+        },
+        "ナイトメア|BR": {
+          "class": "ナイトメア",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 85,
+              "cardno": "BP21-085",
+              "status": "estimated"
+            },
+            {
+              "num": 86,
+              "cardno": "BP21-086",
+              "status": "confirmed"
+            },
+            {
+              "num": 87,
+              "cardno": "BP21-087",
+              "status": "estimated"
+            },
+            {
+              "num": 88,
+              "cardno": "BP21-088",
+              "status": "estimated"
+            },
+            {
+              "num": 89,
+              "cardno": "BP21-089",
+              "status": "estimated"
+            },
+            {
+              "num": 90,
+              "cardno": "BP21-090",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 1,
+          "estimated_count": 5,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|LG": {
+          "class": "ビショップ",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 91,
+              "cardno": "BP21-091",
+              "status": "estimated"
+            },
+            {
+              "num": 92,
+              "cardno": "BP21-092",
+              "status": "estimated"
+            },
+            {
+              "num": 93,
+              "cardno": "BP21-093",
+              "status": "estimated"
+            },
+            {
+              "num": 94,
+              "cardno": "BP21-094",
+              "status": "estimated"
+            },
+            {
+              "num": 95,
+              "cardno": "BP21-095",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 5,
+          "size": 5,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|GR": {
+          "class": "ビショップ",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 96,
+              "cardno": "BP21-096",
+              "status": "estimated"
+            },
+            {
+              "num": 97,
+              "cardno": "BP21-097",
+              "status": "estimated"
+            },
+            {
+              "num": 98,
+              "cardno": "BP21-098",
+              "status": "estimated"
+            },
+            {
+              "num": 99,
+              "cardno": "BP21-099",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|SR": {
+          "class": "ビショップ",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 100,
+              "cardno": "BP21-100",
+              "status": "estimated"
+            },
+            {
+              "num": 101,
+              "cardno": "BP21-101",
+              "status": "estimated"
+            },
+            {
+              "num": 102,
+              "cardno": "BP21-102",
+              "status": "estimated"
+            },
+            {
+              "num": 103,
+              "cardno": "BP21-103",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|BR": {
+          "class": "ビショップ",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 104,
+              "cardno": "BP21-104",
+              "status": "estimated"
+            },
+            {
+              "num": 105,
+              "cardno": "BP21-105",
+              "status": "estimated"
+            },
+            {
+              "num": 106,
+              "cardno": "BP21-106",
+              "status": "estimated"
+            },
+            {
+              "num": 107,
+              "cardno": "BP21-107",
+              "status": "confirmed"
+            },
+            {
+              "num": 108,
+              "cardno": "BP21-108",
+              "status": "estimated"
+            },
+            {
+              "num": 109,
+              "cardno": "BP21-109",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 1,
+          "estimated_count": 5,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|LG": {
+          "class": "ニュートラル",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 110,
+              "cardno": "BP21-110",
+              "status": "revealed",
+              "oracle_id": "BP21-110",
+              "kind": "base"
+            },
+            {
+              "num": 111,
+              "cardno": "BP21-111",
+              "status": "revealed",
+              "oracle_id": "BP21-111",
+              "kind": "evolve"
+            },
+            {
+              "num": 112,
+              "cardno": "BP21-112",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 2,
+          "confirmed_count": 0,
+          "estimated_count": 1,
+          "size": 3,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 1
+        },
+        "ニュートラル|GR": {
+          "class": "ニュートラル",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 113,
+              "cardno": "BP21-113",
+              "status": "revealed",
+              "oracle_id": "BP21-113",
+              "kind": "base"
+            },
+            {
+              "num": 114,
+              "cardno": "BP21-114",
+              "status": "revealed",
+              "oracle_id": "BP21-114",
+              "kind": "base"
+            }
+          ],
+          "revealed_count": 2,
+          "confirmed_count": 0,
+          "estimated_count": 0,
+          "size": 2,
+          "size_status": "confirmed",
+          "advance": 0,
+          "evolve_pred": 0,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|SR": {
+          "class": "ニュートラル",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 115,
+              "cardno": "BP21-115",
+              "status": "estimated"
+            },
+            {
+              "num": 116,
+              "cardno": "BP21-116",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 2,
+          "size": 2,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|BR": {
+          "class": "ニュートラル",
+          "rarity": "BR",
+          "slots": [],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 0,
+          "size": 0,
+          "size_status": "confirmed",
+          "advance": 0,
+          "evolve_pred": 0,
+          "evolve_revealed": 0
+        }
+      }
+    }
+  ]
+}
