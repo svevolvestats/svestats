@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 17,
-      "n_layouts": 8961034329,
+      "revealed_count": 19,
+      "n_layouts": 1365765203,
       "unique": false,
       "classes": [
         "エルフ",
@@ -159,7 +159,7 @@
             {
               "num": 16,
               "cardno": "BP21-016",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 17,
@@ -173,8 +173,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 6,
+          "confirmed_count": 1,
+          "estimated_count": 5,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -188,17 +188,19 @@
             {
               "num": 19,
               "cardno": "BP21-019",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-019",
+              "kind": "base"
             },
             {
               "num": 20,
               "cardno": "BP21-020",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 21,
               "cardno": "BP21-021",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 22,
@@ -206,9 +208,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -227,22 +229,24 @@
             {
               "num": 24,
               "cardno": "BP21-024",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 25,
               "cardno": "BP21-025",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 26,
               "cardno": "BP21-026",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-026",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
