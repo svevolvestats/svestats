@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05",
+  "generated_at": "2026-07-06",
   "expansions": [
     {
       "expansion": "BP21",
@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 26,
-      "n_layouts": 76985684,
+      "revealed_count": 28,
+      "n_layouts": 70580078,
       "unique": false,
       "classes": [
         "エルフ",
@@ -124,7 +124,9 @@
             {
               "num": 11,
               "cardno": "BP21-011",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-011",
+              "kind": "base"
             },
             {
               "num": 12,
@@ -132,9 +134,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 3,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -158,7 +160,9 @@
             {
               "num": 15,
               "cardno": "BP21-015",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-015",
+              "kind": "base"
             },
             {
               "num": 16,
@@ -176,9 +180,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 1,
-          "estimated_count": 5,
+          "estimated_count": 4,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
