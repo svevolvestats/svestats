@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "expansions": [
     {
       "expansion": "BP21",
@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 35,
-      "n_layouts": 20027081,
+      "revealed_count": 37,
+      "n_layouts": 8144241,
       "unique": false,
       "classes": [
         "エルフ",
@@ -363,7 +363,7 @@
             {
               "num": 38,
               "cardno": "BP21-038",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 39,
@@ -377,8 +377,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 0,
-          "estimated_count": 3,
+          "confirmed_count": 1,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -402,7 +402,9 @@
             {
               "num": 43,
               "cardno": "BP21-043",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-043",
+              "kind": "base"
             },
             {
               "num": 44,
@@ -410,9 +412,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 1,
-          "estimated_count": 3,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -1042,7 +1044,9 @@
             {
               "num": 115,
               "cardno": "BP21-115",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-115",
+              "kind": "base"
             },
             {
               "num": 116,
@@ -1050,9 +1054,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 1,
           "size": 2,
           "size_status": "estimated",
           "advance": 0,
