@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09",
+  "generated_at": "2026-07-10",
   "expansions": [
     {
       "expansion": "BP21",
@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 37,
-      "n_layouts": 8144241,
+      "revealed_count": 47,
+      "n_layouts": 1962158,
       "unique": false,
       "classes": [
         "エルフ",
@@ -203,12 +203,16 @@
             {
               "num": 20,
               "cardno": "BP21-020",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-020",
+              "kind": "base"
             },
             {
               "num": 21,
               "cardno": "BP21-021",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-021",
+              "kind": "evolve"
             },
             {
               "num": 22,
@@ -218,14 +222,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 2,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|GR": {
           "class": "ロイヤル",
@@ -276,32 +280,40 @@
             {
               "num": 27,
               "cardno": "BP21-027",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-027",
+              "kind": "base"
             },
             {
               "num": 28,
               "cardno": "BP21-028",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-028",
+              "kind": "evolve"
             },
             {
               "num": 29,
               "cardno": "BP21-029",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-029",
+              "kind": "base"
             },
             {
               "num": 30,
               "cardno": "BP21-030",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-030",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 1,
-          "estimated_count": 3,
+          "revealed_count": 4,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|BR": {
           "class": "ロイヤル",
@@ -315,7 +327,7 @@
             {
               "num": 32,
               "cardno": "BP21-032",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 33,
@@ -327,7 +339,7 @@
             {
               "num": 34,
               "cardno": "BP21-034",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 35,
@@ -341,8 +353,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 0,
-          "estimated_count": 5,
+          "confirmed_count": 2,
+          "estimated_count": 3,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -363,12 +375,16 @@
             {
               "num": 38,
               "cardno": "BP21-038",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-038",
+              "kind": "base"
             },
             {
               "num": 39,
               "cardno": "BP21-039",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-039",
+              "kind": "evolve"
             },
             {
               "num": 40,
@@ -376,14 +392,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 1,
-          "estimated_count": 2,
+          "revealed_count": 3,
+          "confirmed_count": 0,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|GR": {
           "class": "ウィッチ",
@@ -392,12 +408,16 @@
             {
               "num": 41,
               "cardno": "BP21-041",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-041",
+              "kind": "base"
             },
             {
               "num": 42,
               "cardno": "BP21-042",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-042",
+              "kind": "evolve"
             },
             {
               "num": 43,
@@ -412,14 +432,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 1,
-          "estimated_count": 2,
+          "revealed_count": 3,
+          "confirmed_count": 0,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|SR": {
           "class": "ウィッチ",
@@ -433,7 +453,7 @@
             {
               "num": 46,
               "cardno": "BP21-046",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 47,
@@ -449,8 +469,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 0,
-          "estimated_count": 3,
+          "confirmed_count": 1,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -1080,7 +1100,7 @@
       "tokens": {
         "count": 14,
         "reprint_count": 4,
-        "revealed_count": 3,
+        "revealed_count": 4,
         "slots": [
           {
             "num": 1,
@@ -1144,8 +1164,10 @@
           {
             "num": 12,
             "cardno": "BP21-T12",
-            "status": "confirmed",
-            "reprint": true
+            "status": "revealed",
+            "reprint": true,
+            "oracle_id": "BP13-T01",
+            "image": "BP21-T12.png"
           },
           {
             "num": 13,
