@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 54,
-      "n_layouts": 179574,
+      "revealed_count": 55,
+      "n_layouts": 60817,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1085,14 +1085,16 @@
             {
               "num": 116,
               "cardno": "BP21-116",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-116",
+              "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 2,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 0,
           "evolve_revealed": 0
