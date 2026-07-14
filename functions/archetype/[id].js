@@ -15,7 +15,7 @@ async function fetchJson(url) {
 }
 function cardImageUrl(print) {
   if (!print?.image_url) return null;
-  const filename = print.image_url.split("/").pop();
+  const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
   return `${R2_BASE}/images/${print.expansion}/${filename}`;
 }
 function escapeHtml(str) {
