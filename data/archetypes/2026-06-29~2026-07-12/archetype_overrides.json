@@ -1,0 +1,48 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "05102f",
+      "rules": [
+        {
+          "required": ["若芽の組員"],
+          "name": "八獄エルフ"
+        },
+        {
+          "required": ["浄樹の六銘伝・ロロ・ロニエ"],
+          "name": "透京エルフ"
+        },
+        {
+          "required": [],
+          "name": "コンボエルフ"
+        }
+      ]
+    },
+    {
+      "source": "9ee370",
+      "rules": [
+        {
+          "required": ["ライラエル"],
+          "name": "ミッドレンジプリコネ"
+        },
+        {
+          "required": ["ホマレ"],
+          "name": "スペルランププリコネ"
+        },
+        {
+          "required": [],
+          "name": "スペルプリコネ"
+        }
+      ]
+    }
+  ]
+}
