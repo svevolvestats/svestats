@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 56,
-      "n_layouts": 60817,
+      "revealed_count": 59,
+      "n_layouts": 22033,
       "unique": false,
       "classes": [
         "エルフ",
@@ -95,12 +95,14 @@
             {
               "num": 8,
               "cardno": "BP21-008",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-008",
+              "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 2,
           "confirmed_count": 1,
-          "estimated_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -114,12 +116,16 @@
             {
               "num": 9,
               "cardno": "BP21-009",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-009",
+              "kind": "base"
             },
             {
               "num": 10,
               "cardno": "BP21-010",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-010",
+              "kind": "evolve"
             },
             {
               "num": 11,
@@ -134,14 +140,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 3,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "エルフ|BR": {
           "class": "エルフ",
@@ -155,7 +161,7 @@
             {
               "num": 14,
               "cardno": "BP21-014",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 15,
@@ -181,8 +187,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 3,
+          "confirmed_count": 3,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
