@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "expansions": [
     {
       "expansion": "BP21",
@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 61,
-      "n_layouts": 16245,
+      "revealed_count": 67,
+      "n_layouts": 4455,
       "unique": false,
       "classes": [
         "エルフ",
@@ -554,7 +554,9 @@
             {
               "num": 57,
               "cardno": "BP21-057",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-057",
+              "kind": "base"
             },
             {
               "num": 58,
@@ -562,8 +564,8 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
+          "revealed_count": 3,
+          "confirmed_count": 0,
           "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
@@ -634,7 +636,9 @@
             {
               "num": 65,
               "cardno": "BP21-065",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-065",
+              "kind": "base"
             },
             {
               "num": 66,
@@ -642,9 +646,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -680,7 +684,7 @@
             {
               "num": 71,
               "cardno": "BP21-071",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 72,
@@ -689,8 +693,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 3,
+          "confirmed_count": 3,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -704,12 +708,16 @@
             {
               "num": 73,
               "cardno": "BP21-073",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-073",
+              "kind": "base"
             },
             {
               "num": 74,
               "cardno": "BP21-074",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-074",
+              "kind": "evolve"
             },
             {
               "num": 75,
@@ -721,17 +729,19 @@
             {
               "num": 76,
               "cardno": "BP21-076",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-076",
+              "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 3,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ナイトメア|GR": {
           "class": "ナイトメア",
@@ -832,7 +842,9 @@
             {
               "num": 87,
               "cardno": "BP21-087",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-087",
+              "kind": "base"
             },
             {
               "num": 88,
@@ -852,8 +864,8 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 2,
+          "revealed_count": 2,
+          "confirmed_count": 1,
           "estimated_count": 3,
           "size": 6,
           "size_status": "estimated",
