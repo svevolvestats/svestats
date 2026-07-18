@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 69,
-      "n_layouts": 1625,
+      "revealed_count": 71,
+      "n_layouts": 1133,
       "unique": false,
       "classes": [
         "エルフ",
@@ -458,12 +458,16 @@
             {
               "num": 45,
               "cardno": "BP21-045",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-045",
+              "kind": "base"
             },
             {
               "num": 46,
               "cardno": "BP21-046",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-046",
+              "kind": "evolve"
             },
             {
               "num": 47,
@@ -480,14 +484,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|BR": {
           "class": "ウィッチ",
@@ -501,7 +505,7 @@
             {
               "num": 50,
               "cardno": "BP21-050",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 51,
@@ -529,8 +533,8 @@
             }
           ],
           "revealed_count": 2,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "confirmed_count": 1,
+          "estimated_count": 3,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
