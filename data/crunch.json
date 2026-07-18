@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 67,
-      "n_layouts": 4455,
+      "revealed_count": 69,
+      "n_layouts": 1625,
       "unique": false,
       "classes": [
         "エルフ",
@@ -350,7 +350,7 @@
             {
               "num": 35,
               "cardno": "BP21-035",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 36,
@@ -359,8 +359,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 3,
+          "confirmed_count": 3,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -395,14 +395,16 @@
             {
               "num": 40,
               "cardno": "BP21-040",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-040",
+              "kind": "base"
             }
           ],
-          "revealed_count": 3,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -435,14 +437,16 @@
             {
               "num": 44,
               "cardno": "BP21-044",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-044",
+              "kind": "base"
             }
           ],
-          "revealed_count": 3,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -961,7 +965,7 @@
             {
               "num": 100,
               "cardno": "BP21-100",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 101,
@@ -980,8 +984,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 1,
-          "estimated_count": 3,
+          "confirmed_count": 2,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -1000,7 +1004,7 @@
             {
               "num": 105,
               "cardno": "BP21-105",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 106,
@@ -1024,8 +1028,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 3,
-          "estimated_count": 3,
+          "confirmed_count": 4,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -1140,7 +1144,7 @@
       "tokens": {
         "count": 14,
         "reprint_count": 4,
-        "revealed_count": 6,
+        "revealed_count": 8,
         "slots": [
           {
             "num": 1,
@@ -1162,12 +1166,14 @@
           {
             "num": 4,
             "cardno": "BP21-T04",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "BP21-T04"
           },
           {
             "num": 5,
             "cardno": "BP21-T05",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "BP21-T05"
           },
           {
             "num": 6,
