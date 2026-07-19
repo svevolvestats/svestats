@@ -82,14 +82,14 @@
         "atk": 1,
         "hp": 3,
         "text": "自分のウマ娘・カードの能力によってこれを自分の手札から捨てたとき、1枚引く。\n【食事】コスト1：これは出走する。\n【ファンファーレ】自分の場の他のウマ娘・フォロワー1体を選ぶ。それは攻撃力+1/体力+1する。",
-        "keywords": ["食事", "ファンファーレ"],
+        "keywords": ["食事","ファンファーレ"],
         "expansion": "BP22",
         "rarity": "GR",
         "image_url": "BP22-116.png",
         "release_date": "2026-10-02",
         "source_url": "https://twitter.com/shadowverse_ev/status/2063200870473633807"
     },
-	{
+    {
         "oracle_id": "BP21-002",
         "name": "無謬の偶像・ライル",
         "class": "エルフ",
@@ -102,16 +102,16 @@
         "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の人形・カード1枚を捨てる：2枚引く。",
         "keywords": ["進化","ファンファーレ"],
         "expansion": "BP21",
-		"evolves_to": ["BP21-003"],
-		"evolved_from": [],
+        "evolves_to": ["BP21-003"],
+        "evolved_from": [],
         "mentions": [],
         "mentioned_from": [],
         "image_url": "BP21-002.png",
         "release_date": "2026-07-31",
-		"rarity": "LG",
+        "rarity": "LG",
         "source_url": "https://dorasuta.jp/column/detail?aid=11530"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-003",
         "name": "無謬の偶像・ライル",
         "class": "エルフ",
@@ -124,16 +124,16 @@
         "text": "【進化時】『ライルの人形』1枚をEXエリアに置く。\n【超進化時】自分のEXエリアの人形・トークン・フォロワー1体を選ぶ。自分の墓場の人形・カードが3枚以上なら、それは攻撃力+4/体力+4する。",
         "keywords": ["進化時","超進化時"],
         "expansion": "BP21",
-		"evolves_to": [],
-		"evolved_from": ["BP21-002"],
+        "evolves_to": [],
+        "evolved_from": ["BP21-002"],
         "mentions_tokens": ["BP21-T01"],
         "mentioned_from": [],
         "image_url": "BP21-003.png",
         "release_date": "2026-07-31",
-		"rarity": "LG",
+        "rarity": "LG",
         "source_url": "https://dorasuta.jp/column/detail?aid=11530"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-T01",
         "name": "ライルの人形",
         "class": "エルフ",
@@ -146,15 +146,15 @@
         "text": "これは場にいる限り、『操り人形』でもある。\n【疾走】【必殺】【守護】",
         "keywords": ["疾走","必殺","守護"],
         "expansion": "BP21",
-		"evolves_to": [],
-		"evolved_from": [],
+        "evolves_to": [],
+        "evolved_from": [],
         "mentions": ["BP05-T03"],
         "mentioned_from": ["BP21-003"],
         "image_url": "BP21-T01.png",
         "release_date": "2026-07-31",
         "source_url": "https://dorasuta.jp/column/detail?aid=11530"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-069",
         "name": "オルカサーファー",
         "class": "ドラゴン",
@@ -167,16 +167,16 @@
         "text": "【守護】\n【ラストワード】1枚引く。\n【起動】これをアクト：自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、自分のリーダーは体力+2する。10個以上なら、これは体力+6する。",
         "keywords": ["守護","ラストワード","起動"],
         "expansion": "BP21",
-		"evolves_to": [],
-		"evolved_from": [],
+        "evolves_to": [],
+        "evolved_from": [],
         "mentions": [],
         "mentioned_from": [],
         "image_url": "BP21-069.jpg",
         "release_date": "2026-07-31",
-		"rarity": "BR",
+        "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2072244265724641329"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-059",
         "name": "グランドスラムの竜使い",
         "class": "ドラゴン",
@@ -189,16 +189,16 @@
         "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】【覚醒】状態なら、自分のデッキの上3枚を見る。その中から、学院・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
         "keywords": ["進化","ファンファーレ","覚醒"],
         "expansion": "BP21",
-		"evolves_to": ["BP21-060"],
-		"evolved_from": [],
+        "evolves_to": ["BP21-060"],
+        "evolved_from": [],
         "mentions": [],
         "mentioned_from": [],
         "image_url": "BP21-059.jpg",
         "release_date": "2026-07-31",
-		"rarity": "GR",
+        "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2072246399882915885"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-060",
         "name": "グランドスラムの竜使い",
         "class": "ドラゴン",
@@ -211,16 +211,16 @@
         "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、代わりに4ダメージ。10個以上なら、これは体力+6する。",
         "keywords": ["進化時"],
         "expansion": "BP21",
-		"evolves_to": [],
-		"evolved_from": ["BP21-059"],
+        "evolves_to": [],
+        "evolved_from": ["BP21-059"],
         "mentions": [],
         "mentioned_from": [],
         "image_url": "BP21-060.jpg",
         "release_date": "2026-07-31",
-		"rarity": "GR",
+        "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2072246399882915885"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-110",
         "name": "レジェンドティーチャー・ルシウス",
         "class": "ニュートラル",
@@ -233,16 +233,16 @@
         "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のリーダーは体力+1する。1枚引く。",
         "keywords": ["進化","ファンファーレ"],
         "expansion": "BP21",
-		"evolves_to": ["BP21-111"],
-		"evolved_from": [],
+        "evolves_to": ["BP21-111"],
+        "evolved_from": [],
         "mentions": [],
         "mentioned_from": [],
         "image_url": "BP21-110.jpg",
         "release_date": "2026-07-31",
-		"rarity": "LG",
+        "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2072248896420708685"
-	},
-	{
+    },
+    {
         "oracle_id": "BP21-111",
         "name": "レジェンドティーチャー・ルシウス",
         "class": "ニュートラル",
@@ -255,15 +255,15 @@
         "text": "【進化時】手札の学院・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
         "keywords": ["進化時"],
         "expansion": "BP21",
-		"evolves_to": [],
-		"evolved_from": ["BP21-110"],
+        "evolves_to": [],
+        "evolved_from": ["BP21-110"],
         "mentions": [],
         "mentioned_from": [],
         "image_url": "BP21-111.jpg",
         "release_date": "2026-07-31",
-		"rarity": "LG",
+        "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2072248896420708685"
-	},
+    },
     {
         "oracle_id": "BP21-075",
         "name": "エンペラーフィスト・ガロム",
@@ -453,14 +453,7 @@
         "evolved_from": [],
         "mentions": [],
         "mentioned_from": [],
-        "mentions_by_name_contains": [
-            "BP02-021",
-            "SP01-010",
-            "BP16-019",
-            "BP16-020",
-            "BP12-020",
-            "BP21-019"
-        ],
+        "mentions_by_name_contains": ["BP02-021","SP01-010","BP16-019","BP16-020","BP12-020","BP21-019"],
         "image_url": "BP21-026.jpg",
         "release_date": "2026-07-31",
         "rarity": "GR",
@@ -538,7 +531,6 @@
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2073336056167145853"
     },
-
     {
         "oracle_id": "BP21-091",
         "name": "異端の指導者・ベルディリア",
@@ -608,7 +600,6 @@
         "release_date": "2026-07-31",
         "source_url": "https://twitter.com/CASTER_ebibkw/status/2073693376268960056"
     },
-
     {
         "oracle_id": "BP21-096",
         "name": "優雅なる修練・ルゥ",
@@ -657,7 +648,6 @@
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2073695922605924410"
     },
-
     {
         "oracle_id": "BP21-011",
         "name": "ナチュラルテイマー",
@@ -706,7 +696,6 @@
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2074058287251878392"
     },
-
     {
         "oracle_id": "BP21-047",
         "name": "カースドソーサラー・リーズ",
@@ -755,7 +744,6 @@
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2074420729505099997"
     },
-
     {
         "oracle_id": "BP21-022",
         "name": "レヴィオンの超越者・ユリウス",
@@ -780,7 +768,6 @@
         "rarity": "LG",
         "source_url": "https://shadowverse-evolve.com/bp21_cardarchive/"
     },
-
     {
         "oracle_id": "BP21-023",
         "name": "飛躍の双剣使い",
@@ -877,7 +864,6 @@
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2074783098353615283"
     },
-
     {
         "oracle_id": "BP21-043",
         "name": "マナリアパーティー",
@@ -898,7 +884,7 @@
         "image_url": "BP21-043.jpg",
         "release_date": "2026-07-31",
         "rarity": "GR",
-        "source_url": "https://twitter.com/shadowverse_ev/status/2075143146540011860"        
+        "source_url": "https://twitter.com/shadowverse_ev/status/2075143146540011860"
     },
     {
         "oracle_id": "BP21-115",
@@ -924,7 +910,6 @@
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2075145506846859588"
     },
-
     {
         "oracle_id": "BP21-030",
         "name": "才気の戦略家",
@@ -1170,7 +1155,6 @@
         "reprint_of": "BP13-T01",
         "image_url": "BP21-T12.png"
     },
-
     {
         "oracle_id": "BP21-055",
         "name": "竜の魔女・リリウム",
@@ -1265,7 +1249,6 @@
         "release_date": "2026-07-31",
         "source_url": "https://dengekionline.com/article/202607/80559"
     },
-
     {
         "oracle_id": "BP21-048",
         "name": "鐘の魔術師",
@@ -1360,7 +1343,6 @@
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2076230282148290794"
     },
-
     {
         "oracle_id": "BP21-112",
         "name": "駆動の領域・グレティナ",
@@ -1385,7 +1367,6 @@
         "rarity": "LG",
         "source_url": "https://twitter.com/Fuuhi78/status/2076517072755130575"
     },
-
     {
         "oracle_id": "BP21-116",
         "name": "絆の証明",
@@ -1408,7 +1389,6 @@
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2076592707292844510"
     },
-
     {
         "oracle_id": "BP21-061",
         "name": "緋色の貴公子・ディオン",
@@ -1491,7 +1471,6 @@
         "release_date": "2026-07-31",
         "source_url": "https://twitter.com/shadowverse_ev/status/2077319798967689523"
     },
-
     {
         "oracle_id": "BP21-063",
         "name": "竜人のストライカー",
@@ -1540,7 +1519,6 @@
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2077679788278567167"
     },
-
     {
         "oracle_id": "BP21-057",
         "name": "熱血の竜教師・ジョー",
@@ -1685,7 +1663,6 @@
         "rarity": "BR",
         "source_url": "https://www.youtube.com/watch?v=dSHLmqRKhes"
     },
-
     {
         "oracle_id": "BP21-040",
         "name": "双魂の久遠・ケリドウェン",
@@ -1774,7 +1751,6 @@
         "release_date": "2026-07-31",
         "source_url": "https://www.gamer.ne.jp/news/202607180001/"
     },
-
     {
         "oracle_id": "BP21-045",
         "name": "ルナルの教会長・グリュネ",
@@ -1822,5 +1798,165 @@
         "release_date": "2026-07-31",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2078404603813802171"
+    },
+    {
+        "oracle_id": "BP21-094",
+        "name": "嗚咽の聖騎士・ウィルバート",
+        "class": "ビショップ",
+        "card_type": ["フォロワー"],
+        "tribe": ["挑戦者","先導"],
+        "title": null,
+        "cost": 3,
+        "atk": 2,
+        "hp": 2,
+        "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】『聖騎兵』1体を場に出す。",
+        "keywords": ["進化","守護","ファンファーレ"],
+        "expansion": "BP21",
+        "evolves_to": ["BP21-095"],
+        "evolved_from": [],
+        "mentions": ["BP21-T08"],
+        "mentions_tokens": ["BP01-T08"],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-094.png",
+        "release_date": "2026-07-31",
+        "rarity": "LG",
+        "source_url": "https://gamewith.jp/shadowverse-wb/567142"
+    },
+    {
+        "oracle_id": "BP21-095",
+        "name": "嗚咽の聖騎士・ウィルバート",
+        "class": "ビショップ",
+        "card_type": ["フォロワー","エボルヴ"],
+        "tribe": ["挑戦者","先導"],
+        "title": null,
+        "cost": 3,
+        "atk": 3,
+        "hp": 3,
+        "text": "【守護】\n【進化時】下記から1つチョイスする。\n【1】『聖騎兵』1体を場に出す。自分の場の『聖騎兵』すべては攻撃力+1して、【指定攻撃】を持つ。\n【2】『クレスト 嗚咽の聖騎士・ウィルバート』1枚をEXエリアに置く。",
+        "keywords": ["守護","進化時","指定攻撃"],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": ["BP21-094"],
+        "mentions": ["BP21-T08","BP21-T10"],
+        "mentions_tokens": ["BP01-T08","BP21-T10"],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-095.png",
+        "release_date": "2026-07-31",
+        "rarity": "LG",
+        "source_url": "https://gamewith.jp/shadowverse-wb/567142"
+    },
+    {
+        "oracle_id": "BP21-T08",
+        "name": "聖騎兵",
+        "class": "ビショップ",
+        "card_type": ["フォロワー","トークン"],
+        "tribe": ["先導"],
+        "title": null,
+        "cost": 1,
+        "atk": 1,
+        "hp": 2,
+        "text": "【守護】\nこれの攻撃力を+したとき、これは【突進】を持つ。",
+        "keywords": ["守護","突進"],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": [],
+        "mentions_tokens": [],
+        "mentioned_from": ["BP21-094","BP21-095"],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-T08.png",
+        "release_date": "2026-07-31",
+        "source_url": "https://gamewith.jp/shadowverse-wb/567142"
+    },
+    {
+        "oracle_id": "BP21-T10",
+        "name": "クレスト 嗚咽の聖騎士・ウィルバート",
+        "class": "ビショップ",
+        "card_type": ["クレスト","トークン"],
+        "tribe": ["挑戦者","先導"],
+        "title": null,
+        "text": "【起動】コスト0：自分の場の【守護】を持つフォロワー1体を選ぶ。自分の場の【守護】を持つフォロワーが3体以上なら、それは攻撃力+1/体力+1する。5体なら、代わりに攻撃力+2/体力+2する。この能力は1ターンに1回使える。",
+        "keywords": ["起動","守護"],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": [],
+        "mentions_tokens": [],
+        "mentioned_from": ["BP21-095"],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-T10.png",
+        "release_date": "2026-07-31",
+        "source_url": "https://gamewith.jp/shadowverse-wb/567142"
+    },
+    {
+        "oracle_id": "BP21-102",
+        "name": "希望の断片・キリエ",
+        "class": "ビショップ",
+        "card_type": ["フォロワー"],
+        "tribe": ["超克"],
+        "title": null,
+        "cost": 4,
+        "atk": 1,
+        "hp": 1,
+        "text": "【守護】\n【ファンファーレ】1枚引く。自分のPPを3回復する。",
+        "keywords": ["守護","ファンファーレ"],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": [],
+        "mentions_tokens": [],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-102.png",
+        "release_date": "2026-07-31",
+        "rarity": "SR",
+        "source_url": "https://gamewith.jp/shadowverse-wb/567142"
+    },
+
+    {
+        "oracle_id": "BP21-035",
+        "name": "快進撃",
+        "class": "ロイヤル",
+        "card_type": ["スペル"],
+        "tribe": ["兵士"],
+        "title": null,
+        "cost": 2,
+        "text": "これをプレイする際、場の兵士・フォロワー1体をアクト：コストを-1する。\n相手の場のフォロワー1体を選ぶ。それに4ダメージ。『ナイト』1体を場に出す。",
+        "keywords": [],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": ["BP01-T05"],
+        "mentions_tokens": ["BP01-T05"],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-035.jpg",
+        "release_date": "2026-07-31",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2078766909798109648"
+    },
+    {
+        "oracle_id": "BP21-036",
+        "name": "戦場の記録",
+        "class": "ロイヤル",
+        "card_type": ["スペル"],
+        "tribe": ["指揮官"],
+        "title": null,
+        "cost": 2,
+        "text": "自分の墓場の兵士・フォロワー2枚まで選ぶ。それを手札に加える。",
+        "keywords": [],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": [],
+        "mentions_tokens": [],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-036.jpg",
+        "release_date": "2026-07-31",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2078769348693631317"
     }
 ]
