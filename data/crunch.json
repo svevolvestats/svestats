@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20",
+  "generated_at": "2026-07-21",
   "expansions": [
     {
       "expansion": "BP21",
@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 78,
-      "n_layouts": 121,
+      "revealed_count": 81,
+      "n_layouts": 108,
       "unique": false,
       "classes": [
         "エルフ",
@@ -674,12 +674,16 @@
             {
               "num": 67,
               "cardno": "BP21-067",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-067",
+              "kind": "base"
             },
             {
               "num": 68,
               "cardno": "BP21-068",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-068",
+              "kind": "evolve"
             },
             {
               "num": 69,
@@ -691,7 +695,9 @@
             {
               "num": 70,
               "cardno": "BP21-070",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-070",
+              "kind": "base"
             },
             {
               "num": 71,
@@ -704,14 +710,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 3,
-          "estimated_count": 2,
+          "revealed_count": 4,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ナイトメア|LG": {
           "class": "ナイトメア",
