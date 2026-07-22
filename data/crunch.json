@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "expansions": [
     {
       "expansion": "BP21",
@@ -12,7 +12,7 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 81,
+      "revealed_count": 83,
       "n_layouts": 108,
       "unique": false,
       "classes": [
@@ -983,12 +983,16 @@
             {
               "num": 100,
               "cardno": "BP21-100",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-100",
+              "kind": "base"
             },
             {
               "num": 101,
               "cardno": "BP21-101",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-101",
+              "kind": "evolve"
             },
             {
               "num": 102,
@@ -1003,14 +1007,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 2,
+          "revealed_count": 3,
+          "confirmed_count": 0,
           "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ビショップ|BR": {
           "class": "ビショップ",
