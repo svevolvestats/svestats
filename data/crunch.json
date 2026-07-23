@@ -12,8 +12,8 @@
         "BR": 36
       },
       "total_count": 116,
-      "revealed_count": 83,
-      "n_layouts": 108,
+      "revealed_count": 88,
+      "n_layouts": 70,
       "unique": false,
       "classes": [
         "エルフ",
@@ -78,12 +78,16 @@
             {
               "num": 5,
               "cardno": "BP21-005",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-005",
+              "kind": "base"
             },
             {
               "num": 6,
               "cardno": "BP21-006",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-006",
+              "kind": "evolve"
             },
             {
               "num": 7,
@@ -100,14 +104,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "エルフ|SR": {
           "class": "エルフ",
@@ -156,12 +160,16 @@
             {
               "num": 13,
               "cardno": "BP21-013",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP21-013",
+              "kind": "base"
             },
             {
               "num": 14,
               "cardno": "BP21-014",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-014",
+              "kind": "evolve"
             },
             {
               "num": 15,
@@ -173,7 +181,9 @@
             {
               "num": 16,
               "cardno": "BP21-016",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP21-016",
+              "kind": "base"
             },
             {
               "num": 17,
@@ -186,14 +196,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 3,
-          "estimated_count": 2,
+          "revealed_count": 4,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|LG": {
           "class": "ロイヤル",
