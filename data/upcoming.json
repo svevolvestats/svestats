@@ -2437,7 +2437,7 @@
         "rarity": "SR",
         "source_url": "https://www.youtube.com/watch?v=_VtqZ47XX90"
     },
-    
+
     {
         "oracle_id": "BP21-012",
         "name": "妖精の学習",
@@ -2481,5 +2481,53 @@
         "release_date": "2026-07-31",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2080943680400265498"
+    },
+    {
+        "oracle_id": "BP21-066",
+        "name": "ドラゴニュート・シャルロット",
+        "class": "ドラゴン",
+        "card_type": ["フォロワー"],
+        "tribe": ["竜使い", "ドラゴニュート"],
+        "title": null,
+        "cost": 10,
+        "atk": 4,
+        "hp": 9,
+        "text": "【疾走】【守護】\n【ファンファーレ】自分のデッキの上1枚を公開する。公開したカードがドラゴンフォロワーなら、それを場に出す。公開したカードがドラゴンフォロワーでないなら、1枚引く。",
+        "keywords": ["疾走", "守護", "ファンファーレ"],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": [],
+        "mentions_tokens": [],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-066.jpg",
+        "release_date": "2026-07-31",
+        "rarity": "SR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2081306083155743023"
+    },
+    {
+        "oracle_id": "BP21-058",
+        "name": "金色の威信・リュミオール",
+        "class": "ドラゴン",
+        "card_type": ["フォロワー"],
+        "tribe": ["ドラゴニュート"],
+        "title": null,
+        "cost": 6,
+        "atk": 4,
+        "hp": 4,
+        "text": "自分のエンドフェイズが来たとき、自分の場のドラゴニュート・フォロワーが3体以上なら、相手のリーダーすべてと相手の場のフォロワーすべてに3ダメージ。\n【ファンファーレ】手札1枚を捨てる：自分のデッキから元のコスト2のドラゴニュート・フォロワー1枚と元のコスト1のドラゴニュート・フォロワー1枚を探し、場に出す。",
+        "keywords": ["ファンファーレ"],
+        "expansion": "BP21",
+        "evolves_to": [],
+        "evolved_from": [],
+        "mentions": [],
+        "mentions_tokens": [],
+        "mentioned_from": [],
+        "mentions_by_name_contains": [],
+        "image_url": "BP21-058.png",
+        "release_date": "2026-07-31",
+        "rarity": "LG",
+        "source_url": "https://twitter.com/PolngaxNagi/status/2081303516451344560/"
     }
 ]
