@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2075,
+ "in_evolve": 2077,
  "match_breakdown": {
-  "exact": 2055,
-  "null": 2786,
+  "exact": 2057,
+  "null": 2784,
   "alias": 19,
   "normalized": 1
  },
@@ -113345,9 +113345,9 @@
      "vo_126111020_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP21-017",
+   "matched_by": "exact",
    "name_en": "Spiritelementalist",
    "expansion_en": "Celestial Dragonblade"
   },
@@ -113385,7 +113385,7 @@
     ]
    },
    "in_evolve": true,
-   "evolve_oracle_id": "BP21-P10",
+   "evolve_oracle_id": "BP21-016",
    "matched_by": "exact",
    "name_en": "Flying Mistletoe Squirrel",
    "expansion_en": "Celestial Dragonblade"
@@ -122081,7 +122081,7 @@
     ]
    },
    "in_evolve": true,
-   "evolve_oracle_id": "BP21-P07",
+   "evolve_oracle_id": "BP21-013",
    "matched_by": "exact",
    "name_en": "Bladebunny",
    "expansion_en": "Academy of Ages"
@@ -122106,7 +122106,7 @@
    "image": "old_sv/image/128114010.webp",
    "voices": null,
    "in_evolve": true,
-   "evolve_oracle_id": "BP21-P06",
+   "evolve_oracle_id": "BP21-012",
    "matched_by": "exact",
    "name_en": "Fairy Funfact",
    "expansion_en": "Academy of Ages"
@@ -122143,9 +122143,9 @@
      "vo_128121010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP21-011",
+   "matched_by": "exact",
    "name_en": "Fauna Handler",
    "expansion_en": "Academy of Ages"
   },
@@ -122182,7 +122182,7 @@
     ]
    },
    "in_evolve": true,
-   "evolve_oracle_id": "BP21-P04",
+   "evolve_oracle_id": "BP21-009",
    "matched_by": "exact",
    "name_en": "Elven Farmhand",
    "expansion_en": "Academy of Ages"
@@ -126308,7 +126308,7 @@
     ]
    },
    "in_evolve": true,
-   "evolve_oracle_id": "BP21-P09",
+   "evolve_oracle_id": "BP21-015",
    "matched_by": "exact",
    "name_en": "Vanguard Tigress",
    "expansion_en": "Heroes of Rivenbrandt"

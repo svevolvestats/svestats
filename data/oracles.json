@@ -7407,7 +7407,7 @@
       "BP21-004",
       "BP21-007",
       "BP21-018",
-      "BP21-P06"
+      "BP21-012"
     ],
     "illustrator": "カイエダヒロシ",
     "legal_status": null,
@@ -151763,7 +151763,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P04",
+    "oracle_id": "BP21-009",
     "is_dual_face": false,
     "name": "農作のエルフ",
     "alt_names": [],
@@ -151783,12 +151783,13 @@
     "keywords": [
       "進化"
     ],
-    "canonical_print": "BP21-P04",
+    "canonical_print": "BP21-009",
     "prints": [
+      "BP21-009",
       "BP21-P04"
     ],
     "evolves_to": [
-      "BP21-P05"
+      "BP21-010"
     ],
     "evolved_from": [],
     "advance_forms": [],
@@ -151803,7 +151804,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P05",
+    "oracle_id": "BP21-010",
     "is_dual_face": false,
     "name": "農作のエルフ",
     "alt_names": [],
@@ -151824,13 +151825,14 @@
     "keywords": [
       "進化時"
     ],
-    "canonical_print": "BP21-P05",
+    "canonical_print": "BP21-010",
     "prints": [
+      "BP21-010",
       "BP21-P05"
     ],
     "evolves_to": [],
     "evolved_from": [
-      "BP21-P04"
+      "BP21-009"
     ],
     "advance_forms": [],
     "advance_base": null,
@@ -151844,7 +151846,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P06",
+    "oracle_id": "BP21-012",
     "is_dual_face": false,
     "name": "妖精の学習",
     "alt_names": [],
@@ -151866,8 +151868,9 @@
       "指定攻撃",
       "コンボ"
     ],
-    "canonical_print": "BP21-P06",
+    "canonical_print": "BP21-012",
     "prints": [
+      "BP21-012",
       "BP21-P06"
     ],
     "evolves_to": [],
@@ -151888,7 +151891,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P07",
+    "oracle_id": "BP21-013",
     "is_dual_face": false,
     "name": "ソードラビット",
     "alt_names": [],
@@ -151907,18 +151910,19 @@
     "keywords": [
       "進化"
     ],
-    "canonical_print": "BP21-P07",
+    "canonical_print": "BP21-013",
     "prints": [
+      "BP21-013",
       "BP21-P07"
     ],
     "evolves_to": [
-      "BP21-P08"
+      "BP21-014"
     ],
     "evolved_from": [],
     "advance_forms": [],
     "advance_base": null,
     "mentions": [
-      "BP21-P08"
+      "BP21-014"
     ],
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
@@ -151929,7 +151933,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P08",
+    "oracle_id": "BP21-014",
     "is_dual_face": false,
     "name": "ソードラビット",
     "alt_names": [],
@@ -151947,13 +151951,14 @@
     "hp": 3,
     "text": "",
     "keywords": [],
-    "canonical_print": "BP21-P08",
+    "canonical_print": "BP21-014",
     "prints": [
+      "BP21-014",
       "BP21-P08"
     ],
     "evolves_to": [],
     "evolved_from": [
-      "BP21-P07"
+      "BP21-013"
     ],
     "advance_forms": [],
     "advance_base": null,
@@ -151961,7 +151966,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "BP21-P07"
+      "BP21-013"
     ],
     "illustrator": "米谷 尚展",
     "legal_status": null,
@@ -151969,7 +151974,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P09",
+    "oracle_id": "BP21-015",
     "is_dual_face": false,
     "name": "タイガーガール",
     "alt_names": [],
@@ -151989,8 +151994,9 @@
       "疾走",
       "攻撃時"
     ],
-    "canonical_print": "BP21-P09",
+    "canonical_print": "BP21-015",
     "prints": [
+      "BP21-015",
       "BP21-P09"
     ],
     "evolves_to": [],
@@ -152007,7 +152013,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "BP21-P10",
+    "oracle_id": "BP21-016",
     "is_dual_face": false,
     "name": "宿り木のモモンガ",
     "alt_names": [],
@@ -152027,8 +152033,9 @@
       "ファンファーレ",
       "疾走"
     ],
-    "canonical_print": "BP21-P10",
+    "canonical_print": "BP21-016",
     "prints": [
+      "BP21-016",
       "BP21-P10"
     ],
     "evolves_to": [],
@@ -152040,6 +152047,79 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "タツヤキ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-011",
+    "is_dual_face": false,
+    "name": "ナチュラルテイマー",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "学院",
+      "獣"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "これが場を離れたとき、自分の場の学院・フォロワー1体か自分の場の獣・フォロワー1体を選ぶ。それは攻撃力+1/体力+1する。",
+    "keywords": [],
+    "canonical_print": "BP21-011",
+    "prints": [
+      "BP21-011"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "irua",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-017",
+    "is_dual_face": false,
+    "name": "ワイルドエレメンタラー",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "エルフ族"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 5,
+    "hp": 3,
+    "text": "【ファンファーレ】相手の場のフォロワーすべてに5ダメージ。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-017",
+    "prints": [
+      "BP21-017"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "doughnutz",
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": null
