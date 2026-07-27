@@ -2159,7 +2159,8 @@
     ],
     "canonical_print": "BP01-054",
     "prints": [
-      "BP01-054"
+      "BP01-054",
+      "BP21-PR08"
     ],
     "evolves_to": [
       "BP01-055"
@@ -2201,7 +2202,8 @@
     "keywords": [],
     "canonical_print": "BP01-055",
     "prints": [
-      "BP01-055"
+      "BP01-055",
+      "BP21-PR09"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -7352,6 +7354,7 @@
       "BP11-T06",
       "BP13-T07",
       "BP16-T10",
+      "BP21-T11",
       "EBD01-T02",
       "PR-108",
       "SD01-T01",
@@ -7400,7 +7403,11 @@
       "SD01-011",
       "SD01-012",
       "SD01-016",
-      "BP20-013"
+      "BP20-013",
+      "BP21-004",
+      "BP21-007",
+      "BP21-018",
+      "BP21-P06"
     ],
     "illustrator": "カイエダヒロシ",
     "legal_status": null,
@@ -7511,7 +7518,8 @@
       "BP19-022",
       "BP19-037",
       "SD02-004",
-      "SD02-010"
+      "SD02-010",
+      "BP21-035"
     ],
     "illustrator": "hikaru",
     "legal_status": null,
@@ -7724,7 +7732,9 @@
       "BP12-047",
       "BP16-043",
       "BP19-052",
-      "SD03-016"
+      "SD03-016",
+      "BP21-044",
+      "BP21-T04"
     ],
     "illustrator": "Siswanto Budi Cahyono",
     "legal_status": null,
@@ -7792,7 +7802,8 @@
       "BP16-046",
       "BP16-052",
       "BP16-054",
-      "BP19-052"
+      "BP19-052",
+      "BP21-045"
     ],
     "illustrator": "永守浩太",
     "legal_status": null,
@@ -9511,7 +9522,9 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
-    "mentioned_from": [],
+    "mentioned_from": [
+      "BP21-026"
+    ],
     "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
@@ -29699,7 +29712,9 @@
       "BP19-004",
       "BP19-008",
       "BP19-012",
-      "BP19-016"
+      "BP19-016",
+      "BP21-003",
+      "BP21-T01"
     ],
     "illustrator": "風篠",
     "legal_status": null,
@@ -29799,7 +29814,8 @@
       "BP08-101",
       "BP10-003",
       "BP13-007",
-      "BP15-100"
+      "BP15-100",
+      "BP21-051"
     ],
     "illustrator": "ゾウノセ",
     "legal_status": null,
@@ -36055,6 +36071,7 @@
     "canonical_print": "BP07-022",
     "prints": [
       "BP07-022",
+      "BP21-PR05",
       "PR-182",
       "PR-325"
     ],
@@ -36101,6 +36118,7 @@
     "canonical_print": "BP07-023",
     "prints": [
       "BP07-023",
+      "BP21-PR06",
       "PR-216",
       "PR-326"
     ],
@@ -38101,7 +38119,8 @@
     "prints": [
       "BP07-070",
       "BP07-SL14",
-      "BP07-U05"
+      "BP07-U05",
+      "BP21-PR01"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -50912,7 +50931,8 @@
     "keywords": [],
     "canonical_print": "BP09-T01",
     "prints": [
-      "BP09-T01"
+      "BP09-T01",
+      "BP21-T13"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -50953,7 +50973,8 @@
     ],
     "canonical_print": "BP09-T02",
     "prints": [
-      "BP09-T02"
+      "BP09-T02",
+      "BP21-T14"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -51363,6 +51384,7 @@
     "canonical_print": "BP10-007",
     "prints": [
       "BP10-007",
+      "BP21-PR03",
       "PR-238"
     ],
     "evolves_to": [],
@@ -56702,7 +56724,9 @@
     "prints": [
       "BP11-003",
       "BP11-SL03",
-      "BP11-U01"
+      "BP11-U01",
+      "BP21-PR02",
+      "BP21-PR14"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -57329,6 +57353,8 @@
       "BP11-SP01",
       "BP11-U02",
       "BP18-SP01",
+      "BP21-PR04",
+      "BP21-PR15",
       "SD07-004"
     ],
     "evolves_to": [],
@@ -62553,7 +62579,8 @@
     "mentioned_from": [
       "BP12-025",
       "BP12-026",
-      "BP12-T02"
+      "BP12-T02",
+      "BP21-026"
     ],
     "illustrator": "虹原",
     "legal_status": null,
@@ -68406,7 +68433,9 @@
     "canonical_print": "BP13-036",
     "prints": [
       "BP13-036",
-      "BP13-SL08"
+      "BP13-SL08",
+      "BP21-PR07",
+      "BP21-PR16"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -69140,7 +69169,9 @@
     "canonical_print": "BP13-054",
     "prints": [
       "BP13-054",
-      "BP13-SL12"
+      "BP13-SL12",
+      "BP21-PR11",
+      "BP21-PR17"
     ],
     "evolves_to": [
       "BP13-055"
@@ -71850,7 +71881,8 @@
     "prints": [
       "BP13-P29",
       "BP13-T01",
-      "BP16-T16"
+      "BP16-T16",
+      "BP21-T12"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -71861,7 +71893,8 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [
       "BP13-036",
-      "BP16-037"
+      "BP16-037",
+      "BP21-039"
     ],
     "illustrator": "ねじ太",
     "legal_status": null,
@@ -74979,7 +75012,9 @@
     "canonical_print": "BP14-070",
     "prints": [
       "BP14-070",
-      "BP14-SL14"
+      "BP14-SL14",
+      "BP21-PR12",
+      "BP21-PR18"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -75028,6 +75063,8 @@
     "prints": [
       "BP14-071",
       "BP14-SL15",
+      "BP21-PR13",
+      "BP21-PR19",
       "PR-386"
     ],
     "evolves_to": [],
@@ -84398,7 +84435,9 @@
       "BP01-T05"
     ],
     "mentions_by_name_contains": [],
-    "mentioned_from": [],
+    "mentioned_from": [
+      "BP21-026"
+    ],
     "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
@@ -84448,7 +84487,9 @@
       "BP01-T05"
     ],
     "mentions_by_name_contains": [],
-    "mentioned_from": [],
+    "mentioned_from": [
+      "BP21-026"
+    ],
     "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
@@ -84709,7 +84750,8 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [
-      "BP02-027"
+      "BP02-027",
+      "BP21-022"
     ],
     "mentioned_from": [],
     "illustrator": "Saika",
@@ -88755,7 +88797,9 @@
     "mentioned_from": [
       "BP16-044",
       "BP16-054",
-      "BP16-055"
+      "BP16-055",
+      "BP21-044",
+      "BP21-T04"
     ],
     "illustrator": "林",
     "legal_status": null,
@@ -139625,7 +139669,8 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [
-      "DSD01a-001"
+      "DSD01a-001",
+      "BP21-039"
     ],
     "illustrator": "ぽんず",
     "legal_status": null,
@@ -139656,6 +139701,7 @@
     ],
     "canonical_print": "DSD01a-009",
     "prints": [
+      "BP21-PR10",
       "DSD01a-009",
       "DSD01a-P03"
     ],
@@ -140388,7 +140434,9 @@
     "mentions": [],
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
-    "mentioned_from": [],
+    "mentioned_from": [
+      "BP21-026"
+    ],
     "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
@@ -146844,5 +146892,5156 @@
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 12800
+  },
+  {
+    "oracle_id": "BP21-001",
+    "is_dual_face": false,
+    "name": "新緑の新入生・カステル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "エルフ族",
+      "学院",
+      "超克"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 2,
+    "text": "これが場にいる限り、自分の場の「これと同名を除く学院・フォロワー」と獣・フォロワーすべては能力ダメージを受けない。\n【ファンファーレ】自分の場の学院・フォロワーや獣・フォロワーが3体以上なら、『緑の顕現』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-001",
+    "prints": [
+      "BP21-001",
+      "BP21-SL01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T02"
+    ],
+    "mentions_tokens": [
+      "BP21-T02"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ヘスン",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-002",
+    "is_dual_face": false,
+    "name": "無謬の偶像・ライル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "人形",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の人形・カード1枚を捨てる：2枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-002",
+    "prints": [
+      "BP21-002",
+      "BP21-SL02"
+    ],
+    "evolves_to": [
+      "BP21-003"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ShuLa",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-003",
+    "is_dual_face": false,
+    "name": "無謬の偶像・ライル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "人形",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 4,
+    "text": "【進化時】『ライルの人形』1枚をEXエリアに置く。\n【超進化時】自分のEXエリアの人形・トークン・フォロワー1体を選ぶ。自分の墓場の人形・カードが3枚以上なら、それは攻撃力+4/体力+4する。\n―――――――――――――――\n『ライルの人形』エルフ人形・学院・フォロワーコスト0攻撃力1/体力1これは場にいる限り、『操り人形』でもある。【疾走】【必殺】【守護】",
+    "keywords": [
+      "進化時",
+      "超進化時",
+      "疾走",
+      "必殺",
+      "守護"
+    ],
+    "canonical_print": "BP21-003",
+    "prints": [
+      "BP21-003",
+      "BP21-SL03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-002"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T01",
+      "BP05-T03"
+    ],
+    "mentions_tokens": [
+      "BP21-T01",
+      "BP05-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ShuLa",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-004",
+    "is_dual_face": false,
+    "name": "翅の女王・ティターニア",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "妖精",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 1,
+    "hp": 1,
+    "text": "【ファンファーレ】自分のEXエリアの妖精・カードが2枚以上なら、自分のデッキから「これと同名を除く元のコスト3以下の妖精・フォロワー」1枚を探し、場に出す。\n【起動】コスト1これをアクト墓場に置く：相手の場のフォロワー1体を選ぶ。それを破壊する。それのプレイヤーは『フェアリー』1体を場に出す。この能力は自分のEXエリアの妖精・カードが5枚なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-004",
+    "prints": [
+      "BP21-004",
+      "BP21-SL04",
+      "BP21-U01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T03"
+    ],
+    "mentions_tokens": [
+      "BP01-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "やまもも",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-005",
+    "is_dual_face": false,
+    "name": "カッティングキャット",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "学院",
+      "獣",
+      "コック"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札1枚を捨てる：自分のデッキの上3枚を見る。その中から、学院・カードか獣・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-005",
+    "prints": [
+      "BP21-005",
+      "BP21-P01"
+    ],
+    "evolves_to": [
+      "BP21-006"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "apt",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-006",
+    "is_dual_face": false,
+    "name": "カッティングキャット",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "学院",
+      "獣",
+      "コック"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】場の他の学院・フォロワー1体か場の他の獣・フォロワー1体を手札に戻す：相手の場のフォロワー1体を選ぶ。それに3ダメージ。（手札に戻ったトークンはゲームから取り除く）",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-006",
+    "prints": [
+      "BP21-006",
+      "BP21-P02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-005"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "apt",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-007",
+    "is_dual_face": false,
+    "name": "フォレストシバルリー・シンシア",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "エルフ族"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 2,
+    "text": "【突進】【指定攻撃】\n【ファンファーレ】下記から1つチョイスする。【1】自分の場や自分のEXエリアの妖精・トークン・フォロワー2枚まで選ぶ。それは攻撃力+1/体力+1する。【2】『フェアリー』2体を場に出す。\n―――――――――――――――\n『フェアリー』エルフ妖精・フォロワーコスト1攻撃力1/体力1",
+    "keywords": [
+      "ファンファーレ",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP21-007",
+    "prints": [
+      "BP21-007"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T03"
+    ],
+    "mentions_tokens": [
+      "BP01-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "misekiss",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-008",
+    "is_dual_face": false,
+    "name": "伐採斧のドワーフ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "精霊",
+      "学院"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "自分の場に他の学院・フォロワーか獣・フォロワーが出たとき、相手の場のフォロワー1体を選ぶ。それに5ダメージ。それのリーダーに1ダメージ。\n【ファンファーレ】自分の手札の元のコスト4以下の学院・フォロワーか元のコスト4以下の獣・フォロワー1枚を場に出してよい。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-008",
+    "prints": [
+      "BP21-008",
+      "BP21-P03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "PEPPY",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-018",
+    "is_dual_face": false,
+    "name": "繚乱の庭",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "妖精"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】『フェアリー』1体を場に出す。\n【起動】これをアクト墓場に置く：相手の場のフォロワー1体を選ぶ。それにXダメージ。Xは「自分の場と自分のEXエリアの妖精・トークン・フォロワーの枚数の合計」である。\n―――――――――――――――\n『フェアリー』エルフ妖精・フォロワーコスト1攻撃力1/体力1",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-018",
+    "prints": [
+      "BP21-018"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T03"
+    ],
+    "mentions_tokens": [
+      "BP01-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-019",
+    "is_dual_face": false,
+    "name": "学び舎の黄昏・リーシャ＆ナノ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "指揮官",
+      "兵士",
+      "学院",
+      "超克"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 3,
+    "text": "自分の場に他の学院・フォロワーがいる限り、これは【必殺】を持つ。\n【ファンファーレ】自分のデッキから元のコスト1のフォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "必殺"
+    ],
+    "canonical_print": "BP21-019",
+    "prints": [
+      "BP21-019",
+      "BP21-SL05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-026"
+    ],
+    "illustrator": "虹原",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-020",
+    "is_dual_face": false,
+    "name": "英傑の学園長・ガルドル",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "指揮官",
+      "学院",
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】コスト2：自分のデッキから元のコスト2以下の学院・フォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-020",
+    "prints": [
+      "BP21-020",
+      "BP21-SL06"
+    ],
+    "evolves_to": [
+      "BP21-021"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "永守浩太",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-021",
+    "is_dual_face": false,
+    "name": "英傑の学園長・ガルドル",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "指揮官",
+      "学院",
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】自分のデッキから元のコスト3以下の学院・フォロワー1枚を探し、場に出す。\n【超進化時】これは「これが場にいる限り、自分の場の学院・フォロワーが受けるダメージを-2する」を持つ。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP21-021",
+    "prints": [
+      "BP21-021",
+      "BP21-SL07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-020"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "永守浩太",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-022",
+    "is_dual_face": false,
+    "name": "レヴィオンの超越者・ユリウス",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "貴族",
+      "レヴィオン"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 4,
+    "text": "【ファンファーレ】手札のレヴィオン・カード2枚を公開：下記から1つチョイスする。自分の墓場のレヴィオン・カードが5枚以上なら、代わりに3つまで。\n【1】相手の場のフォロワー1体を選ぶ。それを破壊する。【2】相手のリーダーすべてに3ダメージ。【3】2枚引く。自分の手札1枚を捨てる。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-022",
+    "prints": [
+      "BP21-022",
+      "BP21-SL08",
+      "BP21-U02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP16-026"
+    ],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-023",
+    "is_dual_face": false,
+    "name": "飛躍の双剣使い",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。この能力はこれが能力によって場に出ていたなら使える。\n【ファンファーレ】これが能力によって場に出ていたなら、これは【疾走】を持つ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "BP21-023",
+    "prints": [
+      "BP21-023",
+      "BP21-P11"
+    ],
+    "evolves_to": [
+      "BP21-024"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "PEPPY",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-024",
+    "is_dual_face": false,
+    "name": "飛躍の双剣使い",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "兵士",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 3,
+    "hp": 3,
+    "text": "【攻撃時】コスト2：自分の場に他の学院・フォロワーがいるなら、これをスタンドする。この能力は1ターンに1回働く。",
+    "keywords": [
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-024",
+    "prints": [
+      "BP21-024",
+      "BP21-P12"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-023"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "PEPPY",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-025",
+    "is_dual_face": false,
+    "name": "選別の教員・ヴァイス",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "学院",
+      "超克",
+      "キラー"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "自分のエンドフェイズが来たとき、相手のリーダー1人か相手の場のフォロワー1体を選ぶ。それに「自分の場の他の学院・フォロワーの数」と同じダメージ。\n【ファンファーレ】自分のデッキの上5枚を見る。その中から、学院・フォロワーを元のコストの合計が4以下になるように2枚まで場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-025",
+    "prints": [
+      "BP21-025"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ezusuke",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-026",
+    "is_dual_face": false,
+    "name": "黄昏と白銀",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "指揮官"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、コストを+2してよい。\n下記から1つチョイスする。コストを+2したなら、代わりに2つまで。\n【1】自分のデッキから「カード名に『エミリア』を含むフォロワー」1枚を探し、場に出す。【2】自分のデッキから「カード名に『リーシャ』を含むフォロワー」1枚を探し、場に出す。",
+    "keywords": [],
+    "canonical_print": "BP21-026",
+    "prints": [
+      "BP21-026"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [
+      "BP02-021",
+      "BP16-019",
+      "BP16-020",
+      "SP01-010",
+      "BP12-020",
+      "BP21-019"
+    ],
+    "mentioned_from": [],
+    "illustrator": "ぶくろて",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-027",
+    "is_dual_face": false,
+    "name": "愚直なる研磨・トニー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 2,
+    "text": "【進化】コスト2：これは進化する。\n【ファンファーレ】これが能力によって場に出ていたなら、これは進化する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-027",
+    "prints": [
+      "BP21-027",
+      "BP21-P13"
+    ],
+    "evolves_to": [
+      "BP21-028"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-028",
+    "is_dual_face": false,
+    "name": "愚直なる研磨・トニー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "兵士",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 3,
+    "text": "【進化時】1枚引く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-028",
+    "prints": [
+      "BP21-028",
+      "BP21-P14"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-027"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-029",
+    "is_dual_face": false,
+    "name": "必中の訓練生",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 2,
+    "text": "【守護】\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。これが能力によって場に出ていたなら、それを破壊する。それのリーダーに1ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-029",
+    "prints": [
+      "BP21-029"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ラエル",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-030",
+    "is_dual_face": false,
+    "name": "才気の戦略家",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "指揮官",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【起動】コストXこれをアクト：自分の墓場の「これと同名を除く元のコストX以下の学院・フォロワー」1枚を選ぶ。それを場に出す。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-030",
+    "prints": [
+      "BP21-030",
+      "BP21-P15"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "やまもも",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-031",
+    "is_dual_face": false,
+    "name": "サージェントキャット",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "指揮官",
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n自分の場に他のフォロワーが出たとき、自分のリーダーは体力+1する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP21-031",
+    "prints": [
+      "BP21-031",
+      "BP21-P16"
+    ],
+    "evolves_to": [
+      "BP21-032"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-032",
+    "is_dual_face": false,
+    "name": "サージェントキャット",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "指揮官",
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分の場に他のフォロワーが出たとき、自分のリーダーは体力+1する。\n【進化時】自分のデッキの上4枚を見る。その中から、元のコスト4以下のフォロワー1枚を場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-032",
+    "prints": [
+      "BP21-032",
+      "BP21-P17"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-031"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-033",
+    "is_dual_face": false,
+    "name": "奮闘する格闘家",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 1,
+    "text": "【突進】\n【ファンファーレ】これが能力によって場に出ていたなら、これは攻撃力+2して、【指定攻撃】を持つ。",
+    "keywords": [
+      "ファンファーレ",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP21-033",
+    "prints": [
+      "BP21-033",
+      "BP21-P18"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "nanawata",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-034",
+    "is_dual_face": false,
+    "name": "レヴィオンの弓使い",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "兵士",
+      "レヴィオン"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【ファンファーレ】自分のデッキの上2枚を見る。その中から、レヴィオン・カード1枚を公開して手札に加えてよい。残りを墓場に置く。\n【起動】これをアクト：相手の場のフォロワー1体を選ぶ。自分の墓場のレヴィオン・カードが5枚以上なら、それに3ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-034",
+    "prints": [
+      "BP21-034",
+      "BP21-P19"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "伊藤未生",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-035",
+    "is_dual_face": false,
+    "name": "快進撃",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "兵士"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、場の兵士・フォロワー1体をアクト：コストを-1する。\n相手の場のフォロワー1体を選ぶ。それに4ダメージ。『ナイト』1体を場に出す。\n―――――――――――――――\n『ナイト』ロイヤル兵士・フォロワーコスト1攻撃力1/体力1",
+    "keywords": [],
+    "canonical_print": "BP21-035",
+    "prints": [
+      "BP21-035",
+      "BP21-P20"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T05"
+    ],
+    "mentions_tokens": [
+      "BP01-T05"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "巣高あお",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-036",
+    "is_dual_face": false,
+    "name": "戦場の記録",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "指揮官"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "自分の墓場の兵士・フォロワー2枚まで選ぶ。それを手札に加える。",
+    "keywords": [],
+    "canonical_print": "BP21-036",
+    "prints": [
+      "BP21-036"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "萩オス",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-037",
+    "is_dual_face": false,
+    "name": "御伽の姫・アマリリス",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 0,
+    "hp": 3,
+    "text": "自分のエンドフェイズが来たとき、自分のデッキの上1枚を墓場に置いてよい。\nターンごとに1回、これが能力ダメージを受けたとき、これは攻撃力+2する。\n【ファンファーレ】自分の墓場の学院・カードが10枚以上なら、『痛苦』1枚をEXエリアに置く。\n―――――――――――――――\n『痛苦』ウィッチ魔法使い・学院・プリンセス・スペルコスト1相手のリーダーすべてと相手の場のフォロワーすべてと自分の場の『御伽の姫・アマリリス』すべてに2ダメージ。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-037",
+    "prints": [
+      "BP21-037",
+      "BP21-SL09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T03"
+    ],
+    "mentions_tokens": [
+      "BP21-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-T03"
+    ],
+    "illustrator": "おにねこ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-038",
+    "is_dual_face": false,
+    "name": "精彩の魔導・アン",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の学院・カード1枚を捨てる：1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-038",
+    "prints": [
+      "BP21-038",
+      "BP21-SL10"
+    ],
+    "evolves_to": [
+      "BP21-039"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ぽんず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-039",
+    "is_dual_face": false,
+    "name": "精彩の魔導・アン",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】『アンの大英霊』1体を場に出す。自分の墓場の学院・カードが10枚以上なら、それは【指定攻撃】を持つ。\n【超進化時】自分のデッキから『アンの大魔法』1枚を探し、手札に加える。このターン、次に自分が『アンの大魔法』をプレイする際、コストを-5する。",
+    "keywords": [
+      "進化時",
+      "指定攻撃",
+      "超進化時"
+    ],
+    "canonical_print": "BP21-039",
+    "prints": [
+      "BP21-039",
+      "BP21-SL11"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-038"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP13-T01",
+      "DSD01a-008"
+    ],
+    "mentions_tokens": [
+      "BP13-T01"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ぽんず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-040",
+    "is_dual_face": false,
+    "name": "双魂の久遠・ケリドウェン",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "錬金術師",
+      "禁忌"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 4,
+    "text": "自分のエンドフェイズが来たとき、相手のリーダー1人か相手の場のフォロワー1体を選ぶ。このターン中に自分の【土の秘術】によって自分の場の【スタック】を1個以上取っていたなら、それに2ダメージ。\n【ファンファーレ】【土の秘術】自分のデッキから元のコスト1以下の【土の秘術】を持つフォロワーか元のコスト1以下の土の印・アミュレット1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "土の秘術",
+      "スタック"
+    ],
+    "canonical_print": "BP21-040",
+    "prints": [
+      "BP21-040",
+      "BP21-SL12",
+      "BP21-U03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "えなれいん",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-041",
+    "is_dual_face": false,
+    "name": "結びの紅蓮・グレア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の学院・カード1枚を捨てる：1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-041",
+    "prints": [
+      "BP21-041"
+    ],
+    "evolves_to": [
+      "BP21-042"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "虹原",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-042",
+    "is_dual_face": false,
+    "name": "結びの紅蓮・グレア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。自分の墓場の学院・カードが10枚以上なら、代わりに4ダメージ。それのリーダーに1ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-042",
+    "prints": [
+      "BP21-042"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-041"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "虹原",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-043",
+    "is_dual_face": false,
+    "name": "マナリアパーティー",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 7,
+    "atk": null,
+    "hp": null,
+    "text": "自分の学院・カードの能力によってこれを自分の手札から捨てたとき、1枚引く。\n----------\n自分のデッキの上5枚を見る。その中から、学院・フォロワーを元のコストの合計が6以下になるように3枚まで場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [],
+    "canonical_print": "BP21-043",
+    "prints": [
+      "BP21-043"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "えなれいん",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-044",
+    "is_dual_face": false,
+    "name": "神秘の魔法陣",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "錬金術師",
+      "土の印"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "【スタック】\n【ファンファーレ】『緊急召喚』1枚か『術式結界』1枚をEXエリアに置く。\n―――――――――――――――\n『緊急召喚』ウィッチ錬金術師・土の印・アミュレットコスト0【スタック】【ファンファーレ】『防御型ゴーレム』1体を場に出す。自分の場に元のコスト3以上の錬金術師・フォロワーがいるなら、『ガーディアンゴーレム』1枚をEXエリアに置く。\n『術式結界』ウィッチ錬金術師・土の印・アミュレットコスト0【スタック】【ファンファーレ】1枚引く。自分の場に元のコスト3以上の錬金術師・フォロワーがいるなら、代わりに2枚。",
+    "keywords": [
+      "ファンファーレ",
+      "スタック"
+    ],
+    "canonical_print": "BP21-044",
+    "prints": [
+      "BP21-044",
+      "BP21-P21"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T04",
+      "BP21-T05",
+      "BP01-T09",
+      "BP16-T01"
+    ],
+    "mentions_tokens": [
+      "BP21-T04",
+      "BP21-T05",
+      "BP01-T09",
+      "BP16-T01"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ShuLa",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-045",
+    "is_dual_face": false,
+    "name": "ルナルの教会長・グリュネ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分の場の【スタック】を+1する。（自分の場に【スタック】を持つカードがないなら、『大地の魔片』1つを場に出し【スタック】を+する）\n【起動】これをアクト【土の秘術_2】：相手の場のフォロワーすべてに1ダメージ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "起動",
+      "スタック",
+      "土の秘術"
+    ],
+    "canonical_print": "BP21-045",
+    "prints": [
+      "BP21-045",
+      "BP21-P22"
+    ],
+    "evolves_to": [
+      "BP21-046"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T10"
+    ],
+    "mentions_tokens": [
+      "BP01-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "LM7",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-046",
+    "is_dual_face": false,
+    "name": "ルナルの教会長・グリュネ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】自分の場の【スタック】を+1する。\n【起動】これをアクト【土の秘術_2】：相手の場のフォロワーすべてに1ダメージ。",
+    "keywords": [
+      "起動",
+      "進化時",
+      "スタック",
+      "土の秘術"
+    ],
+    "canonical_print": "BP21-046",
+    "prints": [
+      "BP21-046",
+      "BP21-P23"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-045"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "LM7",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-047",
+    "is_dual_face": false,
+    "name": "カースドソーサラー・リーズ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【ファンファーレ】自分のデッキの上1枚を消滅させる。\n【起動】これをアクト消滅：相手の場のフォロワー1体を選ぶ。それに4ダメージ。1枚引く。この能力は自分の消滅領域が5枚以上なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-047",
+    "prints": [
+      "BP21-047"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-048",
+    "is_dual_face": false,
+    "name": "鐘の魔術師",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【ファンファーレ】自分のデッキの上4枚を見る。その中から、学院・フォロワーと学院・スペルそれぞれ1枚までEXエリアに置いてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-048",
+    "prints": [
+      "BP21-048",
+      "BP21-P24"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "クロとブチ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-049",
+    "is_dual_face": false,
+    "name": "群れの召喚士",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔法使い",
+      "獣"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP21-049",
+    "prints": [
+      "BP21-049"
+    ],
+    "evolves_to": [
+      "BP21-050"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-050",
+    "is_dual_face": false,
+    "name": "群れの召喚士",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "魔法使い",
+      "獣"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】自分のデッキの上5枚を見る。その中から、元のコスト4以下のフォロワーをクラスが異なるように2枚まで場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-050",
+    "prints": [
+      "BP21-050"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-049"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-051",
+    "is_dual_face": false,
+    "name": "紡ぎ繋ぐ糸・エヴァミア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "超克"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 1,
+    "text": "【ファンファーレ】自分のデッキの上1枚を消滅させる。自分の消滅領域が5枚以上なら、『ミスティックアーティファクト』1体を場に出す。\n―――――――――――――――\n『ミスティックアーティファクト』ニュートラル超克・フォロワーコスト3攻撃力2/体力3【守護】【ファンファーレ】1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-051",
+    "prints": [
+      "BP21-051",
+      "BP21-P25"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP05-T05"
+    ],
+    "mentions_tokens": [
+      "BP05-T05"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "u介",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-052",
+    "is_dual_face": false,
+    "name": "魔術指南",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、場の学院・フォロワー2体をアクト：コストを-2する。\n自分の場のフォロワー1体を選ぶ。それは攻撃力+1/体力+1する。1枚引く。",
+    "keywords": [],
+    "canonical_print": "BP21-052",
+    "prints": [
+      "BP21-052",
+      "BP21-P26"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "haru",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-053",
+    "is_dual_face": false,
+    "name": "リキッドスフィア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "魔法使い"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "【クイック】\nこれをプレイする際、【スペルチェイン_10】コストを-2する。\n相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "クイック",
+      "スペルチェイン"
+    ],
+    "canonical_print": "BP21-053",
+    "prints": [
+      "BP21-053",
+      "BP21-P27"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "巻",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-054",
+    "is_dual_face": false,
+    "name": "束縛術式",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "魔法使い",
+      "土の印"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【スタック】\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それをアクトする。それは次のそれのプレイヤーのスタートフェイズにスタンドしない。",
+    "keywords": [
+      "ファンファーレ",
+      "スタック"
+    ],
+    "canonical_print": "BP21-054",
+    "prints": [
+      "BP21-054",
+      "BP21-P28"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "SEMSEI",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-055",
+    "is_dual_face": false,
+    "name": "竜の魔女・リリウム",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "竜使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP21-055",
+    "prints": [
+      "BP21-055",
+      "BP21-SL13"
+    ],
+    "evolves_to": [
+      "BP21-056"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "liiko",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-056",
+    "is_dual_face": false,
+    "name": "竜の魔女・リリウム",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "竜使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分のエンドフェイズが来たとき、自分の場の学院・フォロワーが3体以上なら、『リリウムの幼竜』1体を場に出す。\n【進化時】自分のデッキから「これと同名を除く学院・フォロワー」1枚を探し、手札に加える。\n【超進化時】『リリウムの巨竜』1体を場に出す。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP21-056",
+    "prints": [
+      "BP21-056",
+      "BP21-SL14"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-055"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T06",
+      "BP21-T07"
+    ],
+    "mentions_tokens": [
+      "BP21-T06",
+      "BP21-T07"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "liiko",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-057",
+    "is_dual_face": false,
+    "name": "熱血の竜教師・ジョー",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート",
+      "学院"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "自分の場に学院・フォロワーが出たとき、自分のEXエリアのこれに情熱カウンター1個を置く。\n【起動】これをアクト：これか自分のEXエリアのカード1枚の情熱カウンターが10個以上なら、相手のリーダーすべてと相手の場のフォロワーすべてに5ダメージ。これは体力+6する。\n【起動】コスト0：自分の手札のこれをEXエリアに置く。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-057",
+    "prints": [
+      "BP21-057",
+      "BP21-SL15"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "Budi",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-058",
+    "is_dual_face": false,
+    "name": "金色の威信・リュミオール",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 4,
+    "hp": 4,
+    "text": "自分のエンドフェイズが来たとき、自分の場のドラゴニュート・フォロワーが3体以上なら、相手のリーダーすべてと相手の場のフォロワーすべてに3ダメージ。\n【ファンファーレ】手札1枚を捨てる：自分のデッキから元のコスト2のドラゴニュート・フォロワー1枚と元のコスト1のドラゴニュート・フォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-058",
+    "prints": [
+      "BP21-058",
+      "BP21-SL16",
+      "BP21-SP01",
+      "BP21-U04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-062"
+    ],
+    "illustrator": "こーやふ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-059",
+    "is_dual_face": false,
+    "name": "グランドスラムの竜使い",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "竜使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】【覚醒】状態なら、自分のデッキの上3枚を見る。その中から、学院・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "覚醒"
+    ],
+    "canonical_print": "BP21-059",
+    "prints": [
+      "BP21-059",
+      "BP21-P29"
+    ],
+    "evolves_to": [
+      "BP21-060"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ねつき",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-060",
+    "is_dual_face": false,
+    "name": "グランドスラムの竜使い",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "竜使い",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、代わりに4ダメージ。10個以上なら、これは体力+6する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-060",
+    "prints": [
+      "BP21-060",
+      "BP21-P30"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-059"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ねつき",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-061",
+    "is_dual_face": false,
+    "name": "緋色の貴公子・ディオン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 1,
+    "text": "【突進】【指定攻撃】\n【攻撃時】自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、自分のPP最大値を+1する。10個以上なら、これは体力+6する。",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-061",
+    "prints": [
+      "BP21-061",
+      "BP21-P31"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-062",
+    "is_dual_face": false,
+    "name": "銀色の清純・アルジャンテ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【守護】\n自分のエンドフェイズが来たとき、自分の場に『金色の威信・リュミオール』がいるなら、自分のリーダーは体力+3する。\n【ファンファーレ】1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-062",
+    "prints": [
+      "BP21-062"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-058"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "こーやふ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-063",
+    "is_dual_face": false,
+    "name": "竜人のストライカー",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト3：これは進化する。\n【疾走】\n【攻撃時】自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、これは進化する。10個以上なら、これは体力+6する。",
+    "keywords": [
+      "進化",
+      "疾走",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-063",
+    "prints": [
+      "BP21-063",
+      "BP21-P32"
+    ],
+    "evolves_to": [
+      "BP21-064"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "米谷 尚展",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-064",
+    "is_dual_face": false,
+    "name": "竜人のストライカー",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "ドラゴニュート",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 3,
+    "hp": 3,
+    "text": "【疾走】",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "BP21-064",
+    "prints": [
+      "BP21-064",
+      "BP21-P33"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-063"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "米谷 尚展",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-065",
+    "is_dual_face": false,
+    "name": "貫禄のドラゴニュート・ガンベイン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "ドラゴニュート",
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【守護】\n【ファンファーレ】コスト2：自分のデッキから『貫禄のドラゴニュート・ガンベイン』1枚を探し、場に出す。\n【起動】これをアクト：相手の場のフォロワー1体を選ぶ。自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、それに4ダメージ。10個以上なら、これは体力+6する。",
+    "keywords": [
+      "ファンファーレ",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "BP21-065",
+    "prints": [
+      "BP21-065",
+      "BP21-P34"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-066",
+    "is_dual_face": false,
+    "name": "ドラゴニュート・シャルロット",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "竜使い",
+      "ドラゴニュート"
+    ],
+    "title": null,
+    "cost": 10,
+    "atk": 4,
+    "hp": 9,
+    "text": "【疾走】【守護】\n【ファンファーレ】自分のデッキの上1枚を公開する。公開したカードがドラゴンフォロワーなら、それを場に出す。公開したカードがドラゴンフォロワーでないなら、1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走",
+      "守護"
+    ],
+    "canonical_print": "BP21-066",
+    "prints": [
+      "BP21-066",
+      "BP21-P35"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-067",
+    "is_dual_face": false,
+    "name": "イプピアーラ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト2：これは進化する。\n【ファンファーレ】これが手札以外から場に出ていたなら、これは進化する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-067",
+    "prints": [
+      "BP21-067",
+      "BP21-P36"
+    ],
+    "evolves_to": [
+      "BP21-068"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "R20",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-068",
+    "is_dual_face": false,
+    "name": "イプピアーラ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "海洋"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 5,
+    "text": "【指定攻撃】【必殺】\n【攻撃時】相手のリーダーすべてに2ダメージ。",
+    "keywords": [
+      "指定攻撃",
+      "必殺",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-068",
+    "prints": [
+      "BP21-068",
+      "BP21-P37"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-067"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "R20",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-069",
+    "is_dual_face": false,
+    "name": "オルカサーファー",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "海洋",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【守護】\n【ラストワード】1枚引く。\n【起動】これをアクト：自分のEXエリアのカード1枚の情熱カウンターが4個以上なら、自分のリーダーは体力+2する。10個以上なら、これは体力+6する。",
+    "keywords": [
+      "ラストワード",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "BP21-069",
+    "prints": [
+      "BP21-069"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "キヒロ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-070",
+    "is_dual_face": false,
+    "name": "砕石竜",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "竜族"
+    ],
+    "title": null,
+    "cost": 9,
+    "atk": 5,
+    "hp": 5,
+    "text": "【ファンファーレ】相手の場のフォロワーすべてに6ダメージ。\n【起動】コスト1手札のこれを捨てる：1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-070",
+    "prints": [
+      "BP21-070"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "宮﨑章",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-071",
+    "is_dual_face": false,
+    "name": "荒天のドラゴン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "竜族"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 5,
+    "hp": 5,
+    "text": "ターンごとに1回、自分のEXエリアに「ドラゴンでないカード」が置かれたとき、相手の場のフォロワー1体を選ぶ。それに5ダメージ。自分のリーダーは体力+2する。\n【ファンファーレ】下記を2回くり返す。自分のデッキの上1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-071",
+    "prints": [
+      "BP21-071",
+      "BP21-P38"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "honart",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-072",
+    "is_dual_face": false,
+    "name": "ドラゴンハント",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "竜族",
+      "キラー"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワー1体を選ぶ。それを破壊する。それの元のコストが4以上なら、1枚引く。",
+    "keywords": [],
+    "canonical_print": "BP21-072",
+    "prints": [
+      "BP21-072",
+      "BP21-P39"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "風篠",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-073",
+    "is_dual_face": false,
+    "name": "屍術王・コルネリウス",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "死霊術師",
+      "学院"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分の墓場の元のコスト2以下の学院・フォロワー1枚を選ぶ。それを場に出す。それは「自分のエンドフェイズが来たとき、これを墓場に置く」を持つ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-073",
+    "prints": [
+      "BP21-073",
+      "BP21-SL17"
+    ],
+    "evolves_to": [
+      "BP21-074"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-074",
+    "is_dual_face": false,
+    "name": "屍術王・コルネリウス",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "死霊術師",
+      "学院"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】自分の墓場の元のコスト3以下の学院・フォロワー1枚を選ぶ。それを場に出す。\n【超進化時】下記を3回くり返す。サイコロをふる。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP21-074",
+    "prints": [
+      "BP21-074",
+      "BP21-SL18"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-073"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-075",
+    "is_dual_face": false,
+    "name": "エンペラーフィスト・ガロム",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分がサイコロをふったとき、相手の場のフォロワー1体を選ぶ。それに「出た目」と同じダメージ。\n自分がサイコロをふったとき、出た目が6なら、相手のリーダーすべてに4ダメージ。\n【ファンファーレ】サイコロをふる。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-075",
+    "prints": [
+      "BP21-075",
+      "BP21-SL19",
+      "BP21-U05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ツネくん",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-076",
+    "is_dual_face": false,
+    "name": "逢魔の校長・ヴォルガス",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 2,
+    "text": "【ファンファーレ】自分のデッキの上2枚を見る。その中から、学院・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。このターン、次に自分が元のコスト2以下の学院・カードをプレイする際、コストを-2する。\n【起動】これをアクト場の他のカード1枚を墓場に置く：相手の場のフォロワー1体を選ぶ。それに3ダメージ。1枚引く。この能力はこのターン、自分がサイコロをふっていたなら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-076",
+    "prints": [
+      "BP21-076",
+      "BP21-SL20"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ezusuke",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-077",
+    "is_dual_face": false,
+    "name": "バッドスピナー・アルカ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n自分がサイコロをふったとき、相手の場のフォロワー1体を選ぶ。それに1ダメージ。出た目が6なら、代わりに3ダメージ。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP21-077",
+    "prints": [
+      "BP21-077",
+      "BP21-P40"
+    ],
+    "evolves_to": [
+      "BP21-078"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ezusuke",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-078",
+    "is_dual_face": false,
+    "name": "バッドスピナー・アルカ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分がサイコロをふったとき、相手の場のフォロワー1体を選ぶ。それに1ダメージ。出た目が6なら、代わりに3ダメージ。\n【進化時】下記を2回くり返す。サイコロをふる。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-078",
+    "prints": [
+      "BP21-078",
+      "BP21-P41"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-077"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ezusuke",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-079",
+    "is_dual_face": false,
+    "name": "ノクターンジェネラル・エクセラ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【疾走】\n【攻撃時】これは攻撃力+Xする。Xは「自分の場の他の【疾走】を持つフォロワーの数」である。",
+    "keywords": [
+      "疾走",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-079",
+    "prints": [
+      "BP21-079",
+      "BP21-P42"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "Gen",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-080",
+    "is_dual_face": false,
+    "name": "バッドスクールライフ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "1枚引く。下記を2回くり返す。サイコロをふる。",
+    "keywords": [],
+    "canonical_print": "BP21-080",
+    "prints": [
+      "BP21-080",
+      "BP21-P43"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ezusuke",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-081",
+    "is_dual_face": false,
+    "name": "韋駄天のパシリ・マロン",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト3：これは進化する。\n【ファンファーレ】サイコロをふる。このターン、自分がふったサイコロの出た目に6があるなら、これは進化する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-081",
+    "prints": [
+      "BP21-081"
+    ],
+    "evolves_to": [
+      "BP21-082"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "liiko",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-082",
+    "is_dual_face": false,
+    "name": "韋駄天のパシリ・マロン",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 4,
+    "hp": 2,
+    "text": "【疾走】",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "BP21-082",
+    "prints": [
+      "BP21-082"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-081"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "liiko",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-083",
+    "is_dual_face": false,
+    "name": "魔眼のスケバン",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "自分がサイコロをふったとき、出た目が6なら、相手のリーダーすべてに2ダメージ。\n【起動】コスト0：サイコロをふる。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-083",
+    "prints": [
+      "BP21-083",
+      "BP21-P44"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "虚猫",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-084",
+    "is_dual_face": false,
+    "name": "悪魔の令嬢",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "自分の場に他の元のコスト2のフォロワーが出たとき、相手のリーダーすべてに1ダメージ。",
+    "keywords": [],
+    "canonical_print": "BP21-084",
+    "prints": [
+      "BP21-084",
+      "BP21-P45"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ShuLa",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-085",
+    "is_dual_face": false,
+    "name": "スケルトンブレイカー",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "死者",
+      "キラー"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【進化】コスト5：これは進化する。\n【指定攻撃】\n【攻撃時】フォロワーへの攻撃なら、相手のリーダーすべてに「これの攻撃力」と同じダメージ。",
+    "keywords": [
+      "進化",
+      "指定攻撃",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-085",
+    "prints": [
+      "BP21-085",
+      "BP21-P46"
+    ],
+    "evolves_to": [
+      "BP21-086"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "麻谷知世",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-086",
+    "is_dual_face": false,
+    "name": "スケルトンブレイカー",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "死者",
+      "キラー"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 4,
+    "hp": 6,
+    "text": "【指定攻撃】\n【攻撃時】フォロワーへの攻撃なら、相手のリーダーすべてに「これの攻撃力」と同じダメージ。\n【進化時】相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "指定攻撃",
+      "攻撃時",
+      "進化時"
+    ],
+    "canonical_print": "BP21-086",
+    "prints": [
+      "BP21-086",
+      "BP21-P47"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-085"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "麻谷知世",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-087",
+    "is_dual_face": false,
+    "name": "極徒会表番・デナン",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "自分がサイコロをふったとき、自分の場のフォロワー1体を選ぶ。出た目が6なら、それは攻撃力+1/体力+1する。\n【起動】コスト0：サイコロをふる。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-087",
+    "prints": [
+      "BP21-087",
+      "BP21-P48"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "薄雲ねず",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-088",
+    "is_dual_face": false,
+    "name": "マリシャスブレイダー",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "キラー"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】自分の墓場の元のコスト2のカードが5枚以上なら、自分のPPを2回復する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-088",
+    "prints": [
+      "BP21-088",
+      "BP21-P49"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "えなれいん",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-089",
+    "is_dual_face": false,
+    "name": "誘いの夢魔",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "魔界"
+    ],
+    "title": null,
+    "cost": 6,
+    "atk": 5,
+    "hp": 5,
+    "text": "自分のエンドフェイズが来たとき、相手の場のフォロワー2体まで選ぶ。それをアクトする。それは次のそれのプレイヤーのスタートフェイズにスタンドしない。自分のリーダーは体力+3する。",
+    "keywords": [],
+    "canonical_print": "BP21-089",
+    "prints": [
+      "BP21-089"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ユウヒ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-090",
+    "is_dual_face": false,
+    "name": "霊体の侵入",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "死者"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": null,
+    "hp": null,
+    "text": "下記から2つまでチョイスする。【1】墓場のナイトメアフォロワー1枚を消滅：相手の場のフォロワー1体を選ぶ。それに「これによって消滅したナイトメアフォロワーの攻撃力」の2倍のダメージ。【2】墓場の「ナイトメアでないフォロワー」1枚を消滅：相手の場のフォロワー1体を選ぶ。それに「これによって消滅した「ナイトメアでないフォロワー」の攻撃力」と同じダメージ。",
+    "keywords": [],
+    "canonical_print": "BP21-090",
+    "prints": [
+      "BP21-090",
+      "BP21-P50"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-091",
+    "is_dual_face": false,
+    "name": "異端の指導者・ベルディリア",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "先導",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。これが能力によって場に出ていたなら、それに2ダメージ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-091",
+    "prints": [
+      "BP21-091",
+      "BP21-SL21"
+    ],
+    "evolves_to": [
+      "BP21-092"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-092",
+    "is_dual_face": false,
+    "name": "異端の指導者・ベルディリア",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "先導",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【守護】\n【進化時】自分のリーダーは体力+1する。1枚引く。\n【超進化時】『長久の導き』1枚をEXエリアに置く。\n―――――――――――――――\n『長久の導き』ビショップ先導・学院・スペルコスト2相手の場のフォロワーX体まで選ぶ。それに5ダメージ。自分の場の学院・フォロワーすべては攻撃力+1/体力+1する。Xは「このターン中に自分のリーダーの体力を+した回数」である。",
+    "keywords": [
+      "守護",
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "BP21-092",
+    "prints": [
+      "BP21-092",
+      "BP21-SL22"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-091"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T09"
+    ],
+    "mentions_tokens": [
+      "BP21-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-093",
+    "is_dual_face": false,
+    "name": "華麗なる淑女・エルヴィーラ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "ターンごとに2回、自分のリーダーの体力を+したとき、自分の場の他のフォロワーすべては攻撃力+1/体力+1する。\n【ファンファーレ】自分の手札の「これと同名を除く元のコストX以下の学院・フォロワー」1枚を場に出してよい。Xは「自分の残りPP」である。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-093",
+    "prints": [
+      "BP21-093",
+      "BP21-SL23",
+      "BP21-U06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-098"
+    ],
+    "illustrator": "liiko",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-094",
+    "is_dual_face": false,
+    "name": "嗚咽の聖騎士・ウィルバート",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "挑戦者",
+      "先導"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】『聖騎兵』1体を場に出す。\n―――――――――――――――\n『聖騎兵』ビショップ先導・フォロワーコスト1攻撃力1/体力2【守護】これの攻撃力を+したとき、これは【突進】を持つ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護",
+      "突進"
+    ],
+    "canonical_print": "BP21-094",
+    "prints": [
+      "BP21-094",
+      "BP21-SL24"
+    ],
+    "evolves_to": [
+      "BP21-095"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T08"
+    ],
+    "mentions_tokens": [
+      "BP21-T08"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-095",
+    "is_dual_face": false,
+    "name": "嗚咽の聖騎士・ウィルバート",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "挑戦者",
+      "先導"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【守護】\n【進化時】下記から1つチョイスする。【1】『聖騎兵』1体を場に出す。自分の場の『聖騎兵』すべては攻撃力+1して、【指定攻撃】を持つ。【2】『クレスト嗚咽の聖騎士・ウィルバート』1枚をEXエリアに置く。",
+    "keywords": [
+      "守護",
+      "進化時",
+      "指定攻撃"
+    ],
+    "canonical_print": "BP21-095",
+    "prints": [
+      "BP21-095",
+      "BP21-SL25"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-094"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-T08",
+      "BP21-T10"
+    ],
+    "mentions_tokens": [
+      "BP21-T08",
+      "BP21-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-096",
+    "is_dual_face": false,
+    "name": "優雅なる修練・ルゥ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。この能力はこのターン、これの体力を+していたなら使える。\n【ファンファーレ】自分の場に他の学院・フォロワーがいるなら、自分のリーダーは体力+1する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-096",
+    "prints": [
+      "BP21-096"
+    ],
+    "evolves_to": [
+      "BP21-097"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "えなれいん",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-097",
+    "is_dual_face": false,
+    "name": "優雅なる修練・ルゥ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに「これの攻撃力」と同じダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-097",
+    "prints": [
+      "BP21-097"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-096"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "えなれいん",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-098",
+    "is_dual_face": false,
+    "name": "不退転の乙女・キーラ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 2,
+    "text": "【守護】\n【ファンファーレ】コスト3：自分のデッキから『華麗なる淑女・エルヴィーラ』1枚を探し、場に出す。\n【起動】これをアクト：自分のリーダーは体力+1する。この能力は自分の場に他の学院・フォロワーがいるなら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "BP21-098",
+    "prints": [
+      "BP21-098",
+      "BP21-P51"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-093"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "77gl",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-099",
+    "is_dual_face": false,
+    "name": "オーキッドの試験場",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】これをアクト：自分の場の学院・フォロワー1体を選ぶ。それは攻撃力+1/体力+1する。この能力はこのターン、自分のリーダーの体力を+していたなら使える。\n【起動】コスト1手札の学院・アミュレット1枚を捨てる：自分のデッキから元のコスト1の学院・フォロワー1枚を探し、手札に加える。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-099",
+    "prints": [
+      "BP21-099",
+      "BP21-P52"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-100",
+    "is_dual_face": false,
+    "name": "浄火の令嬢",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\nこれの体力を+したとき、相手の場のフォロワーすべてに1ダメージ。\n【ファンファーレ】自分の場に他の学院・フォロワーがいるなら、これは攻撃力+1/体力+1する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-100",
+    "prints": [
+      "BP21-100",
+      "BP21-P53"
+    ],
+    "evolves_to": [
+      "BP21-101"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "haru",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-101",
+    "is_dual_face": false,
+    "name": "浄火の令嬢",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 2,
+    "text": "これの体力を+したとき、相手の場のフォロワーすべてに1ダメージ。\n【進化時】自分のリーダーか自分の場のフォロワー1体を選ぶ。それは体力+2する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-101",
+    "prints": [
+      "BP21-101",
+      "BP21-P54"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-100"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "haru",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-102",
+    "is_dual_face": false,
+    "name": "希望の断片・キリエ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "超克"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 1,
+    "hp": 1,
+    "text": "【守護】\n【ファンファーレ】1枚引く。自分のPPを3回復する。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-102",
+    "prints": [
+      "BP21-102",
+      "BP21-P55"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "唯＠W",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-103",
+    "is_dual_face": false,
+    "name": "純真の花少女",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰",
+      "学院",
+      "光輝",
+      "獣"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "ターンごとに1回、これの体力を+したとき、1枚引く。\n【起動】これをアクト：自分のリーダーは体力+1する。この能力は自分の場に他の学院・フォロワーがいるなら使える。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-103",
+    "prints": [
+      "BP21-103",
+      "BP21-P56"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-104",
+    "is_dual_face": false,
+    "name": "ズラトロク",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "光輝",
+      "獣"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化】コスト2：これは進化する。\n【守護】\n【ファンファーレ】1枚引く。これが手札以外から場に出ていたなら、これは攻撃力+2/体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-104",
+    "prints": [
+      "BP21-104",
+      "BP21-P57"
+    ],
+    "evolves_to": [
+      "BP21-105"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "NINNIN",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-105",
+    "is_dual_face": false,
+    "name": "ズラトロク",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "光輝",
+      "獣"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "【守護】\n【進化時】自分の手札の元のコスト5以下の【守護】を持つフォロワー1枚を場に出してよい。",
+    "keywords": [
+      "守護",
+      "進化時"
+    ],
+    "canonical_print": "BP21-105",
+    "prints": [
+      "BP21-105",
+      "BP21-P58"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-104"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "NINNIN",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-106",
+    "is_dual_face": false,
+    "name": "アクアプリースト",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰"
+    ],
+    "title": null,
+    "cost": 7,
+    "atk": 4,
+    "hp": 5,
+    "text": "【守護】\n【ファンファーレ】自分のデッキから元のコスト5以下のスペル1枚を探し、EXエリアに置く。このターン、それをプレイする際、コストを-5する。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "BP21-106",
+    "prints": [
+      "BP21-106",
+      "BP21-P59"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "タダモノ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-107",
+    "is_dual_face": false,
+    "name": "聖鎧のチーター",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "信仰",
+      "獣"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "自分のリーダーの体力を+したとき、これは【疾走】を持つ。",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "BP21-107",
+    "prints": [
+      "BP21-107"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "永守浩太",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-108",
+    "is_dual_face": false,
+    "name": "教皇の祭器",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "信仰"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】これをアクト場のアミュレット1つを墓場に置く：相手のリーダーすべてに1ダメージ。自分のリーダーは体力+1する。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "BP21-108",
+    "prints": [
+      "BP21-108",
+      "BP21-P60"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "AOGIRI",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-109",
+    "is_dual_face": false,
+    "name": "気高き魔除け",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "信仰"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "自分のリーダーが能力ダメージを受けたとき、これを墓場に置く：自分のリーダーは体力+4する。1枚引く。",
+    "keywords": [],
+    "canonical_print": "BP21-109",
+    "prints": [
+      "BP21-109",
+      "BP21-P61"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "巻羊",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-110",
+    "is_dual_face": false,
+    "name": "レジェンドティーチャー・ルシウス",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 4,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のリーダーは体力+1する。1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-110",
+    "prints": [
+      "BP21-110",
+      "BP21-SL26"
+    ],
+    "evolves_to": [
+      "BP21-111"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ニジハヤシ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-111",
+    "is_dual_face": false,
+    "name": "レジェンドティーチャー・ルシウス",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 5,
+    "text": "【進化時】手札の学院・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-111",
+    "prints": [
+      "BP21-111",
+      "BP21-SL27"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-110"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ニジハヤシ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-112",
+    "is_dual_face": false,
+    "name": "駆動の領域・グレティナ",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "機械",
+      "学院",
+      "超克"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 5,
+    "text": "自分のSEPが0である限り、これは【疾走】を持つ。\n【起動】手札の学院・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに5ダメージ。1枚引く。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動",
+      "疾走"
+    ],
+    "canonical_print": "BP21-112",
+    "prints": [
+      "BP21-112",
+      "BP21-SL28",
+      "BP21-U07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ナダレ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-113",
+    "is_dual_face": false,
+    "name": "煌奏の学徒・アンリエット",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "学院",
+      "シンガー"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、学院・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。自分の場の学院・フォロワーが3体以上なら、これは攻撃力+1する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-113",
+    "prints": [
+      "BP21-113"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "虫麻呂",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-114",
+    "is_dual_face": false,
+    "name": "大いなる学び舎",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上3枚を見る。その中から、学院・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【起動】これをアクト墓場に置く：自分のリーダーは体力+1する。この能力は自分の場の学院・フォロワーが2体以上なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "BP21-114",
+    "prints": [
+      "BP21-114"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ponsumi",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-115",
+    "is_dual_face": false,
+    "name": "スマートゴブリン",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "学院",
+      "ゴブリン"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【ファンファーレ】自分の場の学院・フォロワーが3体以上なら、自分のリーダーは体力+1する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "BP21-115",
+    "prints": [
+      "BP21-115"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "tricky胡坐",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-116",
+    "is_dual_face": false,
+    "name": "絆の証明",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "学院",
+      "ゴブリン"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "自分のデッキの上4枚を見る。その中から、学院・カード2枚まで公開して手札に加えてよい。残りを好きな順にデッキの下に置く。自分のPPを1回復する。",
+    "keywords": [],
+    "canonical_print": "BP21-116",
+    "prints": [
+      "BP21-116",
+      "BP21-P62"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "tricky胡坐",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T01",
+    "is_dual_face": false,
+    "name": "ライルの人形",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "人形",
+      "学院"
+    ],
+    "title": null,
+    "cost": 0,
+    "atk": 1,
+    "hp": 1,
+    "text": "これは場にいる限り、『操り人形』でもある。\n【疾走】【必殺】【守護】",
+    "keywords": [
+      "疾走",
+      "必殺",
+      "守護"
+    ],
+    "canonical_print": "BP21-T01",
+    "prints": [
+      "BP21-P63",
+      "BP21-T01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP05-T03"
+    ],
+    "mentions_tokens": [
+      "BP05-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-003"
+    ],
+    "illustrator": "AOGIRI",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T02",
+    "is_dual_face": false,
+    "name": "緑の顕現",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "スペル",
+      "トークン"
+    ],
+    "tribe": [
+      "エルフ族",
+      "学院",
+      "超克"
+    ],
+    "title": null,
+    "cost": 5,
+    "atk": null,
+    "hp": null,
+    "text": "自分のデッキの上7枚を見る。その中から、学院・フォロワーや獣・フォロワーを元のコストの合計が5以下になるように3枚まで場に出してよい。残りを好きな順にデッキの下に置く。自分の場のフォロワーすべては攻撃力+1/体力+1する。",
+    "keywords": [],
+    "canonical_print": "BP21-T02",
+    "prints": [
+      "BP21-P64",
+      "BP21-T02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-001"
+    ],
+    "illustrator": "ヘスン",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T03",
+    "is_dual_face": false,
+    "name": "痛苦",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル",
+      "トークン"
+    ],
+    "tribe": [
+      "魔法使い",
+      "学院",
+      "プリンセス"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "相手のリーダーすべてと相手の場のフォロワーすべてと自分の場の『御伽の姫・アマリリス』すべてに2ダメージ。",
+    "keywords": [],
+    "canonical_print": "BP21-T03",
+    "prints": [
+      "BP21-P65",
+      "BP21-T03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-037"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-037"
+    ],
+    "illustrator": "おにねこ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T04",
+    "is_dual_face": false,
+    "name": "緊急召喚",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット",
+      "トークン"
+    ],
+    "tribe": [
+      "錬金術師",
+      "土の印"
+    ],
+    "title": null,
+    "cost": 0,
+    "atk": null,
+    "hp": null,
+    "text": "【スタック】\n【ファンファーレ】『防御型ゴーレム』1体を場に出す。自分の場に元のコスト3以上の錬金術師・フォロワーがいるなら、『ガーディアンゴーレム』1枚をEXエリアに置く。\n―――――――――――――――\n『防御型ゴーレム』ウィッチゴーレム・フォロワーコスト2攻撃力2/体力3【守護】\n『ガーディアンゴーレム』ウィッチゴーレム・フォロワーコスト3攻撃力3/体力5【守護】【ラストワード】自分のリーダーは体力+2する。",
+    "keywords": [
+      "ファンファーレ",
+      "ラストワード",
+      "スタック",
+      "守護"
+    ],
+    "canonical_print": "BP21-T04",
+    "prints": [
+      "BP21-T04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T09",
+      "BP16-T01"
+    ],
+    "mentions_tokens": [
+      "BP01-T09",
+      "BP16-T01"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-044"
+    ],
+    "illustrator": "ShuLa",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T05",
+    "is_dual_face": false,
+    "name": "術式結界",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット",
+      "トークン"
+    ],
+    "tribe": [
+      "錬金術師",
+      "土の印"
+    ],
+    "title": null,
+    "cost": 0,
+    "atk": null,
+    "hp": null,
+    "text": "【スタック】\n【ファンファーレ】1枚引く。自分の場に元のコスト3以上の錬金術師・フォロワーがいるなら、代わりに2枚。",
+    "keywords": [
+      "ファンファーレ",
+      "スタック"
+    ],
+    "canonical_print": "BP21-T05",
+    "prints": [
+      "BP21-T05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-044"
+    ],
+    "illustrator": "ShuLa",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T06",
+    "is_dual_face": false,
+    "name": "リリウムの幼竜",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "竜族",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【守護】\n【ラストワード】自分のリーダーは体力+1する。",
+    "keywords": [
+      "ラストワード",
+      "守護"
+    ],
+    "canonical_print": "BP21-T06",
+    "prints": [
+      "BP21-P66",
+      "BP21-T06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-056"
+    ],
+    "illustrator": "巣高あお",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T07",
+    "is_dual_face": false,
+    "name": "リリウムの巨竜",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "竜族",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 5,
+    "hp": 5,
+    "text": "【突進】【指定攻撃】\n【攻撃時】フォロワーへの攻撃なら、それの攻撃力と体力を1にする。",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-T07",
+    "prints": [
+      "BP21-P67",
+      "BP21-T07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-056"
+    ],
+    "illustrator": "風篠",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T08",
+    "is_dual_face": false,
+    "name": "聖騎兵",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "先導"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 2,
+    "text": "【守護】\nこれの攻撃力を+したとき、これは【突進】を持つ。",
+    "keywords": [
+      "守護",
+      "突進"
+    ],
+    "canonical_print": "BP21-T08",
+    "prints": [
+      "BP21-P68",
+      "BP21-T08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-094",
+      "BP21-095"
+    ],
+    "illustrator": "Budi",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T09",
+    "is_dual_face": false,
+    "name": "長久の導き",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "スペル",
+      "トークン"
+    ],
+    "tribe": [
+      "先導",
+      "学院"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワーX体まで選ぶ。それに5ダメージ。自分の場の学院・フォロワーすべては攻撃力+1/体力+1する。Xは「このターン中に自分のリーダーの体力を+した回数」である。",
+    "keywords": [],
+    "canonical_print": "BP21-T09",
+    "prints": [
+      "BP21-P69",
+      "BP21-T09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-092"
+    ],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-T10",
+    "is_dual_face": false,
+    "name": "クレスト 嗚咽の聖騎士・ウィルバート",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "クレスト",
+      "トークン"
+    ],
+    "tribe": [
+      "挑戦者",
+      "先導"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の【守護】を持つフォロワー1体を選ぶ。自分の場の【守護】を持つフォロワーが3体以上なら、それは攻撃力+1/体力+1する。5体なら、代わりに攻撃力+2/体力+2する。この能力は1ターンに1回使える。",
+    "keywords": [
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "BP21-T10",
+    "prints": [
+      "BP21-P70",
+      "BP21-T10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-095"
+    ],
+    "illustrator": "みけぼし",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P04",
+    "is_dual_face": false,
+    "name": "農作のエルフ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "エルフ族",
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 2,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP21-P04",
+    "prints": [
+      "BP21-P04"
+    ],
+    "evolves_to": [
+      "BP21-P05"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "虹原",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P05",
+    "is_dual_face": false,
+    "name": "農作のエルフ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "エルフ族",
+      "学院"
+    ],
+    "title": null,
+    "cost": 3,
+    "atk": 3,
+    "hp": 4,
+    "text": "【進化時】自分のデッキの上5枚を見る。その中から、元のコスト1の学院・フォロワーや元のコスト1の獣・フォロワー2枚まで場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "BP21-P05",
+    "prints": [
+      "BP21-P05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-P04"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "虹原",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P06",
+    "is_dual_face": false,
+    "name": "妖精の学習",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "妖精",
+      "学院"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "『フェアリー』1体を場に出す。自分の場の妖精・トークン・フォロワーすべては【突進】【指定攻撃】を持つ。【コンボ_3】1枚引く。\n―――――――――――――――\n『フェアリー』エルフ妖精・フォロワーコスト1攻撃力1/体力1",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "コンボ"
+    ],
+    "canonical_print": "BP21-P06",
+    "prints": [
+      "BP21-P06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP01-T03"
+    ],
+    "mentions_tokens": [
+      "BP01-T03"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "堀愛里",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P07",
+    "is_dual_face": false,
+    "name": "ソードラビット",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 1,
+    "hp": 2,
+    "text": "【進化】コスト0：これは進化する。この能力はこのターン、自分のカードが場から手札に戻っていたなら使える。\nこれが場から手札に戻ったとき、自分の手札の『ソードラビット』1枚を場に出してよい。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "BP21-P07",
+    "prints": [
+      "BP21-P07"
+    ],
+    "evolves_to": [
+      "BP21-P08"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "BP21-P08"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "米谷 尚展",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P08",
+    "is_dual_face": false,
+    "name": "ソードラビット",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 1,
+    "atk": 2,
+    "hp": 3,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "BP21-P08",
+    "prints": [
+      "BP21-P08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "BP21-P07"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "BP21-P07"
+    ],
+    "illustrator": "米谷 尚展",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P09",
+    "is_dual_face": false,
+    "name": "タイガーガール",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 4,
+    "atk": 4,
+    "hp": 3,
+    "text": "【疾走】\n【攻撃時】墓場の獣・カード3枚を消滅：相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "疾走",
+      "攻撃時"
+    ],
+    "canonical_print": "BP21-P09",
+    "prints": [
+      "BP21-P09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "Tob",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "BP21-P10",
+    "is_dual_face": false,
+    "name": "宿り木のモモンガ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "獣"
+    ],
+    "title": null,
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【ファンファーレ】場の「これと同名を除く獣・フォロワー」1体を手札に戻す：これは【疾走】を持つ。1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "BP21-P10",
+    "prints": [
+      "BP21-P10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "タツヤキ",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
   }
 ]
