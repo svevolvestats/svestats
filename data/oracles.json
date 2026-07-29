@@ -54190,7 +54190,8 @@
     "prints": [
       "BP10-074",
       "BP10-SL18",
-      "BP10-U05"
+      "BP10-U05",
+      "SCS01-006"
     ],
     "evolves_to": [
       "BP10-075"
@@ -58877,7 +58878,8 @@
     "prints": [
       "BP11-054",
       "BP11-SL12",
-      "BP11-U04"
+      "BP11-U04",
+      "SCS01-005"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -78226,7 +78228,8 @@
     "canonical_print": "BP15-020",
     "prints": [
       "BP15-020",
-      "BP15-SL06"
+      "BP15-SL06",
+      "SCS01-003"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -78503,7 +78506,8 @@
     "canonical_print": "BP15-026",
     "prints": [
       "BP15-026",
-      "BP15-P05"
+      "BP15-P05",
+      "PR-564"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -81479,7 +81483,8 @@
     "prints": [
       "BP15-096",
       "BP15-SL26",
-      "BP15-U06"
+      "BP15-U06",
+      "SCS01-008"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -82248,7 +82253,8 @@
     "prints": [
       "BP15-114",
       "BP15-SL30",
-      "BP15-U07"
+      "BP15-U07",
+      "SCS01-009"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -83664,7 +83670,8 @@
     "prints": [
       "BP16-001",
       "BP16-SL01",
-      "EBD01-001"
+      "EBD01-001",
+      "SCS01-001"
     ],
     "evolves_to": [
       "BP16-002"
@@ -83761,7 +83768,8 @@
     "prints": [
       "BP16-003",
       "BP16-SL03",
-      "BP16-U01"
+      "BP16-U01",
+      "SCS01-002"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -85223,7 +85231,8 @@
     "prints": [
       "BP16-037",
       "BP16-SL09",
-      "BP16-U03"
+      "BP16-U03",
+      "SCS01-004"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -87090,7 +87099,8 @@
     ],
     "canonical_print": "BP16-081",
     "prints": [
-      "BP16-081"
+      "BP16-081",
+      "PR-581"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -101292,7 +101302,8 @@
     "canonical_print": "BP19-022",
     "prints": [
       "BP19-022",
-      "BP19-SL08"
+      "BP19-SL08",
+      "PR-558"
     ],
     "evolves_to": [
       "BP19-023"
@@ -103558,7 +103569,8 @@
     "canonical_print": "BP19-075",
     "prints": [
       "BP19-075",
-      "BP19-SL19"
+      "BP19-SL19",
+      "SCS01-007"
     ],
     "evolves_to": [
       "BP19-076"
@@ -141008,7 +141020,7 @@
     "min_price": null
   },
   {
-    "oracle_id": "PR-404",
+    "oracle_id": "SCS01-010",
     "is_dual_face": false,
     "name": "SEP",
     "alt_names": [],
@@ -141023,16 +141035,14 @@
     "cost": null,
     "atk": null,
     "hp": null,
-    "text": "バトル開始時、各プレイヤーはSEPを1つ持つ。\n先攻のプレイヤーなら7ターン目以降、後攻のプレイヤーなら6ターン目以降に【進化】のコストを払うとき、追加でSEPを1つ裏向きにしてよい。そうしたなら、そのフォロワーは攻撃力+1/体力+1して、【超進化時】能力が働く。",
-    "keywords": [
-      "進化",
-      "超進化時"
-    ],
-    "canonical_print": "PR-404",
+    "text": "",
+    "keywords": [],
+    "canonical_print": "SCS01-010",
     "prints": [
       "PR-404",
       "PR-469",
-      "PR-563"
+      "PR-563",
+      "SCS01-010"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -141103,7 +141113,10 @@
     "canonical_print": "PR-417",
     "prints": [
       "PR-417",
-      "PR-445"
+      "PR-445",
+      "PR-566",
+      "PR-567",
+      "PR-568"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -147186,7 +147199,8 @@
     ],
     "canonical_print": "BP21-007",
     "prints": [
-      "BP21-007"
+      "BP21-007",
+      "PR-575"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -147568,7 +147582,8 @@
     ],
     "canonical_print": "BP21-025",
     "prints": [
-      "BP21-025"
+      "BP21-025",
+      "PR-576"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -147603,7 +147618,8 @@
     "keywords": [],
     "canonical_print": "BP21-026",
     "prints": [
-      "BP21-026"
+      "BP21-026",
+      "PR-585"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -147733,7 +147749,8 @@
     ],
     "canonical_print": "BP21-029",
     "prints": [
-      "BP21-029"
+      "BP21-029",
+      "PR-570"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -148051,7 +148068,8 @@
     "canonical_print": "BP21-037",
     "prints": [
       "BP21-037",
-      "BP21-SL09"
+      "BP21-SL09",
+      "PR-583"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -148313,7 +148331,8 @@
     "keywords": [],
     "canonical_print": "BP21-043",
     "prints": [
-      "BP21-043"
+      "BP21-043",
+      "PR-571"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -148496,7 +148515,8 @@
     ],
     "canonical_print": "BP21-047",
     "prints": [
-      "BP21-047"
+      "BP21-047",
+      "PR-577"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -149110,7 +149130,8 @@
     ],
     "canonical_print": "BP21-062",
     "prints": [
-      "BP21-062"
+      "BP21-062",
+      "PR-578"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -149403,7 +149424,8 @@
     ],
     "canonical_print": "BP21-069",
     "prints": [
-      "BP21-069"
+      "BP21-069",
+      "PR-572"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -149441,7 +149463,8 @@
     ],
     "canonical_print": "BP21-070",
     "prints": [
-      "BP21-070"
+      "BP21-070",
+      "PR-589"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -149879,7 +149902,8 @@
     ],
     "canonical_print": "BP21-081",
     "prints": [
-      "BP21-081"
+      "BP21-081",
+      "PR-573"
     ],
     "evolves_to": [
       "BP21-082"
@@ -149920,7 +149944,8 @@
     ],
     "canonical_print": "BP21-082",
     "prints": [
-      "BP21-082"
+      "BP21-082",
+      "PR-574"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -150504,7 +150529,8 @@
     ],
     "canonical_print": "BP21-096",
     "prints": [
-      "BP21-096"
+      "BP21-096",
+      "PR-579"
     ],
     "evolves_to": [
       "BP21-097"
@@ -150546,7 +150572,8 @@
     ],
     "canonical_print": "BP21-097",
     "prints": [
-      "BP21-097"
+      "BP21-097",
+      "PR-580"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -151197,7 +151224,8 @@
     ],
     "canonical_print": "BP21-113",
     "prints": [
-      "BP21-113"
+      "BP21-113",
+      "PR-565"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -151235,7 +151263,8 @@
     ],
     "canonical_print": "BP21-114",
     "prints": [
-      "BP21-114"
+      "BP21-114",
+      "PR-582"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -151273,7 +151302,8 @@
     ],
     "canonical_print": "BP21-115",
     "prints": [
-      "BP21-115"
+      "BP21-115",
+      "PR-584"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -152072,7 +152102,8 @@
     "keywords": [],
     "canonical_print": "BP21-011",
     "prints": [
-      "BP21-011"
+      "BP21-011",
+      "PR-569"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -152120,6 +152151,45 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "doughnutz",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "PR-559",
+    "is_dual_face": false,
+    "name": "静寂のアナテマ・ギルダリア（EVOLVE）",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "アナテマ",
+      "獣"
+    ],
+    "title": null,
+    "cost": null,
+    "atk": 5,
+    "hp": 5,
+    "text": "【進化時】相手の場のフォロワーすべてに4ダメージ。相手のリーダーすべてに2ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "PR-559",
+    "prints": [
+      "PR-559"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": null
