@@ -4391,8 +4391,7 @@
     "release_date": "2023-09-29",
     "set_name": "Booster Set #2 “Reign of Bahamut”",
     "prints": {
-      "BP02-032": "BP02-032EN",
-      "PR-020": "PR-112EN"
+      "BP02-032": "BP02-032EN"
     }
   },
   "BP02-033": {
@@ -29430,7 +29429,8 @@
     "set_name": "Combined Set \"Worldreaver's Descent & Dominion of Darkness\"",
     "prints": {
       "BP12-054": "BP12-054EN",
-      "BP12-SL16": "BP12-SL16EN"
+      "BP12-SL16": "BP12-SL16EN",
+      "PR-348": "PR-496EN"
     }
   },
   "BP12-055": {
@@ -30573,7 +30573,8 @@
     "release_date": "2025-11-21",
     "set_name": "Combined Set \"Worldreaver's Descent & Dominion of Darkness\"",
     "prints": {
-      "BP12-107": "BP12-107EN"
+      "BP12-107": "BP12-107EN",
+      "PR-324": "PR-494EN"
     }
   },
   "BP12-108": {
@@ -35371,7 +35372,8 @@
     "release_date": "2026-01-23",
     "set_name": "Combined Set \"Banquet of Dreams & Trial of the Omens\"",
     "prints": {
-      "BP14-098": "BP14-098EN"
+      "BP14-098": "BP14-098EN",
+      "PR-383": "PR-495EN"
     }
   },
   "BP14-099": {
@@ -43441,6 +43443,2744 @@
     "prints": {
       "BP17-119": "BP17-119EN",
       "BP17-P28": "BP17-P28EN"
+    }
+  },
+  "BP18-001": {
+    "name": "Rolo Rone, Verdant Purifier",
+    "text": "【Evolve】 Cost 1: Evolve this.\nYou may play any number of 【Evolve】 per turn.\n【Fanfare】 Select a Togh Keyoh card in your cemetery and put it into your EX area. It costs 2 less to play this turn.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-001EN",
+    "img": "BP18/BP18-001EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-001": "BP18-001EN",
+      "BP18-SL01": "BP18-SL01EN"
+    }
+  },
+  "BP18-002": {
+    "name": "Rolo Rone, Verdant Purifier",
+    "text": "You may play any number of 【Evolve】 per turn.\nOn Super-Evolve - Put a Seeds of Salvation token into your EX area.\nWhenever a follower on your field evolves, select an enemy follower on the field and deal it 4 damage.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-002EN",
+    "img": "BP18/BP18-002EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-002": "BP18-002EN",
+      "BP18-SL02": "BP18-SL02EN",
+      "BP18-U01": "BP18-U01EN"
+    }
+  },
+  "BP18-003": {
+    "name": "Kyou, Verdant Path Shepherd",
+    "text": "Whenever a follower on your field evolves, deal 1 damage to each enemy leader. If it's the 1st time a follower on your field has evolved this turn, draw a card. If it's the 2nd, give this Storm. If it's the 3rd, give this Attack+2/Defense+2.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-003EN",
+    "img": "BP18/BP18-003EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-003": "BP18-003EN",
+      "BP18-SL03": "BP18-SL03EN"
+    }
+  },
+  "BP18-004": {
+    "name": "Tia, Crystalian Noble",
+    "text": "【Fanfare】 Put a Crystalia Eve token into your EX area.\nOnce on each of your turns, when a Crystalian card is put into your EX area, draw a card.\n【Act】 【Engage】: Select a Crystalia Eve in your EX area. It costs X less to play this turn. X equals the number of cards you've played this turn.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Crystalian",
+      "Princess"
+    ],
+    "cardno": "BP18-004EN",
+    "img": "BP18/BP18-004EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-004": "BP18-004EN",
+      "BP18-SL04": "BP18-SL04EN"
+    }
+  },
+  "BP18-005": {
+    "name": "Verdant Authority Caretaker",
+    "text": "【Evolve】 Cost 0: Evolve this.\nYou may play any number of 【Evolve】 per turn.\nWhenever a follower on your field evolves, give your leader Defense+1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-005EN",
+    "img": "BP18/BP18-005EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-005": "BP18-005EN",
+      "BP18-P01": "BP18-P01EN"
+    }
+  },
+  "BP18-006": {
+    "name": "Verdant Authority Caretaker",
+    "text": "You may play any number of 【Evolve】 per turn.\nWhenever a follower on your field evolves, give your leader Defense+1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-006EN",
+    "img": "BP18/BP18-006EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-006": "BP18-006EN",
+      "BP18-P02": "BP18-P02EN"
+    }
+  },
+  "BP18-007": {
+    "name": "May, Eager Elf",
+    "text": "You may play this from the cemetery if you've played at least 3 cards this turn.\n----------\n【Fanfare】 Select an enemy follower on the field. Deal it 1 damage and, if this wasn’t put onto the field from hand, put this on the bottom of its owner’s deck.\nDuring your turn, when this leaves the field, select an enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Elf"
+    ],
+    "cardno": "BP18-007EN",
+    "img": "BP18/BP18-007EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-007": "BP18-007EN",
+      "BP18-P03": "BP18-P03EN"
+    }
+  },
+  "BP18-008": {
+    "name": "Sprouting Retribution",
+    "text": "This costs X less to play. X equals the number of faceup evolved Togh Keyoh followers in your evolve deck.\n----------\nSelect an enemy follower on the field. Deal 5 damage to it and 1 damage to its leader.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-008EN",
+    "img": "BP18/BP18-008EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-008": "BP18-008EN",
+      "BP18-P04": "BP18-P04EN"
+    }
+  },
+  "BP18-009": {
+    "name": "Verdant City Pugilist",
+    "text": "【Evolve】 Cost 1: Evolve this.\nYou may play any number of 【Evolve】 per turn.\nWhenever a follower on your field evolves, select a Togh Keyoh follower on your field and give it Attack+1/Defense+1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-009EN",
+    "img": "BP18/BP18-009EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-009": "BP18-009EN",
+      "BP18-P05": "BP18-P05EN"
+    }
+  },
+  "BP18-010": {
+    "name": "Verdant City Pugilist",
+    "text": "You may play any number of 【Evolve】 per turn.\nOn Evolve - Select an enemy leader or enemy follower on the field and deal it 1 damage.\nWhenever a follower on your field evolves, select a Togh Keyoh follower on your field and give it Attack+1/Defense+1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-010EN",
+    "img": "BP18/BP18-010EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-010": "BP18-010EN",
+      "BP18-P06": "BP18-P06EN"
+    }
+  },
+  "BP18-011": {
+    "name": "Blossoming Lunerian",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP18-011EN",
+    "img": "BP18/BP18-011EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-011": "BP18-011EN"
+    }
+  },
+  "BP18-012": {
+    "name": "Blossoming Lunerian",
+    "text": "On Evolve - Look at the top 3 cards of your deck. You may put a Beast card from among them into your EX area. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP18-012EN",
+    "img": "BP18/BP18-012EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-012": "BP18-012EN"
+    }
+  },
+  "BP18-013": {
+    "name": "Sowing Paradise",
+    "text": "This costs X less to play. X equals the number of faceup evolved Togh Keyoh followers in your evolve deck.\n----------\nSelect up to 2 Togh Keyoh followers in your cemetery and add them to your hand.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-013EN",
+    "img": "BP18/BP18-013EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-013": "BP18-013EN",
+      "PR-470": "PR-481EN"
+    }
+  },
+  "BP18-014": {
+    "name": "Verdant Law Supplicant",
+    "text": "【Evolve】 Cost 0: Evolve this. Activate only if a follower on your field has evolved this turn.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-014EN",
+    "img": "BP18/BP18-014EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-014": "BP18-014EN",
+      "BP18-P07": "BP18-P07EN"
+    }
+  },
+  "BP18-015": {
+    "name": "Verdant Law Supplicant",
+    "text": "On Evolve - Select a Togh Keyoh follower in your cemetery not named Verdant Law Supplicant and add it to your hand.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Verdant"
+    ],
+    "cardno": "BP18-015EN",
+    "img": "BP18/BP18-015EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-015": "BP18-015EN",
+      "BP18-P08": "BP18-P08EN"
+    }
+  },
+  "BP18-016": {
+    "name": "Milolo, Li'l Mountain Lass",
+    "text": "【Fanfare】 The next spell that costs 1 or less you play this turn costs 1 less.\nOnce per turn, when you play a spell, select a follower on your field and give it Attack+1/Defense+1 and Rush.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Hunter"
+    ],
+    "cardno": "BP18-016EN",
+    "img": "BP18/BP18-016EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-016": "BP18-016EN"
+    }
+  },
+  "BP18-017": {
+    "name": "Rayne, Elf Smith",
+    "text": "【Fanfare】 Select another follower on your field and give it Attack+1, Rush, and for the rest of this turn, \"This doesn't take damage.\"",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Elf"
+    ],
+    "cardno": "BP18-017EN",
+    "img": "BP18/BP18-017EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-017": "BP18-017EN"
+    }
+  },
+  "BP18-018": {
+    "name": "Furious Mountain Deity",
+    "text": "Strike - Give this Attack+3/Defense+3.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP18-018EN",
+    "img": "BP18/BP18-018EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-018": "BP18-018EN"
+    }
+  },
+  "BP18-019": {
+    "name": "Airbound Barrage",
+    "text": "Select a Forestcraft card on your field and an enemy follower on the field. Return the first card to its owner's hand and deal 3 damage to the second.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Elf",
+      "Hunter"
+    ],
+    "cardno": "BP18-019EN",
+    "img": "BP18/BP18-019EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-019": "BP18-019EN"
+    }
+  },
+  "BP18-020": {
+    "name": "Shinra, All-Discerning",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Search your deck for a Gigabyte Blade, summon it, then shuffle.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-020EN",
+    "img": "BP18/BP18-020EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-020": "BP18-020EN",
+      "BP18-SL05": "BP18-SL05EN"
+    }
+  },
+  "BP18-021": {
+    "name": "Shinra, All-Discerning",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 3 damage. If there are at least 3 Togh Keyoh cards on your field, deal 4 damage instead.\nOn Super-Evolve - Put an All-Access Search token into your EX area.\n【Act】 【Engage】, remove 10 gigabyte counters from a Gigabyte Blade on your field: Deal 8 damage to each enemy leader.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-021EN",
+    "img": "BP18/BP18-021EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-021": "BP18-021EN",
+      "BP18-SL06": "BP18-SL06EN",
+      "BP18-U02": "BP18-U02EN"
+    }
+  },
+  "BP18-022": {
+    "name": "Gamma, Canine Mediator",
+    "text": "【Fanfare】 Draw a card.\n【Act】 Remove 10 gigabyte counters from a Gigabyte Blade on your field: Deal 5 damage to each enemy follower on the field. Give this Attack+2/Defense+2 and Storm.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective",
+      "Beast"
+    ],
+    "cardno": "BP18-022EN",
+    "img": "BP18/BP18-022EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-022": "BP18-022EN",
+      "BP18-SL07": "BP18-SL07EN"
+    }
+  },
+  "BP18-023": {
+    "name": "Gawain, Oath to Glory",
+    "text": "Rush.\n【Fanfare】 If there are at least 5 Swordcraft followers in your cemetery, draw a card. If there are at least 10, give this Storm and your leader Defense+2. If there are at least 15, give this Intimidate and Aura. If there are at least 20, give this Attack+7/Defense+7.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer",
+      "Arthurian"
+    ],
+    "cardno": "BP18-023EN",
+    "img": "BP18/BP18-023EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-023": "BP18-023EN",
+      "BP18-SL08": "BP18-SL08EN"
+    }
+  },
+  "BP18-024": {
+    "name": "Bird's-Eye Investigator",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-024EN",
+    "img": "BP18/BP18-024EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-024": "BP18-024EN",
+      "BP18-P09": "BP18-P09EN"
+    }
+  },
+  "BP18-025": {
+    "name": "Bird's-Eye Investigator",
+    "text": "Ward.\nOn Evolve - Search your deck for up to 2 Togh Keyoh followers that cost a total of 3 or less, summon them, then shuffle.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-025EN",
+    "img": "BP18/BP18-025EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-025": "BP18-025EN",
+      "BP18-P10": "BP18-P10EN"
+    }
+  },
+  "BP18-026": {
+    "name": "Darksaber Melissa",
+    "text": "Rush. Assail.\n【Fanfare】 Select an enemy follower on the field. If there are at least 3 cards on its controller's field, destroy it and give this Aura and, for the rest of this turn, \"This doesn't take damage.\"",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Commander",
+      "Princess"
+    ],
+    "cardno": "BP18-026EN",
+    "img": "BP18/BP18-026EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-026": "BP18-026EN",
+      "PR-478": "PR-489EN"
+    }
+  },
+  "BP18-027": {
+    "name": "Gigabyte Blade",
+    "text": "This can't be destroyed or banished by abilities.\n【Fanfare】 Place 2 gigabyte counters on each Gigabyte Blade on your field. If there's another Gigabyte Blade on your field, bury this.\nWhenever a Togh Keyoh follower is put onto your field or a follower on your field evolves, place a gigabyte counter on each Gigabyte Blade on your field.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-027EN",
+    "img": "BP18/BP18-027EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-027": "BP18-027EN",
+      "BP18-P11": "BP18-P11EN"
+    }
+  },
+  "BP18-028": {
+    "name": "Cold Case Analyst",
+    "text": "【Evolve】 Cost 1: Evolve this.\nAssail.\n【Fanfare】 If there are at least 3 Togh Keyoh cards on your field, evolve this.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-028EN",
+    "img": "BP18/BP18-028EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-028": "BP18-028EN",
+      "BP18-P12": "BP18-P12EN"
+    }
+  },
+  "BP18-029": {
+    "name": "Cold Case Analyst",
+    "text": "Assail.\nStrike - Place 2 gigabyte counters on each Gigabyte Blade on your field.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-029EN",
+    "img": "BP18/BP18-029EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-029": "BP18-029EN",
+      "BP18-P13": "BP18-P13EN"
+    }
+  },
+  "BP18-030": {
+    "name": "Lucius, Sellsword",
+    "text": "【Fanfare】 Cost 3: Select an enemy follower on the field and destroy it.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mercenary"
+    ],
+    "cardno": "BP18-030EN",
+    "img": "BP18/BP18-030EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-030": "BP18-030EN"
+    }
+  },
+  "BP18-031": {
+    "name": "Unorthodox Assistance",
+    "text": "Search your deck for a Shinra, All-Discerning, reveal it, add it to your hand, then shuffle. Place 2 gigabyte counters on each Gigabyte Blade on your field.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-031EN",
+    "img": "BP18/BP18-031EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-031": "BP18-031EN",
+      "PR-471": "PR-482EN"
+    }
+  },
+  "BP18-032": {
+    "name": "Blind Spot Surveyor",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If there are at least 3 Togh Keyoh cards on your field, give your leader Defense+2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-032EN",
+    "img": "BP18/BP18-032EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-032": "BP18-032EN",
+      "BP18-P14": "BP18-P14EN"
+    }
+  },
+  "BP18-033": {
+    "name": "Blind Spot Surveyor",
+    "text": "On Evolve - Look at the top 3 cards of your deck. You may reveal a Togh Keyoh card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Detective"
+    ],
+    "cardno": "BP18-033EN",
+    "img": "BP18/BP18-033EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-033": "BP18-033EN",
+      "BP18-P15": "BP18-P15EN"
+    }
+  },
+  "BP18-034": {
+    "name": "Monika, Cloudhall Admiral",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Summon 2 Knight tokens.\nStrike - Select an enemy follower on the field and deal it damage equal to the number of followers on your field.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Commander"
+    ],
+    "cardno": "BP18-034EN",
+    "img": "BP18/BP18-034EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-034": "BP18-034EN"
+    }
+  },
+  "BP18-035": {
+    "name": "Monika, Cloudhall Admiral",
+    "text": "On Evolve/Strike - Select an enemy follower on the field and deal it damage equal to the number of followers on your field.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Commander"
+    ],
+    "cardno": "BP18-035EN",
+    "img": "BP18/BP18-035EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-035": "BP18-035EN"
+    }
+  },
+  "BP18-036": {
+    "name": "Princess Teena",
+    "text": "【Fanfare】 Search your deck for a 1-cost follower, put it into your EX area, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Princess"
+    ],
+    "cardno": "BP18-036EN",
+    "img": "BP18/BP18-036EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-036": "BP18-036EN"
+    }
+  },
+  "BP18-037": {
+    "name": "Holy Bear Knight",
+    "text": "Ward.\n【Fanfare】 Cost 2: Give this Attack+2/Defense+2. Draw a card.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer",
+      "Beast"
+    ],
+    "cardno": "BP18-037EN",
+    "img": "BP18/BP18-037EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-037": "BP18-037EN"
+    }
+  },
+  "BP18-038": {
+    "name": "Luminous Standard",
+    "text": "【Fanfare】 Search your deck for a Luminous Commander, Luminous Magus, and Luminous Lancetrooper, reveal them, add them to your hand, then shuffle.\n【Act】 【Engage】, bury this: Select a Commander follower on your field and give it Attack+1/Defense+1.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Commander",
+      "Luminous"
+    ],
+    "cardno": "BP18-038EN",
+    "img": "BP18/BP18-038EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-038": "BP18-038EN",
+      "BP18-P16": "BP18-P16EN"
+    }
+  },
+  "BP18-039": {
+    "name": "Mana, Sterling Luster",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select a card in your banished zone. Add it to your hand, then banish a card from your hand.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-039EN",
+    "img": "BP18/BP18-039EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-039": "BP18-039EN",
+      "BP18-SL09": "BP18-SL09EN"
+    }
+  },
+  "BP18-040": {
+    "name": "Mana, Sterling Luster",
+    "text": "On Evolve - Banish another follower from your field: Select an enemy follower on the field. Destroy it and draw a card.\nOn Super-Evolve - Put an Adorn with Jewels token into your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-040EN",
+    "img": "BP18/BP18-040EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-040": "BP18-040EN",
+      "BP18-SL10": "BP18-SL10EN",
+      "BP18-U03": "BP18-U03EN"
+    }
+  },
+  "BP18-041": {
+    "name": "Francoise, Bejeweled Manager",
+    "text": "【Fanfare】 Draw a card. Banish a card from your hand.\n【Act】 【Engage】: Select an enemy leader or enemy follower on the field and deal it 2 damage. Activate only if there are at least 10 cards in your banished zone.\n【Last Words】 Banish this.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-041EN",
+    "img": "BP18/BP18-041EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-041": "BP18-041EN",
+      "BP18-SL11": "BP18-SL11EN"
+    }
+  },
+  "BP18-042": {
+    "name": "Ginger, Accursed Word",
+    "text": "This costs X less to play. X equals the number of cards in your banished zone.\n----------\n【Fanfare】 Put a Ginger's Curse token into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP18-042EN",
+    "img": "BP18/BP18-042EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-042": "BP18-042EN",
+      "BP18-SL12": "BP18-SL12EN"
+    }
+  },
+  "BP18-043": {
+    "name": "Bejeweled Supermodel",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Draw 3 cards. Banish 2 cards from your hand.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-043EN",
+    "img": "BP18/BP18-043EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-043": "BP18-043EN",
+      "BP18-P17": "BP18-P17EN"
+    }
+  },
+  "BP18-044": {
+    "name": "Bejeweled Supermodel",
+    "text": "On Evolve - Select an enemy follower on the field and deal it damage equal to the number of cards in your banished zone.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-044EN",
+    "img": "BP18/BP18-044EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-044": "BP18-044EN",
+      "BP18-P18": "BP18-P18EN"
+    }
+  },
+  "BP18-045": {
+    "name": "Aleister, Argenteum Astrum",
+    "text": "Rush. Drain.\n【Fanfare】 Banish the top 2 cards of your deck. Then, if there are at least 5 cards in your banished zone, give this Assail. If there are at least 10, give this Attack+1/Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP18-045EN",
+    "img": "BP18/BP18-045EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-045": "BP18-045EN",
+      "PR-472": "PR-483EN"
+    }
+  },
+  "BP18-046": {
+    "name": "Brilliant Cut",
+    "text": "Choose 1. (1) Select an enemy follower on the field and, if there are at least 10 cards in your banished zone, deal 2 damage to it and its leader. (2) Draw a card. Banish the top card of your deck.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-046EN",
+    "img": "BP18/BP18-046EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-046": "BP18-046EN",
+      "BP18-P19": "BP18-P19EN"
+    }
+  },
+  "BP18-047": {
+    "name": "Bejeweled Advisor",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Banish the top card of your deck. Then, if there are at least 10 cards in your banished zone, give your leader Defense+2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-047EN",
+    "img": "BP18/BP18-047EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-047": "BP18-047EN",
+      "BP18-P20": "BP18-P20EN"
+    }
+  },
+  "BP18-048": {
+    "name": "Bejeweled Advisor",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-048EN",
+    "img": "BP18/BP18-048EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-048": "BP18-048EN",
+      "BP18-P21": "BP18-P21EN"
+    }
+  },
+  "BP18-049": {
+    "name": "Mari, Card Conjurer",
+    "text": "【Fanfare】/【Last Words】 Draw a card. Bury the top card of your deck.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP18-049EN",
+    "img": "BP18/BP18-049EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-049": "BP18-049EN"
+    }
+  },
+  "BP18-050": {
+    "name": "Clandestine Dealings",
+    "text": "Choose 1. (1) Select an enemy follower on the field. Destroy it and banish the top 2 cards of your deck. (2) Cost 1: Select up to 2 followers in your banished zone with different names that cost 2 or less and summon them.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-050EN",
+    "img": "BP18/BP18-050EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-050": "BP18-050EN",
+      "BP18-P22": "BP18-P22EN"
+    }
+  },
+  "BP18-051": {
+    "name": "Bejeweled Bouncer",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Banish the top card of your deck.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-051EN",
+    "img": "BP18/BP18-051EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-051": "BP18-051EN",
+      "BP18-P23": "BP18-P23EN"
+    }
+  },
+  "BP18-052": {
+    "name": "Bejeweled Bouncer",
+    "text": "Storm.\nStrike - Give this Attack+1/Defense+1 for every 5 cards in your banished zone.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Alchemist",
+      "Merchant"
+    ],
+    "cardno": "BP18-052EN",
+    "img": "BP18/BP18-052EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-052": "BP18-052EN",
+      "BP18-P24": "BP18-P24EN"
+    }
+  },
+  "BP18-053": {
+    "name": "Carbuncle of Mysteria",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Last Words】 Bury the top card of your deck.",
+    "keywords": [
+      "Evolve",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Arcanaform",
+      "Academic"
+    ],
+    "cardno": "BP18-053EN",
+    "img": "BP18/BP18-053EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-053": "BP18-053EN"
+    }
+  },
+  "BP18-054": {
+    "name": "Carbuncle of Mysteria",
+    "text": "On Evolve - Look at the top 2 cards of your deck. You may reveal an Academic card from among them and add it to your hand. Bury the rest.\n【Last Words】 Bury the top card of your deck.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Arcanaform",
+      "Academic"
+    ],
+    "cardno": "BP18-054EN",
+    "img": "BP18/BP18-054EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-054": "BP18-054EN"
+    }
+  },
+  "BP18-055": {
+    "name": "Illusionist",
+    "text": "【Fanfare】 You may summon a non-Runecraft follower that costs 6 or less from your hand and give it Rush, Assail, and \"At the start of your end phase, return this to its owner's hand.\"",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP18-055EN",
+    "img": "BP18/BP18-055EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-055": "BP18-055EN"
+    }
+  },
+  "BP18-056": {
+    "name": "Enchanted Sword",
+    "text": "This costs 1 less to play for every 5 spells in your cemetery.\n----------\nSelect a Mage follower on your field and give it Attack+2/Defense+2.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP18-056EN",
+    "img": "BP18/BP18-056EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-056": "BP18-056EN"
+    }
+  },
+  "BP18-057": {
+    "name": "Authoring Tomorrow",
+    "text": "【Act】 Cost 1, bury this from your EX area: Deal 1 damage to each enemy follower on the field.\n----------\n【Quick】\nDraw a card. If this was played from hand, put it into your EX area.",
+    "keywords": [
+      "Act",
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP18-057EN",
+    "img": "BP18/BP18-057EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-057": "BP18-057EN",
+      "BP18-P25": "BP18-P25EN"
+    }
+  },
+  "BP18-058": {
+    "name": "El, Destructive Dragon",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-058EN",
+    "img": "BP18/BP18-058EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-058": "BP18-058EN",
+      "BP18-SL13": "BP18-SL13EN"
+    }
+  },
+  "BP18-059": {
+    "name": "El, Destructive Dragon",
+    "text": "On Evolve - Look at the top 3 cards of your deck. You may put a Draconic Duelist card from among them into your EX area. It costs 3 less to play this turn. Put the rest on the bottom of your deck in any order.\nOn Super-Evolve - Put a Youthful Strike token into your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-059EN",
+    "img": "BP18/BP18-059EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-059": "BP18-059EN",
+      "BP18-SL14": "BP18-SL14EN",
+      "BP18-U04": "BP18-U04EN"
+    }
+  },
+  "BP18-060": {
+    "name": "Tenka, Hot-Blooded Vice-Prez",
+    "text": "Whenever a Draconic Duelist follower with at least 4 attack on your field attacks, select an enemy follower on the field and deal 1 damage to it and its leader.\n【Fanfare】 Look at the top 2 cards of your deck. You may reveal a Draconic Duelist card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-060EN",
+    "img": "BP18/BP18-060EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-060": "BP18-060EN",
+      "BP18-SL15": "BP18-SL15EN"
+    }
+  },
+  "BP18-061": {
+    "name": "Fafnir, Cunning Wyrm",
+    "text": "Ward.\nIf an enemy follower would be put from the field into the cemetery, banish it instead.\n【Fanfare】 Deal 8 damage to each enemy follower on the field. Deal 4 damage to each enemy leader.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Wyrmkin"
+    ],
+    "cardno": "BP18-061EN",
+    "img": "BP18/BP18-061EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-061": "BP18-061EN",
+      "BP18-SL16": "BP18-SL16EN"
+    }
+  },
+  "BP18-062": {
+    "name": "Dragon-Eyed Secretary",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWhenever a Draconic Duelist follower with at least 4 attack on your field attacks, give your leader Defense+1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-062EN",
+    "img": "BP18/BP18-062EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-062": "BP18-062EN"
+    }
+  },
+  "BP18-063": {
+    "name": "Dragon-Eyed Secretary",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 2 damage. If there's a Draconic Duelist follower on your field with at least 4 attack, deal 3 damage instead.\nWhenever a Draconic Duelist follower with at least 4 attack on your field attacks, give your leader Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-063EN",
+    "img": "BP18/BP18-063EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-063": "BP18-063EN"
+    }
+  },
+  "BP18-064": {
+    "name": "Prophetic Dragon",
+    "text": "Ward.\n【Fanfare】 Select up to 2 cards in your cemetery named Prophetic Dragon and summon them.\nAt the start of your end phase, select an enemy follower on the field. Deal it 5 damage and give your leader Defense+1.\n【Act】 Cost 2, discard this: Draw a card.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Wyrmkin"
+    ],
+    "cardno": "BP18-064EN",
+    "img": "BP18/BP18-064EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-064": "BP18-064EN",
+      "PR-473": "PR-484EN"
+    }
+  },
+  "BP18-065": {
+    "name": "After-School Break",
+    "text": "Search your deck for up to 3 Togh Keyoh followers with different names that cost 3 or less, summon them, then shuffle. Give your leader Defense+2.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-065EN",
+    "img": "BP18/BP18-065EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-065": "BP18-065EN",
+      "PR-476": "PR-487EN"
+    }
+  },
+  "BP18-066": {
+    "name": "Neon-Tailed Prefect",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select another Draconic Duelist follower on your field and give it Attack+1.\nWhenever a Draconic Duelist follower with at least 4 attack on your field attacks, give it Attack+1.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-066EN",
+    "img": "BP18/BP18-066EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-066": "BP18-066EN",
+      "BP18-P26": "BP18-P26EN"
+    }
+  },
+  "BP18-067": {
+    "name": "Neon-Tailed Prefect",
+    "text": "On Evolve - Look at the top 2 cards of your deck. You may reveal a Draconic Duelist card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\nWhenever a Draconic Duelist follower with at least 4 attack on your field attacks, give it Attack+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-067EN",
+    "img": "BP18/BP18-067EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-067": "BP18-067EN",
+      "BP18-P27": "BP18-P27EN"
+    }
+  },
+  "BP18-068": {
+    "name": "Ian, Dragon Buster",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 Select an enemy follower on the field and deal it 5 damage.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Dragonheart"
+    ],
+    "cardno": "BP18-068EN",
+    "img": "BP18/BP18-068EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-068": "BP18-068EN"
+    }
+  },
+  "BP18-069": {
+    "name": "Ian, Dragon Buster",
+    "text": "Ward.\nOn Evolve - Summon an Adelle, Jealous Dragon token.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Dragonheart"
+    ],
+    "cardno": "BP18-069EN",
+    "img": "BP18/BP18-069EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-069": "BP18-069EN"
+    }
+  },
+  "BP18-070": {
+    "name": "Red-Winged Admissions Gift",
+    "text": "【Fanfare】 Look at the top 2 cards of your deck. You may reveal a Draconic Duelist card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 【Engage】, bury this: Give your leader Defense+1. Activate only if there's a Draconic Duelist follower on your field with at least 4 attack.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-070EN",
+    "img": "BP18/BP18-070EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-070": "BP18-070EN",
+      "BP18-P28": "BP18-P28EN"
+    }
+  },
+  "BP18-071": {
+    "name": "Lightning-Clawed Loafer",
+    "text": "【Evolve】 Cost 3: Evolve this.\nWhile there's another Draconic Duelist follower on your field, this has Rush and Assail.\nAt the start of your end phase, return this to its owner's hand.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-071EN",
+    "img": "BP18/BP18-071EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-071": "BP18-071EN",
+      "BP18-P29": "BP18-P29EN"
+    }
+  },
+  "BP18-072": {
+    "name": "Lightning-Clawed Loafer",
+    "text": "While there's another Draconic Duelist follower on your field, this has Assail.\nAt the start of your end phase, return this to its owner's hand.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP18-072EN",
+    "img": "BP18/BP18-072EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-072": "BP18-072EN",
+      "BP18-P30": "BP18-P30EN"
+    }
+  },
+  "BP18-073": {
+    "name": "Serpent Drake",
+    "text": "Rush.\n【Fanfare】 If Overflow is active for you, give this Attack+2/Defense+2.\nWhenever this takes damage, if it's on your field, search your deck for a Serpent Drake, summon it, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Wyrmkin"
+    ],
+    "cardno": "BP18-073EN",
+    "img": "BP18/BP18-073EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-073": "BP18-073EN"
+    }
+  },
+  "BP18-074": {
+    "name": "Draconic Mercenary",
+    "text": "Ward.\n【Fanfare】 Summon a Hellflame Dragon or Dragon token.\n【Act】 Cost 2, 【Engage】: Summon a Hellflame Dragon or Dragon token.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Dragonewt",
+      "Dragonheart",
+      "Mercenary"
+    ],
+    "cardno": "BP18-074EN",
+    "img": "BP18/BP18-074EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-074": "BP18-074EN"
+    }
+  },
+  "BP18-075": {
+    "name": "Estrella Beast",
+    "text": "This doesn't take ability damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP18-075EN",
+    "img": "BP18/BP18-075EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-075": "BP18-075EN"
+    }
+  },
+  "BP18-076": {
+    "name": "Orca Run",
+    "text": "【Quick】\nSelect an enemy follower on the field and deal it 2 damage. If there are at least 5 Marine cards in your cemetery, deal 4 damage instead.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP18-076EN",
+    "img": "BP18/BP18-076EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-076": "BP18-076EN",
+      "BP18-P31": "BP18-P31EN"
+    }
+  },
+  "BP18-077": {
+    "name": "Ilze & Urze, Centennial Reapers",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Bury the top 2 cards of your deck.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon"
+    ],
+    "cardno": "BP18-077EN",
+    "img": "BP18/BP18-077EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-077": "BP18-077EN",
+      "BP18-SL17": "BP18-SL17EN"
+    }
+  },
+  "BP18-078": {
+    "name": "Ilze & Urze, Centennial Reapers",
+    "text": "On Evolve - Look at the top 5 cards of your deck. You may put an Abysscraft card that costs 2 or less or Togh Keyoh card that costs 2 or less from among them into your EX area. It costs 2 less to play this turn. Put the rest on the bottom of your deck in any order.\nOn Super-Evolve - Put a Diurnal Slumber token into your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon"
+    ],
+    "cardno": "BP18-078EN",
+    "img": "BP18/BP18-078EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-078": "BP18-078EN",
+      "BP18-SL18": "BP18-SL18EN",
+      "BP18-U05": "BP18-U05EN"
+    }
+  },
+  "BP18-079": {
+    "name": "Vedd, Burial Wolf",
+    "text": "【Fanfare】 You may discard a 2-cost card. If you do, draw a card. If you don't, bury this.\n【Act】 Cost 0: Select an enemy leader or enemy follower on the field and deal it 3 damage. Activate only if there are at least ten 2-cost cards in your cemetery, and only once per turn.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-079EN",
+    "img": "BP18/BP18-079EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-079": "BP18-079EN",
+      "BP18-SL19": "BP18-SL19EN"
+    }
+  },
+  "BP18-080": {
+    "name": "Vania, Crimson Majesty",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Discard a Vampire card: Put a Forest Bat token into your EX area. Draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Vampire",
+      "Princess"
+    ],
+    "cardno": "BP18-080EN",
+    "img": "BP18/BP18-080EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-080": "BP18-080EN",
+      "BP18-SL20": "BP18-SL20EN"
+    }
+  },
+  "BP18-081": {
+    "name": "Vania, Crimson Majesty",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 2 damage.\nOn Super-Evolve - Give this \"Each Forest Bat on your field has Storm and Bane.\"",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Vampire",
+      "Princess"
+    ],
+    "cardno": "BP18-081EN",
+    "img": "BP18/BP18-081EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-081": "BP18-081EN",
+      "BP18-SL21": "BP18-SL21EN"
+    }
+  },
+  "BP18-082": {
+    "name": "Covetous Serpent",
+    "text": "【Evolve】 Cost 5: Evolve this.\n【Act】 【Engage】, reveal two 2-cost cards from your hand: Select an enemy follower on the field and deal it 4 damage.",
+    "keywords": [
+      "Evolve",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-082EN",
+    "img": "BP18/BP18-082EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-082": "BP18-082EN",
+      "BP18-P32": "BP18-P32EN"
+    }
+  },
+  "BP18-083": {
+    "name": "Covetous Serpent",
+    "text": "Storm.\nOn Evolve - Refresh this.\n【Act】 【Engage】, reveal two 2-cost cards from your hand: Select an enemy follower on the field and deal it 4 damage.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-083EN",
+    "img": "BP18/BP18-083EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-083": "BP18-083EN",
+      "BP18-P33": "BP18-P33EN"
+    }
+  },
+  "BP18-084": {
+    "name": "Veight, Twilit Highborn",
+    "text": "【Fanfare】 Look at the top 3 cards of your deck. You may reveal a Vampire card from among them and add it to your hand. Put the rest on the bottom of your deck in any order. If you revealed a follower with \"Vania\" in its name, summon a Forest Bat token.\n【Act】 Cost 0: Give each Forest Bat on your field Attack+1/Defense+1. Activate only if there are at least 5 Vampire cards in your cemetery, and only once per turn.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Vampire"
+    ],
+    "cardno": "BP18-084EN",
+    "img": "BP18/BP18-084EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-084": "BP18-084EN",
+      "PR-474": "PR-485EN"
+    }
+  },
+  "BP18-085": {
+    "name": "Crescent Moon of Centennial Death",
+    "text": "Select a 2-cost Togh Keyoh follower in your cemetery and summon it.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon"
+    ],
+    "cardno": "BP18-085EN",
+    "img": "BP18/BP18-085EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-085": "BP18-085EN",
+      "BP18-P34": "BP18-P34EN"
+    }
+  },
+  "BP18-086": {
+    "name": "Exhumation Crow",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Reveal two 2-cost cards from your hand: Give your leader Defense+2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-086EN",
+    "img": "BP18/BP18-086EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-086": "BP18-086EN",
+      "BP18-P35": "BP18-P35EN"
+    }
+  },
+  "BP18-087": {
+    "name": "Exhumation Crow",
+    "text": "On Evolve - Select a Demon follower in your cemetery and add it to your hand.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-087EN",
+    "img": "BP18/BP18-087EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-087": "BP18-087EN",
+      "BP18-P36": "BP18-P36EN"
+    }
+  },
+  "BP18-088": {
+    "name": "Full Moon of Centennial Demise",
+    "text": "Deal 1 damage to each enemy leader and enemy follower on the field. If there are at least ten 2-cost cards in your cemetery, deal 2 damage instead.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon"
+    ],
+    "cardno": "BP18-088EN",
+    "img": "BP18/BP18-088EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-088": "BP18-088EN",
+      "BP18-P37": "BP18-P37EN"
+    }
+  },
+  "BP18-089": {
+    "name": "Vampire Queen's Castle",
+    "text": "【Fanfare】 Discard a Vampire card: Draw a card.\n【Act】 【Engage】, bury this: Summon a Forest Bat token. If there's a follower on your field with \"Queen Vampire\" in its name, summon 3 instead.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Vampire"
+    ],
+    "cardno": "BP18-089EN",
+    "img": "BP18/BP18-089EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-089": "BP18-089EN",
+      "BP18-P38": "BP18-P38EN"
+    }
+  },
+  "BP18-090": {
+    "name": "Gnawing Rat",
+    "text": "When playing this, discard a 2-cost card: This costs 1 less.\n----------\n【Evolve】 Cost 4: Evolve this.\n【Fanfare】 Draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-090EN",
+    "img": "BP18/BP18-090EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-090": "BP18-090EN",
+      "BP18-P39": "BP18-P39EN"
+    }
+  },
+  "BP18-091": {
+    "name": "Gnawing Rat",
+    "text": "On Evolve - Select an enemy follower on the field and destroy it.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Demon",
+      "Beast"
+    ],
+    "cardno": "BP18-091EN",
+    "img": "BP18/BP18-091EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-091": "BP18-091EN",
+      "BP18-P40": "BP18-P40EN"
+    }
+  },
+  "BP18-092": {
+    "name": "Beryl, Dreameater",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Put a Forest Bat token into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Demon",
+      "Vampire"
+    ],
+    "cardno": "BP18-092EN",
+    "img": "BP18/BP18-092EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-092": "BP18-092EN"
+    }
+  },
+  "BP18-093": {
+    "name": "Beryl, Dreameater",
+    "text": "On Evolve - Select an enemy follower on the field. Summon 2 Forest Bat tokens, then deal the selected follower damage equal to the number of cards named Forest Bat on your field.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Demon",
+      "Vampire"
+    ],
+    "cardno": "BP18-093EN",
+    "img": "BP18/BP18-093EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-093": "BP18-093EN"
+    }
+  },
+  "BP18-094": {
+    "name": "Prince Catacomb",
+    "text": "【Fanfare】/【Last Words】 Select a follower in your cemetery that costs 1 or less and summon it.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Necromancer"
+    ],
+    "cardno": "BP18-094EN",
+    "img": "BP18/BP18-094EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-094": "BP18-094EN"
+    }
+  },
+  "BP18-095": {
+    "name": "Bloodthirsty Hamster",
+    "text": "Whenever a follower is put from the field into the cemetery, give this Attack+1.\n【Fanfare】 Cost 3: Select an enemy follower on the field and destroy it.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Vampire",
+      "Beast"
+    ],
+    "cardno": "BP18-095EN",
+    "img": "BP18/BP18-095EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-095": "BP18-095EN"
+    }
+  },
+  "BP18-096": {
+    "name": "Nightscreech",
+    "text": "Look at the top card of your deck. If it's a Vampire card, you may reveal it and add it to your hand. Summon a Forest Bat token. If there are at least 5 Vampire cards in your cemetery, give it Attack+2, Rush, and Assail.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Vampire"
+    ],
+    "cardno": "BP18-096EN",
+    "img": "BP18/BP18-096EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-096": "BP18-096EN"
+    }
+  },
+  "BP18-097": {
+    "name": "Seishiro, Admonishing Faith",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWhenever your leader gains Defense, select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-097EN",
+    "img": "BP18/BP18-097EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-097": "BP18-097EN",
+      "BP18-SL22": "BP18-SL22EN"
+    }
+  },
+  "BP18-098": {
+    "name": "Seishiro, Admonishing Faith",
+    "text": "On Evolve - You may summon a Togh Keyoh follower that costs 3 or less or Havencraft amulet that costs 3 or less from your hand.\nOn Super-Evolve - Put a Righteous Conviction token into your EX area.\nWhenever your leader gains Defense, select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-098EN",
+    "img": "BP18/BP18-098EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-098": "BP18-098EN",
+      "BP18-SL23": "BP18-SL23EN",
+      "BP18-U06": "BP18-U06EN"
+    }
+  },
+  "BP18-099": {
+    "name": "Tenmei, Insatiable Adjudicator",
+    "text": "Whenever your leader gains Defense, select an enemy follower on the field and deal it 2 damage.\n【Act】 Cost 0: Deal damage to each enemy leader equal to the number of Togh Keyoh followers on your field. Give your leader Defense+1. Activate only once per turn.",
+    "keywords": [
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-099EN",
+    "img": "BP18/BP18-099EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-099": "BP18-099EN",
+      "BP18-SL24": "BP18-SL24EN"
+    }
+  },
+  "BP18-100": {
+    "name": "Elana, Purest Prayer",
+    "text": "Ward.\n【Fanfare】 Search your deck for an Elana's Prayer, reveal it, add it to your hand, then shuffle.\nAt the start of each opponent's main phase, if there's an Elana's Prayer on your field, give your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP18-100EN",
+    "img": "BP18/BP18-100EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-100": "BP18-100EN",
+      "BP18-SL25": "BP18-SL25EN"
+    }
+  },
+  "BP18-101": {
+    "name": "Conferrer of Vows",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Cost 2: Select a Togh Keyoh follower in your cemetery not named Conferrer of Vows that costs 4 or less and summon it.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-101EN",
+    "img": "BP18/BP18-101EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-101": "BP18-101EN",
+      "BP18-P41": "BP18-P41EN"
+    }
+  },
+  "BP18-102": {
+    "name": "Conferrer of Vows",
+    "text": "On Evolve - Give your leader Defense+2.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-102EN",
+    "img": "BP18/BP18-102EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-102": "BP18-102EN",
+      "BP18-P42": "BP18-P42EN"
+    }
+  },
+  "BP18-103": {
+    "name": "Imina, Mad Eidolon",
+    "text": "Bane.\n【Fanfare】 Each player summons a Totem of Madness token.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Zealot",
+      "Eidolon"
+    ],
+    "cardno": "BP18-103EN",
+    "img": "BP18/BP18-103EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-103": "BP18-103EN"
+    }
+  },
+  "BP18-104": {
+    "name": "Unshakable Prayer",
+    "text": "【Fanfare】 Look at the top 4 cards of your deck. From among them, you may reveal up to 1 Togh Keyoh card not named Unshakable Prayer and up to 1 Seishiro, Admonishing Faith and add them to your hand. Put the rest on the bottom of your deck in any order. The next Togh Keyoh card you play this turn costs 2 less.\n【Act】 Cost 1, 【Engage】, bury this: Give your leader Defense+1.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-104EN",
+    "img": "BP18/BP18-104EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-104": "BP18-104EN",
+      "BP18-P43": "BP18-P43EN"
+    }
+  },
+  "BP18-105": {
+    "name": "Deliverer of Punishment",
+    "text": "【Evolve】 Cost 2: Evolve this.\n【Fanfare】 Give your leader Defense+1. If there's a Seishiro, Admonishing Faith on your field, evolve this.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-105EN",
+    "img": "BP18/BP18-105EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-105": "BP18-105EN",
+      "BP18-P44": "BP18-P44EN"
+    }
+  },
+  "BP18-106": {
+    "name": "Deliverer of Punishment",
+    "text": "On Evolve - Give your leader Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-106EN",
+    "img": "BP18/BP18-106EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-106": "BP18-106EN",
+      "BP18-P45": "BP18-P45EN"
+    }
+  },
+  "BP18-107": {
+    "name": "Lorena, Iron-Willed Priest",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Give your leader Defense+4.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP18-107EN",
+    "img": "BP18/BP18-107EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-107": "BP18-107EN"
+    }
+  },
+  "BP18-108": {
+    "name": "Lorena, Iron-Willed Priest",
+    "text": "On Evolve - Select an enemy follower on the field and deal it damage equal to this follower's attack.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP18-108EN",
+    "img": "BP18/BP18-108EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-108": "BP18-108EN"
+    }
+  },
+  "BP18-109": {
+    "name": "Guiding Words",
+    "text": "Draw a card. If there's a Togh Keyoh follower on your field, give your leader Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-109EN",
+    "img": "BP18/BP18-109EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-109": "BP18-109EN",
+      "PR-475": "PR-486EN"
+    }
+  },
+  "BP18-110": {
+    "name": "Votary of Contemplation",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If there's a Seishiro, Admonishing Faith on your field, give your leader Defense+1 and draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-110EN",
+    "img": "BP18/BP18-110EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-110": "BP18-110EN",
+      "BP18-P46": "BP18-P46EN"
+    }
+  },
+  "BP18-111": {
+    "name": "Votary of Contemplation",
+    "text": "On Evolve - Select an enemy follower on the field. Deal it 2 damage and, if your leader has gained Defense this turn, deal 2 damage to its leader.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Faith"
+    ],
+    "cardno": "BP18-111EN",
+    "img": "BP18/BP18-111EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-111": "BP18-111EN",
+      "BP18-P47": "BP18-P47EN"
+    }
+  },
+  "BP18-112": {
+    "name": "Mugnier, Purifying Light",
+    "text": "【Fanfare】 Select an enemy follower on the field that costs 3 or less and banish it.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Zealot"
+    ],
+    "cardno": "BP18-112EN",
+    "img": "BP18/BP18-112EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-112": "BP18-112EN"
+    }
+  },
+  "BP18-113": {
+    "name": "Armed Al-mi'raj",
+    "text": "【Fanfare】 Select an enemy follower on the field. Destroy it and give your leader Defense+3.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Faith",
+      "Beast"
+    ],
+    "cardno": "BP18-113EN",
+    "img": "BP18/BP18-113EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-113": "BP18-113EN"
+    }
+  },
+  "BP18-114": {
+    "name": "Heavenly Hound",
+    "text": "Ward.\n【Fanfare】 If there's another follower on your field with Ward, give this Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Faith",
+      "Beast"
+    ],
+    "cardno": "BP18-114EN",
+    "img": "BP18/BP18-114EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-114": "BP18-114EN"
+    }
+  },
+  "BP18-115": {
+    "name": "Golden Bell",
+    "text": "【Fanfare】 Draw a card.\n【Act】 Cost 2, 【Engage】: Bury this.\n【Last Words】 Give your leader Defense+1.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage",
+      "Last Words"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP18-115EN",
+    "img": "BP18/BP18-115EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-115": "BP18-115EN",
+      "BP18-P48": "BP18-P48EN"
+    }
+  },
+  "BP18-116": {
+    "name": "Bansai Suzuki, Deacon Shinobi",
+    "text": "Rush. Assail. Ward.\n【Fanfare】 Cost 2: Summon a Bansai Suzuki, Clone Technique token.\nAt the start of your end phase, summon a Bansai Suzuki, Clone Technique token.\n【Act】 Discard a Togh Keyoh card: For the rest of this turn, each Bansai Suzuki, Deacon Shinobi and Bansai Suzuki, Clone Technique on your field doesn't take damage.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Ward Office"
+    ],
+    "cardno": "BP18-116EN",
+    "img": "BP18/BP18-116EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-116": "BP18-116EN",
+      "BP18-SL26": "BP18-SL26EN"
+    }
+  },
+  "BP18-117": {
+    "name": "Saito, Mao Ward Officer",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Look at the top 3 cards of your deck. You may reveal a Togh Keyoh card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Ward Office"
+    ],
+    "cardno": "BP18-117EN",
+    "img": "BP18/BP18-117EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-117": "BP18-117EN",
+      "BP18-SL27": "BP18-SL27EN"
+    }
+  },
+  "BP18-118": {
+    "name": "Saito, Mao Ward Officer",
+    "text": "On Evolve - Choose 1. (1) Select an A-Class Pyromancy in your cemetery and put it into your EX area. It costs 1 less to play this turn. (2) Give your leader Defense+1. Bury the top card of your deck. (3) Banish a card from your hand: Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Ward Office"
+    ],
+    "cardno": "BP18-118EN",
+    "img": "BP18/BP18-118EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-118": "BP18-118EN",
+      "BP18-SL28": "BP18-SL28EN",
+      "BP18-U07": "BP18-U07EN"
+    }
+  },
+  "BP18-119": {
+    "name": "Warped Progress",
+    "text": "【Quick】\nAs an additional cost to play this, discard a Togh Keyoh card.\n----------\nSelect an enemy follower on the field. Deal it 4 damage, give your leader Defense+1, and draw a card.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh"
+    ],
+    "cardno": "BP18-119EN",
+    "img": "BP18/BP18-119EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-119": "BP18-119EN",
+      "PR-481": "PR-491EN"
+    }
+  },
+  "BP18-120": {
+    "name": "Togh Keyoh, Neometropolis",
+    "text": "【Fanfare】 Look at the top 3 cards of your deck. You may reveal a Togh Keyoh card not named Togh Keyoh, Neometropolis from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 Cost 1, 【Engage】, banish this: Select a Togh Keyoh follower on your field. Give it Attack+1/Defense+1 and your leader Defense+1.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Togh Keyoh"
+    ],
+    "cardno": "BP18-120EN",
+    "img": "BP18/BP18-120EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-120": "BP18-120EN",
+      "PR-463": "PR-490EN"
+    }
+  },
+  "BP18-121": {
+    "name": "Stunfist Assassin",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select an enemy follower on the field and deal it 4 damage.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh"
+    ],
+    "cardno": "BP18-121EN",
+    "img": "BP18/BP18-121EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-121": "BP18-121EN"
+    }
+  },
+  "BP18-122": {
+    "name": "Stunfist Assassin",
+    "text": "",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh"
+    ],
+    "cardno": "BP18-122EN",
+    "img": "BP18/BP18-122EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-122": "BP18-122EN"
+    }
+  },
+  "BP18-123": {
+    "name": "A-Class Pyromancy",
+    "text": "【Quick】\nSelect an enemy follower on the field. Deal it 2 damage and, if there's a Saito, Mao Ward Officer on your field, deal 1 damage to its leader.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Ward Office"
+    ],
+    "cardno": "BP18-123EN",
+    "img": "BP18/BP18-123EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-123": "BP18-123EN",
+      "PR-477": "PR-488EN"
+    }
+  },
+  "BP18-124": {
+    "name": "Cyberglasses Criminal",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select an enemy follower on the field and engage it.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh"
+    ],
+    "cardno": "BP18-124EN",
+    "img": "BP18/BP18-124EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-124": "BP18-124EN"
+    }
+  },
+  "BP18-125": {
+    "name": "Cyberglasses Criminal",
+    "text": "",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Togh Keyoh"
+    ],
+    "cardno": "BP18-125EN",
+    "img": "BP18/BP18-125EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-125": "BP18-125EN"
+    }
+  },
+  "BP18-126": {
+    "name": "Third-Class Officer",
+    "text": "【Fanfare】 Discard a card: Search your deck for a Ward Office card not named Third-Class Officer, reveal it, add it to your hand, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Togh Keyoh",
+      "Ward Office"
+    ],
+    "cardno": "BP18-126EN",
+    "img": "BP18/BP18-126EN.webp",
+    "release_date": "2026-07-24",
+    "set_name": "Booster Set \"Neometropolis\"",
+    "prints": {
+      "BP18-126": "BP18-126EN",
+      "BP18-P49": "BP18-P49EN"
     }
   },
   "CP01-001": {
@@ -55438,6 +58178,23 @@
     "prints": {
       "BP03-016": "BP03-016EN",
       "BP03-P05": "BP03-P05EN"
+    }
+  },
+  "PR-559": {
+    "name": "Avant Blader",
+    "text": "On Evolve: Search your deck for up to 2 Officer followers, reveal them, and add them to your hand.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Commander"
+    ],
+    "cardno": "PR-112EN",
+    "img": "PR/PR-112EN.webp",
+    "prints": {
+      "PR-559": "PR-112EN"
     }
   },
   "SD01-001": {

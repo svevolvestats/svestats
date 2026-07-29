@@ -66847,7 +66847,10 @@
     "oracle_id": "BP12-EP",
     "is_dual_face": false,
     "name": "二人の追憶",
-    "alt_names": [],
+    "alt_names": [
+      "EP",
+      "賑やかな食卓"
+    ],
     "class": "-",
     "card_type": [
       "EP"
@@ -66859,11 +66862,19 @@
     "cost": null,
     "atk": null,
     "hp": null,
-    "text": "",
-    "keywords": [],
+    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（進化1回につき使えるEPは1つ）",
+    "keywords": [
+      "進化"
+    ],
     "canonical_print": "BP12-EP",
     "prints": [
-      "BP12-EP"
+      "BP12-EP",
+      "PCS01-EP",
+      "PR-417",
+      "PR-445",
+      "PR-566",
+      "PR-567",
+      "PR-568"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -66876,7 +66887,7 @@
     "illustrator": "",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": null
+    "min_price": 780
   },
   {
     "oracle_id": "BP13-001",
@@ -100353,7 +100364,9 @@
     "oracle_id": "BP18-SEP",
     "is_dual_face": false,
     "name": "六銘伝を統べる者達",
-    "alt_names": [],
+    "alt_names": [
+      "SEP"
+    ],
     "class": "-",
     "card_type": [
       "SEP"
@@ -100365,11 +100378,18 @@
     "cost": null,
     "atk": null,
     "hp": null,
-    "text": "",
-    "keywords": [],
+    "text": "バトル開始時、各プレイヤーはSEPを1つ持つ。\n先攻のプレイヤーなら7ターン目以降、後攻のプレイヤーなら6ターン目以降に【進化】のコストを払うとき、追加でSEPを1つ裏向きにしてよい。そうしたなら、そのフォロワーは攻撃力+1/体力+1して、【超進化時】能力が働く。",
+    "keywords": [
+      "進化",
+      "超進化時"
+    ],
     "canonical_print": "BP18-SEP",
     "prints": [
-      "BP18-SEP"
+      "BP18-SEP",
+      "PR-404",
+      "PR-469",
+      "PR-563",
+      "SCS01-010"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -100382,7 +100402,7 @@
     "illustrator": "",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 8980
+    "min_price": 980
   },
   {
     "oracle_id": "BP19-001",
@@ -101351,7 +101371,8 @@
     "canonical_print": "BP19-023",
     "prints": [
       "BP19-023",
-      "BP19-SL09"
+      "BP19-SL09",
+      "PR-559"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -112395,7 +112416,56 @@
     "oracle_id": "CP01-T01",
     "is_dual_face": false,
     "name": "URAファイナルズ決勝（短距離）",
-    "alt_names": [],
+    "alt_names": [
+      "TSクライマックス（ダート）",
+      "TSクライマックス（マイル）",
+      "TSクライマックス（中距離）",
+      "TSクライマックス（短距離）",
+      "TSクライマックス（長距離）",
+      "URAファイナルズ決勝（ダート）",
+      "URAファイナルズ決勝（マイル）",
+      "URAファイナルズ決勝（中距離）",
+      "URAファイナルズ決勝（長距離）",
+      "レジェンドレース　VSアグネスタキオン",
+      "レジェンドレース　VSアグネスデジタル",
+      "レジェンドレース　VSウイニングチケット",
+      "レジェンドレース　VSウオッカ",
+      "レジェンドレース　VSエアグルーヴ",
+      "レジェンドレース　VSエイシンフラッシュ",
+      "レジェンドレース　VSエルコンドルパサー",
+      "レジェンドレース　VSオグリキャップ",
+      "レジェンドレース　VSカレンチャン",
+      "レジェンドレース　VSキングヘイロー",
+      "レジェンドレース　VSグラスワンダー",
+      "レジェンドレース　VSゴールドシチー",
+      "レジェンドレース　VSゴールドシップ",
+      "レジェンドレース　VSサイレンススズカ",
+      "レジェンドレース　VSサクラバクシンオー",
+      "レジェンドレース　VSシンボリルドルフ",
+      "レジェンドレース　VSスペシャルウィーク",
+      "レジェンドレース　VSスーパークリーク",
+      "レジェンドレース　VSセイウンスカイ",
+      "レジェンドレース　VSタイキシャトル",
+      "レジェンドレース　VSタマモクロス",
+      "レジェンドレース　VSテイエムオペラオー",
+      "レジェンドレース　VSトウカイテイオー",
+      "レジェンドレース　VSナイスネイチャ",
+      "レジェンドレース　VSナリタタイシン",
+      "レジェンドレース　VSナリタブライアン",
+      "レジェンドレース　VSヒシアマゾン",
+      "レジェンドレース　VSビワハヤヒデ",
+      "レジェンドレース　VSフジキセキ",
+      "レジェンドレース　VSマチカネフクキタル",
+      "レジェンドレース　VSマヤノトップガン",
+      "レジェンドレース　VSマルゼンスキー",
+      "レジェンドレース　VSミホノブルボン",
+      "レジェンドレース　VSメイショウドトウ",
+      "レジェンドレース　VSメジロドーベル",
+      "レジェンドレース　VSメジロブライト",
+      "レジェンドレース　VSメジロマックイーン",
+      "レジェンドレース　VSメジロライアン",
+      "レジェンドレース　VSライスシャワー"
+    ],
     "class": "-",
     "card_type": [
       "EP"
@@ -112414,768 +112484,56 @@
     ],
     "canonical_print": "CP01-T01",
     "prints": [
-      "CP01-T01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T02",
-    "is_dual_face": false,
-    "name": "URAファイナルズ決勝（マイル）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T02",
-    "prints": [
-      "CP01-T02"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T03",
-    "is_dual_face": false,
-    "name": "URAファイナルズ決勝（中距離）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T03",
-    "prints": [
-      "CP01-T03"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T04",
-    "is_dual_face": false,
-    "name": "URAファイナルズ決勝（長距離）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T04",
-    "prints": [
-      "CP01-T04"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T05",
-    "is_dual_face": false,
-    "name": "URAファイナルズ決勝（ダート）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T05",
-    "prints": [
-      "CP01-T05"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T06",
-    "is_dual_face": false,
-    "name": "TSクライマックス（短距離）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T06",
-    "prints": [
-      "CP01-T06"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T07",
-    "is_dual_face": false,
-    "name": "TSクライマックス（マイル）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T07",
-    "prints": [
-      "CP01-T07"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T08",
-    "is_dual_face": false,
-    "name": "TSクライマックス（中距離）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T08",
-    "prints": [
-      "CP01-T08"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T09",
-    "is_dual_face": false,
-    "name": "TSクライマックス（長距離）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T09",
-    "prints": [
-      "CP01-T09"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T10",
-    "is_dual_face": false,
-    "name": "TSクライマックス（ダート）",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T10",
-    "prints": [
-      "CP01-T10"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T11",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSエルコンドルパサー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T11",
-    "prints": [
-      "CP01-T11"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T12",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSシンボリルドルフ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T12",
-    "prints": [
-      "CP01-T12"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T13",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSキングヘイロー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T13",
-    "prints": [
-      "CP01-T13"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T14",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSタイキシャトル",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T14",
-    "prints": [
-      "CP01-T14"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T15",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSサクラバクシンオー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T15",
-    "prints": [
-      "CP01-T15"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T16",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSカレンチャン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T16",
-    "prints": [
-      "CP01-T16"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T17",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSウイニングチケット",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T17",
-    "prints": [
-      "CP01-T17"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T18",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSウオッカ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T18",
-    "prints": [
-      "CP01-T18"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T19",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSトウカイテイオー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T19",
-    "prints": [
-      "CP01-T19"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T20",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSマヤノトップガン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T20",
-    "prints": [
-      "CP01-T20"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 120
-  },
-  {
-    "oracle_id": "CP01-T21",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSメジロマックイーン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T21",
-    "prints": [
+      "CP01-T01",
+      "CP01-T02",
+      "CP01-T03",
+      "CP01-T04",
+      "CP01-T05",
+      "CP01-T06",
+      "CP01-T07",
+      "CP01-T08",
+      "CP01-T09",
+      "CP01-T10",
+      "CP01-T11",
+      "CP01-T12",
+      "CP01-T13",
+      "CP01-T14",
+      "CP01-T15",
+      "CP01-T16",
+      "CP01-T17",
+      "CP01-T18",
+      "CP01-T19",
+      "CP01-T20",
       "CP01-T21",
-      "CP01-T45"
+      "CP01-T22",
+      "CP01-T23",
+      "CP01-T24",
+      "CP01-T25",
+      "CP01-T26",
+      "CP01-T27",
+      "CP01-T28",
+      "CP01-T29",
+      "CP01-T30",
+      "CP01-T31",
+      "CP01-T32",
+      "CP01-T33",
+      "CP01-T34",
+      "CP01-T35",
+      "CP01-T36",
+      "CP01-T37",
+      "CP01-T38",
+      "CP01-T39",
+      "CP01-T40",
+      "CP01-T41",
+      "CP01-T42",
+      "CP01-T43",
+      "CP01-T44",
+      "CP01-T45",
+      "CP01-T46",
+      "CP01-T47",
+      "CP01-T48",
+      "CP01-T49",
+      "CSD01-T01"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -113188,1033 +112546,7 @@
     "illustrator": "",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T22",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSテイエムオペラオー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T22",
-    "prints": [
-      "CP01-T22"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T23",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSスーパークリーク",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T23",
-    "prints": [
-      "CP01-T23"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T24",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSメジロライアン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T24",
-    "prints": [
-      "CP01-T24"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T25",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSサイレンススズカ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T25",
-    "prints": [
-      "CP01-T25"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T26",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSゴールドシップ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T26",
-    "prints": [
-      "CP01-T26"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T27",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSマルゼンスキー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T27",
-    "prints": [
-      "CP01-T27"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T28",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSフジキセキ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T28",
-    "prints": [
-      "CP01-T28"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T29",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSミホノブルボン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T29",
-    "prints": [
-      "CP01-T29"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T30",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSマチカネフクキタル",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T30",
-    "prints": [
-      "CP01-T30"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T31",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSセイウンスカイ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T31",
-    "prints": [
-      "CP01-T31"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T32",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSビワハヤヒデ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T32",
-    "prints": [
-      "CP01-T32"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T33",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSエアグルーヴ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T33",
-    "prints": [
-      "CP01-T33"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T34",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSエイシンフラッシュ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T34",
-    "prints": [
-      "CP01-T34"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T35",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSアグネスデジタル",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T35",
-    "prints": [
-      "CP01-T35"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T36",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSナイスネイチャ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T36",
-    "prints": [
-      "CP01-T36"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T37",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSグラスワンダー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T37",
-    "prints": [
-      "CP01-T37"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T38",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSオグリキャップ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T38",
-    "prints": [
-      "CP01-T38"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T39",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSヒシアマゾン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T39",
-    "prints": [
-      "CP01-T39"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T40",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSメジロドーベル",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T40",
-    "prints": [
-      "CP01-T40"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T41",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSゴールドシチー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T41",
-    "prints": [
-      "CP01-T41"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T42",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSアグネスタキオン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T42",
-    "prints": [
-      "CP01-T42"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T43",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSナリタタイシン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T43",
-    "prints": [
-      "CP01-T43"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T44",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSナリタブライアン",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T44",
-    "prints": [
-      "CP01-T44"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T46",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSライスシャワー",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T46",
-    "prints": [
-      "CP01-T46"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T47",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSメジロブライト",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T47",
-    "prints": [
-      "CP01-T47"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T48",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSタマモクロス",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T48",
-    "prints": [
-      "CP01-T48"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
-  },
-  {
-    "oracle_id": "CP01-T49",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSメイショウドトウ",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CP01-T49",
-    "prints": [
-      "CP01-T49"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "CP01-LD01",
@@ -124687,7 +123019,18 @@
     "oracle_id": "CP03-T01",
     "is_dual_face": false,
     "name": "騎士王降臨",
-    "alt_names": [],
+    "alt_names": [
+      "カードファイト!! ヴァンガード Divinez",
+      "双剣覚醒",
+      "極限突破",
+      "獣王爆進",
+      "神託の戦乙女",
+      "竜魂乱舞",
+      "蒼嵐艦隊",
+      "虚影神蝕",
+      "魔侯襲来",
+      "黒鋼の戦騎"
+    ],
     "class": "-",
     "card_type": [
       "EP"
@@ -124706,349 +123049,17 @@
     ],
     "canonical_print": "CP03-T01",
     "prints": [
-      "CP03-T01"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T02",
-    "is_dual_face": false,
-    "name": "竜魂乱舞",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T02",
-    "prints": [
-      "CP03-T02"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T03",
-    "is_dual_face": false,
-    "name": "魔侯襲来",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T03",
-    "prints": [
-      "CP03-T03"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T04",
-    "is_dual_face": false,
-    "name": "虚影神蝕",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T04",
-    "prints": [
-      "CP03-T04"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T05",
-    "is_dual_face": false,
-    "name": "双剣覚醒",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T05",
-    "prints": [
-      "CP03-T05"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T06",
-    "is_dual_face": false,
-    "name": "極限突破",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T06",
-    "prints": [
-      "CP03-T06"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T07",
-    "is_dual_face": false,
-    "name": "獣王爆進",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T07",
-    "prints": [
-      "CP03-T07"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T08",
-    "is_dual_face": false,
-    "name": "蒼嵐艦隊",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T08",
-    "prints": [
-      "CP03-T08"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T09",
-    "is_dual_face": false,
-    "name": "黒鋼の戦騎",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T09",
-    "prints": [
-      "CP03-T09"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CP03-T10",
-    "is_dual_face": false,
-    "name": "神託の戦乙女",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "CP03-T10",
-    "prints": [
-      "CP03-T10"
+      "CP03-T01",
+      "CP03-T02",
+      "CP03-T03",
+      "CP03-T04",
+      "CP03-T05",
+      "CP03-T06",
+      "CP03-T07",
+      "CP03-T08",
+      "CP03-T09",
+      "CP03-T10",
+      "PR-266"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -131268,44 +129279,6 @@
     "canonical_print": "CSD01-031",
     "prints": [
       "CSD01-031"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "CSD01-T01",
-    "is_dual_face": false,
-    "name": "レジェンドレース　VSスペシャルウィーク",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "ウマ娘 プリティーダービー",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【食事】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か食事はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "食事"
-    ],
-    "canonical_print": "CSD01-T01",
-    "prints": [
-      "CSD01-T01"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -140702,41 +138675,6 @@
     "min_price": 380
   },
   {
-    "oracle_id": "PCS01-EP",
-    "is_dual_face": false,
-    "name": "賑やかな食卓",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "プリンセスコネクト！Re:Dive",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "",
-    "keywords": [],
-    "canonical_print": "PCS01-EP",
-    "prints": [
-      "PCS01-EP"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 2480
-  },
-  {
     "oracle_id": "LCS01-007",
     "is_dual_face": false,
     "name": "ドライツェーン",
@@ -140982,82 +138920,6 @@
     "min_price": null
   },
   {
-    "oracle_id": "PR-266",
-    "is_dual_face": false,
-    "name": "カードファイト!! ヴァンガード Divinez",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": "カードファイト!! ヴァンガード",
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "バトル開始時、後攻プレイヤーはEPを3つ持つ。\n自分が【進化】か【憑依】のコストを払うとき、表向きのEPを1つ裏向きにすることで、1PPを払える。（1ターンに進化か憑依はどちらか1回できる。1回につき使えるEPは1つ）",
-    "keywords": [
-      "進化",
-      "憑依"
-    ],
-    "canonical_print": "PR-266",
-    "prints": [
-      "PR-266"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": null
-  },
-  {
-    "oracle_id": "SCS01-010",
-    "is_dual_face": false,
-    "name": "SEP",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "SEP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": null,
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "",
-    "keywords": [],
-    "canonical_print": "SCS01-010",
-    "prints": [
-      "PR-404",
-      "PR-469",
-      "PR-563",
-      "SCS01-010"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 980
-  },
-  {
     "oracle_id": "PR-405",
     "is_dual_face": false,
     "name": "森の弓使い・アリサ",
@@ -141091,45 +138953,6 @@
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 4980
-  },
-  {
-    "oracle_id": "PR-417",
-    "is_dual_face": false,
-    "name": "EP",
-    "alt_names": [],
-    "class": "-",
-    "card_type": [
-      "EP"
-    ],
-    "tribe": [
-      "-"
-    ],
-    "title": null,
-    "cost": null,
-    "atk": null,
-    "hp": null,
-    "text": "",
-    "keywords": [],
-    "canonical_print": "PR-417",
-    "prints": [
-      "PR-417",
-      "PR-445",
-      "PR-566",
-      "PR-567",
-      "PR-568"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "乃木Lief",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 780
   },
   {
     "oracle_id": "BP20-001",
@@ -152151,45 +149974,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "doughnutz",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": null
-  },
-  {
-    "oracle_id": "PR-559",
-    "is_dual_face": false,
-    "name": "静寂のアナテマ・ギルダリア（EVOLVE）",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "アナテマ",
-      "獣"
-    ],
-    "title": null,
-    "cost": null,
-    "atk": 5,
-    "hp": 5,
-    "text": "【進化時】相手の場のフォロワーすべてに4ダメージ。相手のリーダーすべてに2ダメージ。",
-    "keywords": [
-      "進化時"
-    ],
-    "canonical_print": "PR-559",
-    "prints": [
-      "PR-559"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": null
