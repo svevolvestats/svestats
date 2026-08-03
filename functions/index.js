@@ -61,7 +61,9 @@ async function onRequest(context) {
     return new Response(injectOG(html, { title, description: "", imageUrl, pageUrl }), {
       headers: {
         "Content-Type": "text/html;charset=UTF-8",
-        "Cache-Control": "public, max-age=300"
+        // same reasoning as _shared.js serveWithOG: stale HTML points at asset
+        // hashes a deploy already replaced
+        "Cache-Control": "public, max-age=30"
       }
     });
   } catch {
