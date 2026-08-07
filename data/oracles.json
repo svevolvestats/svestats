@@ -28219,7 +28219,7 @@
     "illustrator": "",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 50
+    "min_price": 180
   },
   {
     "oracle_id": "BP05-086",
@@ -45038,7 +45038,9 @@
     "oracle_id": "BP08-108",
     "is_dual_face": false,
     "name": "タルトマン",
-    "alt_names": [],
+    "alt_names": [
+      "タル子マン"
+    ],
     "class": "ニュートラル",
     "card_type": [
       "フォロワー"
@@ -45056,7 +45058,8 @@
     ],
     "canonical_print": "BP08-108",
     "prints": [
-      "BP08-108"
+      "BP08-108",
+      "BP08-U07"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -45563,43 +45566,6 @@
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 80
-  },
-  {
-    "oracle_id": "BP08-U07",
-    "is_dual_face": false,
-    "name": "タル子マン",
-    "alt_names": [],
-    "class": "ニュートラル",
-    "card_type": [
-      "フォロワー"
-    ],
-    "tribe": [
-      "光輝"
-    ],
-    "title": null,
-    "cost": 4,
-    "atk": 4,
-    "hp": 4,
-    "text": "【ファンファーレ】自分のデッキからカード1枚を探し、手札に加える。",
-    "keywords": [
-      "ファンファーレ"
-    ],
-    "canonical_print": "BP08-U07",
-    "prints": [
-      "BP08-U07"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "77gl",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 2480
   },
   {
     "oracle_id": "BP08-LD01",
@@ -59780,7 +59746,7 @@
     "illustrator": "南保あたる",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 580
+    "min_price": 280
   },
   {
     "oracle_id": "BP11-076",
@@ -84558,7 +84524,7 @@
     "illustrator": "ell",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 80
+    "min_price": 120
   },
   {
     "oracle_id": "BP16-022",
@@ -137522,7 +137488,7 @@
     "illustrator": "虹原",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 180
+    "min_price": 580
   },
   {
     "oracle_id": "DSD01a-003",
@@ -138340,7 +138306,7 @@
     "illustrator": "オーベン道玄坂",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 80
+    "min_price": 280
   },
   {
     "oracle_id": "DSD01b-T01",
@@ -138425,7 +138391,7 @@
     "illustrator": "ぽんず",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 1180
+    "min_price": 6480
   },
   {
     "oracle_id": "SP01-026",
@@ -145911,7 +145877,7 @@
     "illustrator": "おにねこ",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 480
+    "min_price": 380
   },
   {
     "oracle_id": "BP21-038",
@@ -146046,7 +146012,7 @@
     "illustrator": "えなれいん",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "BP21-041",
@@ -147417,7 +147383,7 @@
     "illustrator": "薄雲ねず",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 880
+    "min_price": 780
   },
   {
     "oracle_id": "BP21-074",
@@ -147460,7 +147426,7 @@
     "illustrator": "薄雲ねず",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 1380
+    "min_price": 1280
   },
   {
     "oracle_id": "BP21-075",
@@ -147500,7 +147466,7 @@
     "illustrator": "ツネくん",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 980
+    "min_price": 880
   },
   {
     "oracle_id": "BP21-076",
@@ -147540,7 +147506,7 @@
     "illustrator": "ezusuke",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 980
+    "min_price": 880
   },
   {
     "oracle_id": "BP21-077",
@@ -148136,7 +148102,7 @@
     "illustrator": "みけぼし",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "BP21-092",
@@ -148184,7 +148150,7 @@
     "illustrator": "みけぼし",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "BP21-093",
@@ -148275,7 +148241,7 @@
     "illustrator": "みけぼし",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 680
+    "min_price": 580
   },
   {
     "oracle_id": "BP21-095",
@@ -148325,7 +148291,7 @@
     "illustrator": "みけぼし",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 580
+    "min_price": 480
   },
   {
     "oracle_id": "BP21-096",
@@ -149061,7 +149027,7 @@
     "illustrator": "虫麻呂",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 580
+    "min_price": 480
   },
   {
     "oracle_id": "BP21-114",
@@ -149100,7 +149066,7 @@
     "illustrator": "ponsumi",
     "legal_status": null,
     "crossover_legal_status": null,
-    "min_price": 480
+    "min_price": 380
   },
   {
     "oracle_id": "BP21-115",
