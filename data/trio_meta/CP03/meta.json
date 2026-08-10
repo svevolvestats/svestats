@@ -1,0 +1,525 @@
+{
+  "context": "CP03",
+  "ref_period": "2024-08-12~2024-08-22",
+  "total_decks": 659,
+  "total_teams": 220,
+  "total_winners": 84,
+  "total_finalists": 168,
+  "era": "CP03",
+  "start_date": "2024-06-28",
+  "end_date": "2024-08-22",
+  "archetypes": [
+    {
+      "id": "655122e0",
+      "source_id": "6e67a8",
+      "name": "かげろう",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 144,
+      "winner": 19,
+      "finalist": 37,
+      "top8_share": 0.2185,
+      "win_share": 0.2262,
+      "top_cards": [
+        "ドラゴニック・オーバーロード",
+        "ドラゴニック・オーバーロード・ジ・エンド",
+        "バーサーク・ドラゴン"
+      ]
+    },
+    {
+      "id": "5cbed768",
+      "source_id": "f5d9a3",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 94,
+      "winner": 15,
+      "finalist": 30,
+      "top8_share": 0.1426,
+      "win_share": 0.1786,
+      "top_cards": [
+        "闇夜の姫・ヴァンピィ",
+        "眷属への贈り物",
+        "血統の王"
+      ]
+    },
+    {
+      "id": "6ababea4",
+      "source_id": "6602e0",
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "count": 76,
+      "winner": 9,
+      "finalist": 16,
+      "top8_share": 0.1153,
+      "win_share": 0.1071,
+      "top_cards": [
+        "チェックメイト",
+        "スキュア",
+        "ブリッツ"
+      ]
+    },
+    {
+      "id": "4731194f",
+      "source_id": "9be419",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 62,
+      "winner": 11,
+      "finalist": 18,
+      "top8_share": 0.0941,
+      "win_share": 0.131,
+      "top_cards": [
+        "永劫を求む者・ケリドウェン",
+        "真実の究明者・ファウスト",
+        "炎熱の術式"
+      ]
+    },
+    {
+      "id": "a826ca69",
+      "source_id": "a2f0ed",
+      "name": "かげろうドラゴン",
+      "class": "ドラゴン",
+      "count": 58,
+      "winner": 7,
+      "finalist": 11,
+      "top8_share": 0.088,
+      "win_share": 0.0833,
+      "top_cards": [
+        "ドラゴニック・オーバーロード・ジ・エンド",
+        "ドラゴニック・オーバーロード",
+        "バーニングホーン・ドラゴン"
+      ]
+    },
+    {
+      "id": "af12dce9",
+      "source_id": "d3a722",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 22,
+      "winner": 4,
+      "finalist": 7,
+      "top8_share": 0.0334,
+      "win_share": 0.0476,
+      "top_cards": [
+        "神の盾・ブローディア",
+        "祈りの燭台",
+        "ケリュネイア"
+      ]
+    },
+    {
+      "id": "bb7e5571",
+      "source_id": "b550fe",
+      "name": "ランプドラゴン",
+      "class": "ドラゴン",
+      "count": 20,
+      "winner": 4,
+      "finalist": 8,
+      "top8_share": 0.0303,
+      "win_share": 0.0476,
+      "top_cards": [
+        "灼熱の嵐",
+        "バーサーク・ドラゴン",
+        "ぶちあがれ感情"
+      ]
+    },
+    {
+      "id": "ea3fa4c8",
+      "source_id": "2acab8",
+      "name": "ロイヤルパラディン",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 19,
+      "winner": 3,
+      "finalist": 7,
+      "top8_share": 0.0288,
+      "win_share": 0.0357,
+      "top_cards": [
+        "まぁるがる",
+        "世界樹の巫女 エレイン",
+        "未来の騎士 リュー"
+      ]
+    },
+    {
+      "id": "36cc3db0",
+      "source_id": "0e36e6",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 15,
+      "winner": 2,
+      "finalist": 3,
+      "top8_share": 0.0228,
+      "win_share": 0.0238,
+      "top_cards": [
+        "人形の支配者・リーアム",
+        "心無き決闘",
+        "ジャンク"
+      ]
+    },
+    {
+      "id": "39d0f765",
+      "source_id": "2e740c",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 15,
+      "winner": 3,
+      "finalist": 7,
+      "top8_share": 0.0228,
+      "win_share": 0.0357,
+      "top_cards": [
+        "王たる光・ベイリオン",
+        "母なる君",
+        "王の一閃"
+      ]
+    },
+    {
+      "id": "d315735f",
+      "source_id": null,
+      "name": "ロイヤル（その他）",
+      "class": "ロイヤル",
+      "count": 15,
+      "winner": 0,
+      "finalist": 3,
+      "top8_share": 0.0228,
+      "win_share": 0.0,
+      "top_cards": [
+        "音速の機構・ララミア",
+        "粗暴な豪剣士",
+        "静寂の元帥"
+      ]
+    },
+    {
+      "id": "1a3ffb7b",
+      "source_id": null,
+      "name": "ナイトメア（その他）",
+      "class": "ナイトメア",
+      "count": 14,
+      "winner": 1,
+      "finalist": 3,
+      "top8_share": 0.0212,
+      "win_share": 0.0119,
+      "top_cards": [
+        "ブラスター・ジャベリン",
+        "アビス・ヒーラー",
+        "漆黒の乙女 マーハ"
+      ]
+    },
+    {
+      "id": "78c3bae7",
+      "source_id": "fa1ec8",
+      "name": "シャドウパラディン",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 13,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0197,
+      "win_share": 0.0119,
+      "top_cards": [
+        "ファントム・ブラスター・ドラゴン",
+        "アビス・ヒーラー",
+        "アビス・フリーザー"
+      ]
+    },
+    {
+      "id": "f54281c8",
+      "source_id": "6bcc21",
+      "name": "簒奪ロイヤル",
+      "class": "ロイヤル",
+      "count": 13,
+      "winner": 1,
+      "finalist": 5,
+      "top8_share": 0.0197,
+      "win_share": 0.0119,
+      "top_cards": [
+        "簒奪の使徒",
+        "簒奪の狂信者",
+        "簒奪の蛇剣"
+      ]
+    },
+    {
+      "id": "abdc4acc",
+      "source_id": null,
+      "name": "エルフ（その他）",
+      "class": "エルフ",
+      "count": 12,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0182,
+      "win_share": 0.0119,
+      "top_cards": [
+        "自然の導き",
+        "エンシェントエルフ",
+        "ストームライダー バシル"
+      ]
+    },
+    {
+      "id": "79f6fea7",
+      "source_id": "dd7241",
+      "name": "天使ビショップ",
+      "class": "ビショップ",
+      "count": 11,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0167,
+      "win_share": 0.0,
+      "top_cards": [
+        "射殺す輝き",
+        "《世界》・ゼルガネイア",
+        "ダークオファリング"
+      ]
+    },
+    {
+      "id": "b2e963bb",
+      "source_id": "53e023",
+      "name": "アクアフォース",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 9,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0137,
+      "win_share": 0.0,
+      "top_cards": [
+        "ハイドロハリケーン・ドラゴン",
+        "ティアーナイト テオ",
+        "バトルシップ・インテリジェンス"
+      ]
+    },
+    {
+      "id": "c76f1a16",
+      "source_id": "fadfbc",
+      "name": "ネフティスナイトメア",
+      "class": "ナイトメア",
+      "count": 8,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0121,
+      "win_share": 0.0,
+      "top_cards": [
+        "冥守の戦士・カムラ",
+        "バロン・ダブルフィール",
+        "沈黙の絶傑・ルルナイ"
+      ]
+    },
+    {
+      "id": "728aeaa0",
+      "source_id": "e59132",
+      "name": "カードファイト!! ヴァンガード（ドリーム・イーター・CEO アマテラス）",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 8,
+      "winner": 3,
+      "finalist": 4,
+      "top8_share": 0.0121,
+      "win_share": 0.0357,
+      "top_cards": [
+        "E・アラーマー",
+        "オラクルガーディアン ニケ",
+        "ドリーム・イーター"
+      ]
+    },
+    {
+      "id": "be1abc14",
+      "source_id": "90dcf0",
+      "name": "カードファイト!! ヴァンガード（三日月の女神 ツクヨミ・半月の女神 ツクヨミ）",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 7,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0106,
+      "win_share": 0.0,
+      "top_cards": [
+        "ドラゴニック・オーバーロード・ジ・エンド",
+        "バーサーク・ドラゴン",
+        "ガトリングクロー・ドラゴン"
+      ]
+    },
+    {
+      "id": "a834a757",
+      "source_id": "dcffc6",
+      "name": "学院ウィッチ",
+      "class": "ウィッチ",
+      "count": 5,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0076,
+      "win_share": 0.0,
+      "top_cards": [
+        "破壊の絶傑・リーシェナ",
+        "破壊の歌声",
+        "白の章・黒の章"
+      ]
+    },
+    {
+      "id": "6c9262e8",
+      "source_id": "6f413a",
+      "name": "2コスナイトメア",
+      "class": "ナイトメア",
+      "count": 3,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0046,
+      "win_share": 0.0,
+      "top_cards": [
+        "片翼の悪魔・ピユラ",
+        "異界を統べる者",
+        "真紅のローズクイーン"
+      ]
+    },
+    {
+      "id": "b177472a",
+      "source_id": "2d275a",
+      "name": "武装ドラゴン",
+      "class": "ドラゴン",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0046,
+      "win_share": 0.0,
+      "top_cards": [
+        "レーヴァテインドラゴン",
+        "デュアルレイジ",
+        "ドラゴンスマッシュ"
+      ]
+    },
+    {
+      "id": "49007c9c",
+      "source_id": null,
+      "name": "カードファイト!! ヴァンガード（その他）",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0046,
+      "win_share": 0.0,
+      "top_cards": [
+        "ナイトメアドール ありす",
+        "パープル・トラピージスト",
+        "銀の茨の竜使い ルキエ"
+      ]
+    },
+    {
+      "id": "368ed12f",
+      "source_id": null,
+      "name": "ウィッチ（その他）",
+      "class": "ウィッチ",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0046,
+      "win_share": 0.0,
+      "top_cards": [
+        "オニオン軍団",
+        "オニオン軍団の長・バーゼント",
+        "マナリアウィザード・クレイグ"
+      ]
+    },
+    {
+      "id": "df6ee20e",
+      "source_id": "38559a",
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "暴竜・伊達政宗",
+        "気高き雷・ロマロニア",
+        "白亜の竜騎士"
+      ]
+    },
+    {
+      "id": "e6a05e79",
+      "source_id": "c55cb9",
+      "name": "ウィッチ（アグネスタキオン・マーリン）",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "ナイトメアドール ありす",
+        "パープル・トラピージスト",
+        "銀の茨の竜使い ルキエ"
+      ]
+    },
+    {
+      "id": "d1015287",
+      "source_id": "a68b74",
+      "name": "天使ロイヤル",
+      "class": "ロイヤル",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "サハクィエル",
+        "冥府への道",
+        "コラプションガーディアン"
+      ]
+    },
+    {
+      "id": "aeea7ffe",
+      "source_id": "0eb7b2",
+      "name": "ロイヤル（空の指揮官・セリア・ういんがる）",
+      "class": "ロイヤル",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "無敗の剣聖・カゲミツ",
+        "貴族の舞踏",
+        "未来の騎士 リュー"
+      ]
+    },
+    {
+      "id": "3b5669cb",
+      "source_id": null,
+      "name": "ドラゴン（その他）",
+      "class": "ドラゴン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "イスラーフィール",
+        "バハムート",
+        "サハクィエル"
+      ]
+    },
+    {
+      "id": "9110d18e",
+      "source_id": null,
+      "name": "ビショップ（その他）",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "《力》・ソフィーナ",
+        "グランドナイト・ウィルバート",
+        "タンザナイトコンヴィクター"
+      ]
+    },
+    {
+      "id": "a1ad61e0",
+      "source_id": null,
+      "name": "アイドルマスター シンデレラガールズ（その他）",
+      "class": "アイドルマスター シンデレラガールズ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0015,
+      "win_share": 0.0,
+      "top_cards": [
+        "〔P.C.S〕島村卯月",
+        "大槻唯",
+        "辻野あかり"
+      ]
+    }
+  ]
+}

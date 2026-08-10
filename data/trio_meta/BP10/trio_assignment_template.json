@@ -1,0 +1,897 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "a6fc33b4",
+      "source_id": "78fc26",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 153
+    },
+    {
+      "archetype_id": "eb70ebe8",
+      "source_id": "69b6cb",
+      "name": "ミッドレンジロイヤル",
+      "class": "ロイヤル",
+      "count": 121
+    },
+    {
+      "archetype_id": "d70243de",
+      "source_id": "9ff0d9",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 66
+    },
+    {
+      "archetype_id": "a282116c",
+      "source_id": "94986f",
+      "name": "武装ドラゴン",
+      "class": "ドラゴン",
+      "count": 64
+    },
+    {
+      "archetype_id": "d326b12f",
+      "source_id": "b642b0",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 59
+    },
+    {
+      "archetype_id": "e58f4890",
+      "source_id": "f848d5",
+      "name": "自然エルフ",
+      "class": "エルフ",
+      "count": 36
+    },
+    {
+      "archetype_id": "b66566b6",
+      "source_id": "4d6426",
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "count": 36
+    },
+    {
+      "archetype_id": "1facca4f",
+      "source_id": "94e47b",
+      "name": "ランプドラゴン",
+      "class": "ドラゴン",
+      "count": 27
+    },
+    {
+      "archetype_id": "39a33520",
+      "source_id": "3fc811",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 25
+    },
+    {
+      "archetype_id": "bb732fdb",
+      "source_id": "da72de",
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "count": 19
+    },
+    {
+      "archetype_id": "05c90ed1",
+      "source_id": "fad4ca",
+      "name": "アイドルウィッチ",
+      "class": "ウィッチ",
+      "count": 18
+    },
+    {
+      "archetype_id": "44552e57",
+      "source_id": "1eb5cf",
+      "name": "狩人エルフ",
+      "class": "エルフ",
+      "count": 17
+    },
+    {
+      "archetype_id": "e20cb006",
+      "source_id": "5a765e",
+      "name": "ネフティスナイトメア",
+      "class": "ナイトメア",
+      "count": 13
+    },
+    {
+      "archetype_id": "6a25941c",
+      "source_id": "566c71",
+      "name": "妖精エルフ",
+      "class": "エルフ",
+      "count": 8
+    },
+    {
+      "archetype_id": "b10f3363",
+      "source_id": "39130c",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 7
+    },
+    {
+      "archetype_id": "f91b9e40",
+      "source_id": "8f20f7",
+      "name": "天使ナイトメア",
+      "class": "ナイトメア",
+      "count": 5
+    },
+    {
+      "archetype_id": "f0d57e77",
+      "source_id": "cb78f8",
+      "name": "天使ビショップ",
+      "class": "ビショップ",
+      "count": 5
+    },
+    {
+      "archetype_id": "1388b062",
+      "source_id": "9e01d3",
+      "name": "童話ビショップ",
+      "class": "ビショップ",
+      "count": 2
+    },
+    {
+      "archetype_id": "6493b5dc",
+      "source_id": "1a7def",
+      "name": "2コスウィッチ",
+      "class": "ウィッチ",
+      "count": 1
+    }
+  ],
+  "unassigned": [
+    {
+      "class": "アイドルマスター シンデレラガールズ",
+      "id": "アイドルマスター シンデレラガールズ_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "3GAWW",
+          "date": "2024-05-18",
+          "player": "瀧さん",
+          "order": "C",
+          "best_sim": 0.0,
+          "best_match": null,
+          "_flag": "no_reference",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "class": "ウィッチ",
+      "id": "ウィッチ_その他",
+      "count": 15,
+      "sample_decks": [
+        {
+          "deck_id": "7D7BC",
+          "date": "2024-05-25",
+          "player": "Meg",
+          "order": "B",
+          "best_sim": 0.158,
+          "best_match": "1a7def",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "1a7def",
+              "name": "2コスウィッチ",
+              "sim": 0.158
+            },
+            {
+              "archetype_id": "0e4a46",
+              "name": "天使ウィッチ",
+              "sim": 0.1364
+            },
+            {
+              "archetype_id": "fad4ca",
+              "name": "アイドルウィッチ",
+              "sim": 0.1024
+            }
+          ]
+        },
+        {
+          "deck_id": "4ZTSA",
+          "date": "2024-06-01",
+          "player": "ふぃーにあ",
+          "order": "B",
+          "best_sim": 0.1354,
+          "best_match": "1a7def",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "1a7def",
+              "name": "2コスウィッチ",
+              "sim": 0.1354
+            },
+            {
+              "archetype_id": "0e4a46",
+              "name": "天使ウィッチ",
+              "sim": 0.1299
+            },
+            {
+              "archetype_id": "fad4ca",
+              "name": "アイドルウィッチ",
+              "sim": 0.1096
+            }
+          ]
+        },
+        {
+          "deck_id": "22VPZ",
+          "date": "2024-06-15",
+          "player": "なお",
+          "order": "B",
+          "best_sim": 0.1332,
+          "best_match": "78fc26",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "78fc26",
+              "name": "土ウィッチ",
+              "sim": 0.1332
+            },
+            {
+              "archetype_id": "fad4ca",
+              "name": "アイドルウィッチ",
+              "sim": 0.0447
+            },
+            {
+              "archetype_id": "4d6426",
+              "name": "超越ウィッチ",
+              "sim": 0.0027
+            }
+          ]
+        },
+        {
+          "deck_id": "37GTC",
+          "date": "2024-05-26",
+          "player": "わべスケ",
+          "order": "A",
+          "best_sim": 0.0825,
+          "best_match": "78fc26",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "78fc26",
+              "name": "土ウィッチ",
+              "sim": 0.0825
+            },
+            {
+              "archetype_id": "fad4ca",
+              "name": "アイドルウィッチ",
+              "sim": 0.08
+            },
+            {
+              "archetype_id": "0e4a46",
+              "name": "天使ウィッチ",
+              "sim": 0.0541
+            }
+          ]
+        },
+        {
+          "deck_id": "702DD",
+          "date": "2024-06-08",
+          "player": "いぅ〜ご",
+          "order": "A",
+          "best_sim": 0.0783,
+          "best_match": "0e4a46",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "0e4a46",
+              "name": "天使ウィッチ",
+              "sim": 0.0783
+            },
+            {
+              "archetype_id": "1a7def",
+              "name": "2コスウィッチ",
+              "sim": 0.0272
+            },
+            {
+              "archetype_id": "fad4ca",
+              "name": "アイドルウィッチ",
+              "sim": 0.0178
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "エルフ",
+      "id": "エルフ_その他",
+      "count": 6,
+      "sample_decks": [
+        {
+          "deck_id": "4GB38",
+          "date": "2024-06-02",
+          "player": "PRST｜芝生",
+          "order": "B",
+          "best_sim": 0.3992,
+          "best_match": "b642b0",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "b642b0",
+              "name": "人形エルフ",
+              "sim": 0.3992
+            },
+            {
+              "archetype_id": "566c71",
+              "name": "妖精エルフ",
+              "sim": 0.3974
+            },
+            {
+              "archetype_id": "1eb5cf",
+              "name": "狩人エルフ",
+              "sim": 0.0533
+            }
+          ]
+        },
+        {
+          "deck_id": "27JRV",
+          "date": "2024-06-02",
+          "player": "ハセガワ",
+          "order": "A",
+          "best_sim": 0.3882,
+          "best_match": "566c71",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "566c71",
+              "name": "妖精エルフ",
+              "sim": 0.3882
+            },
+            {
+              "archetype_id": "1eb5cf",
+              "name": "狩人エルフ",
+              "sim": 0.1569
+            },
+            {
+              "archetype_id": "f848d5",
+              "name": "自然エルフ",
+              "sim": 0.1494
+            }
+          ]
+        },
+        {
+          "deck_id": "20E7U",
+          "date": "2024-05-05",
+          "player": "醤油抗菌",
+          "order": "A",
+          "best_sim": 0.3234,
+          "best_match": "b642b0",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "b642b0",
+              "name": "人形エルフ",
+              "sim": 0.3234
+            },
+            {
+              "archetype_id": "f848d5",
+              "name": "自然エルフ",
+              "sim": 0.3133
+            },
+            {
+              "archetype_id": "1eb5cf",
+              "name": "狩人エルフ",
+              "sim": 0.2131
+            }
+          ]
+        },
+        {
+          "deck_id": "2GBB8",
+          "date": "2024-05-25",
+          "player": "醤油抗菌",
+          "order": "B",
+          "best_sim": 0.3113,
+          "best_match": "f848d5",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "f848d5",
+              "name": "自然エルフ",
+              "sim": 0.3113
+            },
+            {
+              "archetype_id": "b642b0",
+              "name": "人形エルフ",
+              "sim": 0.3112
+            },
+            {
+              "archetype_id": "1eb5cf",
+              "name": "狩人エルフ",
+              "sim": 0.2176
+            }
+          ]
+        },
+        {
+          "deck_id": "3FNNX",
+          "date": "2024-06-22",
+          "player": "シュウ",
+          "order": "B",
+          "best_sim": 0.2518,
+          "best_match": "1eb5cf",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "1eb5cf",
+              "name": "狩人エルフ",
+              "sim": 0.2518
+            },
+            {
+              "archetype_id": "b642b0",
+              "name": "人形エルフ",
+              "sim": 0.2306
+            },
+            {
+              "archetype_id": "f848d5",
+              "name": "自然エルフ",
+              "sim": 0.1761
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ドラゴン",
+      "id": "ドラゴン_その他",
+      "count": 2,
+      "sample_decks": [
+        {
+          "deck_id": "1GU1G",
+          "date": "2024-05-11",
+          "player": "しゅんたろー",
+          "order": "B",
+          "best_sim": 0.4312,
+          "best_match": "cfb1a0",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "cfb1a0",
+              "name": "侮蔑ドラゴン",
+              "sim": 0.4312
+            },
+            {
+              "archetype_id": "94e47b",
+              "name": "ランプドラゴン",
+              "sim": 0.2538
+            },
+            {
+              "archetype_id": "da72de",
+              "name": "武闘竜人ドラゴン",
+              "sim": 0.24
+            }
+          ]
+        },
+        {
+          "deck_id": "4MTU4",
+          "date": "2024-05-02",
+          "player": "かずま",
+          "order": "C",
+          "best_sim": 0.4131,
+          "best_match": "94e47b",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "94e47b",
+              "name": "ランプドラゴン",
+              "sim": 0.4131
+            },
+            {
+              "archetype_id": "ce24a0",
+              "name": "自然ドラゴン",
+              "sim": 0.3913
+            },
+            {
+              "archetype_id": "94986f",
+              "name": "武装ドラゴン",
+              "sim": 0.3155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ナイトメア",
+      "id": "ナイトメア_その他",
+      "count": 9,
+      "sample_decks": [
+        {
+          "deck_id": "4U9CU",
+          "date": "2024-05-06",
+          "player": "アスペクトは完全なり",
+          "order": "A",
+          "best_sim": 0.3036,
+          "best_match": "5a765e",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "5a765e",
+              "name": "ネフティスナイトメア",
+              "sim": 0.3036
+            },
+            {
+              "archetype_id": "956464",
+              "name": "真紅ナイトメア",
+              "sim": 0.1842
+            },
+            {
+              "archetype_id": "9ff0d9",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.1015
+            }
+          ]
+        },
+        {
+          "deck_id": "42AYA",
+          "date": "2024-05-25",
+          "player": "ふい",
+          "order": "A",
+          "best_sim": 0.2843,
+          "best_match": "9ff0d9",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "9ff0d9",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.2843
+            },
+            {
+              "archetype_id": "8f20f7",
+              "name": "天使ナイトメア",
+              "sim": 0.1167
+            },
+            {
+              "archetype_id": "5a765e",
+              "name": "ネフティスナイトメア",
+              "sim": 0.0526
+            }
+          ]
+        },
+        {
+          "deck_id": "22RVE",
+          "date": "2024-05-12",
+          "player": "Kani",
+          "order": "C",
+          "best_sim": 0.2389,
+          "best_match": "5a765e",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "5a765e",
+              "name": "ネフティスナイトメア",
+              "sim": 0.2389
+            },
+            {
+              "archetype_id": "956464",
+              "name": "真紅ナイトメア",
+              "sim": 0.1565
+            },
+            {
+              "archetype_id": "9ff0d9",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.1006
+            }
+          ]
+        },
+        {
+          "deck_id": "1WKYE",
+          "date": "2024-05-26",
+          "player": "まがん",
+          "order": "A",
+          "best_sim": 0.2088,
+          "best_match": "5a765e",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "5a765e",
+              "name": "ネフティスナイトメア",
+              "sim": 0.2088
+            },
+            {
+              "archetype_id": "956464",
+              "name": "真紅ナイトメア",
+              "sim": 0.1539
+            },
+            {
+              "archetype_id": "9ff0d9",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.0989
+            }
+          ]
+        },
+        {
+          "deck_id": "72CXU",
+          "date": "2024-05-12",
+          "player": "もりけん",
+          "order": "C",
+          "best_sim": 0.1644,
+          "best_match": "8f20f7",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "8f20f7",
+              "name": "天使ナイトメア",
+              "sim": 0.1644
+            },
+            {
+              "archetype_id": "956464",
+              "name": "真紅ナイトメア",
+              "sim": 0.1316
+            },
+            {
+              "archetype_id": "9ff0d9",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.089
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ビショップ",
+      "id": "ビショップ_その他",
+      "count": 7,
+      "sample_decks": [
+        {
+          "deck_id": "Y9XQ",
+          "date": "2024-05-25",
+          "player": "フフン",
+          "order": "B",
+          "best_sim": 0.4455,
+          "best_match": "cb78f8",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "cb78f8",
+              "name": "天使ビショップ",
+              "sim": 0.4455
+            },
+            {
+              "archetype_id": "3fc811",
+              "name": "アミュレットビショップ",
+              "sim": 0.398
+            },
+            {
+              "archetype_id": "9e01d3",
+              "name": "童話ビショップ",
+              "sim": 0.0
+            }
+          ]
+        },
+        {
+          "deck_id": "3NX0W",
+          "date": "2024-05-25",
+          "player": "打ち止め@ぽよんまる",
+          "order": "C",
+          "best_sim": 0.4259,
+          "best_match": "3fc811",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "3fc811",
+              "name": "アミュレットビショップ",
+              "sim": 0.4259
+            },
+            {
+              "archetype_id": "cb78f8",
+              "name": "天使ビショップ",
+              "sim": 0.3853
+            },
+            {
+              "archetype_id": "9e01d3",
+              "name": "童話ビショップ",
+              "sim": 0.0
+            }
+          ]
+        },
+        {
+          "deck_id": "3HH1Y",
+          "date": "2024-06-01",
+          "player": "ロッキー",
+          "order": "A",
+          "best_sim": 0.4155,
+          "best_match": "3fc811",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "3fc811",
+              "name": "アミュレットビショップ",
+              "sim": 0.4155
+            },
+            {
+              "archetype_id": "cb78f8",
+              "name": "天使ビショップ",
+              "sim": 0.3927
+            },
+            {
+              "archetype_id": "9e01d3",
+              "name": "童話ビショップ",
+              "sim": 0.0
+            }
+          ]
+        },
+        {
+          "deck_id": "4GKKN",
+          "date": "2024-05-02",
+          "player": "ヒカソ",
+          "order": "A",
+          "best_sim": 0.1637,
+          "best_match": "9e01d3",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "9e01d3",
+              "name": "童話ビショップ",
+              "sim": 0.1637
+            },
+            {
+              "archetype_id": "3fc811",
+              "name": "アミュレットビショップ",
+              "sim": 0.0179
+            },
+            {
+              "archetype_id": "cb78f8",
+              "name": "天使ビショップ",
+              "sim": 0.0
+            }
+          ]
+        },
+        {
+          "deck_id": "1N68W",
+          "date": "2024-05-26",
+          "player": "にに",
+          "order": "B",
+          "best_sim": 0.1076,
+          "best_match": "3fc811",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "3fc811",
+              "name": "アミュレットビショップ",
+              "sim": 0.1076
+            },
+            {
+              "archetype_id": "cb78f8",
+              "name": "天使ビショップ",
+              "sim": 0.0811
+            },
+            {
+              "archetype_id": "9e01d3",
+              "name": "童話ビショップ",
+              "sim": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ロイヤル",
+      "id": "ロイヤル_その他",
+      "count": 9,
+      "sample_decks": [
+        {
+          "deck_id": "24UV0",
+          "date": "2024-05-26",
+          "player": "雛森",
+          "order": "B",
+          "best_sim": 0.3998,
+          "best_match": "69b6cb",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "69b6cb",
+              "name": "ミッドレンジロイヤル",
+              "sim": 0.3998
+            }
+          ]
+        },
+        {
+          "deck_id": "1BMDG",
+          "date": "2024-05-25",
+          "player": "パンダ",
+          "order": "B",
+          "best_sim": 0.1743,
+          "best_match": "69b6cb",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "69b6cb",
+              "name": "ミッドレンジロイヤル",
+              "sim": 0.1743
+            }
+          ]
+        },
+        {
+          "deck_id": "3WBRC",
+          "date": "2024-05-26",
+          "player": "ナメシン",
+          "order": "B",
+          "best_sim": 0.116,
+          "best_match": "69b6cb",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "69b6cb",
+              "name": "ミッドレンジロイヤル",
+              "sim": 0.116
+            }
+          ]
+        },
+        {
+          "deck_id": "3GL94",
+          "date": "2024-05-26",
+          "player": "西野つかさ",
+          "order": "C",
+          "best_sim": 0.1099,
+          "best_match": "69b6cb",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "69b6cb",
+              "name": "ミッドレンジロイヤル",
+              "sim": 0.1099
+            }
+          ]
+        },
+        {
+          "deck_id": "4780S",
+          "date": "2024-05-26",
+          "player": "うぇはーす",
+          "order": "B",
+          "best_sim": 0.1079,
+          "best_match": "69b6cb",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "69b6cb",
+              "name": "ミッドレンジロイヤル",
+              "sim": 0.1079
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split '土ウィッチ': decks matching required cards → new archetype",
+        "source": "78fc26",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "アイドルマスター シンデレラガールズ_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "78fc26"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "69b6cb"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'アイドルマスター シンデレラガールズ_その他' (entire unassigned group) + '土ウィッチ' into one archetype",
+        "sources": [
+          "アイドルマスター シンデレラガールズ_その他",
+          "78fc26"
+        ],
+        "class": "ウィッチ",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

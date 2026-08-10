@@ -1,0 +1,410 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "0c94dc92",
+      "source_id": "070a9e",
+      "name": "かげろう",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 53
+    },
+    {
+      "archetype_id": "79c7c5f3",
+      "source_id": "9f16e1",
+      "name": "荒野ロイヤル1",
+      "class": "ロイヤル",
+      "count": 33
+    },
+    {
+      "archetype_id": "96508509",
+      "source_id": "4d163d",
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "count": 29
+    },
+    {
+      "archetype_id": "ce41abf5",
+      "source_id": "f8952a",
+      "name": "NCナイトメア3",
+      "class": "ナイトメア",
+      "count": 20
+    },
+    {
+      "archetype_id": "03186cf9",
+      "source_id": "cafad4",
+      "name": "荒野ロイヤル2",
+      "class": "ロイヤル",
+      "count": 15
+    },
+    {
+      "archetype_id": "63fb089b",
+      "source_id": "d6ac84",
+      "name": "NCナイトメア1",
+      "class": "ナイトメア",
+      "count": 14
+    },
+    {
+      "archetype_id": "3d1fd2aa",
+      "source_id": "a3bf61",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 14
+    },
+    {
+      "archetype_id": "4e24556f",
+      "source_id": "565fc8",
+      "name": "荒野エルフ",
+      "class": "エルフ",
+      "count": 10
+    },
+    {
+      "archetype_id": "dc9eca18",
+      "source_id": "9b5865",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 5
+    },
+    {
+      "archetype_id": "6f9852be",
+      "source_id": "eb02b2",
+      "name": "1コスロイヤル2",
+      "class": "ロイヤル",
+      "count": 4
+    },
+    {
+      "archetype_id": "1b4f0d3f",
+      "source_id": "f11f93",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 4
+    },
+    {
+      "archetype_id": "8b1fb9d0",
+      "source_id": "705fe5",
+      "name": "童話エルフ",
+      "class": "エルフ",
+      "count": 3
+    },
+    {
+      "archetype_id": "91e96a8e",
+      "source_id": "7a4080",
+      "name": "学院ウィッチ",
+      "class": "ウィッチ",
+      "count": 3
+    },
+    {
+      "archetype_id": "f6337b10",
+      "source_id": "998d26",
+      "name": "フェイスドラゴン",
+      "class": "ドラゴン",
+      "count": 3
+    },
+    {
+      "archetype_id": "26d55849",
+      "source_id": "c48456",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 3
+    },
+    {
+      "archetype_id": "1b558c1a",
+      "source_id": "1d4b0b",
+      "name": "ミッドレンジロイヤル1",
+      "class": "ロイヤル",
+      "count": 2
+    },
+    {
+      "archetype_id": "653115ee",
+      "source_id": "240b7b",
+      "name": "ドラゴン（《正義》・イランツァ・竜喰らう禁忌）",
+      "class": "ドラゴン",
+      "count": 2
+    },
+    {
+      "archetype_id": "173a35c9",
+      "source_id": "b2a796",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "fe0c0b3c",
+      "source_id": "4e7a10",
+      "name": "簒奪ロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "4284a890",
+      "source_id": "d7909e",
+      "name": "NCナイトメア2",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "39d192dc",
+      "source_id": "9916f3",
+      "name": "ロイヤルパラディン",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 1
+    }
+  ],
+  "unassigned": [
+    {
+      "class": "ウィッチ",
+      "id": "ウィッチ_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "45CHF",
+          "date": "2024-09-29",
+          "player": "くろいろ",
+          "order": "C",
+          "best_sim": 0.1511,
+          "best_match": "4d163d",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "4d163d",
+              "name": "超越ウィッチ",
+              "sim": 0.1511
+            },
+            {
+              "archetype_id": "3aea37",
+              "name": "オニオンウィッチ",
+              "sim": 0.0453
+            },
+            {
+              "archetype_id": "86b739",
+              "name": "ウィッチ（アグネスタキオン・マーリン）",
+              "sim": 0.0393
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "エルフ",
+      "id": "エルフ_その他",
+      "count": 3,
+      "sample_decks": [
+        {
+          "deck_id": "1V7NV",
+          "date": "2024-10-12",
+          "player": "Ryuka",
+          "order": "C",
+          "best_sim": 0.4304,
+          "best_match": "565fc8",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "565fc8",
+              "name": "荒野エルフ",
+              "sim": 0.4304
+            },
+            {
+              "archetype_id": "b2a796",
+              "name": "人形エルフ",
+              "sim": 0.4173
+            },
+            {
+              "archetype_id": "28863c",
+              "name": "妖精エルフ",
+              "sim": 0.329
+            }
+          ]
+        },
+        {
+          "deck_id": "1GRQH",
+          "date": "2024-09-29",
+          "player": "ゆうき",
+          "order": "A",
+          "best_sim": 0.2325,
+          "best_match": "a3ce21",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "a3ce21",
+              "name": "狩人エルフ",
+              "sim": 0.2325
+            },
+            {
+              "archetype_id": "705fe5",
+              "name": "童話エルフ",
+              "sim": 0.2076
+            },
+            {
+              "archetype_id": "565fc8",
+              "name": "荒野エルフ",
+              "sim": 0.2027
+            }
+          ]
+        },
+        {
+          "deck_id": "3LZBX",
+          "date": "2024-10-05",
+          "player": "naru",
+          "order": "B",
+          "best_sim": 0.2325,
+          "best_match": "a3ce21",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "a3ce21",
+              "name": "狩人エルフ",
+              "sim": 0.2325
+            },
+            {
+              "archetype_id": "565fc8",
+              "name": "荒野エルフ",
+              "sim": 0.2215
+            },
+            {
+              "archetype_id": "705fe5",
+              "name": "童話エルフ",
+              "sim": 0.1812
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ドラゴン",
+      "id": "ドラゴン_その他",
+      "count": 2,
+      "sample_decks": [
+        {
+          "deck_id": "5Y1KZ",
+          "date": "2024-09-28",
+          "player": "のぼる",
+          "order": "C",
+          "best_sim": 0.4349,
+          "best_match": "240b7b",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "240b7b",
+              "name": "ドラゴン（《正義》・イランツァ・竜喰らう禁忌）",
+              "sim": 0.4349
+            },
+            {
+              "archetype_id": "88a6b7",
+              "name": "かげろうドラゴン",
+              "sim": 0.4209
+            },
+            {
+              "archetype_id": "8f7aad",
+              "name": "武装ドラゴン",
+              "sim": 0.0767
+            }
+          ]
+        },
+        {
+          "deck_id": "3MG6D",
+          "date": "2024-09-29",
+          "player": "エクシヴ",
+          "order": "C",
+          "best_sim": 0.166,
+          "best_match": "240b7b",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "240b7b",
+              "name": "ドラゴン（《正義》・イランツァ・竜喰らう禁忌）",
+              "sim": 0.166
+            },
+            {
+              "archetype_id": "88a6b7",
+              "name": "かげろうドラゴン",
+              "sim": 0.159
+            },
+            {
+              "archetype_id": "b55a93",
+              "name": "自然ドラゴン",
+              "sim": 0.0793
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ナイトメア",
+      "id": "ナイトメア_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "2K75M",
+          "date": "2024-09-29",
+          "player": "床鰻の絶傑ニボシ",
+          "order": "A",
+          "best_sim": 0.1294,
+          "best_match": "d6ac84",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "d6ac84",
+              "name": "NCナイトメア1",
+              "sim": 0.1294
+            },
+            {
+              "archetype_id": "f8952a",
+              "name": "NCナイトメア3",
+              "sim": 0.0033
+            },
+            {
+              "archetype_id": "f11f93",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split 'かげろう': decks matching required cards → new archetype",
+        "source": "070a9e",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "ウィッチ_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "070a9e"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "9f16e1"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'ウィッチ_その他' (entire unassigned group) + 'かげろう' into one archetype",
+        "sources": [
+          "ウィッチ_その他",
+          "070a9e"
+        ],
+        "class": "カードファイト!! ヴァンガード",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

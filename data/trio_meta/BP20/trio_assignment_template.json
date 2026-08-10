@@ -1,0 +1,233 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "51bb0809",
+      "source_id": "571222",
+      "name": "侮蔑ドラゴン",
+      "class": "ドラゴン",
+      "count": 29
+    },
+    {
+      "archetype_id": "a9e65b42",
+      "source_id": "3138fd",
+      "name": "財宝ロイヤル",
+      "class": "ロイヤル",
+      "count": 26
+    },
+    {
+      "archetype_id": "c09d71a3",
+      "source_id": "0366c1",
+      "name": "アイドルウィッチ",
+      "class": "ウィッチ",
+      "count": 17
+    },
+    {
+      "archetype_id": "48f87092",
+      "source_id": "af1732",
+      "name": "狩人エルフ",
+      "class": "エルフ",
+      "count": 11
+    },
+    {
+      "archetype_id": "c0195dd2",
+      "source_id": "31efea",
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 10
+    },
+    {
+      "archetype_id": "b5c87f91",
+      "source_id": "e97253",
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "count": 3
+    },
+    {
+      "archetype_id": "ad0f7ef2",
+      "source_id": "1696d3",
+      "name": "真実ウィッチ",
+      "class": "ウィッチ",
+      "count": 3
+    },
+    {
+      "archetype_id": "97997c5e",
+      "source_id": "28424f",
+      "name": "八獄ウィッチ",
+      "class": "ウィッチ",
+      "count": 3
+    },
+    {
+      "archetype_id": "22597e40",
+      "source_id": "f219fa",
+      "name": "真紅ナイトメア",
+      "class": "ナイトメア",
+      "count": 3
+    },
+    {
+      "archetype_id": "ad42ef48",
+      "source_id": "68e8ce",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 2
+    },
+    {
+      "archetype_id": "3f4bd81f",
+      "source_id": "d72ef5",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 2
+    },
+    {
+      "archetype_id": "36de3e46",
+      "source_id": "e3a482",
+      "name": "カットスロートエルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "5c060b3f",
+      "source_id": "d3e1b7",
+      "name": "アグロロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "8c3e4e28",
+      "source_id": "b6e9c3",
+      "name": "ミッドレンジプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 1
+    },
+    {
+      "archetype_id": "7d3ba2dc",
+      "source_id": "2f8552",
+      "name": "チョイスナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "81476af5",
+      "source_id": "29207c",
+      "name": "2コスナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "9cc93c72",
+      "source_id": "10dfac",
+      "name": "宴楽ナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "cd8a63f0",
+      "source_id": "0a53b4",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "8c0a4996",
+      "source_id": "dce067",
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "count": 1
+    },
+    {
+      "archetype_id": "8eaa62b7",
+      "source_id": "843998",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 1
+    },
+    {
+      "archetype_id": "97824c49",
+      "source_id": "958b47",
+      "name": "クレストビショップ",
+      "class": "ビショップ",
+      "count": 1
+    }
+  ],
+  "unassigned": [
+    {
+      "class": "ロイヤル",
+      "id": "ロイヤル_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "603Q5",
+          "date": "2026-05-24",
+          "player": "Y",
+          "order": "A",
+          "best_sim": 0.0414,
+          "best_match": "e2b82e",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "e2b82e",
+              "name": "カットスロートロイヤル",
+              "sim": 0.0414
+            },
+            {
+              "archetype_id": "3138fd",
+              "name": "財宝ロイヤル",
+              "sim": 0.0
+            },
+            {
+              "archetype_id": "d3e1b7",
+              "name": "アグロロイヤル",
+              "sim": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split '侮蔑ドラゴン': decks matching required cards → new archetype",
+        "source": "571222",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "ロイヤル_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "571222"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "3138fd"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'ロイヤル_その他' (entire unassigned group) + '侮蔑ドラゴン' into one archetype",
+        "sources": [
+          "ロイヤル_その他",
+          "571222"
+        ],
+        "class": "ドラゴン",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}
