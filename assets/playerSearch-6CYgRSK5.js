@@ -1,1 +1,0 @@
-import{n as t}from"./index-MlOHpts4.js";function m(r,l,n=10){const e=t(l.trim());return!e||!(r!=null&&r.length)?[]:r.filter(({friendcode:s,names:o})=>t(s).includes(e)||(o||[]).some(u=>t(u).includes(e))).slice(0,n)}function a(r,l){const n=t(l.trim());return n&&r.find(({friendcode:e,names:s})=>t(e)===n||(s||[]).some(o=>t(o)===n))||null}export{a as e,m};
