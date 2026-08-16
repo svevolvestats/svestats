@@ -1,1 +1,0 @@
-import{u as m}from"./index-BcSpVZ7r.js";function P(){const[s,t]=m();function n(u){t(c=>{const e=new URLSearchParams(c);for(const[r,a,o]of u)a===o||a==null?e.delete(r):e.set(r,String(a));return e},{replace:!0})}return{searchParams:s,updateParams:n}}export{P as u};
