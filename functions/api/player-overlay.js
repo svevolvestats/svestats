@@ -1,6 +1,7 @@
 // api/player-overlay.js
 var AUTH = "https://auth.svestats.cc/api/player-link/public";
 var TTL = 60;
+var ERR_TTL = 10;
 var EMPTY = { names: {}, visible: {}, sns: {} };
 function json(body, ttl) {
   return new Response(JSON.stringify(body), {
@@ -10,27 +11,29 @@ function json(body, ttl) {
     }
   });
 }
-async function onRequest() {
+async function onRequest(context) {
+  const { request, waitUntil } = context;
+  const cache = caches.default;
+  const cacheKey = new Request(new URL("/api/player-overlay", request.url).toString(), { method: "GET" });
+  const hit = await cache.match(cacheKey);
+  if (hit) return hit;
+  let res;
   try {
-    const res = await fetch(AUTH, {
-      // Workers edge cache: only the first request in each TTL window reaches the VM.
-      cf: { cacheTtl: TTL, cacheEverything: true },
+    const up = await fetch(AUTH, {
       headers: { "User-Agent": "svestats-overlay" },
       signal: AbortSignal.timeout(4e3)
     });
-    if (!res.ok) return json(EMPTY, 10);
-    const data = await res.json();
-    return json(
-      {
-        names: data?.names || {},
-        visible: data?.visible || {},
-        sns: data?.sns || {}
-      },
+    if (!up.ok) throw new Error(`upstream ${up.status}`);
+    const data = await up.json();
+    res = json(
+      { names: data?.names || {}, visible: data?.visible || {}, sns: data?.sns || {} },
       TTL
     );
   } catch {
-    return json(EMPTY, 10);
+    res = json(EMPTY, ERR_TTL);
   }
+  waitUntil(cache.put(cacheKey, res.clone()));
+  return res;
 }
 export {
   onRequest
