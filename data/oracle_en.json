@@ -4391,7 +4391,8 @@
     "release_date": "2023-09-29",
     "set_name": "Booster Set #2 “Reign of Bahamut”",
     "prints": {
-      "BP02-032": "BP02-032EN"
+      "BP02-032": "BP02-032EN",
+      "PR-020": "PR-112EN"
     }
   },
   "BP02-033": {
@@ -20666,7 +20667,11 @@
     "release_date": "2025-02-07",
     "set_name": "Booster Set #8 \"Alterchaotica\"",
     "prints": {
-      "BP08-108": "BP08-108EN"
+      "BP08-108": "BP08-108EN",
+      "BP08-U07": "BP08-U07EN"
+    },
+    "print_names": {
+      "BP08-U07": "Ms. Tart Man"
     }
   },
   "BP08-109": {
@@ -20848,26 +20853,6 @@
     "set_name": "Booster Set #8 \"Alterchaotica\"",
     "prints": {
       "BP08-117": "BP08-117EN"
-    }
-  },
-  "BP08-U07": {
-    "name": "Ms. Tart Man",
-    "text": "【Fanfare】 Search your deck for any card, add it to your hand, then shuffle your deck.",
-    "keywords": [
-      "Fanfare"
-    ],
-    "card_type": [
-      "Follower"
-    ],
-    "trait_en": [
-      "Lightborne"
-    ],
-    "cardno": "BP08-U07EN",
-    "img": "BP08/BP08-U07EN.webp",
-    "release_date": "2025-02-07",
-    "set_name": "Booster Set #8 \"Alterchaotica\"",
-    "prints": {
-      "BP08-U07": "BP08-U07EN"
     }
   },
   "BP09-001": {
@@ -53343,6 +53328,2832 @@
       "CSD03A-017": "CSD03B-017EN"
     }
   },
+  "CP04-001": {
+    "name": "Kokkoro",
+    "text": "【Ub】【Fanfare】 Give your leader Defense+1.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Cost 2: Equip this with an Ameth Amulet token.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-001EN",
+    "img": "CP04/CP04-001EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-001": "CP04-001EN",
+      "CP04-SL01": "CP04-SL01EN"
+    }
+  },
+  "CP04-002": {
+    "name": "Kokkoro",
+    "text": "On Evolve - Draw a card.\nOn Super-Evolve - Give your leader Defense+2. Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-002EN",
+    "img": "CP04/CP04-002EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-002": "CP04-002EN",
+      "CP04-SL02": "CP04-SL02EN",
+      "CP04-SP01": "CP04-SP01EN",
+      "CP04-U01": "CP04-U01EN"
+    }
+  },
+  "CP04-003": {
+    "name": "Eris",
+    "text": "【Ub】【Act】 【Engage】: Select another PriConne follower on your field. Give it Attack+1/Defense+1 and, if 【Ub】 abilities you control have executed at least 3 other times this turn, give it Storm.\n----------\n【Fanfare】 Look at the top 4 cards of your deck. You may reveal a PriConne card from among them and add it to your hand. Put the rest on the bottom of your deck in any order. The next PriConne card you play this turn costs 2 less.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-003EN",
+    "img": "CP04/CP04-003EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-003": "CP04-003EN",
+      "CP04-SL03": "CP04-SL03EN",
+      "CP04-SP02": "CP04-SP02EN",
+      "CP04-U02": "CP04-U02EN"
+    }
+  },
+  "CP04-004": {
+    "name": "Nephi Nela",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field. Deal it 4 damage and put the top card of your deck into your EX area.\n----------\nAny 1-cost PriConne follower you play from the EX area costs 1 less.\nWhenever a 【Ub】 ability of another follower on your field is executed, put the top card of your deck into your EX area.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Gehenna"
+    ],
+    "cardno": "CP04-004EN",
+    "img": "CP04/CP04-004EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-004": "CP04-004EN",
+      "CP04-SL04": "CP04-SL04EN"
+    }
+  },
+  "CP04-005": {
+    "name": "Shiori",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select a PriConne follower on your field and refresh it. For the rest of this turn, it can't attack enemies.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Elizabeth Park"
+    ],
+    "cardno": "CP04-005EN",
+    "img": "CP04/CP04-005EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-005": "CP04-005EN",
+      "CP04-P01": "CP04-P01EN"
+    }
+  },
+  "CP04-006": {
+    "name": "Shiori",
+    "text": "【Ub】 On Evolve - Deal 2 damage to each enemy leader.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Elizabeth Park"
+    ],
+    "cardno": "CP04-006EN",
+    "img": "CP04/CP04-006EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-006": "CP04-006EN",
+      "CP04-P02": "CP04-P02EN"
+    }
+  },
+  "CP04-007": {
+    "name": "Anemone",
+    "text": "【Ub】【Fanfare】 Deal 1 damage to each enemy leader. Give your leader Defense+1.\n----------\nWard.\nWhen this is put into your EX area, deal 1 damage to each enemy leader and give your leader Defense+1.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Gehenna"
+    ],
+    "cardno": "CP04-007EN",
+    "img": "CP04/CP04-007EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-007": "CP04-007EN",
+      "CP04-P03": "CP04-P03EN"
+    }
+  },
+  "CP04-008": {
+    "name": "Makoto",
+    "text": "【Ub】【Fanfare】 【Engage】 3 cards on your field: Select an enemy follower on the field. Deal 4 damage to it and 2 damage to its leader.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Caon"
+    ],
+    "cardno": "CP04-008EN",
+    "img": "CP04/CP04-008EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-008": "CP04-008EN",
+      "CP04-P04": "CP04-P04EN"
+    }
+  },
+  "CP04-009": {
+    "name": "Rino",
+    "text": "【Evolve】 Cost 2: Evolve this.\n【Fanfare】 If this was played from the EX area, evolve it.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Labyrinth"
+    ],
+    "cardno": "CP04-009EN",
+    "img": "CP04/CP04-009EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-009": "CP04-009EN",
+      "CP04-P05": "CP04-P05EN"
+    }
+  },
+  "CP04-010": {
+    "name": "Rino",
+    "text": "【Ub】 On Evolve - Deal 1 damage to each enemy follower on the field.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Labyrinth"
+    ],
+    "cardno": "CP04-010EN",
+    "img": "CP04/CP04-010EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-010": "CP04-010EN",
+      "CP04-P06": "CP04-P06EN"
+    },
+    "print_names": {
+      "CP04-P06": "Shizuru & Rino"
+    }
+  },
+  "CP04-011": {
+    "name": "Cleuru",
+    "text": "【Ub】【Act】 Remove 2 Bunclie counters from this: Give your leader Defense+2. Draw a card.\n----------\n【Fanfare】 If this wasn't put onto the field from hand, place 2 Bunclie counters on it.\nAt the start of your end phase, place a Bunclie counter on this.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Theogonia"
+    ],
+    "cardno": "CP04-011EN",
+    "img": "CP04/CP04-011EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-011": "CP04-011EN",
+      "CP04-P07": "CP04-P07EN"
+    }
+  },
+  "CP04-012": {
+    "name": "Nea",
+    "text": "【Ub】【Act】 【Engage】: During each opponent's next turn, this has \"While this is engaged, each enemy follower on the field must attack once per turn if able.\"\n----------\nWard.\n【Last Words】 Select an enemy follower on the field. It doesn't refresh during its controller's next start phase.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Rage Legion"
+    ],
+    "cardno": "CP04-012EN",
+    "img": "CP04/CP04-012EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-012": "CP04-012EN",
+      "CP04-P08": "CP04-P08EN"
+    }
+  },
+  "CP04-013": {
+    "name": "Lima",
+    "text": "This can only be played if it's your 5th turn or later.\n----------\n【Evolve】 Cost 1: Evolve this.\nWard.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Elizabeth Park"
+    ],
+    "cardno": "CP04-013EN",
+    "img": "CP04/CP04-013EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-013": "CP04-013EN",
+      "CP04-P09": "CP04-P09EN"
+    }
+  },
+  "CP04-014": {
+    "name": "Lima",
+    "text": "【Ub】 On Evolve - Give your leader Defense+3.\n----------\nWard.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Elizabeth Park"
+    ],
+    "cardno": "CP04-014EN",
+    "img": "CP04/CP04-014EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-014": "CP04-014EN",
+      "CP04-P10": "CP04-P10EN"
+    }
+  },
+  "CP04-015": {
+    "name": "Aoi",
+    "text": "【Ub】【Act】 【Engage】: Select an enemy follower on the field and give it Attack-1/Defense-1.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Forestier"
+    ],
+    "cardno": "CP04-015EN",
+    "img": "CP04/CP04-015EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-015": "CP04-015EN",
+      "CP04-P11": "CP04-P11EN"
+    }
+  },
+  "CP04-016": {
+    "name": "Nebbia",
+    "text": "【Ub】 Strike - For the rest of this turn, this doesn't take damage.\n----------\nRush.\n【Fanfare】 Put another card from your field into its owner's EX area: Select an enemy follower on the field and engage it.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-016EN",
+    "img": "CP04/CP04-016EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-016": "CP04-016EN",
+      "CP04-P12": "CP04-P12EN"
+    }
+  },
+  "CP04-017": {
+    "name": "Suzuna",
+    "text": "【Ub】【Act】 【Engage】: Select an enemy follower on the field and deal it 3 damage.\n----------\n【Fanfare】 Discard a card.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Lucent Academy"
+    ],
+    "cardno": "CP04-017EN",
+    "img": "CP04/CP04-017EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-017": "CP04-017EN",
+      "CP04-P13": "CP04-P13EN"
+    }
+  },
+  "CP04-018": {
+    "name": "Aurora Healing",
+    "text": "Select a PriConne follower on your field and refresh it. For the rest of this turn, it can't attack enemies. If it costs 1, draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-018EN",
+    "img": "CP04/CP04-018EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-018": "CP04-018EN",
+      "CP04-P14": "CP04-P14EN"
+    }
+  },
+  "CP04-019": {
+    "name": "Pecorine",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 Cost 2: Equip this with a Princess Sword token.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-019EN",
+    "img": "CP04/CP04-019EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-019": "CP04-019EN",
+      "CP04-SL05": "CP04-SL05EN"
+    }
+  },
+  "CP04-020": {
+    "name": "Pecorine",
+    "text": "【Ub】 On Evolve - Select an enemy follower on the field and deal it 4 damage.\n----------\nWard.\nOn Super-Evolve - Deal 4 damage to each enemy leader.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-020EN",
+    "img": "CP04/CP04-020EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-020": "CP04-020EN",
+      "CP04-SL06": "CP04-SL06EN",
+      "CP04-SP03": "CP04-SP03EN",
+      "CP04-U03": "CP04-U03EN"
+    }
+  },
+  "CP04-021": {
+    "name": "Christina",
+    "text": "【Ub】 Strike - Discard a card: Select an enemy follower on the field and deal it 5 damage.\n----------\nStorm.\n【Fanfare】 Cost 2: Equip this with a Sanctum Blade Avalon token.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Nightmare",
+      "Seven Crowns"
+    ],
+    "cardno": "CP04-021EN",
+    "img": "CP04/CP04-021EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-021": "CP04-021EN",
+      "CP04-SL07": "CP04-SL07EN",
+      "CP04-SP04": "CP04-SP04EN",
+      "CP04-U04": "CP04-U04EN"
+    }
+  },
+  "CP04-022": {
+    "name": "Labyrista",
+    "text": "【Ub】【Act】 【Engage】: Give this Attack+1.\n----------\n【Fanfare】 If there are at least 4 followers on your field, equip this with a Queen's Console token.\nAt the start of your end phase, if the total attack of 1-cost followers on your field is at least 10, deal 2 damage to each enemy follower on the field.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Labyrinth",
+      "Seven Crowns"
+    ],
+    "cardno": "CP04-022EN",
+    "img": "CP04/CP04-022EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-022": "CP04-022EN",
+      "CP04-SL08": "CP04-SL08EN"
+    }
+  },
+  "CP04-023": {
+    "name": "Jun",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Nightmare"
+    ],
+    "cardno": "CP04-023EN",
+    "img": "CP04/CP04-023EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-023": "CP04-023EN",
+      "CP04-P15": "CP04-P15EN"
+    }
+  },
+  "CP04-024": {
+    "name": "Jun",
+    "text": "【Ub】 On Evolve - Search your deck for up to 2 Nightmare followers not named Jun, put them into your EX area, then shuffle. The next Nightmare follower you play this turn costs 2 less.\n----------\nWard.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Nightmare"
+    ],
+    "cardno": "CP04-024EN",
+    "img": "CP04/CP04-024EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-024": "CP04-024EN",
+      "CP04-P16": "CP04-P16EN"
+    }
+  },
+  "CP04-025": {
+    "name": "Lily",
+    "text": "【Ub】【Fanfare】/Strike - Draw a card. You may summon a follower that costs 2 or less from your hand.\n----------\nRush.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Alter Maiden"
+    ],
+    "cardno": "CP04-025EN",
+    "img": "CP04/CP04-025EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-025": "CP04-025EN",
+      "CP04-P17": "CP04-P17EN"
+    }
+  },
+  "CP04-026": {
+    "name": "Creditta",
+    "text": "【Ub】【Act】 【Engage】: Select an enemy follower on the field. For the rest of this turn, if it would take damage, it takes that much +2 instead.\n----------\n【Fanfare】 Search your deck for a follower with \"Pecorine\" in its name, put it into your EX area, then shuffle. It costs 3 less to play this turn.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Richmond Corporation"
+    ],
+    "cardno": "CP04-026EN",
+    "img": "CP04/CP04-026EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-026": "CP04-026EN",
+      "CP04-P18": "CP04-P18EN"
+    }
+  },
+  "CP04-027": {
+    "name": "Tomo",
+    "text": "【Evolve】 Cost 2: Evolve this.\nStorm.\n【Fanfare】 If there are at least 4 PriConne followers on your field, evolve this.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Nightmare"
+    ],
+    "cardno": "CP04-027EN",
+    "img": "CP04/CP04-027EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-027": "CP04-027EN",
+      "CP04-P19": "CP04-P19EN"
+    }
+  },
+  "CP04-028": {
+    "name": "Tomo",
+    "text": "【Ub】 Strike - Select an enemy follower on the field and deal it 2 damage.\n----------\nStorm.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Nightmare"
+    ],
+    "cardno": "CP04-028EN",
+    "img": "CP04/CP04-028EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-028": "CP04-028EN",
+      "CP04-P20": "CP04-P20EN"
+    }
+  },
+  "CP04-029": {
+    "name": "Shizuru",
+    "text": "【Ub】【Act】 【Engage】: Select an enemy follower on the field. Deal it 1 damage and give your leader Defense+1.\n----------\nWard.\n【Fanfare】 Search your deck for a 1-cost PriConne follower with 【Evolve】, put it into your EX area, then shuffle.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Labyrinth"
+    ],
+    "cardno": "CP04-029EN",
+    "img": "CP04/CP04-029EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-029": "CP04-029EN",
+      "CP04-P21": "CP04-P21EN"
+    }
+  },
+  "CP04-030": {
+    "name": "Ruka",
+    "text": "【Ub】【Act】 Cost 1, 【Engage】: Select an enemy follower on the field and deal it 2 damage.\n----------\nWard.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twilight Caravan"
+    ],
+    "cardno": "CP04-030EN",
+    "img": "CP04/CP04-030EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-030": "CP04-030EN",
+      "CP04-P22": "CP04-P22EN"
+    }
+  },
+  "CP04-031": {
+    "name": "Tamaki",
+    "text": "【Evolve】 Cost 1: Evolve this.\nStorm.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Mercurius Foundation"
+    ],
+    "cardno": "CP04-031EN",
+    "img": "CP04/CP04-031EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-031": "CP04-031EN",
+      "CP04-P23": "CP04-P23EN"
+    }
+  },
+  "CP04-032": {
+    "name": "Tamaki",
+    "text": "【Ub】 Strike - Select an enemy follower on the field with at least 3 attack and deal it 2 damage.\n----------\nStorm.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Mercurius Foundation"
+    ],
+    "cardno": "CP04-032EN",
+    "img": "CP04/CP04-032EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-032": "CP04-032EN",
+      "CP04-P24": "CP04-P24EN"
+    }
+  },
+  "CP04-033": {
+    "name": "Mitsuki",
+    "text": "【Ub】【Fanfare】 Select up to 2 enemy followers on the field and give them Attack-2/Defense-2.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, select an enemy follower on the field and give it Attack-1/Defense-1.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twilight Caravan"
+    ],
+    "cardno": "CP04-033EN",
+    "img": "CP04/CP04-033EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-033": "CP04-033EN",
+      "CP04-P25": "CP04-P25EN",
+      "PR-495": "PR-507EN"
+    }
+  },
+  "CP04-034": {
+    "name": "Matsuri",
+    "text": "【Ub】 Strike - Select an enemy follower on the field and deal it 1 damage.\n----------\nRush.\nWhile there's another Nightmare follower on your field, this has Assail.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Nightmare"
+    ],
+    "cardno": "CP04-034EN",
+    "img": "CP04/CP04-034EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-034": "CP04-034EN",
+      "CP04-P26": "CP04-P26EN"
+    }
+  },
+  "CP04-035": {
+    "name": "Ninon",
+    "text": "【Ub】【Act】 Cost 4, 【Engage】: Select an enemy follower on the field. Deal it 5 damage and refresh this. Activate only once per turn.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, give this Attack+1/Defense+1.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Weissflugel"
+    ],
+    "cardno": "CP04-035EN",
+    "img": "CP04/CP04-035EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-035": "CP04-035EN",
+      "CP04-P27": "CP04-P27EN"
+    }
+  },
+  "CP04-036": {
+    "name": "Princess Strike",
+    "text": "When playing this, 【Engage】 a follower on your field with \"Pecorine\" in its name: This costs 3 less to play.\n----------\nSelect an enemy follower on the field. Deal 5 damage to it and 2 damage to its leader.",
+    "keywords": [
+      "Engage"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-036EN",
+    "img": "CP04/CP04-036EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-036": "CP04-036EN",
+      "CP04-P28": "CP04-P28EN"
+    }
+  },
+  "CP04-037": {
+    "name": "Karyl",
+    "text": "【Ub】【Fanfare】 Discard a spell: Select an enemy follower on the field. Deal it 3 damage and draw a card.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Cost 2: Equip this with a Chaos Grimoire token.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-037EN",
+    "img": "CP04/CP04-037EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-037": "CP04-037EN",
+      "CP04-SL09": "CP04-SL09EN"
+    }
+  },
+  "CP04-038": {
+    "name": "Karyl",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 5 damage.\nOn Super-Evolve - Select up to 2 spells in your cemetery with different names and put them into your EX area. They cost 2 less to play this turn.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-038EN",
+    "img": "CP04/CP04-038EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-038": "CP04-038EN",
+      "CP04-SL10": "CP04-SL10EN",
+      "CP04-SP05": "CP04-SP05EN",
+      "CP04-U05": "CP04-U05EN"
+    }
+  },
+  "CP04-039": {
+    "name": "Yuni",
+    "text": "【Ub】【Fanfare】 Search your deck for up to 2 Friendship Club cards with different names that cost 2 or less, put them into your EX area, then shuffle. They cost 2 less to play this turn.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, the next PriConne spell you play this turn costs 2 less.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Friendship Club"
+    ],
+    "cardno": "CP04-039EN",
+    "img": "CP04/CP04-039EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-039": "CP04-039EN",
+      "CP04-SL11": "CP04-SL11EN",
+      "CP04-SP06a": "CP04-SP06aEN",
+      "CP04-SP06b": "CP04-SP06bEN",
+      "CP04-SP06c": "CP04-SP06cEN",
+      "CP04-U06": "CP04-U06EN"
+    },
+    "print_names": {
+      "CP04-SP06a": "Yuni, Chloe & Chieru",
+      "CP04-SP06b": "Yuni, Chloe & Chieru",
+      "CP04-SP06c": "Yuni, Chloe & Chieru",
+      "CP04-U06": "Yuni, Chloe & Chieru"
+    }
+  },
+  "CP04-040": {
+    "name": "Neneka",
+    "text": "【Ub】【Fanfare】 If there's no Mirror Image Neneka on your field, summon one.\n----------\n【Fanfare】 Cost 2: Equip this with a Mirage Wand token.\n【Act】 【Engage】: Select an enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Seven Crowns"
+    ],
+    "cardno": "CP04-040EN",
+    "img": "CP04/CP04-040EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-040": "CP04-040EN",
+      "CP04-SL12": "CP04-SL12EN",
+      "PR-502": "PR-514EN"
+    }
+  },
+  "CP04-041": {
+    "name": "Maho",
+    "text": "【Ub】【Fanfare】 Select your leader or another follower on your field and give it Defense+1.\n----------\n【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Caon"
+    ],
+    "cardno": "CP04-041EN",
+    "img": "CP04/CP04-041EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-041": "CP04-041EN",
+      "CP04-P29": "CP04-P29EN"
+    }
+  },
+  "CP04-042": {
+    "name": "Maho",
+    "text": "On Evolve - Look at the top 4 cards of your deck. You may put one of them into your EX area. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Caon"
+    ],
+    "cardno": "CP04-042EN",
+    "img": "CP04/CP04-042EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-042": "CP04-042EN",
+      "CP04-P30": "CP04-P30EN"
+    }
+  },
+  "CP04-043": {
+    "name": "Precia",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field. Deal it damage equal to the number of other followers on your field and, if 【Ub】 abilities you control have executed at least 2 other times this turn, draw a card.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Alter Maiden"
+    ],
+    "cardno": "CP04-043EN",
+    "img": "CP04/CP04-043EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-043": "CP04-043EN",
+      "CP04-P31": "CP04-P31EN"
+    }
+  },
+  "CP04-044": {
+    "name": "Construct of Truth and Being",
+    "text": "【Quick】\nDiscard a PriConne card: Draw 2 cards. If there's a Friendship Club follower on your field, give your leader Defense+2.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Friendship Club"
+    ],
+    "cardno": "CP04-044EN",
+    "img": "CP04/CP04-044EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-044": "CP04-044EN",
+      "CP04-P32": "CP04-P32EN"
+    }
+  },
+  "CP04-045": {
+    "name": "Kyoka",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select a PriConne spell in your cemetery. Put it into your EX area and give it \"At the start of your end phase, if this is in your EX area, bury it.\"",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Little Lyrical"
+    ],
+    "cardno": "CP04-045EN",
+    "img": "CP04/CP04-045EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-045": "CP04-045EN",
+      "CP04-P33": "CP04-P33EN"
+    }
+  },
+  "CP04-046": {
+    "name": "Kyoka",
+    "text": "【Ub】 On Evolve - Select an enemy follower on the field. Deal it 2 damage and, if you've played a spell this turn, deal 2 damage to its leader.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Little Lyrical"
+    ],
+    "cardno": "CP04-046EN",
+    "img": "CP04/CP04-046EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-046": "CP04-046EN",
+      "CP04-P34": "CP04-P34EN"
+    },
+    "print_names": {
+      "CP04-P34": "Misogi, Mimi & Kyoka"
+    }
+  },
+  "CP04-047": {
+    "name": "Chieru",
+    "text": "【Ub】【Fanfare】 Look at the top 4 cards of your deck. You may reveal a Friendship Club card or PriConne spell from among them and add it to your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Friendship Club"
+    ],
+    "cardno": "CP04-047EN",
+    "img": "CP04/CP04-047EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-047": "CP04-047EN",
+      "CP04-P35": "CP04-P35EN"
+    }
+  },
+  "CP04-048": {
+    "name": "Chloe",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field and deal it damage equal to the number of Friendship Club followers on your field.\n----------\nWhenever you play a Friendship Club card or PriConne spell, deal 1 damage to each enemy leader.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Friendship Club"
+    ],
+    "cardno": "CP04-048EN",
+    "img": "CP04/CP04-048EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-048": "CP04-048EN",
+      "CP04-P36": "CP04-P36EN",
+      "PR-496": "PR-508EN"
+    }
+  },
+  "CP04-049": {
+    "name": "Yuki",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Search your deck for a spell, reveal it, add it to your hand, then shuffle.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Weissflugel"
+    ],
+    "cardno": "CP04-049EN",
+    "img": "CP04/CP04-049EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-049": "CP04-049EN",
+      "CP04-P37": "CP04-P37EN"
+    }
+  },
+  "CP04-050": {
+    "name": "Yuki",
+    "text": "【Ub】 On Evolve - Select an enemy follower on the field and give it Attack-2/Defense-2.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Weissflugel"
+    ],
+    "cardno": "CP04-050EN",
+    "img": "CP04/CP04-050EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-050": "CP04-050EN",
+      "CP04-P38": "CP04-P38EN"
+    }
+  },
+  "CP04-051": {
+    "name": "Hatsune",
+    "text": "【Ub】【Act】 【Engage】: Deal 2 damage to each enemy leader and enemy follower on the field.\n----------\nWard.\n【Fanfare】 Engage this.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Forestier"
+    ],
+    "cardno": "CP04-051EN",
+    "img": "CP04/CP04-051EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-051": "CP04-051EN",
+      "CP04-P39": "CP04-P39EN"
+    }
+  },
+  "CP04-052": {
+    "name": "Nanaka",
+    "text": "【Ub】【Fanfare】 Discard a spell: Select an enemy follower on the field and deal it 5 damage.\n----------\nOnce per turn, when a 【Ub】 ability of another follower on your field is executed, select a PriConne spell in your cemetery and put it into your EX area.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twilight Caravan"
+    ],
+    "cardno": "CP04-052EN",
+    "img": "CP04/CP04-052EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-052": "CP04-052EN",
+      "CP04-P40": "CP04-P40EN"
+    }
+  },
+  "CP04-053": {
+    "name": "Chellerific Carnival",
+    "text": "【Quick】\nSelect an enemy follower on the field. Deal it 3 damage and, if there's a Friendship Club follower on your field, draw a card.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Friendship Club"
+    ],
+    "cardno": "CP04-053EN",
+    "img": "CP04/CP04-053EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-053": "CP04-053EN",
+      "CP04-P41": "CP04-P41EN"
+    }
+  },
+  "CP04-054": {
+    "name": "Dark Eclipse",
+    "text": "When this is discarded, select an enemy follower on the field and deal it 1 damage.\n----------\nSelect a PriConne follower on your field and give it Attack+3, Rush, and Assail.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-054EN",
+    "img": "CP04/CP04-054EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-054": "CP04-054EN",
+      "CP04-P42": "CP04-P42EN"
+    }
+  },
+  "CP04-055": {
+    "name": "Sheffy",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field. It doesn't refresh during its controller's next start phase.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If Overflow is active for you, equip this with an Eisdrache token.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-055EN",
+    "img": "CP04/CP04-055EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-055": "CP04-055EN",
+      "CP04-SL13": "CP04-SL13EN"
+    }
+  },
+  "CP04-056": {
+    "name": "Sheffy",
+    "text": "On Evolve - Select up to 2 enemy followers on the field and deal 2 damage divided between them.\nOn Super-Evolve - Deal 3 damage to each enemy follower on the field.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Gourmet Guild"
+    ],
+    "cardno": "CP04-056EN",
+    "img": "CP04/CP04-056EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-056": "CP04-056EN",
+      "CP04-SL14": "CP04-SL14EN",
+      "CP04-SP07": "CP04-SP07EN",
+      "CP04-U07": "CP04-U07EN"
+    }
+  },
+  "CP04-057": {
+    "name": "Homare",
+    "text": "【Ub】【Act】 【Engage】: Select an enemy follower on the field. Deal it 5 damage and, if Overflow is active for you, recover 2 play points.\n----------\n【Fanfare】 Increase your max play points by 1.\nWhenever a 【Ub】 ability of another follower on your field is executed, increase your max play points by 1.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Dragon's Nest"
+    ],
+    "cardno": "CP04-057EN",
+    "img": "CP04/CP04-057EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-057": "CP04-057EN",
+      "CP04-SL15": "CP04-SL15EN"
+    }
+  },
+  "CP04-058": {
+    "name": "Muimi",
+    "text": "【Ub】【Fanfare】 Draw a card. Discard a card. If Overflow is active for you, equip this with a Precious Memento token. If you have 10 max play points, give this Attack+3.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-058EN",
+    "img": "CP04/CP04-058EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-058": "CP04-058EN",
+      "CP04-SL16": "CP04-SL16EN",
+      "CP04-SP08": "CP04-SP08EN",
+      "CP04-U08": "CP04-U08EN",
+      "PR-503": "PR-515EN"
+    }
+  },
+  "CP04-059": {
+    "name": "Kaya",
+    "text": "【Evolve】 Cost 1: Evolve this.\nStorm.\n【Fanfare】 Select an enemy follower on the field. Deal it 4 damage and, if you have 10 max play points, evolve this.\nWhenever a 【Ub】 ability of another follower on your field is executed, deal 2 damage to each enemy leader.",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Ub"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Dragon's Nest"
+    ],
+    "cardno": "CP04-059EN",
+    "img": "CP04/CP04-059EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-059": "CP04-059EN",
+      "CP04-P43": "CP04-P43EN"
+    }
+  },
+  "CP04-060": {
+    "name": "Kaya",
+    "text": "【Ub】 On Evolve - Search your deck for a Dragon's Nest card not named Kaya, put it into your EX area, then shuffle. It costs 2 less to play this turn.\n----------\nStorm.\nWhenever a 【Ub】 ability of another follower on your field is executed, deal 2 damage to each enemy leader.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Dragon's Nest"
+    ],
+    "cardno": "CP04-060EN",
+    "img": "CP04/CP04-060EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-060": "CP04-060EN",
+      "CP04-P44": "CP04-P44EN"
+    }
+  },
+  "CP04-061": {
+    "name": "Hiyori",
+    "text": "【Ub】 Strike - Select an enemy follower on the field. Deal 2 damage to it and its leader. If you have 10 max play points, deal 4 damage instead.\n----------\nRush.\n【Fanfare】 Search your deck for a 1-cost Twinkle Wish follower, put it into your EX area, then shuffle.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twinkle Wish"
+    ],
+    "cardno": "CP04-061EN",
+    "img": "CP04/CP04-061EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-061": "CP04-061EN",
+      "CP04-P45": "CP04-P45EN",
+      "PCS01-025": "PR-509EN"
+    }
+  },
+  "CP04-062": {
+    "name": "Until We Meet Again",
+    "text": "Choose 1. (1) Increase your max play points by 1. Give your leader Defense+1. (2) If you have 10 max play points, search your deck for a 2-cost PriConne follower, summon it, then shuffle.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-062EN",
+    "img": "CP04/CP04-062EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-062": "CP04-062EN",
+      "CP04-P46": "CP04-P46EN"
+    }
+  },
+  "CP04-063": {
+    "name": "Inori",
+    "text": "【Ub】【Act】 【Engage】: Deal 1 damage to each enemy leader and enemy follower on the field. Activate only if Overflow is active for you.\n----------\n【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Dragon's Nest"
+    ],
+    "cardno": "CP04-063EN",
+    "img": "CP04/CP04-063EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-063": "CP04-063EN",
+      "CP04-P47": "CP04-P47EN"
+    }
+  },
+  "CP04-064": {
+    "name": "Inori",
+    "text": "【Ub】【Act】 【Engage】: Deal 1 damage to each enemy leader and enemy follower on the field. Activate only if Overflow is active for you.\n----------\nOn Evolve - Search your deck for a Dragon's Nest card not named Inori, reveal it, add it to your hand, then shuffle.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Dragon's Nest"
+    ],
+    "cardno": "CP04-064EN",
+    "img": "CP04/CP04-064EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-064": "CP04-064EN",
+      "CP04-P48": "CP04-P48EN",
+      "PR-498": "PR-510EN"
+    }
+  },
+  "CP04-065": {
+    "name": "Lind",
+    "text": "【Ub】【Act】 【Engage】: Select a Geo Theogonia follower on your field not named Lind. Give it Attack+1/Defense+1 and refresh it. For the rest of this turn, it can't attack enemies.\n----------\nWard.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Theogonia"
+    ],
+    "cardno": "CP04-065EN",
+    "img": "CP04/CP04-065EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-065": "CP04-065EN",
+      "CP04-P49": "CP04-P49EN"
+    }
+  },
+  "CP04-066": {
+    "name": "Wyrm",
+    "text": "【Ub】【Act】 【Engage】: Select an enemy follower on the field. Deal it 3 damage and, if there's a follower on your field that costs 7 or more, deal 3 damage to its leader.\n----------\n【Fanfare】 If there are no other Geo Theogonia followers on your field, engage this.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Theogonia"
+    ],
+    "cardno": "CP04-066EN",
+    "img": "CP04/CP04-066EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-066": "CP04-066EN",
+      "CP04-P50": "CP04-P50EN"
+    }
+  },
+  "CP04-067": {
+    "name": "Mifuyu",
+    "text": "This costs 2 less to play if Overflow is active for you.\n----------\n【Evolve】 Cost 1: Evolve this.\nWard.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Mercurius Foundation"
+    ],
+    "cardno": "CP04-067EN",
+    "img": "CP04/CP04-067EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-067": "CP04-067EN",
+      "CP04-P51": "CP04-P51EN"
+    }
+  },
+  "CP04-068": {
+    "name": "Mifuyu",
+    "text": "【Ub】 On Evolve - Select an enemy amulet on the field and destroy it.\n----------\nWard.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Mercurius Foundation"
+    ],
+    "cardno": "CP04-068EN",
+    "img": "CP04/CP04-068EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-068": "CP04-068EN",
+      "CP04-P52": "CP04-P52EN"
+    }
+  },
+  "CP04-069": {
+    "name": "Kaori",
+    "text": "【Ub】 Strike - Cost 2: Deal 3 damage to each enemy leader.\n----------\nRush.\nWhile there's another PriConne follower on your field, this has Storm.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Caon"
+    ],
+    "cardno": "CP04-069EN",
+    "img": "CP04/CP04-069EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-069": "CP04-069EN",
+      "CP04-P53": "CP04-P53EN"
+    }
+  },
+  "CP04-070": {
+    "name": "Ayane",
+    "text": "【Ub】 Follower Strike - Put the attack target into its owner's EX area.\n----------\nWhile there's another Sarendia Orphanage follower on your field, this has Rush.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Sarendia Orphanage"
+    ],
+    "cardno": "CP04-070EN",
+    "img": "CP04/CP04-070EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-070": "CP04-070EN",
+      "CP04-P54": "CP04-P54EN"
+    }
+  },
+  "CP04-071": {
+    "name": "Dragon's End Fist",
+    "text": "Select an enemy follower on the field and deal it 4 damage. If there's a Dragon's Nest follower on your field, deal 6 damage instead.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Dragon's Nest"
+    ],
+    "cardno": "CP04-071EN",
+    "img": "CP04/CP04-071EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-071": "CP04-071EN",
+      "CP04-P55": "CP04-P55EN"
+    }
+  },
+  "CP04-072": {
+    "name": "Prank Proclamation",
+    "text": "【Fanfare】 Each player draws a card.\n【Last Words】 Deal 1 damage to each enemy leader.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Little Lyrical"
+    ],
+    "cardno": "CP04-072EN",
+    "img": "CP04/CP04-072EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-072": "CP04-072EN",
+      "CP04-P56": "CP04-P56EN"
+    }
+  },
+  "CP04-073": {
+    "name": "Illya",
+    "text": "【Ub】【Act】 【Engage】, banish 5 cards from your cemetery: Select an enemy follower on the field. Deal it 3 damage and give your leader Defense+3.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Cost 2: Equip this with a Dark Axe Nachtfang token.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-073EN",
+    "img": "CP04/CP04-073EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-073": "CP04-073EN",
+      "CP04-SL17": "CP04-SL17EN"
+    }
+  },
+  "CP04-074": {
+    "name": "Illya",
+    "text": "【Ub】【Act】 【Engage】, banish 5 cards from your cemetery: Select an enemy follower on the field. Deal it 3 damage and give your leader Defense+3.\n----------\nOn Evolve - Search your deck for a PriConne card, bury it, then shuffle.\nOn Super-Evolve - Select an enemy follower on the field and deal it 5 damage.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-074EN",
+    "img": "CP04/CP04-074EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-074": "CP04-074EN",
+      "CP04-SL18": "CP04-SL18EN",
+      "CP04-SP09": "CP04-SP09EN",
+      "CP04-U09": "CP04-U09EN"
+    }
+  },
+  "CP04-075": {
+    "name": "Ranpha",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field. Deal it 5 damage and, if this wasn't put onto the field from hand, recover 2 play points.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, choose 1 that you haven't chosen this turn. (1) Deal 2 damage to each enemy leader. (2) Give your leader Defense+2.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Rage Legion"
+    ],
+    "cardno": "CP04-075EN",
+    "img": "CP04/CP04-075EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-075": "CP04-075EN",
+      "CP04-SL19": "CP04-SL19EN",
+      "CP04-SP10a": "CP04-SP10aEN",
+      "CP04-SP10b": "CP04-SP10bEN",
+      "CP04-U10": "CP04-U10EN"
+    },
+    "print_names": {
+      "CP04-SP10a": "Ranpha & Misora",
+      "CP04-SP10b": "Ranpha & Misora",
+      "CP04-U10": "Ranpha & Misora"
+    }
+  },
+  "CP04-076": {
+    "name": "Violet",
+    "text": "【Ub】【Fanfare】 Select a PriConne follower in your cemetery that costs 3 or less and summon it.\n----------\n【Act】 Discard 2 cards: Put this from your cemetery into your EX area.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Niflhel"
+    ],
+    "cardno": "CP04-076EN",
+    "img": "CP04/CP04-076EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-076": "CP04-076EN",
+      "CP04-SL20": "CP04-SL20EN"
+    }
+  },
+  "CP04-077": {
+    "name": "Shinobu",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field and deal it damage equal to the number of Diabolos followers on your field.\n----------\n【Evolve】 Cost 1: Evolve this.\nWhenever a 【Ub】 ability of another follower on your field is executed, bury the top card of your deck.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-077EN",
+    "img": "CP04/CP04-077EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-077": "CP04-077EN",
+      "CP04-P57": "CP04-P57EN"
+    }
+  },
+  "CP04-078": {
+    "name": "Shinobu",
+    "text": "On Evolve - Summon a Skullfather token.\nWhenever a 【Ub】 ability of another follower on your field is executed, bury the top card of your deck.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-078EN",
+    "img": "CP04/CP04-078EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-078": "CP04-078EN",
+      "CP04-P58": "CP04-P58EN"
+    }
+  },
+  "CP04-079": {
+    "name": "Grace",
+    "text": "【Ub】【Fanfare】 Draw a card. Discard a card. Bury the top 2 cards of your deck.\n----------\nWhile there's another Geo Niflhel follower on your field, this has Ward.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Niflhel"
+    ],
+    "cardno": "CP04-079EN",
+    "img": "CP04/CP04-079EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-079": "CP04-079EN",
+      "CP04-P59": "CP04-P59EN"
+    }
+  },
+  "CP04-080": {
+    "name": "Rei",
+    "text": "【Ub】 Strike - Give this Attack+1. If 【Ub】 abilities you control have executed at least 2 other times this turn, give Attack+2 instead.\n----------\nRush.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twinkle Wish"
+    ],
+    "cardno": "CP04-080EN",
+    "img": "CP04/CP04-080EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-080": "CP04-080EN",
+      "CP04-P60": "CP04-P60EN",
+      "PCS01-033": "PR-511EN"
+    }
+  },
+  "CP04-081": {
+    "name": "Yori",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select an enemy follower on the field and, if this wasn't put onto the field from hand, deal it 2 damage.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-081EN",
+    "img": "CP04/CP04-081EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-081": "CP04-081EN",
+      "CP04-P61": "CP04-P61EN"
+    }
+  },
+  "CP04-082": {
+    "name": "Yori",
+    "text": "【Ub】 On Evolve - Select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-082EN",
+    "img": "CP04/CP04-082EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-082": "CP04-082EN",
+      "CP04-P62": "CP04-P62EN"
+    }
+  },
+  "CP04-083": {
+    "name": "Akari",
+    "text": "【Ub】【Act】 Cost 0: Select another Diabolos follower on your field and give it Attack+1. Activate only once per turn.\n----------\n【Fanfare】 Select a Diabolos follower in your cemetery not named Akari and put it into your EX area. It costs 2 less to play this turn.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-083EN",
+    "img": "CP04/CP04-083EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-083": "CP04-083EN",
+      "CP04-P63": "CP04-P63EN"
+    }
+  },
+  "CP04-084": {
+    "name": "Miyako",
+    "text": "【Ub】【Act】 Cost 4: Select an enemy follower on the field. Banish it and give your leader Defense+2.\n----------\n【Fanfare】 Look at the top 5 cards of your deck. You may reveal a Diabolos follower from among them and add it to your hand. Put the rest on the bottom of your deck in any order. If you revealed a Diabolos follower, discard a card.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Diabolos"
+    ],
+    "cardno": "CP04-084EN",
+    "img": "CP04/CP04-084EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-084": "CP04-084EN",
+      "CP04-P64": "CP04-P64EN"
+    }
+  },
+  "CP04-085": {
+    "name": "Misaki",
+    "text": "【Ub】 Strike - Select an enemy follower on the field and deal it 3 damage.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Deal 2 damage to your leader.",
+    "keywords": [
+      "Ub",
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Lucent Academy"
+    ],
+    "cardno": "CP04-085EN",
+    "img": "CP04/CP04-085EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-085": "CP04-085EN",
+      "CP04-P65": "CP04-P65EN"
+    }
+  },
+  "CP04-086": {
+    "name": "Misaki",
+    "text": "【Ub】 Strike - Select an enemy follower on the field and deal it 3 damage.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Lucent Academy"
+    ],
+    "cardno": "CP04-086EN",
+    "img": "CP04/CP04-086EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-086": "CP04-086EN",
+      "CP04-P66": "CP04-P66EN"
+    }
+  },
+  "CP04-087": {
+    "name": "Kuka",
+    "text": "【Ub】【Act】 【Engage】: Give this Ward.\n----------\nWhile this is on the field, your opponents must select it for abilities if able.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Weissflugel"
+    ],
+    "cardno": "CP04-087EN",
+    "img": "CP04/CP04-087EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-087": "CP04-087EN",
+      "CP04-P67": "CP04-P67EN"
+    }
+  },
+  "CP04-088": {
+    "name": "Io",
+    "text": "【Ub】【Act】 Cost 1: Each opponent buries a follower. Activate only once per turn.\n----------\n【Fanfare】 Search your deck for a Lucent Academy follower that costs 3 or less and a 1-cost Lucent Academy follower, summon them, then shuffle. Their 【Fanfare】 abilities don't trigger.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Lucent Academy"
+    ],
+    "cardno": "CP04-088EN",
+    "img": "CP04/CP04-088EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-088": "CP04-088EN",
+      "CP04-P68": "CP04-P68EN"
+    }
+  },
+  "CP04-089": {
+    "name": "Eriko",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field and deal it 1 damage. If 【Ub】 abilities you control have executed at least 2 other times this turn, deal 3 damage instead.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twilight Caravan"
+    ],
+    "cardno": "CP04-089EN",
+    "img": "CP04/CP04-089EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-089": "CP04-089EN",
+      "CP04-P69": "CP04-P69EN"
+    }
+  },
+  "CP04-090": {
+    "name": "Demonic Salvation: Infinity",
+    "text": "【Quick】\nSelect an enemy follower on the field. Deal it 2 damage and look at the top card of your deck. If it's a PriConne card, you may bury it.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twilight Caravan"
+    ],
+    "cardno": "CP04-090EN",
+    "img": "CP04/CP04-090EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-090": "CP04-090EN",
+      "CP04-P70": "CP04-P70EN"
+    }
+  },
+  "CP04-091": {
+    "name": "Saren",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Choose 1. If your leader's defense is 10 or less, choose up to 2 instead. (1) Equip this with a Glorious Feather token. (2) Search your deck for up to 2 Sarendia Orphanage followers that cost a total of 3 or less, summon them, then shuffle.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Sarendia Orphanage"
+    ],
+    "cardno": "CP04-091EN",
+    "img": "CP04/CP04-091EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-091": "CP04-091EN",
+      "CP04-SL21": "CP04-SL21EN"
+    }
+  },
+  "CP04-092": {
+    "name": "Saren",
+    "text": "【Ub】 On Evolve - Select an enemy follower on the field. Deal 4 damage to it and 1 damage to each other enemy follower on the field.\n----------\nOn Super-Evolve - Deal 2 damage to each enemy leader and enemy follower on the field.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Sarendia Orphanage"
+    ],
+    "cardno": "CP04-092EN",
+    "img": "CP04/CP04-092EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-092": "CP04-092EN",
+      "CP04-SL22": "CP04-SL22EN",
+      "CP04-SP11": "CP04-SP11EN",
+      "CP04-U11": "CP04-U11EN"
+    },
+    "print_names": {
+      "CP04-SL22": "Akino & Saren"
+    }
+  },
+  "CP04-093": {
+    "name": "Nozomi",
+    "text": "【Ub】【Fanfare】 Search your deck for an amulet, reveal it, add it to your hand, then shuffle.\n----------\n【Act】 【Engage】 an amulet on your field: Select an enemy follower on the field and deal it 1 damage.\n【Act】 【Engage】, bury 3 amulets: Select an enemy follower on the field. Deal 3 damage to it and its leader.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Carmina"
+    ],
+    "cardno": "CP04-093EN",
+    "img": "CP04/CP04-093EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-093": "CP04-093EN",
+      "CP04-SL23": "CP04-SL23EN",
+      "CP04-SP12a": "CP04-SP12aEN",
+      "CP04-SP12b": "CP04-SP12bEN",
+      "CP04-SP12c": "CP04-SP12cEN",
+      "CP04-U12": "CP04-U12EN"
+    },
+    "print_names": {
+      "CP04-SP12a": "Nozomi, Chika & Tsumugi",
+      "CP04-SP12b": "Nozomi, Chika & Tsumugi",
+      "CP04-SP12c": "Nozomi, Chika & Tsumugi",
+      "CP04-U12": "Nozomi, Chika & Tsumugi"
+    }
+  },
+  "CP04-094": {
+    "name": "Akino",
+    "text": "【Ub】【Act】 【Engage】: Select up to 2 enemy followers on the field and deal them damage equal to the number of cards in your hand.\n----------\nWard.\n【Fanfare】 Give your leader Defense+3. Draw 3 cards.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Mercurius Foundation"
+    ],
+    "cardno": "CP04-094EN",
+    "img": "CP04/CP04-094EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-094": "CP04-094EN",
+      "CP04-SL24": "CP04-SL24EN"
+    }
+  },
+  "CP04-095": {
+    "name": "Yui",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twinkle Wish"
+    ],
+    "cardno": "CP04-095EN",
+    "img": "CP04/CP04-095EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-095": "CP04-095EN",
+      "CP04-P71": "CP04-P71EN"
+    }
+  },
+  "CP04-096": {
+    "name": "Yui",
+    "text": "【Ub】 On Evolve - 【Costx】: Select a PriConne follower in your cemetery that costs X or less and summon it.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, give your leader Defense+1.",
+    "keywords": [
+      "Ub",
+      "Costx"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Twinkle Wish"
+    ],
+    "cardno": "CP04-096EN",
+    "img": "CP04/CP04-096EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-096": "CP04-096EN",
+      "CP04-P72": "CP04-P72EN",
+      "PR-500": "PR-512EN"
+    }
+  },
+  "CP04-097": {
+    "name": "Clear",
+    "text": "【Ub】【Fanfare】 Deal 1 damage to each enemy leader.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, deal 1 damage to each enemy leader.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Alter Maiden"
+    ],
+    "cardno": "CP04-097EN",
+    "img": "CP04/CP04-097EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-097": "CP04-097EN",
+      "CP04-P73": "CP04-P73EN"
+    }
+  },
+  "CP04-098": {
+    "name": "Yukari",
+    "text": "【Ub】【Fanfare】 【Engage】 an amulet on your field: Select another follower on your field and give it Defense+2.\n----------\nWard.\n【Act】 【Engage】: Refresh each amulet on your field.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Engage",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Mercurius Foundation"
+    ],
+    "cardno": "CP04-098EN",
+    "img": "CP04/CP04-098EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-098": "CP04-098EN",
+      "CP04-P74": "CP04-P74EN"
+    }
+  },
+  "CP04-099": {
+    "name": "Chika",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Act】 【Engage】 an amulet on your field: Select another follower on your field and give it Rush, Bane, or Ward.",
+    "keywords": [
+      "Evolve",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Carmina"
+    ],
+    "cardno": "CP04-099EN",
+    "img": "CP04/CP04-099EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-099": "CP04-099EN",
+      "CP04-P75": "CP04-P75EN"
+    }
+  },
+  "CP04-100": {
+    "name": "Chika",
+    "text": "【Ub】 On Evolve - Search your deck for a Carmina card, reveal it, add it to your hand, then shuffle.\n----------\n【Act】 【Engage】 an amulet on your field: Select another follower on your field and give it Rush, Bane, or Ward.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Carmina"
+    ],
+    "cardno": "CP04-100EN",
+    "img": "CP04/CP04-100EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-100": "CP04-100EN",
+      "CP04-P76": "CP04-P76EN"
+    }
+  },
+  "CP04-101": {
+    "name": "Misato",
+    "text": "【Ub】【Fanfare】 Bury an amulet: Give your leader Defense+2.\n----------\nWard.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Forestier"
+    ],
+    "cardno": "CP04-101EN",
+    "img": "CP04/CP04-101EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-101": "CP04-101EN",
+      "CP04-P77": "CP04-P77EN",
+      "PCS01-043": "PR-513EN"
+    }
+  },
+  "CP04-102": {
+    "name": "Threading Snare",
+    "text": "【Fanfare】 Select an enemy follower on the field and deal it 3 damage.\nWhenever this becomes engaged, select an enemy leader or enemy follower on the field and deal it 1 damage.\n【Last Words】 Select an enemy leader or enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Carmina"
+    ],
+    "cardno": "CP04-102EN",
+    "img": "CP04/CP04-102EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-102": "CP04-102EN",
+      "CP04-P78": "CP04-P78EN"
+    }
+  },
+  "CP04-103": {
+    "name": "Mimi",
+    "text": "【Evolve】 Cost 2: Evolve this.\n【Fanfare】 Search your deck for a Prank Proclamation, reveal it, add it to your hand, then shuffle.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Little Lyrical"
+    ],
+    "cardno": "CP04-103EN",
+    "img": "CP04/CP04-103EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-103": "CP04-103EN",
+      "CP04-P79": "CP04-P79EN"
+    }
+  },
+  "CP04-104": {
+    "name": "Mimi",
+    "text": "【Ub】 On Evolve - 【Engage】 X amulets on your field: Select up to X enemy followers on the field and deal them 2 damage.",
+    "keywords": [
+      "Ub",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Little Lyrical"
+    ],
+    "cardno": "CP04-104EN",
+    "img": "CP04/CP04-104EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-104": "CP04-104EN",
+      "CP04-P80": "CP04-P80EN"
+    }
+  },
+  "CP04-105": {
+    "name": "Suzume",
+    "text": "【Ub】【Fanfare】 Give your leader Defense+2.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Sarendia Orphanage"
+    ],
+    "cardno": "CP04-105EN",
+    "img": "CP04/CP04-105EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-105": "CP04-105EN",
+      "CP04-P81": "CP04-P81EN"
+    }
+  },
+  "CP04-106": {
+    "name": "Mahiru",
+    "text": "【Ub】【Act】 【Engage】 this and another card on your field: Select an enemy follower on the field and put it into its owner's EX area.\n----------\n【Fanfare】 Search your deck for an Elizabeth Park card not named Mahiru, put it into your EX area, then shuffle.",
+    "keywords": [
+      "Ub",
+      "Act",
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Elizabeth Park"
+    ],
+    "cardno": "CP04-106EN",
+    "img": "CP04/CP04-106EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-106": "CP04-106EN",
+      "CP04-P82": "CP04-P82EN"
+    }
+  },
+  "CP04-107": {
+    "name": "Kurumi",
+    "text": "【Ub】【Fanfare】 Select an enemy follower on the field and engage it.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Sarendia Orphanage"
+    ],
+    "cardno": "CP04-107EN",
+    "img": "CP04/CP04-107EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-107": "CP04-107EN",
+      "CP04-P83": "CP04-P83EN"
+    }
+  },
+  "CP04-108": {
+    "name": "Amped on Acorns",
+    "text": "【Fanfare】 Look at the top card of your deck. If it's a PriConne card, you may reveal it and add it to your hand.\nWhenever this becomes engaged, give your leader Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Elizabeth Park"
+    ],
+    "cardno": "CP04-108EN",
+    "img": "CP04/CP04-108EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-108": "CP04-108EN",
+      "CP04-P84": "CP04-P84EN"
+    }
+  },
+  "CP04-109": {
+    "name": "Omniscient Kaiser",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Discard 2 PriConne cards: Draw 2 cards. Each opponent discards 2 cards.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Seven Crowns"
+    ],
+    "cardno": "CP04-109EN",
+    "img": "CP04/CP04-109EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-109": "CP04-109EN",
+      "CP04-SL25": "CP04-SL25EN"
+    }
+  },
+  "CP04-110": {
+    "name": "Omniscient Kaiser",
+    "text": "【Ub】 On Evolve - Deal 7 damage to each enemy follower on the field.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Seven Crowns"
+    ],
+    "cardno": "CP04-110EN",
+    "img": "CP04/CP04-110EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-110": "CP04-110EN",
+      "CP04-SL26": "CP04-SL26EN"
+    }
+  },
+  "CP04-111": {
+    "name": "Misora",
+    "text": "【Ub】【Fanfare】 Select any number of enemy followers on the field and deal 8 damage divided between them.\n----------\n【Last Words】 Search your deck for a 4-cost PriConne follower, put it into your EX area, then shuffle.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Rage Legion"
+    ],
+    "cardno": "CP04-111EN",
+    "img": "CP04/CP04-111EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-111": "CP04-111EN",
+      "CP04-SL27": "CP04-SL27EN"
+    }
+  },
+  "CP04-112": {
+    "name": "Lyrael",
+    "text": "【Ub】【Fanfare】 Select up to 3 followers in your cemetery with different names that cost 2 or less and summon them.\n----------\nWhenever a 【Ub】 ability of another follower on your field is executed, give that follower Attack+1/Defense+1.",
+    "keywords": [
+      "Ub",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Theogonia"
+    ],
+    "cardno": "CP04-112EN",
+    "img": "CP04/CP04-112EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-112": "CP04-112EN",
+      "CP04-SL28": "CP04-SL28EN",
+      "CP04-SP13": "CP04-SP13EN",
+      "CP04-U13": "CP04-U13EN"
+    }
+  },
+  "CP04-113": {
+    "name": "Ameth",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Look at the top card of your deck. If it's a PriConne card, you may reveal it and add it to your hand.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-115EN",
+    "img": "CP04/CP04-115EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-113": "CP04-115EN",
+      "CP04-P85": "CP04-P85EN"
+    }
+  },
+  "CP04-114": {
+    "name": "Princess Knight",
+    "text": "Each other PriConne follower on your field has Ward.\nOn Evolve - Select another PriConne follower on your field and give it Attack+10/Defense+10.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-114EN",
+    "img": "CP04/CP04-114EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-114": "CP04-114EN",
+      "CP04-P86": "CP04-P86EN"
+    },
+    "print_names": {
+      "CP04-P86": "Ameth"
+    }
+  },
+  "CP04-115": {
+    "name": "Croce",
+    "text": "【Ub】【Fanfare】 Place X battery counters on this. X equals your max play points.\n----------\nThis can't have more than 7 battery counters.\n【Act】 【Costx】, 【Engage】, remove X battery counters from this: Search your deck for a Geo Theogonia follower not named Croce that costs X or less, summon it, then shuffle.",
+    "keywords": [
+      "Ub",
+      "Fanfare",
+      "Act",
+      "Costx",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Geo Theogonia"
+    ],
+    "cardno": "CP04-117EN",
+    "img": "CP04/CP04-117EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-115": "CP04-117EN",
+      "CP04-P87": "CP04-P87EN"
+    }
+  },
+  "CP04-116": {
+    "name": "Kasumi",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Put a PriConne card from your hand into your EX area: Look at the top 2 cards of your deck. Put any number of them on the top of your deck in any order. Put the rest on the bottom in any order.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Caon"
+    ],
+    "cardno": "CP04-118EN",
+    "img": "CP04/CP04-118EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-116": "CP04-118EN",
+      "CP04-P88": "CP04-P88EN",
+      "PR-504": "PR-516EN"
+    }
+  },
+  "CP04-117": {
+    "name": "Kasumi",
+    "text": "【Ub】 On Evolve - Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Caon"
+    ],
+    "cardno": "CP04-119EN",
+    "img": "CP04/CP04-119EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-117": "CP04-119EN",
+      "CP04-P89": "CP04-P89EN"
+    }
+  },
+  "CP04-118": {
+    "name": "Call of the Guild",
+    "text": "Look at the top 4 cards of your deck. You may put a PriConne follower from among them into your EX area. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Guild Association"
+    ],
+    "cardno": "CP04-P90EN",
+    "img": "CP04/CP04-P90EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-118": "CP04-P90EN"
+    }
+  },
+  "CP04-119": {
+    "name": "Ayumi",
+    "text": "【Ub】 Strike - Select an enemy follower on the field. It doesn't refresh during its controller's next start phase.",
+    "keywords": [
+      "Ub"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne",
+      "Weissflugel"
+    ],
+    "cardno": "CP04-P91EN",
+    "img": "CP04/CP04-P91EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "CP04-119": "CP04-P91EN"
+    }
+  },
   "CSD01-007": {
     "name": "Tazuna Hayakawa [Tracen Reception]",
     "text": "Ward. (This follower can be engaged when it's put onto your field or during your end phase. When followers with Ward are engaged, your opponent can only attack them.)\n【Fanfare】 Select an Umamusume follower or Umamusume amulet that costs 4 play points or less in your cemetery and put it onto your field.",
@@ -58178,23 +60989,6 @@
     "prints": {
       "BP03-016": "BP03-016EN",
       "BP03-P05": "BP03-P05EN"
-    }
-  },
-  "PR-559": {
-    "name": "Avant Blader",
-    "text": "On Evolve: Search your deck for up to 2 Officer followers, reveal them, and add them to your hand.",
-    "keywords": [],
-    "card_type": [
-      "Follower",
-      "Evolved"
-    ],
-    "trait_en": [
-      "Commander"
-    ],
-    "cardno": "PR-112EN",
-    "img": "PR/PR-112EN.webp",
-    "prints": {
-      "PR-559": "PR-112EN"
     }
   },
   "SD01-001": {
