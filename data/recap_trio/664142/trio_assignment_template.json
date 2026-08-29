@@ -1,0 +1,236 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "4d30feed",
+      "source_id": "f29e57",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 29
+    },
+    {
+      "archetype_id": "84d77c93",
+      "source_id": "7fd5df",
+      "name": "ミッドレンジロイヤル",
+      "class": "ロイヤル",
+      "count": 24
+    },
+    {
+      "archetype_id": "0ebedcbf",
+      "source_id": "36205b",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 16
+    },
+    {
+      "archetype_id": "2e44a704",
+      "source_id": "6d2a2b",
+      "name": "武装ドラゴン",
+      "class": "ドラゴン",
+      "count": 8
+    },
+    {
+      "archetype_id": "f0a833d3",
+      "source_id": "b28ae9",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 5
+    },
+    {
+      "archetype_id": "90e342cd",
+      "source_id": "8a082c",
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "count": 3
+    },
+    {
+      "archetype_id": "d9cea956",
+      "source_id": "0ac30e",
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "count": 2
+    },
+    {
+      "archetype_id": "1d721cd0",
+      "source_id": "e2e949",
+      "name": "狩人エルフ",
+      "class": "エルフ",
+      "count": 2
+    },
+    {
+      "archetype_id": "255d56e6",
+      "source_id": "c1e59c",
+      "name": "アイドルウィッチ",
+      "class": "ウィッチ",
+      "count": 1
+    },
+    {
+      "archetype_id": "0e3dc0e3",
+      "source_id": "8b9476",
+      "name": "2コスナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "2b8b367d",
+      "source_id": "c0b97b",
+      "name": "自然スペルエルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "6e8d7e3d",
+      "source_id": "f1167c",
+      "name": "童話ビショップ",
+      "class": "ビショップ",
+      "count": 1
+    }
+  ],
+  "unassigned": [
+    {
+      "class": "ドラゴン",
+      "id": "ドラゴン_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "56BT6",
+          "date": "2024-05-03",
+          "player": "ヘタヲ",
+          "order": "B",
+          "best_sim": 0.4162,
+          "best_match": "c2a6eb",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "c2a6eb",
+              "name": "ランプドラゴン",
+              "sim": 0.4162
+            },
+            {
+              "archetype_id": "8a082c",
+              "name": "武闘竜人ドラゴン",
+              "sim": 0.2729
+            },
+            {
+              "archetype_id": "6d2a2b",
+              "name": "武装ドラゴン",
+              "sim": 0.2683
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ナイトメア",
+      "id": "ナイトメア_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "UEP8",
+          "date": "2024-05-03",
+          "player": "ちーたら",
+          "order": "C",
+          "best_sim": 0.0805,
+          "best_match": "36205b",
+          "_flag": "unassigned",
+          "candidates": [
+            {
+              "archetype_id": "36205b",
+              "name": "吸血鬼ナイトメア",
+              "sim": 0.0805
+            },
+            {
+              "archetype_id": "448ac4",
+              "name": "真紅ナイトメア",
+              "sim": 0.079
+            },
+            {
+              "archetype_id": "8b9476",
+              "name": "2コスナイトメア",
+              "sim": 0.0769
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "ビショップ",
+      "id": "ビショップ_その他",
+      "count": 1,
+      "sample_decks": [
+        {
+          "deck_id": "6L50U",
+          "date": "2024-05-03",
+          "player": "コタロー",
+          "order": "B",
+          "best_sim": 0.4499,
+          "best_match": "707464",
+          "_flag": "low_confidence",
+          "candidates": [
+            {
+              "archetype_id": "707464",
+              "name": "アミュレットビショップ",
+              "sim": 0.4499
+            },
+            {
+              "archetype_id": "263e3e",
+              "name": "機械守護ビショップ",
+              "sim": 0.1625
+            },
+            {
+              "archetype_id": "f1167c",
+              "name": "童話ビショップ",
+              "sim": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split '土ウィッチ': decks matching required cards → new archetype",
+        "source": "f29e57",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "ドラゴン_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "f29e57"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "7fd5df"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'ドラゴン_その他' (entire unassigned group) + '土ウィッチ' into one archetype",
+        "sources": [
+          "ドラゴン_その他",
+          "f29e57"
+        ],
+        "class": "ウィッチ",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

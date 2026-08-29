@@ -1,0 +1,266 @@
+{
+  "context": "920539",
+  "ref_period": "2024-11-04~2024-11-17",
+  "total_decks": 96,
+  "total_teams": 32,
+  "total_winners": 3,
+  "total_finalists": 6,
+  "event_id": "920539",
+  "archetypes": [
+    {
+      "id": "c620a197",
+      "source_id": "9692be",
+      "name": "かげろう",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 30,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.3125,
+      "win_share": 0.3333,
+      "top_cards": [
+        "ドラゴニック・オーバーロード",
+        "ドラゴニック・オーバーロード・ジ・エンド",
+        "ドラゴンナイト アリフ"
+      ],
+      "top8_finish": 8
+    },
+    {
+      "id": "45af8fa6",
+      "source_id": "2417c9",
+      "name": "荒野ロイヤル",
+      "class": "ロイヤル",
+      "count": 23,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.2396,
+      "win_share": 0.3333,
+      "top_cards": [
+        "ファントムデュオ・バニー＆バロン",
+        "ラディカルガンスリンガー",
+        "自由なる冒険者"
+      ],
+      "top8_finish": 6
+    },
+    {
+      "id": "460f9861",
+      "source_id": "6c9875",
+      "name": "自然ドラゴン",
+      "class": "ドラゴン",
+      "count": 10,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.1042,
+      "win_share": 0.0,
+      "top_cards": [
+        "呪われし影・ヴァイディ",
+        "波濤のプレシオサウルス",
+        "ドラゴニックレイジ"
+      ],
+      "top8_finish": 3
+    },
+    {
+      "id": "bca75c53",
+      "source_id": "8f8ed2",
+      "name": "NCナイトメア2",
+      "class": "ナイトメア",
+      "count": 6,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0625,
+      "win_share": 0.0,
+      "top_cards": [
+        "ストレイホロウ・イルガンノ",
+        "死期を視るもの・グレモリー",
+        "異形"
+      ],
+      "top8_finish": 2
+    },
+    {
+      "id": "caf72bcd",
+      "source_id": "304b19",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 6,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0625,
+      "win_share": 0.0,
+      "top_cards": [
+        "真紅の抗戦者・モノ",
+        "ファースト・ワン",
+        "紫紺の抵抗者・エンネア"
+      ],
+      "top8_finish": 0
+    },
+    {
+      "id": "259c7a37",
+      "source_id": "3b1ecb",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 5,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0521,
+      "win_share": 0.3333,
+      "top_cards": [
+        "永劫を求む者・ケリドウェン",
+        "真実の究明者・ファウスト",
+        "エレメントシャーマン・ライリー"
+      ],
+      "top8_finish": 1
+    },
+    {
+      "id": "61ee3434",
+      "source_id": "1db018",
+      "name": "超越ウィッチ1",
+      "class": "ウィッチ",
+      "count": 5,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0521,
+      "win_share": 0.0,
+      "top_cards": [
+        "ラピッドファイア",
+        "あどけない飛沫・プリス",
+        "インフィニットウィッチ・ドロシー"
+      ],
+      "top8_finish": 1
+    },
+    {
+      "id": "894f3060",
+      "source_id": "f9f7b4",
+      "name": "自然エルフ",
+      "class": "エルフ",
+      "count": 3,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0312,
+      "win_share": 0.0,
+      "top_cards": [
+        "回帰する抱擁・ラティカ",
+        "鋼鉄と大地の神",
+        "大いなる回帰"
+      ],
+      "top8_finish": 1
+    },
+    {
+      "id": "9bed1c24",
+      "source_id": "6f21ff",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0208,
+      "win_share": 0.0,
+      "top_cards": [
+        "王たる光・ベイリオン",
+        "母なる君",
+        "王の一閃"
+      ],
+      "top8_finish": 1
+    },
+    {
+      "id": "2a8bded0",
+      "source_id": "c087d0",
+      "name": "機械ウィッチ",
+      "class": "ウィッチ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0104,
+      "win_share": 0.0,
+      "top_cards": [
+        "天地の侵略者・ベルフォメット",
+        "蒼の反逆者・テトラ",
+        "ソニック・フォー"
+      ],
+      "top8_finish": 1
+    },
+    {
+      "id": "c6a534bd",
+      "source_id": "d818e7",
+      "name": "ミッドレンジロイヤル",
+      "class": "ロイヤル",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0104,
+      "win_share": 0.0,
+      "top_cards": [
+        "黄昏の刃・ナノ",
+        "ミストバトラー・リルエ",
+        "ミストメイド・シーナ"
+      ],
+      "top8_finish": 0
+    },
+    {
+      "id": "9da797d0",
+      "source_id": "194ffa",
+      "name": "童話エルフ",
+      "class": "エルフ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0104,
+      "win_share": 0.0,
+      "top_cards": [
+        "揺蕩う意志・スピネ",
+        "クラッシュインセクト",
+        "追い風の妖精"
+      ],
+      "top8_finish": 0
+    },
+    {
+      "id": "51c16695",
+      "source_id": "5d6cc1",
+      "name": "荒野エルフ",
+      "class": "エルフ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0104,
+      "win_share": 0.0,
+      "top_cards": [
+        "人形の少女・オーキス",
+        "自由なる冒険者",
+        "レヴィールの無法者"
+      ],
+      "top8_finish": 0
+    },
+    {
+      "id": "5d760c86",
+      "source_id": "e89024",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0104,
+      "win_share": 0.0,
+      "top_cards": [
+        "吸血姫・ヴァンピィ",
+        "闇夜の姫・ヴァンピィ",
+        "眷属への贈り物"
+      ],
+      "top8_finish": 0
+    },
+    {
+      "id": "0d261907",
+      "source_id": "adad06",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0104,
+      "win_share": 0.0,
+      "top_cards": [
+        "メルティングシュガー・セリーナ",
+        "双砲の神罰・アンヴェルト",
+        "炎氷の司祭・カラト"
+      ],
+      "top8_finish": 0
+    }
+  ]
+}

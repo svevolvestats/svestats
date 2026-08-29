@@ -1,0 +1,3660 @@
+{
+  "3fd0d899": {
+    "name": "侮蔑ドラゴン",
+    "class": "ドラゴン",
+    "source_id": "e2255a",
+    "cards": {
+      "侮蔑の炎爪": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "侮蔑の国": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "侮蔑の祈祷者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "蒼炎の猛威": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "烈絶の顕現・ガルミーユ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "侮蔑の絶傑・ガルミーユ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "烈絶の侮蔑・ガルミーユ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.447
+      },
+      "烈絶の崇拝者": {
+        "avg": 2.8929,
+        "ratio": 1.0,
+        "rank": 0.429
+      },
+      "侮蔑の団結者": {
+        "avg": 2.6071,
+        "ratio": 0.9643,
+        "rank": 0.44
+      },
+      "侮蔑の狂信者": {
+        "avg": 2.3929,
+        "ratio": 0.9643,
+        "rank": 0.508
+      },
+      "灯火の烈絶": {
+        "avg": 2.3214,
+        "ratio": 0.9643,
+        "rank": 0.36
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.5714,
+        "ratio": 0.7143,
+        "rank": 0.46
+      },
+      "侮蔑の使徒": {
+        "avg": 1.25,
+        "ratio": 0.7143,
+        "rank": 0.587
+      },
+      "侮蔑の継承者・アジュラフリート": {
+        "avg": 1.0357,
+        "ratio": 0.6071,
+        "rank": 0.0
+      },
+      "侮蔑の嘲笑": {
+        "avg": 0.9643,
+        "ratio": 0.6786,
+        "rank": 0.475
+      },
+      "侮蔑の隠者": {
+        "avg": 0.8571,
+        "ratio": 0.4286,
+        "rank": 0.245
+      },
+      "いつか、また会う未来で": {
+        "avg": 0.1429,
+        "ratio": 0.0714,
+        "rank": 0.659
+      },
+      "ブレイジングブレス": {
+        "avg": 0.0714,
+        "ratio": 0.0357,
+        "rank": 1.0
+      }
+    },
+    "evolve_cards": {
+      "侮蔑の絶傑・ガルミーユ": {
+        "avg": 2.4643,
+        "ratio": 1.0
+      },
+      "烈絶の崇拝者": {
+        "avg": 2.0714,
+        "ratio": 1.0
+      },
+      "侮蔑の祈祷者": {
+        "avg": 1.9286,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.4643,
+        "ratio": 0.7143
+      },
+      "侮蔑の使徒": {
+        "avg": 1.1071,
+        "ratio": 0.7143
+      },
+      "侮蔑の継承者・アジュラフリート": {
+        "avg": 0.9643,
+        "ratio": 0.6071
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "4W3CR",
+        "rank": 1,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ゆーま",
+        "friend_code": "RKGDQ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "運王",
+        "order": "B",
+        "prelim_rank": 28,
+        "variant_cards": [
+          {
+            "name": "ブレイジングブレス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1W2YVJ",
+        "rank": 2,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "マルモリ",
+        "friend_code": "MIYCH",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "MLM",
+        "order": "C",
+        "prelim_rank": 27
+      },
+      {
+        "event": "1723740",
+        "deck_id": "HPFAC",
+        "rank": 3,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "あさると",
+        "friend_code": "VSKYR",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "喫茶「朝の月」",
+        "order": "C",
+        "prelim_rank": 17,
+        "variant_cards": [
+          {
+            "name": "いつか、また会う未来で",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "EY1YQ",
+        "rank": 6,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "鴉",
+        "friend_code": "VNTIV",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ポナーズ突撃部隊",
+        "order": "A",
+        "prelim_rank": 8
+      },
+      {
+        "event": "1723740",
+        "deck_id": "T09BW",
+        "rank": 7,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "新名（にいな）",
+        "friend_code": "QYKDW",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "がわ船",
+        "order": "A",
+        "prelim_rank": 13
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1Q18SQ",
+        "rank": 8,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ちゃん",
+        "friend_code": "ATMFW",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "無限部",
+        "order": "C",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "灯火の烈絶",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1H7HF6",
+        "rank": 9,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "えりしゅ",
+        "friend_code": "NIZYL",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "運王@@@1",
+        "order": "B",
+        "prelim_rank": 10
+      },
+      {
+        "event": "1723740",
+        "deck_id": "4CFYF",
+        "rank": 10,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "えび",
+        "friend_code": "OQKJN",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "冷笑",
+        "order": "B",
+        "prelim_rank": 19
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1R4J12",
+        "rank": 12,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "まんまる",
+        "friend_code": "ZJEJW",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "そら豆組",
+        "order": "A",
+        "prelim_rank": 22
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1H7CBN",
+        "rank": 11,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "なぼる",
+        "friend_code": "JOEOY",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "平安堂は長野だけ！",
+        "order": "B",
+        "prelim_rank": 21,
+        "variant_cards": [
+          {
+            "name": "いつか、また会う未来で",
+            "flag": "in"
+          },
+          {
+            "name": "侮蔑の団結者",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1SSUNY",
+        "rank": 14,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "すろあ",
+        "friend_code": "TAMDK",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "溝の口ハウス",
+        "order": "C",
+        "prelim_rank": 29
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1W261S",
+        "rank": 13,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "kai",
+        "friend_code": "JJZLZ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "大阪エボ大の会",
+        "order": "C",
+        "prelim_rank": 24
+      },
+      {
+        "event": "1723740",
+        "deck_id": "ARC8Y",
+        "rank": 16,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "じゃこん",
+        "friend_code": "HLYJO",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "1bay取り行く！",
+        "order": "B",
+        "prelim_rank": 32
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1WB7RW",
+        "rank": 15,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "がるど",
+        "friend_code": "XSFNP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "BOW AND ARROW",
+        "order": "A",
+        "prelim_rank": 31,
+        "variant_cards": [
+          {
+            "name": "侮蔑の狂信者",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "15THG0",
+        "rank": 17,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "イトコン",
+        "friend_code": "EWKER",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "チームたこ焼きハフハフMB",
+        "order": "C",
+        "prelim_rank": 1
+      },
+      {
+        "event": "1723740",
+        "deck_id": "SPDTJ",
+        "rank": 18,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "アイギス",
+        "friend_code": "ZPDJP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "パイセンハウス",
+        "order": "C",
+        "prelim_rank": 2
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1PW4Y4",
+        "rank": 19,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "りぱ",
+        "friend_code": "WUJLQ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "月見で一杯",
+        "order": "C",
+        "prelim_rank": 3
+      },
+      {
+        "event": "1723740",
+        "deck_id": "LZE2L",
+        "rank": 20,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "アイダホ",
+        "friend_code": "YAEIL",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "むっしゃーず",
+        "order": "C",
+        "prelim_rank": 4
+      },
+      {
+        "event": "1723740",
+        "deck_id": "TR2FN",
+        "rank": 22,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "アマエビ",
+        "friend_code": "ALQTY",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "桔梗信玄餅",
+        "order": "C",
+        "prelim_rank": 6
+      },
+      {
+        "event": "1723740",
+        "deck_id": "2E5JJ8",
+        "rank": 23,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "マオテラス",
+        "friend_code": "KGNRP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "デジャヴパニック",
+        "order": "C",
+        "prelim_rank": 9
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1J4NFW",
+        "rank": 24,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "クロ",
+        "friend_code": "MJMBV",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "デッパツですわ〜！",
+        "order": "A",
+        "prelim_rank": 11
+      },
+      {
+        "event": "1723740",
+        "deck_id": "K66XE",
+        "rank": 27,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "アイル",
+        "friend_code": "QTKQW",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "マナリア魔法学院着衣麻雀部",
+        "order": "B",
+        "prelim_rank": 15
+      },
+      {
+        "event": "1723740",
+        "deck_id": "D4Z5J",
+        "rank": 26,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "おら",
+        "friend_code": "JJYYH",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "オニオン軍団",
+        "order": "B",
+        "prelim_rank": 14
+      },
+      {
+        "event": "1723740",
+        "deck_id": "284KJC",
+        "rank": 29,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "バッハ武藤",
+        "friend_code": "SEBRK",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "†終焉の地†",
+        "order": "C",
+        "prelim_rank": 20
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1R5N28",
+        "rank": 28,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "アクセル/alucarD",
+        "friend_code": "MJHKL",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "かずんハウス支店",
+        "order": "B",
+        "prelim_rank": 16
+      },
+      {
+        "event": "1723740",
+        "deck_id": "JZTPS",
+        "rank": 21,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "タロー",
+        "friend_code": "WJCIH",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ラッキーストライク",
+        "order": "A",
+        "prelim_rank": 5
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1P9Q0U",
+        "rank": 30,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "6無きダイスに終焉を",
+        "friend_code": "YQCWW",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ポテトの長さ比べ",
+        "order": "A",
+        "prelim_rank": 23
+      },
+      {
+        "event": "1723740",
+        "deck_id": "19YTY0",
+        "rank": 31,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "関東",
+        "friend_code": "MEFGY",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "グルームヘイヴン",
+        "order": "B",
+        "prelim_rank": 25
+      }
+    ]
+  },
+  "6b2fcce9": {
+    "name": "レヴィオンロイヤル",
+    "class": "ロイヤル",
+    "source_id": "77a0df",
+    "cards": {
+      "レヴィオンの魔術師・ミイム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンの見習い・ルネス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "テンタクルバイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "約束の栄光・ガウェイン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンアックス・ジェノ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンの副団長・マイム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンの弓使い": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンの超越者・ユリウス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンの迅雷・アルベール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.539
+      },
+      "レヴィオンの武闘家・メイム": {
+        "avg": 2.963,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "暴威の武人・ジェノ": {
+        "avg": 2.963,
+        "ratio": 1.0,
+        "rank": 0.562
+      },
+      "レヴィオンシスターズ登場！": {
+        "avg": 2.9259,
+        "ratio": 1.0,
+        "rank": 0.556
+      },
+      "刹那のクイックブレイダー": {
+        "avg": 1.4074,
+        "ratio": 0.6296,
+        "rank": 0.614
+      },
+      "レヴィオンデューク・ユリウス": {
+        "avg": 0.8889,
+        "ratio": 0.6667,
+        "rank": 0.698
+      },
+      "スパルタクス": {
+        "avg": 0.4815,
+        "ratio": 0.4444,
+        "rank": 0.346
+      },
+      "レヴィオンの正義": {
+        "avg": 0.4074,
+        "ratio": 0.3333,
+        "rank": 0.0
+      },
+      "雷滅卿・アルベール": {
+        "avg": 0.3704,
+        "ratio": 0.3704,
+        "rank": 0.561
+      },
+      "月の刃・リオード": {
+        "avg": 0.1481,
+        "ratio": 0.0741,
+        "rank": 0.4
+      },
+      "華の大将・タケツミ": {
+        "avg": 0.0741,
+        "ratio": 0.037,
+        "rank": 0.873
+      },
+      "妖刀の鬼・ツバキ": {
+        "avg": 0.0741,
+        "ratio": 0.0741,
+        "rank": 0.463
+      },
+      "レオニダス": {
+        "avg": 0.0741,
+        "ratio": 0.037,
+        "rank": 0.326
+      },
+      "レヴィオンヴァンガード・ジェノ": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 1.0
+      },
+      "戦場の記録": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.714
+      },
+      "レヴィオンセイバー・アルベール": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.714
+      },
+      "死地からの生還": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.571
+      },
+      "レヴィオンの探索者": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.427
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.427
+      }
+    },
+    "evolve_cards": {
+      "レヴィオンの見習い・ルネス": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "レヴィオンの副団長・マイム": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "刹那のクイックブレイダー": {
+        "avg": 1.8148,
+        "ratio": 0.6667
+      },
+      "雷滅卿・アルベール": {
+        "avg": 0.8519,
+        "ratio": 0.6296
+      },
+      "音速の機構・ララミア": {
+        "avg": 0.1852,
+        "ratio": 0.1111
+      },
+      "月の刃・リオード": {
+        "avg": 0.1481,
+        "ratio": 0.0741
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 0.1111,
+        "ratio": 0.037
+      },
+      "レヴィオンセイバー・アルベール": {
+        "avg": 0.1111,
+        "ratio": 0.1111
+      },
+      "楽園の開闢・タケツミ": {
+        "avg": 0.1111,
+        "ratio": 0.0741
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 0.1111,
+        "ratio": 0.0741
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 0.0741,
+        "ratio": 0.037
+      },
+      "レオニダス": {
+        "avg": 0.0741,
+        "ratio": 0.037
+      },
+      "レヴィオンヴァンガード・ジェノ": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "出航の咎人・バルバロス": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "ペコリーヌ": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "海底都市王・乙姫": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "勇気に満ちし者": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "絶大の顕現・マゼルベイン": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "流転の統治者・ゼラエル": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "松山久美子": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "ジェンティルドンナ": {
+        "avg": 0.037,
+        "ratio": 0.037
+      },
+      "古の英雄": {
+        "avg": 0.037,
+        "ratio": 0.037
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "QB2Q8",
+        "rank": 2,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "MITO",
+        "friend_code": "FUBCS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "MLM",
+        "order": "A",
+        "prelim_rank": 27,
+        "variant_cards": [
+          {
+            "name": "レヴィオンヴァンガード・ジェノ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "145H72",
+        "rank": 3,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "落茶葉",
+        "friend_code": "DTIJL",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "喫茶「朝の月」",
+        "order": "B",
+        "prelim_rank": 17
+      },
+      {
+        "event": "1723740",
+        "deck_id": "HYQYQ",
+        "rank": 4,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "かにけん",
+        "friend_code": "OSCLS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "新時代の扉",
+        "order": "B",
+        "prelim_rank": 18
+      },
+      {
+        "event": "1723740",
+        "deck_id": "GXJFJ",
+        "rank": 6,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ponanz",
+        "friend_code": "QWTTS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ポナーズ突撃部隊",
+        "order": "C",
+        "prelim_rank": 8,
+        "variant_cards": [
+          {
+            "name": "戦場の記録",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "BLEZJ",
+        "rank": 7,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "えんがわ",
+        "friend_code": "HMCYH",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "がわ船",
+        "order": "C",
+        "prelim_rank": 13
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1AMLGU",
+        "rank": 8,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "雛森",
+        "friend_code": "LPDWF",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "無限部",
+        "order": "B",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "華の大将・タケツミ",
+            "flag": "in"
+          },
+          {
+            "name": "レヴィオンセイバー・アルベール",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "Z54W8",
+        "rank": 10,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "トラ",
+        "friend_code": "PBYJV",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "冷笑",
+        "order": "C",
+        "prelim_rank": 19
+      },
+      {
+        "event": "1723740",
+        "deck_id": "2N697J",
+        "rank": 11,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ぺぺぷ",
+        "friend_code": "RVMQH",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "平安堂は長野だけ！",
+        "order": "C",
+        "prelim_rank": 21,
+        "variant_cards": [
+          {
+            "name": "妖刀の鬼・ツバキ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "KBS64",
+        "rank": 13,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "もも",
+        "friend_code": "IABFW",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "大阪エボ大の会",
+        "order": "A",
+        "prelim_rank": 24
+      },
+      {
+        "event": "1723740",
+        "deck_id": "150K8Y",
+        "rank": 16,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "きど",
+        "friend_code": "GLISE",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "1bay取り行く！",
+        "order": "C",
+        "prelim_rank": 32,
+        "variant_cards": [
+          {
+            "name": "死地からの生還",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1AEY1J",
+        "rank": 15,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ちょびたんく",
+        "friend_code": "XGBQS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "BOW AND ARROW",
+        "order": "B",
+        "prelim_rank": 31,
+        "variant_cards": [
+          {
+            "name": "月の刃・リオード",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "HT1S0",
+        "rank": 17,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "みのすけ",
+        "friend_code": "YTKPZ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "チームたこ焼きハフハフMB",
+        "order": "B",
+        "prelim_rank": 1,
+        "variant_cards": [
+          {
+            "name": "レヴィオンの探索者",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1CUG6Y",
+        "rank": 18,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "Emilia",
+        "friend_code": "GBJFD",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "パイセンハウス",
+        "order": "B",
+        "prelim_rank": 2
+      },
+      {
+        "event": "1723740",
+        "deck_id": "RN1XN",
+        "rank": 19,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "みみずくさん",
+        "friend_code": "VUYGM",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "月見で一杯",
+        "order": "B",
+        "prelim_rank": 3
+      },
+      {
+        "event": "1723740",
+        "deck_id": "J577J",
+        "rank": 20,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "はや太郎",
+        "friend_code": "DAAWC",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "むっしゃーず",
+        "order": "B",
+        "prelim_rank": 4
+      },
+      {
+        "event": "1723740",
+        "deck_id": "R51ME",
+        "rank": 22,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "なつくら",
+        "friend_code": "CSDVB",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "桔梗信玄餅",
+        "order": "B",
+        "prelim_rank": 6,
+        "variant_cards": [
+          {
+            "name": "月の刃・リオード",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1JVQQC",
+        "rank": 23,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "kai_nashi",
+        "friend_code": "NFVNR",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "デジャヴパニック",
+        "order": "B",
+        "prelim_rank": 9
+      },
+      {
+        "event": "1723740",
+        "deck_id": "BY492",
+        "rank": 24,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "相川",
+        "friend_code": "ZXBDS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "デッパツですわ〜！",
+        "order": "C",
+        "prelim_rank": 11
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1AMV4Y",
+        "rank": 25,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ボン",
+        "friend_code": "WKXKC",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "らりぃ軍団",
+        "order": "B",
+        "prelim_rank": 12
+      },
+      {
+        "event": "1723740",
+        "deck_id": "2L0EYC",
+        "rank": 27,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "らすく",
+        "friend_code": "TEAPM",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "マナリア魔法学院着衣麻雀部",
+        "order": "C",
+        "prelim_rank": 15
+      },
+      {
+        "event": "1723740",
+        "deck_id": "ZX08G",
+        "rank": 26,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "シミー",
+        "friend_code": "JXPKB",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "オニオン軍団",
+        "order": "A",
+        "prelim_rank": 14,
+        "variant_cards": [
+          {
+            "name": "妖刀の鬼・ツバキ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "11E9B2",
+        "rank": 29,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "プレミメーカー",
+        "friend_code": "OIXDI",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "†終焉の地†",
+        "order": "B",
+        "prelim_rank": 20
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1R8WQ4",
+        "rank": 28,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "きたち",
+        "friend_code": "OVLBI",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "かずんハウス支店",
+        "order": "A",
+        "prelim_rank": 16,
+        "variant_cards": [
+          {
+            "name": "勇壮の堕天使・オリヴィエ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "ZB132",
+        "rank": 21,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "りん",
+        "friend_code": "DTCBO",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ラッキーストライク",
+        "order": "B",
+        "prelim_rank": 5
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1UHQQ4",
+        "rank": 30,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "Kaito",
+        "friend_code": "YWGGO",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ポテトの長さ比べ",
+        "order": "B",
+        "prelim_rank": 23
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1W6H00",
+        "rank": 31,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ハセベ",
+        "friend_code": "AAYQB",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "グルームヘイヴン",
+        "order": "A",
+        "prelim_rank": 25,
+        "variant_cards": [
+          {
+            "name": "レオニダス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "CV86L",
+        "rank": 32,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "Saika",
+        "friend_code": "QAXLQ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "W星雲連合",
+        "order": "C",
+        "prelim_rank": 26
+      }
+    ]
+  },
+  "ee2cfa6b": {
+    "name": "人形エルフ",
+    "class": "エルフ",
+    "source_id": "56d1f2",
+    "cards": {
+      "ジャンク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "パペットインヴァース": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "シンフォニアハート・ツヴァイ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "人形の支配者・リーアム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "プロシードハート・オーキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "無謬の偶像・ライル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "人形の少女・オーキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "ドールズトレーニング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.354
+      },
+      "心有る共闘": {
+        "avg": 2.8889,
+        "ratio": 1.0,
+        "rank": 0.252
+      },
+      "小さな勇士・スクナ": {
+        "avg": 2.2222,
+        "ratio": 0.8889,
+        "rank": 0.197
+      },
+      "はぐれの人形使い": {
+        "avg": 2.2222,
+        "ratio": 0.8889,
+        "rank": 0.498
+      },
+      "対空射撃": {
+        "avg": 1.8889,
+        "ratio": 0.8889,
+        "rank": 0.105
+      },
+      "剪定の咎人・マガチヨ": {
+        "avg": 1.7778,
+        "ratio": 0.8889,
+        "rank": 0.418
+      },
+      "アナスタシア": {
+        "avg": 1.3333,
+        "ratio": 0.6667,
+        "rank": 0.307
+      },
+      "絡繰り給仕": {
+        "avg": 1.1111,
+        "ratio": 0.4444,
+        "rank": 0.311
+      },
+      "不吉の人形師": {
+        "avg": 0.8889,
+        "ratio": 0.4444,
+        "rank": 0.487
+      },
+      "〔渚の花嫁〕新田美波": {
+        "avg": 0.7778,
+        "ratio": 0.4444,
+        "rank": 0.0
+      },
+      "揺蕩う意志・スピネ": {
+        "avg": 0.4444,
+        "ratio": 0.4444,
+        "rank": 0.329
+      },
+      "狂気の創造者・リーアム": {
+        "avg": 0.2222,
+        "ratio": 0.1111,
+        "rank": 1.0
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 0.2222,
+        "ratio": 0.1111,
+        "rank": 1.0
+      }
+    },
+    "evolve_cards": {
+      "無謬の偶像・ライル": {
+        "avg": 2.7778,
+        "ratio": 1.0
+      },
+      "決意の人形・オーキス": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "剪定の咎人・マガチヨ": {
+        "avg": 1.7778,
+        "ratio": 0.8889
+      },
+      "小さな勇士・スクナ": {
+        "avg": 1.5556,
+        "ratio": 0.8889
+      },
+      "絡繰り給仕": {
+        "avg": 0.7778,
+        "ratio": 0.4444
+      },
+      "不吉の人形師": {
+        "avg": 0.6667,
+        "ratio": 0.4444
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 0.1111,
+        "ratio": 0.1111
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "2Y5CXW",
+        "rank": 4,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "狐花",
+        "friend_code": "FRFFP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "新時代の扉",
+        "order": "C",
+        "prelim_rank": 18,
+        "variant_cards": [
+          {
+            "name": "狂気の創造者・リーアム",
+            "flag": "in"
+          },
+          {
+            "name": "凍土の女王・ピアシィ",
+            "flag": "in"
+          },
+          {
+            "name": "対空射撃",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "19L82G",
+        "rank": 12,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "sinto",
+        "friend_code": "KQGZA",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "そら豆組",
+        "order": "B",
+        "prelim_rank": 22
+      },
+      {
+        "event": "1723740",
+        "deck_id": "17H60C",
+        "rank": 11,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "守護神",
+        "friend_code": "SFQAP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "平安堂は長野だけ！",
+        "order": "A",
+        "prelim_rank": 21
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1463Y0",
+        "rank": 17,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "sakana",
+        "friend_code": "ULGMG",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "チームたこ焼きハフハフMB",
+        "order": "A",
+        "prelim_rank": 1,
+        "variant_cards": [
+          {
+            "name": "剪定の咎人・マガチヨ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1F11MN",
+        "rank": 18,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "MK",
+        "friend_code": "UUGLC",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "パイセンハウス",
+        "order": "A",
+        "prelim_rank": 2
+      },
+      {
+        "event": "1723740",
+        "deck_id": "2H2KGG",
+        "rank": 23,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "かまきり",
+        "friend_code": "TVCXK",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "デジャヴパニック",
+        "order": "A",
+        "prelim_rank": 9
+      },
+      {
+        "event": "1723740",
+        "deck_id": "KACJ8",
+        "rank": 26,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "こたか",
+        "friend_code": "XAWCE",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "オニオン軍団",
+        "order": "C",
+        "prelim_rank": 14,
+        "variant_cards": [
+          {
+            "name": "はぐれの人形使い",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1KQR1E",
+        "rank": 30,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "pa",
+        "friend_code": "ZRHZS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ポテトの長さ比べ",
+        "order": "C",
+        "prelim_rank": 23
+      },
+      {
+        "event": "1723740",
+        "deck_id": "CA52Y",
+        "rank": 31,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "カノウ",
+        "friend_code": "GCQLC",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "グルームヘイヴン",
+        "order": "C",
+        "prelim_rank": 25,
+        "variant_cards": [
+          {
+            "name": "小さな勇士・スクナ",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "81a5121a": {
+    "name": "アイドルウィッチ",
+    "class": "ウィッチ",
+    "source_id": "347845",
+    "cards": {
+      "破壊の隠者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "殲滅の歌声": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "破壊の荒野": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "奏絶の顕現・リーシェナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "破壊の祈祷者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "破壊の継承者・アクシア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "舞い戻る奏絶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "奏絶の破壊・リーシェナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "破壊の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "破壊の愉悦": {
+        "avg": 2.8571,
+        "ratio": 1.0,
+        "rank": 0.666
+      },
+      "破壊の従者": {
+        "avg": 2.8571,
+        "ratio": 1.0,
+        "rank": 0.091
+      },
+      "奏絶の崇拝者": {
+        "avg": 2.7143,
+        "ratio": 1.0,
+        "rank": 0.098
+      },
+      "白の章・黒の章": {
+        "avg": 2.1429,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.1429,
+        "ratio": 0.7143,
+        "rank": 0.965
+      },
+      "破壊の絶傑・リーシェナ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "破壊の団結者": {
+        "avg": 0.1429,
+        "ratio": 0.1429,
+        "rank": 0.878
+      },
+      "破壊の肯定者": {
+        "avg": 0.1429,
+        "ratio": 0.1429,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "破壊の継承者・アクシア": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "奏絶の破壊・リーシェナ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "破壊の従者": {
+        "avg": 2.7143,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.0,
+        "ratio": 0.7143
+      },
+      "真実の継承者・ヴェハリヤー": {
+        "avg": 0.1429,
+        "ratio": 0.1429
+      },
+      "破壊の肯定者": {
+        "avg": 0.1429,
+        "ratio": 0.1429
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "1R5WQC",
+        "rank": 2,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "レモルン",
+        "friend_code": "GLVZG",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "MLM",
+        "order": "B",
+        "prelim_rank": 27
+      },
+      {
+        "event": "1723740",
+        "deck_id": "10ZH1E",
+        "rank": 7,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "むった",
+        "friend_code": "ZNNCR",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "がわ船",
+        "order": "B",
+        "prelim_rank": 13,
+        "variant_cards": [
+          {
+            "name": "破壊の団結者",
+            "flag": "in"
+          },
+          {
+            "name": "干絶の飢餓・ギルネリーゼ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "UTLF2",
+        "rank": 12,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "azhdd",
+        "friend_code": "QORVF",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "そら豆組",
+        "order": "C",
+        "prelim_rank": 22
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1NKW12",
+        "rank": 16,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "セレン",
+        "friend_code": "FTMER",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "1bay取り行く！",
+        "order": "A",
+        "prelim_rank": 32
+      },
+      {
+        "event": "1723740",
+        "deck_id": "VT1U0",
+        "rank": 24,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "なまず",
+        "friend_code": "AREJJ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "デッパツですわ〜！",
+        "order": "B",
+        "prelim_rank": 11
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1Y70P",
+        "rank": 25,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "らりぃ",
+        "friend_code": "MGJMQ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "らりぃ軍団",
+        "order": "C",
+        "prelim_rank": 12
+      },
+      {
+        "event": "1723740",
+        "deck_id": "A790Q",
+        "rank": 29,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "あびぃ",
+        "friend_code": "EQIWN",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "†終焉の地†",
+        "order": "A",
+        "prelim_rank": 20,
+        "variant_cards": [
+          {
+            "name": "破壊の肯定者",
+            "flag": "in"
+          },
+          {
+            "name": "干絶の飢餓・ギルネリーゼ",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "49b9fe40": {
+    "name": "学院ナイトメア",
+    "class": "ナイトメア",
+    "source_id": "a5adc2",
+    "cards": {
+      "韋駄天のパシリ・マロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "魔眼のスケバン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "バッドスクールライフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "大いなる学び舎": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "煌奏の学徒・アンリエット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "極徒会表番・デナン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "バッドスピナー・アルカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "エンペラーフィスト・ガロム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "逢魔の校長・ヴォルガス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "屍術王・コルネリウス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.453
+      },
+      "奔放なる獄炎・ケルベロス": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.287
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.758
+      },
+      "デッドペナルティ": {
+        "avg": 1.5,
+        "ratio": 0.6667,
+        "rank": 1.0
+      },
+      "蛇殿の執行者・ゲノムエル": {
+        "avg": 1.1667,
+        "ratio": 0.6667,
+        "rank": 0.803
+      },
+      "ベルエンジェル・リア": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.0
+      },
+      "レジェンドティーチャー・ルシウス": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.093
+      },
+      "紅のワルツ": {
+        "avg": 0.5,
+        "ratio": 0.1667,
+        "rank": 0.154
+      },
+      "終幕の吸血鬼・ユリアス": {
+        "avg": 0.3333,
+        "ratio": 0.1667,
+        "rank": 0.23
+      },
+      "駆動の領域・グレティナ": {
+        "avg": 0.1667,
+        "ratio": 0.1667,
+        "rank": 0.326
+      }
+    },
+    "evolve_cards": {
+      "韋駄天のパシリ・マロン": {
+        "avg": 2.8333,
+        "ratio": 1.0
+      },
+      "屍術王・コルネリウス": {
+        "avg": 2.8333,
+        "ratio": 1.0
+      },
+      "バッドスピナー・アルカ": {
+        "avg": 2.1667,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.3333,
+        "ratio": 0.6667
+      },
+      "レジェンドティーチャー・ルシウス": {
+        "avg": 0.5,
+        "ratio": 0.3333
+      },
+      "終幕の吸血鬼・ユリアス": {
+        "avg": 0.3333,
+        "ratio": 0.1667
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "15TJBE",
+        "rank": 14,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ささぼー",
+        "friend_code": "VMKRI",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "溝の口ハウス",
+        "order": "B",
+        "prelim_rank": 29
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1UMNP6",
+        "rank": 19,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ぷっか",
+        "friend_code": "KQUYP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "月見で一杯",
+        "order": "A",
+        "prelim_rank": 3
+      },
+      {
+        "event": "1723740",
+        "deck_id": "J2YZ2",
+        "rank": 20,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "わんくろ",
+        "friend_code": "RCZDR",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "むっしゃーず",
+        "order": "A",
+        "prelim_rank": 4
+      },
+      {
+        "event": "1723740",
+        "deck_id": "PRF0Q",
+        "rank": 22,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "プルーン",
+        "friend_code": "OVJUM",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "桔梗信玄餅",
+        "order": "A",
+        "prelim_rank": 6,
+        "variant_cards": [
+          {
+            "name": "紅のワルツ",
+            "flag": "in"
+          },
+          {
+            "name": "終幕の吸血鬼・ユリアス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "10QP40",
+        "rank": 27,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "このん",
+        "friend_code": "ZCJWP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "マナリア魔法学院着衣麻雀部",
+        "order": "A",
+        "prelim_rank": 15,
+        "variant_cards": [
+          {
+            "name": "ベルエンジェル・リア",
+            "flag": "in"
+          },
+          {
+            "name": "レジェンドティーチャー・ルシウス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "BZMUY",
+        "rank": 32,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "れいと",
+        "friend_code": "WXGLS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "W星雲連合",
+        "order": "A",
+        "prelim_rank": 26,
+        "variant_cards": [
+          {
+            "name": "ベルエンジェル・リア",
+            "flag": "in"
+          },
+          {
+            "name": "レジェンドティーチャー・ルシウス",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "c0ed3c2c": {
+    "name": "コンボエルフ",
+    "class": "エルフ",
+    "source_id": "a49211",
+    "cards": {
+      "深緑の弓使い・アリサ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "不思議な青空・アリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "無謬の偶像・ライル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "〔渚の花嫁〕新田美波": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "ドールズトレーニング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.341
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.588
+      },
+      "パペットインヴァース": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.368
+      },
+      "マドロスエルフ": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "人形の少女・オーキス": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.236
+      },
+      "対空射撃": {
+        "avg": 2.0,
+        "ratio": 0.75,
+        "rank": 0.434
+      },
+      "剪定の咎人・マガチヨ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "アナスタシア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.434
+      },
+      "ねじまき売り子": {
+        "avg": 1.75,
+        "ratio": 0.75,
+        "rank": 0.475
+      },
+      "ジャンク": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 1.0
+      },
+      "自然の導き": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "無謬の偶像・ライル": {
+        "avg": 2.25,
+        "ratio": 1.0
+      },
+      "小さな勇士・スクナ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "剪定の咎人・マガチヨ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "決意の人形・オーキス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "マドロスエルフ": {
+        "avg": 1.75,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "MN7HJ",
+        "rank": 5,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "セブン",
+        "friend_code": "LTLEF",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ショクアリショクアリ",
+        "order": "A",
+        "prelim_rank": 7
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1G1M96",
+        "rank": 8,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "おにぎりボーイ",
+        "friend_code": "AZUJU",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "無限部",
+        "order": "A",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "ジャンク",
+            "flag": "in"
+          },
+          {
+            "name": "ねじまき売り子",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1JM8SU",
+        "rank": 10,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "きゃみー",
+        "friend_code": "AURGM",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "冷笑",
+        "order": "A",
+        "prelim_rank": 19,
+        "variant_cards": [
+          {
+            "name": "対空射撃",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1681YY",
+        "rank": 21,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ヒスイ",
+        "friend_code": "KAAIJ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ラッキーストライク",
+        "order": "C",
+        "prelim_rank": 5
+      }
+    ]
+  },
+  "27f17e21": {
+    "name": "財宝ロイヤル",
+    "class": "ロイヤル",
+    "source_id": "20edcd",
+    "cards": {
+      "海原の斥候": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アヴァリティア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "極意たる空絶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "荒波の副船長": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "空絶の顕現・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "空絶の崇拝者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "潮流の砲手": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "返還の剣閃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "空絶の簒奪・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "出航の咎人・バルバロス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "簒奪の従者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アサルトバンデッド": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "荒波の副船長": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "空絶の崇拝者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "出航の咎人・バルバロス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "1E4BDW",
+        "rank": 1,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "いおりぃ",
+        "friend_code": "DYMPY",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "運王",
+        "order": "A",
+        "prelim_rank": 28
+      },
+      {
+        "event": "1723740",
+        "deck_id": "2SSQM",
+        "rank": 9,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "パサン",
+        "friend_code": "RICPM",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "運王@@@1",
+        "order": "A",
+        "prelim_rank": 10
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1AHTMA",
+        "rank": 14,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "ナツメ",
+        "friend_code": "GLKTN",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "溝の口ハウス",
+        "order": "A",
+        "prelim_rank": 29
+      }
+    ]
+  },
+  "a893b0e8": {
+    "name": "学院ウィッチ",
+    "class": "ウィッチ",
+    "source_id": "30756c",
+    "cards": {
+      "御伽の姫・アマリリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "術式の教師・ジル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "グレアの炎熱": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "宿題やるですぅ！": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "マナリアの叡智": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "結びの紅蓮・グレア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "魔術の始祖・マナリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "マナリアパーティー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "破式の執行者・シュマエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "アドラブルティーチャー・ミラ": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.475
+      },
+      "魔術指南": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.475
+      },
+      "精彩の魔導・アン": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.09
+      },
+      "マナリアクイーン・アン": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.52
+      },
+      "アンの大魔法": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "次元の超越": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.347
+      },
+      "レグニスロード・グレア": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 1.0
+      },
+      "マナリアフレンズ・アン＆グレア": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.02
+      }
+    },
+    "evolve_cards": {
+      "結びの紅蓮・グレア": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "精彩の魔導・アン": {
+        "avg": 2.6667,
+        "ratio": 1.0
+      },
+      "魔術の始祖・マナリア": {
+        "avg": 2.6667,
+        "ratio": 1.0
+      },
+      "イクシードブラスト": {
+        "avg": 1.6667,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "JF92L",
+        "rank": 1,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "Y",
+        "friend_code": "XURGB",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "運王",
+        "order": "C",
+        "prelim_rank": 28,
+        "variant_cards": [
+          {
+            "name": "レグニスロード・グレア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "MQAAY",
+        "rank": 9,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "オヴァ",
+        "friend_code": "KTMCG",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "運王@@@1",
+        "order": "C",
+        "prelim_rank": 10,
+        "variant_cards": [
+          {
+            "name": "マナリアフレンズ・アン＆グレア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1V5PLQ",
+        "rank": 15,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "Tolucky",
+        "friend_code": "VIANK",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "BOW AND ARROW",
+        "order": "C",
+        "prelim_rank": 31
+      }
+    ]
+  },
+  "7929be9b": {
+    "name": "宴楽ナイトメア",
+    "class": "ナイトメア",
+    "source_id": "8f8cd3",
+    "cards": {
+      "韋駄天のパシリ・マロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "ドアマンバット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "魔眼のスケバン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "月下の跳躍": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "底無しの契約": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "デモンズドミネーター・ゼロヌア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "デモンズグリード・パラセリゼ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.402
+      },
+      "楽園への来訪": {
+        "avg": 2.3333,
+        "ratio": 1.0,
+        "rank": 0.16
+      },
+      "奈落の軍曹": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.0
+      },
+      "ミヤコ": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.0
+      },
+      "銀釘の射手": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.0
+      },
+      "ハンプティダンプティ": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.0
+      },
+      "友魂の少女・ルナ": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.703
+      },
+      "憧れの飛躍・イツルギ": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.703
+      },
+      "奔放なる獄炎・ケルベロス": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.703
+      },
+      "銀矢の狩人": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 1.0
+      },
+      "デッドペナルティ": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 1.0
+      },
+      "惑わぬ意志": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 1.0
+      },
+      "骸の代弁者": {
+        "avg": 0.6667,
+        "ratio": 0.6667,
+        "rank": 0.164
+      }
+    },
+    "evolve_cards": {
+      "デモンズグリード・パラセリゼ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "韋駄天のパシリ・マロン": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "ハンプティダンプティ": {
+        "avg": 1.6667,
+        "ratio": 1.0
+      },
+      "楽園の終焉・イツルギ": {
+        "avg": 1.6667,
+        "ratio": 1.0
+      },
+      "骸の代弁者": {
+        "avg": 0.6667,
+        "ratio": 0.6667
+      },
+      "銀釘の射手": {
+        "avg": 0.6667,
+        "ratio": 0.6667
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "1B9HNL",
+        "rank": 3,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "月宮",
+        "friend_code": "ANGPH",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "喫茶「朝の月」",
+        "order": "A",
+        "prelim_rank": 17,
+        "variant_cards": [
+          {
+            "name": "銀矢の狩人",
+            "flag": "in"
+          },
+          {
+            "name": "デッドペナルティ",
+            "flag": "in"
+          },
+          {
+            "name": "奈落の軍曹",
+            "flag": "out"
+          },
+          {
+            "name": "ミヤコ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1723740",
+        "deck_id": "1T9RKA",
+        "rank": 6,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "戊辰",
+        "friend_code": "OXQDS",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ポナーズ突撃部隊",
+        "order": "B",
+        "prelim_rank": 8
+      },
+      {
+        "event": "1723740",
+        "deck_id": "2E5U1S",
+        "rank": 13,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "もんじゅ",
+        "friend_code": "STHOC",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "大阪エボ大の会",
+        "order": "B",
+        "prelim_rank": 24
+      }
+    ]
+  },
+  "dbd072d7": {
+    "name": "自然ロイヤル",
+    "class": "ロイヤル",
+    "source_id": "b66965",
+    "cards": {
+      "ワンダーコック": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "思わぬ躓き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "輝ける剣撃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "荒野の休息": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ブレイブ・マナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ハルバードウルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "フォックスランサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "光の道筋": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "王たる光・ベイリオン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "王の一閃": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "陽だまりの邂逅": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鋼鉄と大地の神": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "スパルタクス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ナテラの未来": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "フォックスランサー": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "王たる光・ベイリオン": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "光耀の標・ミストリナ＆ベイリオン": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "母なる君": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "VRDJ4",
+        "rank": 5,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "池田浩二",
+        "friend_code": "DCVQI",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ショクアリショクアリ",
+        "order": "C",
+        "prelim_rank": 7
+      }
+    ]
+  },
+  "9583484c": {
+    "name": "八獄ウィッチ",
+    "class": "ウィッチ",
+    "source_id": "32271a",
+    "cards": {
+      "セレスティアルスフィア・ミリカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アズヴォルト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "熱中の研究者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "没頭の実験体": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "忘我の才媛": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "耽溺の咎人・セフィー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ピースキーパー・ヴィンセント": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マーシャルゴーレム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "開闢の予言者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "溶鉄の腹心": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "弾哭の執行者・キルザエル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "輪廻の統治者・ゼラエル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "双刃の魔剣士": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ジャッジメントワード": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "レヴィールの保安官補": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "次元の超越": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鋼鉄の魔獣・レガロア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "陰陽の開祖・クオン": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "セレスティアルスフィア・ミリカ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "熱中の研究者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "忘我の才媛": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "耽溺の咎人・セフィー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ピースキーパー・ヴィンセント": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "1LVFJC",
+        "rank": 4,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "イブキ",
+        "friend_code": "CCGRG",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "新時代の扉",
+        "order": "A",
+        "prelim_rank": 18
+      }
+    ]
+  },
+  "2db80a27": {
+    "name": "狩人エルフ",
+    "class": "エルフ",
+    "source_id": "a37a54",
+    "cards": {
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の従者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "腐食の絶命": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の隠者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の肯定者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "駆逐の死矢": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の継承者・クルル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の使徒": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "絶命の顕現・エズディア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "クロスボウスナイパー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "対空射撃": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の里": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "絶命の崇拝者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の団結者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "絶命の不殺・エズディア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "不殺の継承者・クルル": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "不殺の隠者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "不殺の使徒": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "AAE12",
+        "rank": 25,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "せーゆ",
+        "friend_code": "TBMYP",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "らりぃ軍団",
+        "order": "A",
+        "prelim_rank": 12
+      }
+    ]
+  },
+  "37d8c94b": {
+    "name": "学院エルフ",
+    "class": "エルフ",
+    "source_id": "52af19",
+    "cards": {
+      "オウルマン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "宿命の狐火・セッカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "新緑の新入生・カステル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ソードラビット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "チェシャキャット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ブロッサムルナール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "カッティングキャット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "宿り木のモモンガ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "農作のエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "タイガーガール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "伐採斧のドワーフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "九尾の決意": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "英雄の覚悟": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "太陽の勇士・セタス": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "九火石炎・セッカ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "ブロッサムルナール": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "カッティングキャット": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "農作のエルフ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ソードラビット": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "1AH62Y",
+        "rank": 28,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "にぱ/alucarD",
+        "friend_code": "JRYXK",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "かずんハウス支店",
+        "order": "C",
+        "prelim_rank": 16
+      }
+    ]
+  },
+  "5ac04732": {
+    "name": "カットスロートエルフ",
+    "class": "エルフ",
+    "source_id": "fac16d",
+    "cards": {
+      "機鋒の咎人・カットスロート": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アクティブエルフ・メイ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "追い風の妖精": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "深緑の弓使い・アリサ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "小さな勇士・スクナ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "チェシャキャット": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ベルエンジェル・リア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "若芽の組員": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "翠玉の盾 パスカリス": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "薫交の思慕": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "自然の導き": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "フラワーブリーズ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "むつらの刻印": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "女神は朝焼けの海に": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アズヴォルト": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "エンシェントエルフ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "オシャレ女王・ネルシャ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "スケアリートレント": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "剪定の咎人・マガチヨ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "根際の刺客": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ネビア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マーベラスサンデー": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マドロスエルフ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "溶鉄の腹心": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "リノセウス": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ロイヤルクリスタリア・ティア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "すり替わり": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔渚の花嫁〕新田美波": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "黒錆の下っ端": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ゴブリンプリンセス": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "精錬の用心棒": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ドールズトレーニング": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アナスタシア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ウィンドフェアリー": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "森林の狼": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "輪廻の統治者・ゼラエル": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "機鋒の咎人・カットスロート": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "小さな勇士・スクナ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "若芽の組員": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "エンシェントエルフ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "剪定の咎人・マガチヨ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "マドロスエルフ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "リノセウス": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "精錬の用心棒": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "流転の統治者・ゼラエル": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "81BW4",
+        "rank": 32,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "shocker",
+        "friend_code": "OTYYC",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "W星雲連合",
+        "order": "B",
+        "prelim_rank": 26
+      }
+    ]
+  },
+  "4c3003e2": {
+    "name": "スペルプリコネ",
+    "class": "プリンセスコネクト！Re:Dive",
+    "source_id": "133e23",
+    "cards": {
+      "オーロラヒーリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "コールオブギルド": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "キョウカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "クロエ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "チエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ダークエクリプス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ちぇるちぇる☆かあにばる": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "いつか、また会う未来で": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "エリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "キャル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ユニ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "羅刹涅槃・無式": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "シェフィ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真理と実存の共同幻想": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "イリヤ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "キョウカ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "シェフィ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "キャル": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "イリヤ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1723740",
+        "deck_id": "1S24HA",
+        "rank": 5,
+        "tourney_size": 8,
+        "participants": 298,
+        "player": "yu-ji",
+        "friend_code": "GJZIQ",
+        "venue": "ホビーステーション日本橋本店",
+        "date": "2026-08-29",
+        "pref_code": null,
+        "team_name": "ショクアリショクアリ",
+        "order": "B",
+        "prelim_rank": 7
+      }
+    ]
+  }
+}

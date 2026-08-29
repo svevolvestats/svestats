@@ -1,0 +1,178 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "158e4918",
+      "source_id": "af13f6",
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "count": 18
+    },
+    {
+      "archetype_id": "06b05fac",
+      "source_id": "82a146",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 15
+    },
+    {
+      "archetype_id": "7ab419f6",
+      "source_id": "2249ab",
+      "name": "7ドラゴン",
+      "class": "ドラゴン",
+      "count": 15
+    },
+    {
+      "archetype_id": "c411ccca",
+      "source_id": "aa7d63",
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "count": 12
+    },
+    {
+      "archetype_id": "51d51843",
+      "source_id": "fbbe64",
+      "name": "NCナイトメア",
+      "class": "ナイトメア",
+      "count": 11
+    },
+    {
+      "archetype_id": "66d9c627",
+      "source_id": "fa6b49",
+      "name": "透京ロイヤル",
+      "class": "ロイヤル",
+      "count": 5
+    },
+    {
+      "archetype_id": "f1a32d14",
+      "source_id": "1de1bb",
+      "name": "機械ビショップ",
+      "class": "ビショップ",
+      "count": 3
+    },
+    {
+      "archetype_id": "f1f9dd72",
+      "source_id": "143342",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 3
+    },
+    {
+      "archetype_id": "9b40a54a",
+      "source_id": "8097ca",
+      "name": "2コスナイトメア",
+      "class": "ナイトメア",
+      "count": 2
+    },
+    {
+      "archetype_id": "e7029737",
+      "source_id": "199700",
+      "name": "透京エルフ",
+      "class": "エルフ",
+      "count": 2
+    },
+    {
+      "archetype_id": "7c732713",
+      "source_id": "cbb457",
+      "name": "機械ウィッチ",
+      "class": "ウィッチ",
+      "count": 2
+    },
+    {
+      "archetype_id": "a783ed4e",
+      "source_id": "718709",
+      "name": "透京ウィッチ",
+      "class": "ウィッチ",
+      "count": 2
+    },
+    {
+      "archetype_id": "5cc4857d",
+      "source_id": "6b986e",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "40c1df26",
+      "source_id": "30faa8",
+      "name": "真紅ナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "a46e3858",
+      "source_id": "89eaeb",
+      "name": "コントロールビショップ",
+      "class": "ビショップ",
+      "count": 1
+    },
+    {
+      "archetype_id": "2f4e8988",
+      "source_id": "030616",
+      "name": "ロイヤル（アストロウィング・ララミア・カースドクイーン・ナハト・ナハト）",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "6c773057",
+      "source_id": "0008c9",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "5ba11cff",
+      "source_id": "945ae0",
+      "name": "スペルウマ娘",
+      "class": "ウマ娘 プリティーダービー",
+      "count": 1
+    }
+  ],
+  "unassigned": [],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split 'コンボエルフ': decks matching required cards → new archetype",
+        "source": "af13f6",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "クラス_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "af13f6"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "82a146"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'クラス_その他' (entire unassigned group) + 'コンボエルフ' into one archetype",
+        "sources": [
+          "クラス_その他",
+          "af13f6"
+        ],
+        "class": "エルフ",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

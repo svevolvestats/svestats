@@ -19299,7 +19299,7 @@ function metaOgElement({ period, tournamentCount, archetypes, archetypesWithImag
     flex({ gap: GAP, alignItems: "center" }, [pie, cardGrid])
   ]);
 }
-function recapOgElement({ eventTitle, shortName, period, participants, archetypes, winnerArchs, winnerCardInfos = [] }) {
+function recapOgElement({ eventTitle, shortName, period, participants, archetypes, winnerArchs, winnerCardInfos = [], participantsText = null, winnerLabel = "\u512A\u52DD" }) {
   const dateStr = period.start === period.end ? period.start : `${period.start}\u301C${period.end}`;
   const displayTitle = eventTitle.length > 32 && shortName ? shortName : eventTitle;
   const classMap = {};
@@ -19322,7 +19322,7 @@ function recapOgElement({ eventTitle, shortName, period, participants, archetype
     return flex({ flexDirection: "column", alignItems: "center", gap: 6 }, [
       cardImageEl(info, classColor(arch.class), cardW, cardH),
       flex({ flexDirection: "column", alignItems: "center", gap: 2 }, [
-        span("\u512A\u52DD", { fontSize: 13, color: ACCENT }),
+        span(winnerLabel, { fontSize: 13, color: ACCENT }),
         span(arch.name ?? "", { fontSize: n >= 2 ? 14 : 22, fontWeight: 700, color: TEXT_PRIMARY, textAlign: "center" })
       ])
     ]);
@@ -19336,7 +19336,7 @@ function recapOgElement({ eventTitle, shortName, period, participants, archetype
   }, winnerCards);
   return baseLayout([
     span(displayTitle, { fontSize: 38, fontWeight: 700, lineHeight: 1.25, marginBottom: 6 }),
-    span(`${dateStr}\u3000\u53C2\u52A0\u8005 ${participants}\u540D`, { fontSize: 18, color: TEXT_DIM, marginBottom: 18 }),
+    span(participantsText ?? `${dateStr}\u3000\u53C2\u52A0\u8005 ${participants}\u540D`, { fontSize: 18, color: TEXT_DIM, marginBottom: 18 }),
     flex({ gap: 36, alignItems: "center" }, [pie, rightSection])
   ]);
 }

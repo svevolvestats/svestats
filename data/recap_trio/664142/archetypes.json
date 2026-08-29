@@ -1,0 +1,3879 @@
+{
+  "4d30feed": {
+    "name": "土ウィッチ",
+    "class": "ウィッチ",
+    "source_id": "f29e57",
+    "cards": {
+      "獣面の魔術師": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "お菓子の家": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "魔女の大釜": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "サモンサークル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "永劫を求む者・ケリドウェン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "エレメントシャーマン・ライリー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "真実の究明者・ファウスト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "炎熱の術式": {
+        "avg": 2.9655,
+        "ratio": 1.0,
+        "rank": 0.277
+      },
+      "雄大なる教え": {
+        "avg": 2.7586,
+        "ratio": 0.931,
+        "rank": 0.197
+      },
+      "ラビットメイジ": {
+        "avg": 2.6207,
+        "ratio": 1.0,
+        "rank": 0.361
+      },
+      "エンシェントアルケミスト": {
+        "avg": 2.4828,
+        "ratio": 1.0,
+        "rank": 0.132
+      },
+      "スウィート★メドゥーサ": {
+        "avg": 2.2069,
+        "ratio": 0.8966,
+        "rank": 0.182
+      },
+      "真理の魔鏡": {
+        "avg": 1.9655,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "エンジェルバレッジ": {
+        "avg": 1.2759,
+        "ratio": 0.8276,
+        "rank": 0.0
+      },
+      "錬金術の代償": {
+        "avg": 0.7586,
+        "ratio": 0.7586,
+        "rank": 0.339
+      },
+      "ゴーレムの暴走": {
+        "avg": 0.4828,
+        "ratio": 0.3448,
+        "rank": 0.126
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 0.3793,
+        "ratio": 0.2069,
+        "rank": 0.03
+      },
+      "エクステンドマジック": {
+        "avg": 0.2759,
+        "ratio": 0.2414,
+        "rank": 1.0
+      },
+      "マジックソードガール": {
+        "avg": 0.2759,
+        "ratio": 0.1034,
+        "rank": 0.91
+      },
+      "インパルスアルケミスト": {
+        "avg": 0.2069,
+        "ratio": 0.1034,
+        "rank": 0.277
+      },
+      "エンジェルスナイプ": {
+        "avg": 0.1034,
+        "ratio": 0.069,
+        "rank": 0.169
+      },
+      "ハンプティダンプティ": {
+        "avg": 0.069,
+        "ratio": 0.0345,
+        "rank": 0.728
+      },
+      "白霜の風": {
+        "avg": 0.069,
+        "ratio": 0.069,
+        "rank": 0.39
+      },
+      "断罪者・シルヴィア": {
+        "avg": 0.069,
+        "ratio": 0.0345,
+        "rank": 0.277
+      },
+      "猫の奇術師": {
+        "avg": 0.0345,
+        "ratio": 0.0345,
+        "rank": 0.16
+      },
+      "見習い魔女と長い夜": {
+        "avg": 0.0345,
+        "ratio": 0.0345,
+        "rank": 0.16
+      }
+    },
+    "evolve_cards": {
+      "永劫を求む者・ケリドウェン": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "エンシェントアルケミスト": {
+        "avg": 2.8621,
+        "ratio": 1.0
+      },
+      "ラビットメイジ": {
+        "avg": 1.8621,
+        "ratio": 1.0
+      },
+      "スウィート★メドゥーサ": {
+        "avg": 1.8276,
+        "ratio": 0.8966
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 0.2069,
+        "ratio": 0.2069
+      },
+      "マジックソードガール": {
+        "avg": 0.1724,
+        "ratio": 0.1034
+      },
+      "ハンプティダンプティ": {
+        "avg": 0.0345,
+        "ratio": 0.0345
+      },
+      "猫の奇術師": {
+        "avg": 0.0345,
+        "ratio": 0.0345
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "3W38C",
+        "rank": 1,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "され",
+        "friend_code": "VBVSZ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "光塾",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "3VBLU",
+        "rank": 2,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "加藤",
+        "friend_code": "QPMRB",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "その日その女の子は言うんだ。",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "6SQC8",
+        "rank": 3,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "むんむん",
+        "friend_code": "STZHO",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "YAMATO",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "ハンプティダンプティ",
+            "flag": "in"
+          },
+          {
+            "name": "マジックソードガール",
+            "flag": "in"
+          },
+          {
+            "name": "スウィート★メドゥーサ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "44M6U",
+        "rank": 4,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "超越",
+        "friend_code": "YAFZU",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "かじファミ",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "エンジェルバレッジ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5UKX6",
+        "rank": 5,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "パープル式部",
+        "friend_code": "DPRNC",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ニカ",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "インパルスアルケミスト",
+            "flag": "in"
+          },
+          {
+            "name": "マジックソードガール",
+            "flag": "in"
+          },
+          {
+            "name": "雄大なる教え",
+            "flag": "out"
+          },
+          {
+            "name": "スウィート★メドゥーサ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "73C9A",
+        "rank": 7,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Seal",
+        "friend_code": "IJRQE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "苺たこ",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "白霜の風",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4EFLG",
+        "rank": 8,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "おぐ",
+        "friend_code": "OWJQQ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "#パピーWIN",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "5GDN8",
+        "rank": 9,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ラルド",
+        "friend_code": "FBGEP",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "アルパカ飲酒クラブ",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "断罪者・シルヴィア",
+            "flag": "in"
+          },
+          {
+            "name": "エンジェルバレッジ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5GQ96",
+        "rank": 10,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ばぶ",
+        "friend_code": "SRJGP",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "四日市ハウス",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "エンジェルスナイプ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2V480",
+        "rank": 11,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "AEぺぺろん",
+        "friend_code": "JPOXN",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "KOE",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "47XT6",
+        "rank": 12,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "わべスケ",
+        "friend_code": "XUFME",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "横浜・川越交流会",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "1C848",
+        "rank": 13,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ものい",
+        "friend_code": "CUVXY",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "栃木の血",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "白霜の風",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4JRWC",
+        "rank": 14,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Ryu",
+        "friend_code": "JMGYF",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "こえ/QoVファンクラブ",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "4HCZJ",
+        "rank": 15,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "まひろおんぷ",
+        "friend_code": "BWTOH",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "かずんハウス本店",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "インパルスアルケミスト",
+            "flag": "in"
+          },
+          {
+            "name": "マジックソードガール",
+            "flag": "in"
+          },
+          {
+            "name": "雄大なる教え",
+            "flag": "out"
+          },
+          {
+            "name": "スウィート★メドゥーサ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2JWXW",
+        "rank": 17,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "TORU",
+        "friend_code": "UILBH",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ぺぴゃの友達の友達は友達",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "エンジェルスナイプ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2VWDS",
+        "rank": 18,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "カネコ",
+        "friend_code": "DURSZ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "三人のおじさん",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "インパルスアルケミスト",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "7G2CL",
+        "rank": 19,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "鬼がかりRUSHER",
+        "friend_code": "JUHLW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "頭文字P",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "63724",
+        "rank": 20,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "たいせい",
+        "friend_code": "BBLXH",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "東の海の三皇",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "2BJQ8",
+        "rank": 21,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "しゃーぷ",
+        "friend_code": "ZKXCR",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "むらぼ@@@1",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "19S44",
+        "rank": 22,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "モミジ",
+        "friend_code": "EKLYA",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "PollutedΔ",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "猫の奇術師",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4Z1Y0",
+        "rank": 23,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "しずく",
+        "friend_code": "UGVRP",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "エボ真",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "エンジェルバレッジ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "3NBVE",
+        "rank": 24,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ハレルヤ",
+        "friend_code": "QQCSC",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "十二楽坊",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "7B8BA",
+        "rank": 25,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "AOI",
+        "friend_code": "CNDAJ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "勝ち越したい",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "5YXL8",
+        "rank": 27,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "麦しゅわ",
+        "friend_code": "JWSJP",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ジャッシュ牧場",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "2DHSY",
+        "rank": 28,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "皇帝ペンギン",
+        "friend_code": "NXUJB",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "SSK",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "55W60",
+        "rank": 29,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Power",
+        "friend_code": "YRAHJ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "３タテ",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "6DQD2",
+        "rank": 30,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "きりチュウ",
+        "friend_code": "XEXMY",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "連理のぴえん。",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "1GXFJ",
+        "rank": 31,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "イトコン",
+        "friend_code": "EWKER",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "チームたこ焼きハフハフMB",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "3HP6U",
+        "rank": 32,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "しょーりん",
+        "friend_code": "SFQNC",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "Fortune's Hand",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "見習い魔女と長い夜",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "84d77c93": {
+    "name": "ミッドレンジロイヤル",
+    "class": "ロイヤル",
+    "source_id": "7fd5df",
+    "cards": {
+      "粗暴な豪剣士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.572
+      },
+      "空の指揮官・セリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.572
+      },
+      "音速の機構・ララミア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.572
+      },
+      "静寂の元帥": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.572
+      },
+      "月の刃・リオード": {
+        "avg": 2.9583,
+        "ratio": 1.0,
+        "rank": 0.493
+      },
+      "黒の女王・マグナス": {
+        "avg": 2.75,
+        "ratio": 0.9167,
+        "rank": 0.605
+      },
+      "白の王・イメラ": {
+        "avg": 2.75,
+        "ratio": 0.9167,
+        "rank": 0.605
+      },
+      "白と黒の決闘": {
+        "avg": 2.75,
+        "ratio": 0.9167,
+        "rank": 0.605
+      },
+      "武器商人・エルネスタ": {
+        "avg": 2.5,
+        "ratio": 0.8333,
+        "rank": 0.788
+      },
+      "動乱商人・イルミスナ": {
+        "avg": 2.5,
+        "ratio": 0.8333,
+        "rank": 0.788
+      },
+      "戦争商人・アルヤスカ": {
+        "avg": 2.4583,
+        "ratio": 0.8333,
+        "rank": 0.553
+      },
+      "フローラルフェンサー": {
+        "avg": 1.9583,
+        "ratio": 0.875,
+        "rank": 0.579
+      },
+      "疾風怒濤": {
+        "avg": 1.5417,
+        "ratio": 0.75,
+        "rank": 0.529
+      },
+      "白翼の戦神・アイテール": {
+        "avg": 1.3333,
+        "ratio": 0.625,
+        "rank": 0.647
+      },
+      "ペルセウス": {
+        "avg": 1.0417,
+        "ratio": 0.4167,
+        "rank": 1.0
+      },
+      "メカニカルガンナー": {
+        "avg": 0.9583,
+        "ratio": 0.375,
+        "rank": 0.768
+      },
+      "ファントムアサシン": {
+        "avg": 0.5,
+        "ratio": 0.1667,
+        "rank": 0.0
+      },
+      "レオニダス": {
+        "avg": 0.375,
+        "ratio": 0.2083,
+        "rank": 0.412
+      },
+      "イノセントプリンセス・プリム": {
+        "avg": 0.2917,
+        "ratio": 0.125,
+        "rank": 0.284
+      },
+      "《戦車》・オルオーン": {
+        "avg": 0.2917,
+        "ratio": 0.125,
+        "rank": 0.131
+      },
+      "オケアノス": {
+        "avg": 0.2083,
+        "ratio": 0.0833,
+        "rank": 0.634
+      },
+      "紫電の黒豹": {
+        "avg": 0.2083,
+        "ratio": 0.0833,
+        "rank": 0.467
+      },
+      "メイドリーダー": {
+        "avg": 0.1667,
+        "ratio": 0.0833,
+        "rank": 0.134
+      },
+      "静かなるメイド・ノーニャ": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.503
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 0.125,
+        "ratio": 0.0417,
+        "rank": 0.503
+      },
+      "アックスプリンセス": {
+        "avg": 0.0833,
+        "ratio": 0.0833,
+        "rank": 0.717
+      },
+      "天界の尖兵": {
+        "avg": 0.0833,
+        "ratio": 0.0417,
+        "rank": 0.137
+      },
+      "神速の歩法": {
+        "avg": 0.0417,
+        "ratio": 0.0417,
+        "rank": 0.342
+      }
+    },
+    "evolve_cards": {
+      "希望の戦術家・セリア": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "音速の機構・ララミア": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "静寂の元帥": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "月の刃・リオード": {
+        "avg": 1.6667,
+        "ratio": 1.0
+      },
+      "フローラルフェンサー": {
+        "avg": 0.9167,
+        "ratio": 0.875
+      },
+      "戦争商人・アルヤスカ": {
+        "avg": 0.8333,
+        "ratio": 0.8333
+      },
+      "レオニダス": {
+        "avg": 0.2083,
+        "ratio": 0.2083
+      },
+      "イノセントプリンセス・プリム": {
+        "avg": 0.125,
+        "ratio": 0.125
+      },
+      "《暴走》する戦車・オルオーン": {
+        "avg": 0.125,
+        "ratio": 0.125
+      },
+      "メイドリーダー": {
+        "avg": 0.0833,
+        "ratio": 0.0833
+      },
+      "天界の尖兵": {
+        "avg": 0.0417,
+        "ratio": 0.0417
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "2A4CU",
+        "rank": 1,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "hikari",
+        "friend_code": "LTZIB",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "光塾",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "3QPZJ",
+        "rank": 2,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "かいちょー",
+        "friend_code": "BLLAW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "その日その女の子は言うんだ。",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "1HY4Y",
+        "rank": 3,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ゆぴ",
+        "friend_code": "QNBDI",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "YAMATO",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "アックスプリンセス",
+            "flag": "in"
+          },
+          {
+            "name": "武器商人・エルネスタ",
+            "flag": "out"
+          },
+          {
+            "name": "動乱商人・イルミスナ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5TLLY",
+        "rank": 4,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ピカゴリラ",
+        "friend_code": "KAUYR",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "かじファミ",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "1L2J8",
+        "rank": 5,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ANNKAKE",
+        "friend_code": "LCCVC",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ニカ",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "1Q2Y8",
+        "rank": 6,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ざきた",
+        "friend_code": "ZBJRX",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "運だけ",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "48CG0",
+        "rank": 7,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "苺綿飴",
+        "friend_code": "SQFLB",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "苺たこ",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "オケアノス",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "6SANQ",
+        "rank": 8,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "すきやき",
+        "friend_code": "WVBLQ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "#パピーWIN",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "イノセントプリンセス・プリム",
+            "flag": "in"
+          },
+          {
+            "name": "静かなるメイド・ノーニャ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4HRY0",
+        "rank": 10,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "三日月",
+        "friend_code": "PHKFF",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "四日市ハウス",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "6UAAL",
+        "rank": 12,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Basil",
+        "friend_code": "SLSRA",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "横浜・川越交流会",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "爆砕の傭兵・フィーナ",
+            "flag": "in"
+          },
+          {
+            "name": "メイドリーダー",
+            "flag": "in"
+          },
+          {
+            "name": "黒の女王・マグナス",
+            "flag": "out"
+          },
+          {
+            "name": "白の王・イメラ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "1L2M6",
+        "rank": 15,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "にぱ",
+        "friend_code": "JRYXK",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "かずんハウス本店",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "紫電の黒豹",
+            "flag": "in"
+          },
+          {
+            "name": "イノセントプリンセス・プリム",
+            "flag": "in"
+          },
+          {
+            "name": "黒の女王・マグナス",
+            "flag": "out"
+          },
+          {
+            "name": "白の王・イメラ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "69H5S",
+        "rank": 17,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ゆの*",
+        "friend_code": "EVTPE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ぺぴゃの友達の友達は友達",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "神速の歩法",
+            "flag": "in"
+          },
+          {
+            "name": "アックスプリンセス",
+            "flag": "in"
+          },
+          {
+            "name": "武器商人・エルネスタ",
+            "flag": "out"
+          },
+          {
+            "name": "動乱商人・イルミスナ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "41D9S",
+        "rank": 20,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Billy",
+        "friend_code": "AWTSE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "東の海の三皇",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "天界の尖兵",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "42FGQ",
+        "rank": 21,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "しゃろみら",
+        "friend_code": "NHPLP",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "むらぼ@@@1",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "7U6A0",
+        "rank": 22,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ふゆたそ",
+        "friend_code": "HGETW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "PollutedΔ",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "6757J",
+        "rank": 23,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "yuta",
+        "friend_code": "ZSBMY",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "エボ真",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "武器商人・エルネスタ",
+            "flag": "out"
+          },
+          {
+            "name": "動乱商人・イルミスナ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "27JG4",
+        "rank": 24,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ばたーあめ",
+        "friend_code": "CLCYX",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "十二楽坊",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "26XN4",
+        "rank": 25,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ハセ",
+        "friend_code": "KTIQE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "勝ち越したい",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "5D6WY",
+        "rank": 26,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "文月",
+        "friend_code": "HAMAZ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ファイナルたんぽぽ ",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "オケアノス",
+            "flag": "in"
+          },
+          {
+            "name": "メイドリーダー",
+            "flag": "in"
+          },
+          {
+            "name": "フローラルフェンサー",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "3MPEY",
+        "rank": 27,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "fuzzpro",
+        "friend_code": "PGATU",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ジャッシュ牧場",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "イノセントプリンセス・プリム",
+            "flag": "in"
+          },
+          {
+            "name": "静かなるメイド・ノーニャ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5032Q",
+        "rank": 28,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "シュウ",
+        "friend_code": "LWSNW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "SSK",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "《戦車》・オルオーン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "1NWSC",
+        "rank": 29,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "mountain",
+        "friend_code": "EKBQV",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "３タテ",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "17FLG",
+        "rank": 30,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "かみやすり",
+        "friend_code": "ZCZZT",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "連理のぴえん。",
+        "order": "C"
+      },
+      {
+        "event": "664142",
+        "deck_id": "2BH9N",
+        "rank": 32,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "にーと",
+        "friend_code": "ECBSU",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "Fortune's Hand",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "武器商人・エルネスタ",
+            "flag": "out"
+          },
+          {
+            "name": "動乱商人・イルミスナ",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "0ebedcbf": {
+    "name": "吸血鬼ナイトメア",
+    "class": "ナイトメア",
+    "source_id": "36205b",
+    "cards": {
+      "眷属の召喚": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "吸血姫・ヴァンピィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "宵の吸血鬼・ヴァーニア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "眷属への贈り物": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "闇夜の姫・ヴァンピィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "血統の王": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "悪夢の始まり": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "ラストデイライト": {
+        "avg": 2.9375,
+        "ratio": 1.0,
+        "rank": 0.646
+      },
+      "貴き血牙": {
+        "avg": 2.8125,
+        "ratio": 1.0,
+        "rank": 0.657
+      },
+      "白夜の吸血鬼・ヴァーニア": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.776
+      },
+      "バロン・ダブルフィール": {
+        "avg": 2.25,
+        "ratio": 0.875,
+        "rank": 1.0
+      },
+      "クドラク": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.662
+      },
+      "真紅のローズクイーン": {
+        "avg": 1.9375,
+        "ratio": 1.0,
+        "rank": 0.698
+      },
+      "吸血鬼の古城": {
+        "avg": 1.875,
+        "ratio": 0.875,
+        "rank": 0.852
+      },
+      "真夜中の吸血鬼・ヴァーニア": {
+        "avg": 1.8125,
+        "ratio": 0.8125,
+        "rank": 0.0
+      },
+      "夢のささやき": {
+        "avg": 0.5625,
+        "ratio": 0.4375,
+        "rank": 0.598
+      },
+      "ベルエンジェル": {
+        "avg": 0.0625,
+        "ratio": 0.0625,
+        "rank": 0.573
+      }
+    },
+    "evolve_cards": {
+      "カインドクイーン・ヴァンピィ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "血統の王": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "真紅のローズクイーン": {
+        "avg": 2.0625,
+        "ratio": 1.0
+      },
+      "バロン・ダブルフィール": {
+        "avg": 1.75,
+        "ratio": 0.875
+      },
+      "ベルエンジェル": {
+        "avg": 0.125,
+        "ratio": 0.0625
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 0.0625,
+        "ratio": 0.0625
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "4CVN4",
+        "rank": 2,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "そらん",
+        "friend_code": "AZXFH",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "その日その女の子は言うんだ。",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "真夜中の吸血鬼・ヴァーニア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5HVJQ",
+        "rank": 3,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Swallow",
+        "friend_code": "CDOYN",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "YAMATO",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "真夜中の吸血鬼・ヴァーニア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2EVVS",
+        "rank": 10,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "いちまさひこ",
+        "friend_code": "JSTVR",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "四日市ハウス",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "7J3LY",
+        "rank": 11,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "Isono",
+        "friend_code": "XUYRD",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "KOE",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "吸血鬼の古城",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4RX6C",
+        "rank": 14,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "RK/shinja",
+        "friend_code": "ITKDI",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "こえ/QoVファンクラブ",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "2XQ2C",
+        "rank": 18,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "コグン",
+        "friend_code": "YGAVT",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "三人のおじさん",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "3MGMN",
+        "rank": 20,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "つきみ",
+        "friend_code": "BEBLF",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "東の海の三皇",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "真夜中の吸血鬼・ヴァーニア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "49TQC",
+        "rank": 21,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "むらぼ",
+        "friend_code": "VHXVE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "むらぼ@@@1",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "吸血鬼の古城",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4BF4U",
+        "rank": 22,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ラルド",
+        "friend_code": "MMYJC",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "PollutedΔ",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "7B58Q",
+        "rank": 23,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ゼロ",
+        "friend_code": "TEYLV",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "エボ真",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "1T5M2",
+        "rank": 24,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "しら",
+        "friend_code": "RXTFB",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "十二楽坊",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "43G36",
+        "rank": 25,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ヒョウカ",
+        "friend_code": "UNWZZ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "勝ち越したい",
+        "order": "A"
+      },
+      {
+        "event": "664142",
+        "deck_id": "54YN4",
+        "rank": 26,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "HRM",
+        "friend_code": "NQGHO",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ファイナルたんぽぽ ",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "バロン・ダブルフィール",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "6GKHJ",
+        "rank": 27,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "crowd",
+        "friend_code": "RZCKQ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ジャッシュ牧場",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "ベルエンジェル",
+            "flag": "in"
+          },
+          {
+            "name": "バロン・ダブルフィール",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5BGJC",
+        "rank": 30,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ししとう",
+        "friend_code": "XRZAS",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "連理のぴえん。",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "4K5U4",
+        "rank": 31,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "みのすけ",
+        "friend_code": "YTKPZ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "チームたこ焼きハフハフMB",
+        "order": "C"
+      }
+    ]
+  },
+  "2e44a704": {
+    "name": "武装ドラゴン",
+    "class": "ドラゴン",
+    "source_id": "6d2a2b",
+    "cards": {
+      "アーマーパージ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "ハンマードラゴニュート": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "流麗なる竜人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "瞬刃のドラゴニュート": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "デュアルレイジ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "ブレイジングブレス": {
+        "avg": 2.875,
+        "ratio": 1.0,
+        "rank": 0.346
+      },
+      "ドラゴンスマッシュ": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.326
+      },
+      "ナックルドラゴン・ドラグニル": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.161
+      },
+      "レーヴァテインドラゴン": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.381
+      },
+      "竜の託宣": {
+        "avg": 2.625,
+        "ratio": 0.875,
+        "rank": 0.42
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.25,
+        "ratio": 1.0,
+        "rank": 0.072
+      },
+      "ドラゴニックアーマー": {
+        "avg": 1.875,
+        "ratio": 0.75,
+        "rank": 0.541
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.44
+      },
+      "銀氷のドラゴニュート・フィルレイン": {
+        "avg": 1.375,
+        "ratio": 0.5,
+        "rank": 0.009
+      },
+      "天界の尖兵": {
+        "avg": 0.625,
+        "ratio": 0.25,
+        "rank": 0.02
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.84
+      },
+      "銀氷の吐息": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.162
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.388
+      },
+      "エンジェルスナイプ": {
+        "avg": 0.375,
+        "ratio": 0.25,
+        "rank": 1.0
+      },
+      "絆の竜剣士・アイラ": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.5
+      },
+      "烈火の魔弾": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.25
+      },
+      "原初の竜使い": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.0
+      },
+      "断罪者・シルヴィア": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.173
+      },
+      "アジ・ダハーカ": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.079
+      },
+      "灼熱の嵐": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.18
+      }
+    },
+    "evolve_cards": {
+      "レーヴァテインドラゴン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "レーヴァテインドラゴン・デュアルモードγ": {
+        "avg": 1.5,
+        "ratio": 1.0
+      },
+      "瞬刃のドラゴニュート": {
+        "avg": 1.375,
+        "ratio": 1.0
+      },
+      "ナックルドラゴン・ドラグニル": {
+        "avg": 1.125,
+        "ratio": 1.0
+      },
+      "ハンマードラゴニュート": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "レーヴァテインドラゴン・デュアルモードβ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 0.625,
+        "ratio": 0.5
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 0.375,
+        "ratio": 0.375
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 0.25,
+        "ratio": 0.25
+      },
+      "レーヴァテインドラゴン・ブラストモード": {
+        "avg": 0.25,
+        "ratio": 0.25
+      },
+      "天界の尖兵": {
+        "avg": 0.25,
+        "ratio": 0.25
+      },
+      "レーヴァテインドラゴン・デュアルモードα": {
+        "avg": 0.125,
+        "ratio": 0.125
+      },
+      "アジ・ダハーカ": {
+        "avg": 0.125,
+        "ratio": 0.125
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "4ZYKJ",
+        "rank": 1,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ReN",
+        "friend_code": "YUCDJ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "光塾",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "エンジェルスナイプ",
+            "flag": "in"
+          },
+          {
+            "name": "ドラゴニュートの威圧",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2A80L",
+        "rank": 6,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "W",
+        "friend_code": "NVVNJ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "運だけ",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "絆の竜剣士・アイラ",
+            "flag": "in"
+          },
+          {
+            "name": "ダークドラグーン・フォルテ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "49G52",
+        "rank": 13,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ぷーある",
+        "friend_code": "HJNPC",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "栃木の血",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "烈火の魔弾",
+            "flag": "in"
+          },
+          {
+            "name": "ドラゴニックアーマー",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "63FQQ",
+        "rank": 14,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "soma",
+        "friend_code": "DOQYW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "こえ/QoVファンクラブ",
+        "order": "C",
+        "variant_cards": [
+          {
+            "name": "天界の尖兵",
+            "flag": "in"
+          },
+          {
+            "name": "ダークドラグーン・フォルテ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "6CUE8",
+        "rank": 17,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ばそ",
+        "friend_code": "ITKCM",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ぺぴゃの友達の友達は友達",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "ドラゴニュートの威圧",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "66C2G",
+        "rank": 18,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "メガフライゴン",
+        "friend_code": "JFKUI",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "三人のおじさん",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "原初の竜使い",
+            "flag": "in"
+          },
+          {
+            "name": "アジ・ダハーカ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2EVYQ",
+        "rank": 19,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "イケおじローウェン",
+        "friend_code": "QHTRQ",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "頭文字P",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "灼熱の嵐",
+            "flag": "in"
+          },
+          {
+            "name": "エンジェルスナイプ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "2TGZE",
+        "rank": 31,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "sakana",
+        "friend_code": "ULGMG",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "チームたこ焼きハフハフMB",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "天界の尖兵",
+            "flag": "in"
+          },
+          {
+            "name": "断罪者・シルヴィア",
+            "flag": "in"
+          },
+          {
+            "name": "竜の託宣",
+            "flag": "out"
+          },
+          {
+            "name": "ドラゴニックアーマー",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "f0a833d3": {
+    "name": "人形エルフ",
+    "class": "エルフ",
+    "source_id": "b28ae9",
+    "cards": {
+      "ジャンク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.417
+      },
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.417
+      },
+      "人形の支配者・リーアム": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.417
+      },
+      "人形の少女・オーキス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.417
+      },
+      "心無き決闘": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.417
+      },
+      "アナスタシア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.417
+      },
+      "すり替わり": {
+        "avg": 2.8,
+        "ratio": 1.0,
+        "rank": 0.395
+      },
+      "殺戮の人形・ツヴァイ": {
+        "avg": 2.8,
+        "ratio": 1.0,
+        "rank": 0.451
+      },
+      "女神は朝焼けの海に": {
+        "avg": 2.4,
+        "ratio": 1.0,
+        "rank": 0.405
+      },
+      "復讐の人形遣い・ノア": {
+        "avg": 2.0,
+        "ratio": 0.8,
+        "rank": 0.489
+      },
+      "愛の妖精・ポーラ": {
+        "avg": 1.8,
+        "ratio": 0.6,
+        "rank": 0.0
+      },
+      "マドロスエルフ": {
+        "avg": 1.6,
+        "ratio": 0.6,
+        "rank": 0.601
+      },
+      "妖精の調べ": {
+        "avg": 1.6,
+        "ratio": 0.8,
+        "rank": 0.351
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 1.6,
+        "ratio": 0.6,
+        "rank": 0.184
+      },
+      "オシャレ女王・ネルシャ": {
+        "avg": 1.0,
+        "ratio": 0.6,
+        "rank": 0.746
+      },
+      "自然の導き": {
+        "avg": 1.0,
+        "ratio": 0.6,
+        "rank": 0.198
+      },
+      "森林の狼": {
+        "avg": 0.8,
+        "ratio": 0.4,
+        "rank": 0.858
+      },
+      "フラワードール": {
+        "avg": 0.8,
+        "ratio": 0.4,
+        "rank": 0.368
+      },
+      "《吊るされた男》・ローフラッド": {
+        "avg": 0.6,
+        "ratio": 0.2,
+        "rank": 1.0
+      },
+      "ソードエンジェル・エフェメラ": {
+        "avg": 0.6,
+        "ratio": 0.4,
+        "rank": 0.306
+      },
+      "アーチャー": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.225
+      },
+      "心読む少女・ミツェル": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.304
+      }
+    },
+    "evolve_cards": {
+      "決意の人形・オーキス": {
+        "avg": 2.8,
+        "ratio": 1.0
+      },
+      "小さな勇士・スクナ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "マドロスエルフ": {
+        "avg": 1.2,
+        "ratio": 0.6
+      },
+      "殺戮の人形・ツヴァイ": {
+        "avg": 1.2,
+        "ratio": 1.0
+      },
+      "深緑の純心・ポーラ": {
+        "avg": 1.2,
+        "ratio": 0.6
+      },
+      "復讐の人形遣い・ノア": {
+        "avg": 0.8,
+        "ratio": 0.8
+      },
+      "フラワードール": {
+        "avg": 0.4,
+        "ratio": 0.4
+      },
+      "《吊るされた男》・ローフラッド": {
+        "avg": 0.2,
+        "ratio": 0.2
+      },
+      "心読む少女・ミツェル": {
+        "avg": 0.2,
+        "ratio": 0.2
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "5AH56",
+        "rank": 4,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ギバラ",
+        "friend_code": "LLTLK",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "かじファミ",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "《吊るされた男》・ローフラッド",
+            "flag": "in"
+          },
+          {
+            "name": "森林の狼",
+            "flag": "in"
+          },
+          {
+            "name": "自然の導き",
+            "flag": "out"
+          },
+          {
+            "name": "爆砕の傭兵・フィーナ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "5WKK2",
+        "rank": 7,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ラウ",
+        "friend_code": "BDRIT",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "苺たこ",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "ソードエンジェル・エフェメラ",
+            "flag": "in"
+          },
+          {
+            "name": "フラワードール",
+            "flag": "in"
+          },
+          {
+            "name": "妖精の調べ",
+            "flag": "out"
+          },
+          {
+            "name": "愛の妖精・ポーラ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "7871N",
+        "rank": 9,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "とり",
+        "friend_code": "VSFSN",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "アルパカ飲酒クラブ",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "復讐の人形遣い・ノア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "4MME4",
+        "rank": 11,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "こえ",
+        "friend_code": "DHXHH",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "KOE",
+        "order": "A",
+        "variant_cards": [
+          {
+            "name": "アーチャー",
+            "flag": "in"
+          },
+          {
+            "name": "フラワードール",
+            "flag": "in"
+          },
+          {
+            "name": "オシャレ女王・ネルシャ",
+            "flag": "out"
+          },
+          {
+            "name": "マドロスエルフ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "3X30U",
+        "rank": 12,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ミミズク",
+        "friend_code": "VUYGM",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "横浜・川越交流会",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "心読む少女・ミツェル",
+            "flag": "in"
+          },
+          {
+            "name": "ソードエンジェル・エフェメラ",
+            "flag": "in"
+          },
+          {
+            "name": "オシャレ女王・ネルシャ",
+            "flag": "out"
+          },
+          {
+            "name": "マドロスエルフ",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "90e342cd": {
+    "name": "武闘竜人ドラゴン",
+    "class": "ドラゴン",
+    "source_id": "8a082c",
+    "cards": {
+      "残影のドラゴニュート": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "ドラゴンの卵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "片倉小十郎": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "暴竜・伊達政宗": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "気高き雷・ロマロニア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "ガルグイユ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "白亜の竜騎士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.398
+      },
+      "大鎌の竜騎": {
+        "avg": 2.3333,
+        "ratio": 1.0,
+        "rank": 0.517
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.3333,
+        "ratio": 1.0,
+        "rank": 0.338
+      },
+      "天界の尖兵": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.597
+      },
+      "ブレイジングブレス": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.0
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 1.6667,
+        "ratio": 0.6667,
+        "rank": 0.024
+      },
+      "侮蔑の狂信者": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 1.0
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.097
+      },
+      "竜装の大剣士": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.882
+      },
+      "アジ・ダハーカ": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.882
+      },
+      "ポセイドン": {
+        "avg": 0.6667,
+        "ratio": 0.6667,
+        "rank": 0.519
+      },
+      "竜の誕生": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.156
+      },
+      "灼熱の嵐": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.156
+      },
+      "ドラゴンスマッシュ": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.246
+      }
+    },
+    "evolve_cards": {
+      "気高き雷・ロマロニア": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "片倉小十郎": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "天界の尖兵": {
+        "avg": 1.3333,
+        "ratio": 0.6667
+      },
+      "ダークドラグーン・フォルテ": {
+        "avg": 1.3333,
+        "ratio": 0.6667
+      },
+      "アジ・ダハーカ": {
+        "avg": 0.6667,
+        "ratio": 0.3333
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 0.6667,
+        "ratio": 0.6667
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 0.6667,
+        "ratio": 0.3333
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "39PB6",
+        "rank": 15,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "かずん",
+        "friend_code": "WVHVE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "かずんハウス本店",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "侮蔑の狂信者",
+            "flag": "in"
+          },
+          {
+            "name": "竜装の大剣士",
+            "flag": "in"
+          },
+          {
+            "name": "ブレイジングブレス",
+            "flag": "out"
+          },
+          {
+            "name": "ダークドラグーン・フォルテ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "664142",
+        "deck_id": "40UME",
+        "rank": 29,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "やまっち",
+        "friend_code": "OUXJF",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "３タテ",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "2LL0C",
+        "rank": 32,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "はきょく",
+        "friend_code": "DZFFO",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "Fortune's Hand",
+        "order": "B",
+        "variant_cards": [
+          {
+            "name": "ドラゴンスマッシュ",
+            "flag": "in"
+          },
+          {
+            "name": "竜の誕生",
+            "flag": "in"
+          },
+          {
+            "name": "天界の尖兵",
+            "flag": "out"
+          },
+          {
+            "name": "ポセイドン",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "d9cea956": {
+    "name": "超越ウィッチ",
+    "class": "ウィッチ",
+    "source_id": "0ac30e",
+    "cards": {
+      "ブリッツ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "マジカルストラテジー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "魔力の蓄積": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "マーリン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "スキュア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "チェックメイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "真理の発見": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.415
+      },
+      "チェック": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.415
+      },
+      "陰陽の開祖・クオン": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.671
+      },
+      "光の道筋": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "次元の超越": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "フレイムデストロイヤー": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.362
+      },
+      "ペンギンウィザード": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0
+      },
+      "マジックオウル": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "おしゃまなコアクマ": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "白霜の風": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "ファイアーチェイン": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 1.0
+      },
+      "真実の宣告": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.543
+      },
+      "烈火の魔弾": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.086
+      },
+      "知恵の光": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.853
+      },
+      "ギャンビット": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.853
+      },
+      "エンジェルバレッジ": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.234
+      }
+    },
+    "evolve_cards": {
+      "マーリン": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "天外の華・エレノア": {
+        "avg": 1.5,
+        "ratio": 0.5
+      },
+      "ペンギンウィザード": {
+        "avg": 1.5,
+        "ratio": 0.5
+      },
+      "《愚者》・リンクル": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "ハンプティダンプティ": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "不思議の探求者・アリス": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "星灯りの女神": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "一ノ瀬志希": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "次元の魔女・ドロシー": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 0.5,
+        "ratio": 0.5
+      },
+      "カースエンチャンター": {
+        "avg": 0.5,
+        "ratio": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "28TKA",
+        "rank": 6,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "うめ",
+        "friend_code": "LELHL",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "運だけ",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "UGBC",
+        "rank": 26,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "kou",
+        "friend_code": "YWPRY",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ファイナルたんぽぽ ",
+        "order": "B"
+      }
+    ]
+  },
+  "1d721cd0": {
+    "name": "狩人エルフ",
+    "class": "エルフ",
+    "source_id": "e2e949",
+    "cards": {
+      "クロスボウスナイパー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "自然の導き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "むつらの刻印": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "エンシェントエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "森林の撃砕者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マーベラスサンデー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の円陣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不殺の使徒": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "獣戦士・セタス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "キングエレファント": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ワンダーコック": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ノーブルフェアリー": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.5
+      },
+      "収穫祭": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.5
+      },
+      "チェシャキャット": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.5
+      },
+      "神弓の座天使・リリエル": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "エンシェントエルフ": {
+        "avg": 2.5,
+        "ratio": 1.0
+      },
+      "森林の撃砕者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "不殺の使徒": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "獣戦士・セタス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "キングエレファント": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "にんじん": {
+        "avg": 0.5,
+        "ratio": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "3Q704",
+        "rank": 13,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "きみじー",
+        "friend_code": "PNGTR",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "栃木の血",
+        "order": "B"
+      },
+      {
+        "event": "664142",
+        "deck_id": "20WS8",
+        "rank": 16,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "おにみこ",
+        "friend_code": "QBXAE",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "フジヤ",
+        "order": "A"
+      }
+    ]
+  },
+  "255d56e6": {
+    "name": "アイドルウィッチ",
+    "class": "ウィッチ",
+    "source_id": "c1e59c",
+    "cards": {
+      "破壊の愉悦": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の歌声": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アグネスタキオン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "白の章・黒の章": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マーリン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "スウィート★メドゥーサ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "破壊の絶傑・リーシェナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "城ヶ崎莉嘉": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ファイアーチェイン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "烈火の魔弾": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "天界の尖兵": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真実の宣告": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真実の掟": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "キングスノーマン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "センター・オブ・ストリート": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "唯我の一刀": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "アグネスタキオン": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "天界の尖兵": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "マーリン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "スウィート★メドゥーサ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "城ヶ崎莉嘉": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "1DCRN",
+        "rank": 16,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ブシアカ",
+        "friend_code": "JWSSI",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "フジヤ",
+        "order": "C"
+      }
+    ]
+  },
+  "0e3dc0e3": {
+    "name": "2コスナイトメア",
+    "class": "ナイトメア",
+    "source_id": "8b9476",
+    "cards": {
+      "片翼の悪魔・ピユラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "バロン・ダブルフィール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "パンクデビル・デモニア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "欲望の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "轟": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "夢のささやき": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "欲望の口付け": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "烈火の魔弾": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "沈黙の絶傑・ルルナイ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "異界を統べる者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "真紅のローズクイーン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "地獄の解放者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "消えぬ怨恨": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "沈黙の詩": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "真紅のローズクイーン": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "バロン・ダブルフィール": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "沈黙の絶傑・ルルナイ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "異界を統べる者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "4U9CU",
+        "rank": 9,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "運王",
+        "friend_code": "GJRLY",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "アルパカ飲酒クラブ",
+        "order": "C"
+      }
+    ]
+  },
+  "2b8b367d": {
+    "name": "自然スペルエルフ",
+    "class": "エルフ",
+    "source_id": "c0b97b",
+    "cards": {
+      "大いなる回帰": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "森の隠者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ワンダーコック": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "クリスタリア・リリィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "荒野の案内人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "スケアリートレント": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "萌芽の化身": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "光の道筋": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "回帰する抱擁・ラティカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "カシオペア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "プライマルギガント": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マドロスエルフ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "天界の尖兵": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真偽の逆転": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "回帰する抱擁・ラティカ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "森の隠者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "クリスタリア・リリィ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "マドロスエルフ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "天界の尖兵": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "7S5U4",
+        "rank": 19,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ペンタ",
+        "friend_code": "EKJMG",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "頭文字P",
+        "order": "A"
+      }
+    ]
+  },
+  "6e8d7e3d": {
+    "name": "童話ビショップ",
+    "class": "ビショップ",
+    "source_id": "f1167c",
+    "cards": {
+      "アンドロメダ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "歌劇姫・フェリア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "剛健の翼人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "悪魔のエピタフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ハンプティダンプティ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "不思議の探求者・アリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ブリキの兵隊": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "卵の大爆発": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "三月ウサギのお茶会": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鷹富士茄子": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "森の参謀・ムニャール": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ラプンツェル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "翼の王子": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アリスの冒険": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "星灯りの女神": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "ハンプティダンプティ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "悪魔のエピタフ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "不思議の探求者・アリス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "鷹富士茄子": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "翼の王子": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "1KDFN",
+        "rank": 16,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "souka",
+        "friend_code": "FFUTW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "フジヤ",
+        "order": "B"
+      }
+    ]
+  },
+  "8348b104": {
+    "name": "ドラゴン（その他）",
+    "class": "ドラゴン",
+    "source_id": null,
+    "cards": {
+      "ベルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ブレイジングブレス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ドラゴンの卵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ドラゴニュートの威圧": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "光の道筋": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "星灯りの女神": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "水呼びの竜使い": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "竜巫女の儀式": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "辻野あかり": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "アジ・ダハーカ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "竜の伝令": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "神龍": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "ドラゴニックメイル・ギルヴァ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "水呼びの竜使い": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ベルエンジェル": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "星灯りの女神": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "神龍": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "アジ・ダハーカ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "56BT6",
+        "rank": 5,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ヘタヲ",
+        "friend_code": "QLVAW",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "ニカ",
+        "order": "B"
+      }
+    ]
+  },
+  "52e0a872": {
+    "name": "ナイトメア（その他）",
+    "class": "ナイトメア",
+    "source_id": null,
+    "cards": {
+      "プチゴースト・バケルス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ゴーストライター": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "獄炎のデーモン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "スピリットキュレーター": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "幽霊支配人・アーカス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "欲望の狂信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ラストデイライト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "悪戯なネクロマンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ファントムハウル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マスカレードゴースト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "巨大なる怨念": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "シンシア・ソウル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ソウルコンバージョン": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ゴーストメイド": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "マスカレードゴースト": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "プチゴースト・バケルス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "悪戯なネクロマンサー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "マスカレードゴースト・S": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ゴーストメイド": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "UEP8",
+        "rank": 8,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "ちーたら",
+        "friend_code": "QFJMB",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "#パピーWIN",
+        "order": "C"
+      }
+    ]
+  },
+  "1380d5ae": {
+    "name": "ビショップ（その他）",
+    "class": "ビショップ",
+    "source_id": null,
+    "cards": {
+      "ベルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "ダークオファリング": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "機構翼の少女・ローザ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "射殺す輝き": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "破邪の光": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "《世界》・ゼルガネイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "高垣楓": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "テミスの審判": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "エンジェルスナイプ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "エンジェルバレッジ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "救世主": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "聖なる願い": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ブーストキッカー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "烈火の魔弾": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "安息の絶傑・マーウィン": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "イスラーフィール": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      }
+    },
+    "evolve_cards": {
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "機構翼の少女・ローザ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "大いなる《世界》・ゼルガネイア": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ベルエンジェル": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "安息の絶傑・マーウィン": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "イスラーフィール": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "664142",
+        "deck_id": "6L50U",
+        "rank": 28,
+        "tourney_size": 9,
+        "participants": 527,
+        "player": "コタロー",
+        "friend_code": "FMHFD",
+        "venue": "Shadowverse EVOLVE公式",
+        "date": "2024-05-03",
+        "pref_code": null,
+        "team_name": "SSK",
+        "order": "B"
+      }
+    ]
+  }
+}

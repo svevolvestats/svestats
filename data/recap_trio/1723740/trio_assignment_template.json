@@ -1,0 +1,157 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "3fd0d899",
+      "source_id": "e2255a",
+      "name": "侮蔑ドラゴン",
+      "class": "ドラゴン",
+      "count": 28
+    },
+    {
+      "archetype_id": "6b2fcce9",
+      "source_id": "77a0df",
+      "name": "レヴィオンロイヤル",
+      "class": "ロイヤル",
+      "count": 27
+    },
+    {
+      "archetype_id": "ee2cfa6b",
+      "source_id": "56d1f2",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 9
+    },
+    {
+      "archetype_id": "81a5121a",
+      "source_id": "347845",
+      "name": "アイドルウィッチ",
+      "class": "ウィッチ",
+      "count": 7
+    },
+    {
+      "archetype_id": "49b9fe40",
+      "source_id": "a5adc2",
+      "name": "学院ナイトメア",
+      "class": "ナイトメア",
+      "count": 6
+    },
+    {
+      "archetype_id": "c0ed3c2c",
+      "source_id": "a49211",
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "count": 4
+    },
+    {
+      "archetype_id": "27f17e21",
+      "source_id": "20edcd",
+      "name": "財宝ロイヤル",
+      "class": "ロイヤル",
+      "count": 3
+    },
+    {
+      "archetype_id": "a893b0e8",
+      "source_id": "30756c",
+      "name": "学院ウィッチ",
+      "class": "ウィッチ",
+      "count": 3
+    },
+    {
+      "archetype_id": "7929be9b",
+      "source_id": "8f8cd3",
+      "name": "宴楽ナイトメア",
+      "class": "ナイトメア",
+      "count": 3
+    },
+    {
+      "archetype_id": "dbd072d7",
+      "source_id": "b66965",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "9583484c",
+      "source_id": "32271a",
+      "name": "八獄ウィッチ",
+      "class": "ウィッチ",
+      "count": 1
+    },
+    {
+      "archetype_id": "2db80a27",
+      "source_id": "a37a54",
+      "name": "狩人エルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "37d8c94b",
+      "source_id": "52af19",
+      "name": "学院エルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "5ac04732",
+      "source_id": "fac16d",
+      "name": "カットスロートエルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "4c3003e2",
+      "source_id": "133e23",
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 1
+    }
+  ],
+  "unassigned": [],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split '侮蔑ドラゴン': decks matching required cards → new archetype",
+        "source": "e2255a",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "クラス_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "e2255a"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "77a0df"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'クラス_その他' (entire unassigned group) + '侮蔑ドラゴン' into one archetype",
+        "sources": [
+          "クラス_その他",
+          "e2255a"
+        ],
+        "class": "ドラゴン",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

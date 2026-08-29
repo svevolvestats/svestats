@@ -1,0 +1,143 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "b3f9c6c8",
+      "source_id": "45b6d6",
+      "name": "かげろう2",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 29
+    },
+    {
+      "archetype_id": "ce3d4ce0",
+      "source_id": "22f628",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 23
+    },
+    {
+      "archetype_id": "721d0e36",
+      "source_id": "553387",
+      "name": "超越ウィッチ",
+      "class": "ウィッチ",
+      "count": 11
+    },
+    {
+      "archetype_id": "2457c184",
+      "source_id": "1d242e",
+      "name": "かげろうドラゴン",
+      "class": "ドラゴン",
+      "count": 10
+    },
+    {
+      "archetype_id": "94313a29",
+      "source_id": "e56f27",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 10
+    },
+    {
+      "archetype_id": "e781f7d0",
+      "source_id": "34a4ff",
+      "name": "アミュレットビショップ",
+      "class": "ビショップ",
+      "count": 3
+    },
+    {
+      "archetype_id": "5d54cf26",
+      "source_id": "11d53e",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 3
+    },
+    {
+      "archetype_id": "9278b9dd",
+      "source_id": "3499f9",
+      "name": "ロイヤルパラディン1",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 2
+    },
+    {
+      "archetype_id": "3730460c",
+      "source_id": "a1182a",
+      "name": "かげろう3",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 1
+    },
+    {
+      "archetype_id": "2e8f043e",
+      "source_id": "ba2bf5",
+      "name": "2コスナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "71227d9a",
+      "source_id": "d40fd9",
+      "name": "ネフティスナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "e12cf4a5",
+      "source_id": "b5df22",
+      "name": "ミッドレンジロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "463ee144",
+      "source_id": "70695d",
+      "name": "人形エルフ",
+      "class": "エルフ",
+      "count": 1
+    }
+  ],
+  "unassigned": [],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split 'かげろう2': decks matching required cards → new archetype",
+        "source": "45b6d6",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "クラス_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "45b6d6"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "22f628"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'クラス_その他' (entire unassigned group) + 'かげろう2' into one archetype",
+        "sources": [
+          "クラス_その他",
+          "45b6d6"
+        ],
+        "class": "カードファイト!! ヴァンガード",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

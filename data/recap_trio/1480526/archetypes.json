@@ -1,0 +1,3823 @@
+{
+  "5a478f7f": {
+    "name": "コンボエルフ",
+    "class": "エルフ",
+    "source_id": "f7a1c4",
+    "cards": {
+      "深緑の弓使い・アリサ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "小さな勇士・スクナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "優美な猫姉妹・シャム＆シャマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "爆砕の傭兵・フィーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "不思議な青空・アリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "マドロスエルフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "〔渚の花嫁〕新田美波": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "対空射撃": {
+        "avg": 2.963,
+        "ratio": 1.0,
+        "rank": 0.528
+      },
+      "自然の導き": {
+        "avg": 2.8148,
+        "ratio": 1.0,
+        "rank": 0.462
+      },
+      "ロイヤルクリスタリア・ティア": {
+        "avg": 2.5556,
+        "ratio": 0.8889,
+        "rank": 0.38
+      },
+      "アナスタシア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.502
+      },
+      "コッコロ": {
+        "avg": 1.9259,
+        "ratio": 0.8889,
+        "rank": 0.687
+      },
+      "フロストクリスタリア・エリン": {
+        "avg": 1.9259,
+        "ratio": 0.8148,
+        "rank": 0.0
+      },
+      "ピュアクリスタリア・リリィ": {
+        "avg": 1.3333,
+        "ratio": 0.963,
+        "rank": 0.775
+      },
+      "迸る光明・アポロン": {
+        "avg": 1.3333,
+        "ratio": 0.5556,
+        "rank": 0.726
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 1.0741,
+        "ratio": 0.4815,
+        "rank": 1.0
+      },
+      "アクティブエルフ・メイ": {
+        "avg": 0.8889,
+        "ratio": 0.4815,
+        "rank": 0.127
+      },
+      "ネビア": {
+        "avg": 0.0741,
+        "ratio": 0.037,
+        "rank": 0.296
+      },
+      "オシャレ女王・ネルシャ": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.623
+      },
+      "高速遊撃のイルカ兵": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.623
+      },
+      "女神は朝焼けの海に": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.394
+      },
+      "サイレンススズカ": {
+        "avg": 0.037,
+        "ratio": 0.037,
+        "rank": 0.394
+      }
+    },
+    "evolve_cards": {
+      "小さな勇士・スクナ": {
+        "avg": 2.9259,
+        "ratio": 1.0
+      },
+      "マドロスエルフ": {
+        "avg": 2.3704,
+        "ratio": 1.0
+      },
+      "フロストクリスタリア・エリン": {
+        "avg": 1.4444,
+        "ratio": 0.8148
+      },
+      "コッコロ": {
+        "avg": 1.2963,
+        "ratio": 0.8889
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.963,
+        "ratio": 0.5556
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 0.963,
+        "ratio": 0.4815
+      },
+      "サイレンススズカ": {
+        "avg": 0.037,
+        "ratio": 0.037
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "6ZZ5N",
+        "rank": 1,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "あまつ",
+        "friend_code": "WLGTI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "爆勝開運丸",
+        "order": "A",
+        "prelim_rank": 26,
+        "variant_cards": [
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5M13S",
+        "rank": 2,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "たまぱ",
+        "friend_code": "OGXGQ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "電脳堺",
+        "order": "A",
+        "prelim_rank": 24
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1X06C",
+        "rank": 3,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "むらくも",
+        "friend_code": "HBYRT",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "Beyond Pals",
+        "order": "B",
+        "prelim_rank": 20
+      },
+      {
+        "event": "1480526",
+        "deck_id": "51RU0",
+        "rank": 5,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "もりた",
+        "friend_code": "FAZQS",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "チョコミントハウス",
+        "order": "B",
+        "prelim_rank": 15,
+        "variant_cards": [
+          {
+            "name": "オシャレ女王・ネルシャ",
+            "flag": "in"
+          },
+          {
+            "name": "ピュアクリスタリア・リリィ",
+            "flag": "out"
+          },
+          {
+            "name": "ロイヤルクリスタリア・ティア",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5FXFQ",
+        "rank": 7,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "わてつ",
+        "friend_code": "EKRZW",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "e強欲ビーツ7500",
+        "order": "C",
+        "prelim_rank": 22,
+        "variant_cards": [
+          {
+            "name": "高速遊撃のイルカ兵",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "4NDDJ",
+        "rank": 9,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "村田陸",
+        "friend_code": "OJRRP",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "プリコネ顔",
+        "order": "B",
+        "prelim_rank": 2
+      },
+      {
+        "event": "1480526",
+        "deck_id": "11YNA",
+        "rank": 10,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ジャガネ",
+        "friend_code": "IGOQS",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "CR3号店",
+        "order": "A",
+        "prelim_rank": 4
+      },
+      {
+        "event": "1480526",
+        "deck_id": "28LBE",
+        "rank": 11,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ちくわ",
+        "friend_code": "UHLKW",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "JCSJCS何もなし",
+        "order": "B",
+        "prelim_rank": 6
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2VCG0",
+        "rank": 12,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "けんごう",
+        "friend_code": "ICLVM",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "研鑽が原石を磨きます",
+        "order": "A",
+        "prelim_rank": 8
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1MDQ8",
+        "rank": 13,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "あびぃ",
+        "friend_code": "EQIWN",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "†終焉の地†",
+        "order": "B",
+        "prelim_rank": 12
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1LX2W",
+        "rank": 14,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ひすい",
+        "friend_code": "CHHYB",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "本厚木なかよし部",
+        "order": "B",
+        "prelim_rank": 19,
+        "variant_cards": [
+          {
+            "name": "ロイヤルクリスタリア・ティア",
+            "flag": "out"
+          },
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "31LZN",
+        "rank": 15,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "とと",
+        "friend_code": "SECBR",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "9時間1500円",
+        "order": "B",
+        "prelim_rank": 23
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1VGGL",
+        "rank": 16,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ウル",
+        "friend_code": "QRFMI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "川越美食殿",
+        "order": "B",
+        "prelim_rank": 32
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5C6BU",
+        "rank": 17,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ミコ",
+        "friend_code": "JYAXI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "てぇてぇの間に挟まるArs",
+        "order": "B",
+        "prelim_rank": 1
+      },
+      {
+        "event": "1480526",
+        "deck_id": "63K3S",
+        "rank": 18,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ゆにん",
+        "friend_code": "QQMOK",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "黎明界ラビリンス",
+        "order": "A",
+        "prelim_rank": 3,
+        "variant_cards": [
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5D7G8",
+        "rank": 19,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "さにーすかい",
+        "friend_code": "WNZIZ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "飲んだくれエボル部",
+        "order": "B",
+        "prelim_rank": 5
+      },
+      {
+        "event": "1480526",
+        "deck_id": "49UZ6",
+        "rank": 20,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "れん",
+        "friend_code": "RUPSF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "溝の口ハウス2",
+        "order": "C",
+        "prelim_rank": 7,
+        "variant_cards": [
+          {
+            "name": "女神は朝焼けの海に",
+            "flag": "in"
+          },
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "7M6TJ",
+        "rank": 21,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "このん",
+        "friend_code": "ZCJWP",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "カードショップ「あま」通販店",
+        "order": "A",
+        "prelim_rank": 9
+      },
+      {
+        "event": "1480526",
+        "deck_id": "29BUG",
+        "rank": 22,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "冥府",
+        "friend_code": "APVBA",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ファミリアCorp",
+        "order": "B",
+        "prelim_rank": 10
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1GAF6",
+        "rank": 23,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "でぃっしー",
+        "friend_code": "XIJMV",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ジズドヴェンダー中村軍団",
+        "order": "B",
+        "prelim_rank": 11
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3X5W4",
+        "rank": 24,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "れじあ",
+        "friend_code": "UAGQI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "当日スベリコミ三人衆",
+        "order": "B",
+        "prelim_rank": 13
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1LY60",
+        "rank": 25,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "RGB",
+        "friend_code": "DBBPH",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ボンド復帰しろ",
+        "order": "C",
+        "prelim_rank": 14,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3HGRE",
+        "rank": 26,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "yu-ji",
+        "friend_code": "GJZIQ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ショクナシショクアリ",
+        "order": "C",
+        "prelim_rank": 16
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3489J",
+        "rank": 27,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "プリン【purin】",
+        "friend_code": "VWLFM",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "長生軍",
+        "order": "C",
+        "prelim_rank": 18,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "31JN4",
+        "rank": 28,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "きらく",
+        "friend_code": "YJJDY",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "透京卍リベンジャーズ",
+        "order": "A",
+        "prelim_rank": 21
+      },
+      {
+        "event": "1480526",
+        "deck_id": "7H9K2",
+        "rank": 31,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "TORU",
+        "friend_code": "UILBH",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "浪速区難波中2丁目",
+        "order": "C",
+        "prelim_rank": 29
+      },
+      {
+        "event": "1480526",
+        "deck_id": "4CXN0",
+        "rank": 32,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "えんぴつ",
+        "friend_code": "KEVPH",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "うぇ〜部オルタ",
+        "order": "C",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "ネビア",
+            "flag": "in"
+          },
+          {
+            "name": "サイレンススズカ",
+            "flag": "in"
+          },
+          {
+            "name": "ロイヤルクリスタリア・ティア",
+            "flag": "out"
+          },
+          {
+            "name": "フロストクリスタリア・エリン",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "d2721fc5": {
+    "name": "スペルプリコネ",
+    "class": "プリンセスコネクト！Re:Dive",
+    "source_id": "0e8325",
+    "cards": {
+      "クロエ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.7
+      },
+      "チエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.7
+      },
+      "エリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.7
+      },
+      "ユニ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.7
+      },
+      "コールオブギルド": {
+        "avg": 2.9583,
+        "ratio": 1.0,
+        "rank": 0.669
+      },
+      "ちぇるちぇる☆かあにばる": {
+        "avg": 2.9583,
+        "ratio": 1.0,
+        "rank": 0.736
+      },
+      "ダークエクリプス": {
+        "avg": 2.9167,
+        "ratio": 1.0,
+        "rank": 0.772
+      },
+      "いつか、また会う未来で": {
+        "avg": 2.875,
+        "ratio": 0.9583,
+        "rank": 0.81
+      },
+      "オーロラヒーリング": {
+        "avg": 2.8333,
+        "ratio": 1.0,
+        "rank": 0.814
+      },
+      "キャル": {
+        "avg": 2.5833,
+        "ratio": 1.0,
+        "rank": 0.841
+      },
+      "シェフィ": {
+        "avg": 2.4167,
+        "ratio": 0.8333,
+        "rank": 0.784
+      },
+      "真理と実存の共同幻想": {
+        "avg": 2.2917,
+        "ratio": 1.0,
+        "rank": 0.717
+      },
+      "ペコリーヌ": {
+        "avg": 1.9167,
+        "ratio": 0.7917,
+        "rank": 0.754
+      },
+      "マホ": {
+        "avg": 0.9583,
+        "ratio": 0.4583,
+        "rank": 0.273
+      },
+      "サレン": {
+        "avg": 0.75,
+        "ratio": 0.5,
+        "rank": 0.905
+      },
+      "ユキ": {
+        "avg": 0.625,
+        "ratio": 0.2917,
+        "rank": 0.857
+      },
+      "イリヤ": {
+        "avg": 0.5833,
+        "ratio": 0.5833,
+        "rank": 0.777
+      },
+      "キョウカ": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.288
+      },
+      "プリンセスストライク": {
+        "avg": 0.3333,
+        "ratio": 0.1667,
+        "rank": 0.624
+      },
+      "ムイミ": {
+        "avg": 0.2083,
+        "ratio": 0.0833,
+        "rank": 0.0
+      },
+      "ホマレ": {
+        "avg": 0.125,
+        "ratio": 0.0833,
+        "rank": 0.239
+      },
+      "コッコロ": {
+        "avg": 0.0833,
+        "ratio": 0.0417,
+        "rank": 0.377
+      },
+      "アキノ": {
+        "avg": 0.0417,
+        "ratio": 0.0417,
+        "rank": 1.0
+      },
+      "ミソラ": {
+        "avg": 0.0417,
+        "ratio": 0.0417,
+        "rank": 0.843
+      },
+      "羅刹涅槃・無式": {
+        "avg": 0.0417,
+        "ratio": 0.0417,
+        "rank": 0.53
+      },
+      "ユイ": {
+        "avg": 0.0417,
+        "ratio": 0.0417,
+        "rank": 0.53
+      },
+      "ヴァイオレット": {
+        "avg": 0.0417,
+        "ratio": 0.0417,
+        "rank": 0.53
+      }
+    },
+    "evolve_cards": {
+      "キャル": {
+        "avg": 2.5833,
+        "ratio": 1.0
+      },
+      "シェフィ": {
+        "avg": 2.2917,
+        "ratio": 0.8333
+      },
+      "ペコリーヌ": {
+        "avg": 1.875,
+        "ratio": 0.7917
+      },
+      "マホ": {
+        "avg": 0.875,
+        "ratio": 0.4583
+      },
+      "サレン": {
+        "avg": 0.7083,
+        "ratio": 0.5
+      },
+      "ユキ": {
+        "avg": 0.625,
+        "ratio": 0.2917
+      },
+      "イリヤ": {
+        "avg": 0.5833,
+        "ratio": 0.5833
+      },
+      "キョウカ": {
+        "avg": 0.3333,
+        "ratio": 0.125
+      },
+      "コッコロ": {
+        "avg": 0.0833,
+        "ratio": 0.0417
+      },
+      "ユイ": {
+        "avg": 0.0417,
+        "ratio": 0.0417
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "3W87W",
+        "rank": 1,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ステイ",
+        "friend_code": "WCEBB",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "爆勝開運丸",
+        "order": "B",
+        "prelim_rank": 26
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5WG4U",
+        "rank": 2,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "gaikotu ",
+        "friend_code": "WJTOR",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "電脳堺",
+        "order": "B",
+        "prelim_rank": 24
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2QTNG",
+        "rank": 3,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "つくし",
+        "friend_code": "UWQDI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "Beyond Pals",
+        "order": "C",
+        "prelim_rank": 20
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2R6V6",
+        "rank": 4,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "かずん",
+        "friend_code": "WVHVE",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "かずんハウス本店",
+        "order": "C",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "アキノ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "286JY",
+        "rank": 6,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ゆき",
+        "friend_code": "DFZDR",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "チームF@@@1",
+        "order": "C",
+        "prelim_rank": 17,
+        "variant_cards": [
+          {
+            "name": "ミソラ",
+            "flag": "in"
+          },
+          {
+            "name": "シェフィ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3D4ZE",
+        "rank": 7,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "soma",
+        "friend_code": "DOQYW",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "e強欲ビーツ7500",
+        "order": "A",
+        "prelim_rank": 22,
+        "variant_cards": [
+          {
+            "name": "キョウカ",
+            "flag": "in"
+          },
+          {
+            "name": "シェフィ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1RRG8",
+        "rank": 9,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "のは",
+        "friend_code": "AHTJH",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "プリコネ顔",
+        "order": "A",
+        "prelim_rank": 2
+      },
+      {
+        "event": "1480526",
+        "deck_id": "575VA",
+        "rank": 10,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "魚",
+        "friend_code": "XSDMV",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "CR3号店",
+        "order": "C",
+        "prelim_rank": 4
+      },
+      {
+        "event": "1480526",
+        "deck_id": "6TNDW",
+        "rank": 11,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "なかむら",
+        "friend_code": "ORQVV",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "JCSJCS何もなし",
+        "order": "A",
+        "prelim_rank": 6
+      },
+      {
+        "event": "1480526",
+        "deck_id": "40S44",
+        "rank": 12,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "くまかもしれない！",
+        "friend_code": "PUZDK",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "研鑽が原石を磨きます",
+        "order": "C",
+        "prelim_rank": 8
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5BBK2",
+        "rank": 14,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "広川",
+        "friend_code": "AWVPU",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "本厚木なかよし部",
+        "order": "A",
+        "prelim_rank": 19
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5Y236",
+        "rank": 15,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ライナック",
+        "friend_code": "SGTLK",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "9時間1500円",
+        "order": "C",
+        "prelim_rank": 23
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3FUFJ",
+        "rank": 18,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ゆの*",
+        "friend_code": "EVTPE",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "黎明界ラビリンス",
+        "order": "B",
+        "prelim_rank": 3
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5RJ9W",
+        "rank": 19,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "コットン",
+        "friend_code": "RDAIY",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "飲んだくれエボル部",
+        "order": "C",
+        "prelim_rank": 5,
+        "variant_cards": [
+          {
+            "name": "コッコロ",
+            "flag": "in"
+          },
+          {
+            "name": "ムイミ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "6J3K6",
+        "rank": 20,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ばんどえーど",
+        "friend_code": "HFUVL",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "溝の口ハウス2",
+        "order": "A",
+        "prelim_rank": 7
+      },
+      {
+        "event": "1480526",
+        "deck_id": "68ERJ",
+        "rank": 21,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "luvma",
+        "friend_code": "REFRG",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "カードショップ「あま」通販店",
+        "order": "B",
+        "prelim_rank": 9
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1YPXE",
+        "rank": 22,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "さく",
+        "friend_code": "QPXAF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ファミリアCorp",
+        "order": "C",
+        "prelim_rank": 10,
+        "variant_cards": [
+          {
+            "name": "ホマレ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3GUAY",
+        "rank": 24,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "リデ",
+        "friend_code": "KYDCC",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "当日スベリコミ三人衆",
+        "order": "A",
+        "prelim_rank": 13,
+        "variant_cards": [
+          {
+            "name": "キョウカ",
+            "flag": "in"
+          },
+          {
+            "name": "シェフィ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "7X5L0",
+        "rank": 25,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "マンチャプ",
+        "friend_code": "MLECI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ボンド復帰しろ",
+        "order": "A",
+        "prelim_rank": 14
+      },
+      {
+        "event": "1480526",
+        "deck_id": "20N0U",
+        "rank": 27,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "シール/Daisuke",
+        "friend_code": "GXUSF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "長生軍",
+        "order": "A",
+        "prelim_rank": 18,
+        "variant_cards": [
+          {
+            "name": "羅刹涅槃・無式",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3WC1J",
+        "rank": 28,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "you仮",
+        "friend_code": "CODKT",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "透京卍リベンジャーズ",
+        "order": "B",
+        "prelim_rank": 21
+      },
+      {
+        "event": "1480526",
+        "deck_id": "110SC",
+        "rank": 29,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "もち",
+        "friend_code": "QLJMQ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "コタローと愉快な仲間たち",
+        "order": "A",
+        "prelim_rank": 25,
+        "variant_cards": [
+          {
+            "name": "ユイ",
+            "flag": "in"
+          },
+          {
+            "name": "ムイミ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "55U9A",
+        "rank": 30,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "サカイ",
+        "friend_code": "QWSNS",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "フェアリーライフ",
+        "order": "C",
+        "prelim_rank": 27,
+        "variant_cards": [
+          {
+            "name": "ヴァイオレット",
+            "flag": "in"
+          },
+          {
+            "name": "キョウカ",
+            "flag": "in"
+          },
+          {
+            "name": "シェフィ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "62DSQ",
+        "rank": 32,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ばぶたろ",
+        "friend_code": "DWKKP",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "うぇ〜部オルタ",
+        "order": "A",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "いつか、また会う未来で",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "6fb13d80": {
+    "name": "NCナイトメア",
+    "class": "ナイトメア",
+    "source_id": "892013",
+    "cards": {
+      "友魂の少女・ルナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.462
+      },
+      "人外魔境・クリストフ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.462
+      },
+      "ストレイホロウ・イルガンノ": {
+        "avg": 2.9524,
+        "ratio": 1.0,
+        "rank": 0.428
+      },
+      "異形": {
+        "avg": 2.9524,
+        "ratio": 1.0,
+        "rank": 0.428
+      },
+      "奔放なる獄炎・ケルベロス": {
+        "avg": 2.9524,
+        "ratio": 1.0,
+        "rank": 0.428
+      },
+      "憧れの飛躍・イツルギ": {
+        "avg": 2.8571,
+        "ratio": 0.9524,
+        "rank": 0.358
+      },
+      "佰死と佰亡の六銘伝・イルゼ＆ウルゼ": {
+        "avg": 2.8571,
+        "ratio": 0.9524,
+        "rank": 0.576
+      },
+      "デッドペナルティ": {
+        "avg": 2.7619,
+        "ratio": 0.9524,
+        "rank": 0.359
+      },
+      "ゴールドラッシュゴースト": {
+        "avg": 2.4286,
+        "ratio": 0.9524,
+        "rank": 0.444
+      },
+      "死期を視るもの・グレモリー": {
+        "avg": 2.3333,
+        "ratio": 0.9524,
+        "rank": 0.618
+      },
+      "ソウルガイド・エイミー": {
+        "avg": 2.1429,
+        "ratio": 0.9524,
+        "rank": 0.591
+      },
+      "ブラックスワン・オディール": {
+        "avg": 2.0476,
+        "ratio": 1.0,
+        "rank": 0.413
+      },
+      "幽霊支配人・アーカス": {
+        "avg": 1.8095,
+        "ratio": 0.7619,
+        "rank": 0.318
+      },
+      "瞑地の天宮・ムカン": {
+        "avg": 1.619,
+        "ratio": 0.9524,
+        "rank": 0.317
+      },
+      "大ツルハシの骸": {
+        "avg": 1.4286,
+        "ratio": 0.8095,
+        "rank": 0.436
+      },
+      "カオスルーラー・アイシィレンドリング": {
+        "avg": 1.3333,
+        "ratio": 0.9048,
+        "rank": 0.441
+      },
+      "一刀の幽鬼・カゲロウ": {
+        "avg": 0.381,
+        "ratio": 0.2381,
+        "rank": 1.0
+      },
+      "魂の一刀": {
+        "avg": 0.2381,
+        "ratio": 0.1905,
+        "rank": 0.698
+      },
+      "ヴォイドリアライズ": {
+        "avg": 0.1905,
+        "ratio": 0.0952,
+        "rank": 0.437
+      },
+      "沈黙の詩": {
+        "avg": 0.1429,
+        "ratio": 0.0476,
+        "rank": 0.885
+      },
+      "沈黙の絶傑・ルルナイ": {
+        "avg": 0.1429,
+        "ratio": 0.0476,
+        "rank": 0.885
+      },
+      "ソウルコンバージョン": {
+        "avg": 0.1429,
+        "ratio": 0.0952,
+        "rank": 0.0
+      },
+      "衝動の人狼・リベルテ": {
+        "avg": 0.1429,
+        "ratio": 0.0476,
+        "rank": 0.0
+      },
+      "絶叫の沈黙・ルルナイ": {
+        "avg": 0.0952,
+        "ratio": 0.0476,
+        "rank": 0.761
+      },
+      "夢のささやき": {
+        "avg": 0.0952,
+        "ratio": 0.0476,
+        "rank": 0.761
+      },
+      "《恋人》・ミルティオ": {
+        "avg": 0.0476,
+        "ratio": 0.0476,
+        "rank": 0.291
+      },
+      "骸の代弁者": {
+        "avg": 0.0476,
+        "ratio": 0.0476,
+        "rank": 0.291
+      }
+    },
+    "evolve_cards": {
+      "異形": {
+        "avg": 2.8095,
+        "ratio": 1.0
+      },
+      "楽園の終焉・イツルギ": {
+        "avg": 1.9048,
+        "ratio": 1.0
+      },
+      "佰死と佰亡の六銘伝・イルゼ＆ウルゼ": {
+        "avg": 1.8571,
+        "ratio": 0.9524
+      },
+      "瞑地の天宮・ムカン": {
+        "avg": 1.8095,
+        "ratio": 0.9524
+      },
+      "カオスルーラー・アイシィレンドリング": {
+        "avg": 1.0476,
+        "ratio": 0.9048
+      },
+      "ソウルガイド・エイミー": {
+        "avg": 0.2857,
+        "ratio": 0.2857
+      },
+      "沈黙の絶傑・ルルナイ": {
+        "avg": 0.0952,
+        "ratio": 0.0476
+      },
+      "衝動の人狼・リベルテ": {
+        "avg": 0.0952,
+        "ratio": 0.0476
+      },
+      "《恋人》・ミルティオ": {
+        "avg": 0.0476,
+        "ratio": 0.0476
+      },
+      "骸の代弁者": {
+        "avg": 0.0476,
+        "ratio": 0.0476
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "5T2L8",
+        "rank": 2,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "mituki",
+        "friend_code": "PLXMW",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "電脳堺",
+        "order": "C",
+        "prelim_rank": 24
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5CY08",
+        "rank": 3,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "わべスケ",
+        "friend_code": "XUFME",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "Beyond Pals",
+        "order": "A",
+        "prelim_rank": 20
+      },
+      {
+        "event": "1480526",
+        "deck_id": "20NW8",
+        "rank": 4,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "きたち",
+        "friend_code": "OVLBI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "かずんハウス本店",
+        "order": "A",
+        "prelim_rank": 30
+      },
+      {
+        "event": "1480526",
+        "deck_id": "YM6A",
+        "rank": 5,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "だいち",
+        "friend_code": "EKVCK",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "チョコミントハウス",
+        "order": "A",
+        "prelim_rank": 15,
+        "variant_cards": [
+          {
+            "name": "ヴォイドリアライズ",
+            "flag": "in"
+          },
+          {
+            "name": "ソウルガイド・エイミー",
+            "flag": "out"
+          },
+          {
+            "name": "デッドペナルティ",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "755JQ",
+        "rank": 6,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "タチャンカ",
+        "friend_code": "FGDSU",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "チームF@@@1",
+        "order": "B",
+        "prelim_rank": 17
+      },
+      {
+        "event": "1480526",
+        "deck_id": "30NLC",
+        "rank": 8,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "Vita",
+        "friend_code": "TDIZV",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "サンデュポカイランヨウ",
+        "order": "B",
+        "prelim_rank": 28,
+        "variant_cards": [
+          {
+            "name": "絶叫の沈黙・ルルナイ",
+            "flag": "in"
+          },
+          {
+            "name": "沈黙の詩",
+            "flag": "in"
+          },
+          {
+            "name": "ゴールドラッシュゴースト",
+            "flag": "out"
+          },
+          {
+            "name": "瞑地の天宮・ムカン",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1CZZS",
+        "rank": 9,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "まあ",
+        "friend_code": "WKKDT",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "プリコネ顔",
+        "order": "C",
+        "prelim_rank": 2
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5ZX40",
+        "rank": 10,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "みなも",
+        "friend_code": "MABJA",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "CR3号店",
+        "order": "B",
+        "prelim_rank": 4
+      },
+      {
+        "event": "1480526",
+        "deck_id": "58LB6",
+        "rank": 11,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ファイミ",
+        "friend_code": "SQYYM",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "JCSJCS何もなし",
+        "order": "C",
+        "prelim_rank": 6
+      },
+      {
+        "event": "1480526",
+        "deck_id": "4F42A",
+        "rank": 12,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "なつ",
+        "friend_code": "VNKOO",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "研鑽が原石を磨きます",
+        "order": "B",
+        "prelim_rank": 8
+      },
+      {
+        "event": "1480526",
+        "deck_id": "34N20",
+        "rank": 13,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "キュウリの夏ご飯",
+        "friend_code": "TETJS",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "†終焉の地†",
+        "order": "A",
+        "prelim_rank": 12
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2ETZ2",
+        "rank": 15,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ゆぅ",
+        "friend_code": "YGYFD",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "9時間1500円",
+        "order": "A",
+        "prelim_rank": 23,
+        "variant_cards": [
+          {
+            "name": "大ツルハシの骸",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "50CX6",
+        "rank": 19,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "mirokku",
+        "friend_code": "AJSEA",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "飲んだくれエボル部",
+        "order": "A",
+        "prelim_rank": 5,
+        "variant_cards": [
+          {
+            "name": "ソウルコンバージョン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3A4HS",
+        "rank": 22,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "くー",
+        "friend_code": "MGMFQ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ファミリアCorp",
+        "order": "A",
+        "prelim_rank": 10
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1WMV2",
+        "rank": 23,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ドイツ軍",
+        "friend_code": "JQBHX",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ジズドヴェンダー中村軍団",
+        "order": "C",
+        "prelim_rank": 11
+      },
+      {
+        "event": "1480526",
+        "deck_id": "145SQ",
+        "rank": 25,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "たかひろ。",
+        "friend_code": "FPETF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ボンド復帰しろ",
+        "order": "B",
+        "prelim_rank": 14
+      },
+      {
+        "event": "1480526",
+        "deck_id": "1UNVA",
+        "rank": 26,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "セブン",
+        "friend_code": "LTLEF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ショクナシショクアリ",
+        "order": "B",
+        "prelim_rank": 16
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2UBVJ",
+        "rank": 28,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "たまご",
+        "friend_code": "XEGCM",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "透京卍リベンジャーズ",
+        "order": "C",
+        "prelim_rank": 21
+      },
+      {
+        "event": "1480526",
+        "deck_id": "7K1NL",
+        "rank": 29,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "コタロー",
+        "friend_code": "IQTVF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "コタローと愉快な仲間たち",
+        "order": "B",
+        "prelim_rank": 25,
+        "variant_cards": [
+          {
+            "name": "《恋人》・ミルティオ",
+            "flag": "in"
+          },
+          {
+            "name": "ヴォイドリアライズ",
+            "flag": "in"
+          },
+          {
+            "name": "死期を視るもの・グレモリー",
+            "flag": "out"
+          },
+          {
+            "name": "カオスルーラー・アイシィレンドリング",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2CYSY",
+        "rank": 30,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "エルファイ",
+        "friend_code": "DXXIZ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "フェアリーライフ",
+        "order": "A",
+        "prelim_rank": 27,
+        "variant_cards": [
+          {
+            "name": "骸の代弁者",
+            "flag": "in"
+          },
+          {
+            "name": "衝動の人狼・リベルテ",
+            "flag": "in"
+          },
+          {
+            "name": "佰死と佰亡の六銘伝・イルゼ＆ウルゼ",
+            "flag": "out"
+          },
+          {
+            "name": "大ツルハシの骸",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3HYVE",
+        "rank": 31,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "黒木",
+        "friend_code": "ZIYIJ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "浪速区難波中2丁目",
+        "order": "A",
+        "prelim_rank": 29,
+        "variant_cards": [
+          {
+            "name": "ソウルコンバージョン",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "7440fe8b": {
+    "name": "7ドラゴン",
+    "class": "ドラゴン",
+    "source_id": "01adc8",
+    "cards": {
+      "オーブキャンサー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "灼熱のアナテマ・バーンドナイト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "蒼炎のドラゴニュート": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "荒波のドラグーン・ザハール": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "パンプキンドラゴン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "竜喰らう禁忌": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.312
+      },
+      "天威のドラグーン": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.43
+      },
+      "ドラゴニックコール": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.43
+      },
+      "邪智の竜・ファフニール": {
+        "avg": 2.25,
+        "ratio": 1.0,
+        "rank": 0.43
+      },
+      "猛火のティラノサウルス": {
+        "avg": 2.25,
+        "ratio": 0.75,
+        "rank": 0.43
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.0,
+        "ratio": 0.75,
+        "rank": 0.483
+      },
+      "艶麗なる竜人・マリオン": {
+        "avg": 1.75,
+        "ratio": 0.75,
+        "rank": 0.359
+      },
+      "《正義》・イランツァ": {
+        "avg": 1.75,
+        "ratio": 1.0,
+        "rank": 0.171
+      },
+      "雲海の騎竜兵": {
+        "avg": 1.5,
+        "ratio": 0.75,
+        "rank": 0.0
+      },
+      "竜巫女の儀式": {
+        "avg": 0.75,
+        "ratio": 0.75,
+        "rank": 0.388
+      },
+      "灼熱の嵐": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 1.0
+      },
+      "竜の託宣": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082
+      },
+      "万華の鳳凰": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082
+      },
+      "いつか、また会う未来で": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082
+      },
+      "未知との遭遇": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.082
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.129
+      },
+      "サンダーロア": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.129
+      },
+      "覇道の君臨者・フォルテ": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.129
+      },
+      "ドラゴンイクシード・ギルヴァ": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.199
+      }
+    },
+    "evolve_cards": {
+      "灼熱のアナテマ・バーンドナイト": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.25,
+        "ratio": 1.0
+      },
+      "天威のドラグーン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "《正義》・イランツァ": {
+        "avg": 1.5,
+        "ratio": 1.0
+      },
+      "蒼炎のドラゴニュート": {
+        "avg": 0.75,
+        "ratio": 0.25
+      },
+      "迸る光明・アポロン": {
+        "avg": 0.5,
+        "ratio": 0.25
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "4Y96C",
+        "rank": 6,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ラルド",
+        "friend_code": "FBGEP",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "チームF@@@1",
+        "order": "A",
+        "prelim_rank": 17,
+        "variant_cards": [
+          {
+            "name": "灼熱の嵐",
+            "flag": "in"
+          },
+          {
+            "name": "雲海の騎竜兵",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "7LEKE",
+        "rank": 29,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "たんじろ",
+        "friend_code": "ZJROZ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "コタローと愉快な仲間たち",
+        "order": "C",
+        "prelim_rank": 25,
+        "variant_cards": [
+          {
+            "name": "迸る光明・アポロン",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2975E",
+        "rank": 31,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "りうむ",
+        "friend_code": "GTAZI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "浪速区難波中2丁目",
+        "order": "B",
+        "prelim_rank": 29,
+        "variant_cards": [
+          {
+            "name": "サンダーロア",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "36CPE",
+        "rank": 32,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "スルル",
+        "friend_code": "MUZKU",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "うぇ〜部オルタ",
+        "order": "B",
+        "prelim_rank": 30,
+        "variant_cards": [
+          {
+            "name": "竜の託宣",
+            "flag": "in"
+          },
+          {
+            "name": "万華の鳳凰",
+            "flag": "in"
+          },
+          {
+            "name": "天威のドラグーン",
+            "flag": "out"
+          },
+          {
+            "name": "艶麗なる竜人・マリオン",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "d40b6e0b": {
+    "name": "機械ナイトメア",
+    "class": "ナイトメア",
+    "source_id": "b86a79",
+    "cards": {
+      "マンマル1号": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "メカニカルガンナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "紅のワルツ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鋼鉄の希望": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ファースト・ワン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "真紅の抗戦者・モノ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "創出の紫紺・エンネア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "フロートボードマーセナリー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マンマル2号": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "禁絶の腕・ニコラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "悠久の真紅・モノ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "デッドペナルティ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "永続の機構・ニコラ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "絆の共振": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "紫紺の抵抗者・エンネア": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "真紅の抗戦者・モノ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "禁絶の腕・ニコラ": {
+        "avg": 2.6667,
+        "ratio": 1.0
+      },
+      "創出の紫紺・エンネア": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "フロートボードマーセナリー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "5TVL0",
+        "rank": 1,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "いかるが",
+        "friend_code": "FHFQJ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "爆勝開運丸",
+        "order": "C",
+        "prelim_rank": 26
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2RN3S",
+        "rank": 16,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ミカゼ",
+        "friend_code": "OFPHS",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "川越美食殿",
+        "order": "A",
+        "prelim_rank": 32
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3FK7S",
+        "rank": 21,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "シローナ",
+        "friend_code": "BXBDQ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "カードショップ「あま」通販店",
+        "order": "C",
+        "prelim_rank": 9
+      }
+    ]
+  },
+  "a1580f2b": {
+    "name": "天使ロイヤル",
+    "class": "ロイヤル",
+    "source_id": "cab75b",
+    "cards": {
+      "ばーくがる": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "ベルエンジェル・リア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "ベルエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "反転する翼": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "フォーリンショット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "天使の泉": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "グランスエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "天使の恩寵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "スパルタクス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.333
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.186
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.129
+      },
+      "思わぬ躓き": {
+        "avg": 1.3333,
+        "ratio": 1.0,
+        "rank": 0.216
+      },
+      "カオティックエンジェル": {
+        "avg": 1.0,
+        "ratio": 0.6667,
+        "rank": 0.746
+      },
+      "恒久の天使": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 1.0
+      },
+      "ルシフェル": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.0
+      },
+      "堕天": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.756
+      },
+      "コラプションガーディアン": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.756
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.122
+      },
+      "熾天使の剣": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.122
+      },
+      "冥府への道": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.122
+      },
+      "タイラントオーダー": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.122
+      }
+    },
+    "evolve_cards": {
+      "グランスエンジェル": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "天界の尖兵": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "ベルエンジェル": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "勇壮の堕天使・オリヴィエ": {
+        "avg": 1.3333,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 0.3333,
+        "ratio": 0.3333
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "6GVX6",
+        "rank": 5,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "きむこつ",
+        "friend_code": "EZHIO",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "チョコミントハウス",
+        "order": "C",
+        "prelim_rank": 15,
+        "variant_cards": [
+          {
+            "name": "恒久の天使",
+            "flag": "in"
+          },
+          {
+            "name": "堕天",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "6WAK6",
+        "rank": 23,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "めめめ",
+        "friend_code": "QIXBI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ジズドヴェンダー中村軍団",
+        "order": "A",
+        "prelim_rank": 11,
+        "variant_cards": [
+          {
+            "name": "干絶の飢餓・ギルネリーゼ",
+            "flag": "in"
+          },
+          {
+            "name": "熾天使の剣",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "5HNAU",
+        "rank": 26,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "安和すばる",
+        "friend_code": "DCVQI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "ショクナシショクアリ",
+        "order": "A",
+        "prelim_rank": 16,
+        "variant_cards": [
+          {
+            "name": "タイラントオーダー",
+            "flag": "in"
+          },
+          {
+            "name": "ルシフェル",
+            "flag": "in"
+          },
+          {
+            "name": "カオティックエンジェル",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "dbd1a907": {
+    "name": "武闘竜人ドラゴン",
+    "class": "ドラゴン",
+    "source_id": "19ca39",
+    "cards": {
+      "朱翼の入学祝": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "炎髄の副会長・テンカ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "暴竜・伊達政宗": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "竜の託宣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "壊竜の六銘伝・エル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "竜槍の戦士・ローウェン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "焦熱の竜翼・ドラーク": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "白亜の竜騎士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "炎柱の竜人": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.596
+      },
+      "彩尾の風紀委員": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "大地のドラゴニュート": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "殺竜騎士・ロイ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.503
+      },
+      "電爪の帰宅部員": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.25
+      },
+      "気高き雷・ロマロニア": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.63
+      },
+      "竜殺しの槍": {
+        "avg": 1.3333,
+        "ratio": 0.6667,
+        "rank": 0.792
+      },
+      "竜頭のスレイヤー": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.0
+      },
+      "爆炎の咆哮": {
+        "avg": 0.6667,
+        "ratio": 0.6667,
+        "rank": 0.703
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.103
+      },
+      "覇道の竜翼・フォルテ": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 1.0
+      }
+    },
+    "evolve_cards": {
+      "炎柱の竜人": {
+        "avg": 2.6667,
+        "ratio": 1.0
+      },
+      "壊竜の六銘伝・エル": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "焦熱の竜翼・ドラーク": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "気高き雷・ロマロニア": {
+        "avg": 1.3333,
+        "ratio": 1.0
+      },
+      "彩尾の風紀委員": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 0.6667,
+        "ratio": 0.3333
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "3N9YQ",
+        "rank": 7,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "アマエビ",
+        "friend_code": "ALQTY",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "e強欲ビーツ7500",
+        "order": "B",
+        "prelim_rank": 22,
+        "variant_cards": [
+          {
+            "name": "覇道の竜翼・フォルテ",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "3C9NQ",
+        "rank": 17,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ハゲ",
+        "friend_code": "JPROF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "てぇてぇの間に挟まるArs",
+        "order": "C",
+        "prelim_rank": 1
+      },
+      {
+        "event": "1480526",
+        "deck_id": "4BNJU",
+        "rank": 30,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "てむそ猫",
+        "friend_code": "HSVCV",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "フェアリーライフ",
+        "order": "B",
+        "prelim_rank": 27,
+        "variant_cards": [
+          {
+            "name": "竜頭のスレイヤー",
+            "flag": "in"
+          },
+          {
+            "name": "干絶の飢餓・ギルネリーゼ",
+            "flag": "in"
+          },
+          {
+            "name": "竜殺しの槍",
+            "flag": "out"
+          },
+          {
+            "name": "爆炎の咆哮",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "38c1026d": {
+    "name": "機械ビショップ",
+    "class": "ビショップ",
+    "source_id": "761dc3",
+    "cards": {
+      "デバイスチューナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "メカニカルガンナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "セイント・コア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "機械鞭の僧侶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "極炎のドラグーン・ローラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "鉄腕の修道女": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "マシンファルコン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "機構の解放": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "マシンフィンガー・イヴィル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.531
+      },
+      "欠落の聖女・リモニウム": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.271
+      },
+      "オートマティックメイデン": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.271
+      },
+      "リモニウムの救済": {
+        "avg": 2.3333,
+        "ratio": 1.0,
+        "rank": 0.814
+      },
+      "フロートボードマーセナリー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ロボティクスユーザー": {
+        "avg": 1.3333,
+        "ratio": 1.0,
+        "rank": 0.334
+      },
+      "百機王・グライアス": {
+        "avg": 1.3333,
+        "ratio": 1.0,
+        "rank": 0.924
+      },
+      "デュアルエンジェル": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "極炎のドラグーン・ローラ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "欠落の聖女・リモニウム": {
+        "avg": 2.3333,
+        "ratio": 1.0
+      },
+      "マシンファルコン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "百機王・グライアス": {
+        "avg": 1.3333,
+        "ratio": 1.0
+      },
+      "フロートボードマーセナリー": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "デュアルエンジェル": {
+        "avg": 0.3333,
+        "ratio": 0.3333
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "1UX7N",
+        "rank": 8,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "苺綿飴",
+        "friend_code": "SQFLB",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "サンデュポカイランヨウ",
+        "order": "C",
+        "prelim_rank": 28
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2NKEY",
+        "rank": 14,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "テラヤマ",
+        "friend_code": "CCSVF",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "本厚木なかよし部",
+        "order": "C",
+        "prelim_rank": 19,
+        "variant_cards": [
+          {
+            "name": "デュアルエンジェル",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1480526",
+        "deck_id": "2LBZW",
+        "rank": 16,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ハイブリッジ",
+        "friend_code": "RRWPZ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "川越美食殿",
+        "order": "C",
+        "prelim_rank": 32
+      }
+    ]
+  },
+  "f9bfafd0": {
+    "name": "透京エルフ",
+    "class": "エルフ",
+    "source_id": "a2a1fb",
+    "cards": {
+      "区役所の丙種職員": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "炎術検定A級": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "新約都市・透京": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "樹権の剪定者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "樹正の木鐸・キョウ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "樹都の拳士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "魔汚区役所職員・災藤": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アークエンジェル・レイナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "浄樹の六銘伝・ロロ・ロニエ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "浄土蒔植": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "オケアノス": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "樹律の祈り子": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "揺蕩う意志・スピネ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "因芽応報": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "樹権の剪定者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "魔汚区役所職員・災藤": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "浄樹の六銘伝・ロロ・ロニエ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "樹律の祈り子": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "樹都の拳士": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "アークエンジェル・レイナ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "凍土の女王・ピアシィ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "6QVPW",
+        "rank": 4,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "にぱ/alucarD",
+        "friend_code": "JRYXK",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "かずんハウス本店",
+        "order": "B",
+        "prelim_rank": 30
+      }
+    ]
+  },
+  "c78aa2d1": {
+    "name": "ミッドレンジプリコネ",
+    "class": "プリンセスコネクト！Re:Dive",
+    "source_id": "5d988f",
+    "cards": {
+      "クローチェ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "イノリ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "シェフィ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ムイミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ペコリーヌ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "いつか、また会う未来で": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "エリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "サレン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ホマレ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ヴルム": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "スズメ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ネビア": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "カヤ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ライラエル": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "クルル": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "リンド": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "ミソラ": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "シェフィ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ペコリーヌ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "イノリ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "サレン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "カヤ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "1NB84",
+        "rank": 8,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "Gabriel",
+        "friend_code": "ARRAT",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "サンデュポカイランヨウ",
+        "order": "A",
+        "prelim_rank": 28
+      }
+    ]
+  },
+  "3400d157": {
+    "name": "簒奪ロイヤル",
+    "class": "ロイヤル",
+    "source_id": "dd47b7",
+    "cards": {
+      "アヴァリティア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "鮮やかな奪取": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "極意たる空絶": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "アサルトバンデッド": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "アルセーヌ・ルパン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "空絶の崇拝者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "月の刃・リオード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "簒奪の蛇剣": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "空絶の簒奪・オクトリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "ダークセイバー・メリッサ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "簒奪の信者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      }
+    },
+    "evolve_cards": {
+      "空絶の崇拝者": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "アルセーヌ・ルパン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "簒奪の絶傑・オクトリス": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "月の刃・リオード": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "干絶の飢餓・ギルネリーゼ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "2LFWG",
+        "rank": 13,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "プレミメーカー",
+        "friend_code": "OIXDI",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "†終焉の地†",
+        "order": "C",
+        "prelim_rank": 12
+      }
+    ]
+  },
+  "93890254": {
+    "name": "宴楽ロイヤル",
+    "class": "ロイヤル",
+    "source_id": "00452c",
+    "cards": {
+      "盗賊の乱飛": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "値引き交渉": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "楽園への来訪": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "艶やかなる太夫・ギンネ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "照明の案内人": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "帳場ガエル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "華の大将・タケツミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "簒奪の信者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "達人の芸者": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "伊達の大見得": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "天下の大泥棒・ジエモン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ジェンティルドンナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "カースドクイーン・ナハト・ナハト": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ダークセイバー・メリッサ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "帳場ガエル": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "達人の芸者": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "天下の大泥棒・ジエモン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "楽園の開闢・タケツミ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ジェンティルドンナ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "29RLY",
+        "rank": 18,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "あそこの人",
+        "friend_code": "SNDQK",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "黎明界ラビリンス",
+        "order": "C",
+        "prelim_rank": 3
+      }
+    ]
+  },
+  "00c6561f": {
+    "name": "透京ロイヤル",
+    "class": "ロイヤル",
+    "source_id": "1db921",
+    "cards": {
+      "区役所の丙種職員": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "死角の観測員": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "異端の調査協力": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "炎術検定A級": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "戦技斬刀": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ギガブレード": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "隘路の調査員": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "魔汚区役所職員・災藤": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ロストサムライ・カゲミツ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "全識の六銘伝・シンラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ワイルドメディエーター・ガンマ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "俯瞰の捜査員": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "簒奪の信者": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "劇的な撤退": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "新約都市・透京": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "全識の六銘伝・シンラ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "隘路の調査員": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "俯瞰の捜査員": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "死角の観測員": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "魔汚区役所職員・災藤": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "ロストサムライ・カゲミツ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "4UWGC",
+        "rank": 20,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "はんじょう",
+        "friend_code": "IAJRQ",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "溝の口ハウス2",
+        "order": "B",
+        "prelim_rank": 7
+      }
+    ]
+  },
+  "09897dca": {
+    "name": "アグロビショップ",
+    "class": "ビショップ",
+    "source_id": "74493a",
+    "cards": {
+      "〔月下の悪魔ちゃん♪〕メジロパーマー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "三日月の女神 ツクヨミ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "絶望の聖女・ジャンヌ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "不思議な青空・アリス": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "リボルバーイーグル": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ルナールの聖騎士": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "ヘイブンファイア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "希望導く聖乙女・ジャンヌ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "迸る光明・アポロン": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "メルティングシュガー・セリーナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "デュアルカノンマザー・ラナ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0
+      },
+      "剛健の翼人": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "極炎のドラグーン・ローラ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "闇穿つ煌き・サリッサ": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      },
+      "レヴィールの無法者": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0
+      }
+    },
+    "evolve_cards": {
+      "極炎のドラグーン・ローラ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "ルナールの聖騎士": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "希望導く聖乙女・ジャンヌ": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "迸る光明・アポロン": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "レヴィールの無法者": {
+        "avg": 1.0,
+        "ratio": 1.0
+      },
+      "絶望の聖女・ジャンヌ": {
+        "avg": 1.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "1XULQ",
+        "rank": 17,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "アルス",
+        "friend_code": "MSIBV",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "てぇてぇの間に挟まるArs",
+        "order": "A",
+        "prelim_rank": 1
+      }
+    ]
+  },
+  "02f71ddb": {
+    "name": "アイドルマスター シンデレラガールズ（〔Triad Primus〕渋谷凛・〔individuals〕森久保乃々）",
+    "class": "アイドルマスター シンデレラガールズ",
+    "source_id": "ffcdd6",
+    "ref_period": "2026-01-05~2026-01-18",
+    "cards": {
+      "〔シンデレラガール〕北条加蓮": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔シンデレラガール〕塩見周子": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "鷹富士茄子": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔individuals〕森久保乃々": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔サイハテに咲く鏡花〕速水奏": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔シンデレラガール〕渋谷凛": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔チャーミング・スウィート〕二宮飛鳥": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔光を捕まえて〕アナスタシア": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔朱華色の夢〕藤原肇": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔渚の花嫁〕新田美波": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔Triad Primus〕渋谷凛": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "岡崎泰葉": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔シンデレラガール〕鷺沢文香": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "〔シンデレラガール〕神崎蘭子": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "〔individuals〕森久保乃々": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "〔光を捕まえて〕アナスタシア": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "〔シンデレラガール〕鷺沢文香": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "鷹富士茄子": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "1DTQ0",
+        "rank": 24,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "ビーサン",
+        "friend_code": "ENLRW",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "当日スベリコミ三人衆",
+        "order": "C",
+        "prelim_rank": 13
+      }
+    ]
+  },
+  "61167d26": {
+    "name": "機械ウィッチ",
+    "class": "ウィッチ",
+    "source_id": "4f702e",
+    "cards": {
+      "機械兵": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "メカニカルガンナー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "叡智の結実": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "清澄の蒼・テトラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "フロートボードマーセナリー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "マシンブックソーサラー": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "蒼の反逆者・テトラ": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "戦慄の侵略": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "極致の創造主・ベルフォメット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "天地の侵略者・ベルフォメット": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "ソニック・フォー": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アイアロンの残骸": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "結束の魔術": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "機械神": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "大型機械兵": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      },
+      "アイアロンの支配者・ベルフォメット": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5
+      }
+    },
+    "evolve_cards": {
+      "清澄の蒼・テトラ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "蒼の反逆者・テトラ": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "フロートボードマーセナリー": {
+        "avg": 2.0,
+        "ratio": 1.0
+      },
+      "天地の侵略者・ベルフォメット": {
+        "avg": 2.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1480526",
+        "deck_id": "2E16Q",
+        "rank": 27,
+        "tourney_size": 7,
+        "participants": 242,
+        "player": "キョウスケ",
+        "friend_code": "NVHZO",
+        "venue": "カードボックス 日本橋店",
+        "date": "2026-02-11",
+        "pref_code": null,
+        "team_name": "長生軍",
+        "order": "B",
+        "prelim_rank": 18
+      }
+    ]
+  }
+}

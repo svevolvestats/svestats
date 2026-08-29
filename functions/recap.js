@@ -60,28 +60,44 @@ async function serveWithOG(context, ogProps) {
 }
 
 // recap.js
+async function loadIndex(origin, dir, format) {
+  try {
+    const idx = await fetchJson(`${origin}/data/${dir}/index.json`);
+    return (idx || []).map((e) => ({ ...e, format }));
+  } catch {
+    return [];
+  }
+}
 async function onRequest(context) {
   const { request, env } = context;
   const url = new URL(request.url);
   const origin = url.origin;
   const eventId = url.searchParams.get("event");
   try {
-    let meta;
-    let resolvedEventId = eventId;
-    if (!eventId) {
-      const index = await fetchJson(`${origin}/data/recap/index.json`);
-      if (!index || index.length === 0) throw new Error("no events");
-      resolvedEventId = index[0].event_id;
-      meta = await fetchJson(`${origin}/data/recap/${resolvedEventId}/meta.json`);
-    } else {
-      meta = await fetchJson(`${origin}/data/recap/${eventId}/meta.json`);
+    const merged = [
+      ...await loadIndex(origin, "recap", "kojin"),
+      ...await loadIndex(origin, "recap_trio", "trio")
+    ].sort((a, b) => (b.date_start || "").localeCompare(a.date_start || ""));
+    const entry = eventId ? merged.find((e) => String(e.event_id) === String(eventId)) : merged[0];
+    if (!entry && !eventId) throw new Error("no events");
+    const resolvedEventId = entry?.event_id ?? eventId;
+    const pageUrl = `${origin}/recap?event=${resolvedEventId}`;
+    if (entry?.format === "trio") {
+      const dateStr2 = entry.date_end && entry.date_end !== entry.date_start ? `${entry.date_start}\u301C${entry.date_end}` : entry.date_start || "";
+      const desc2 = entry.participants ? `${entry.participants}\u30C1\u30FC\u30E0\u53C2\u52A0\uFF08${dateStr2}\uFF09\u30C8\u30EA\u30AA\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790` : `\uFF08${dateStr2}\uFF09\u30C8\u30EA\u30AA\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790`;
+      return await serveWithOG(context, {
+        title: `${entry.event_title} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
+        description: desc2,
+        imageUrl: `${origin}/og/recap/${resolvedEventId}.png`,
+        pageUrl
+      });
     }
+    const meta = await fetchJson(`${origin}/data/recap/${resolvedEventId}/meta.json`);
     const p = meta.period ?? {};
     const dateStr = p.start && p.end && p.start !== p.end ? `${p.start}\u301C${p.end}` : p.start || "";
     const title = `${meta.event_title} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
     const participantCount = meta.participants ?? meta.total_decks;
     const desc = participantCount != null ? `${participantCount}\u540D\u53C2\u52A0\uFF08${dateStr}\uFF09\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790` : `\uFF08${dateStr}\uFF09\u5927\u4F1A\u7D50\u679C\u30FB\u30A2\u30FC\u30AD\u30BF\u30A4\u30D7\u5206\u6790`;
-    const pageUrl = `${origin}/recap?event=${resolvedEventId}`;
     const imageUrl = `${origin}/og/recap/${resolvedEventId}.png`;
     return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
   } catch {

@@ -82,8 +82,9 @@ async function onRequest(context) {
   const origin = url.origin;
   const period = url.searchParams.get("period");
   const recap = url.searchParams.get("recap");
+  const trio = url.searchParams.get("trio");
   try {
-    const dataBase = recap ? `${origin}/data/recap/${recap}` : period ? `${origin}/data/archetypes/${period}` : `${origin}/data`;
+    const dataBase = trio ? `${origin}/data/recap_trio/${trio}` : recap ? `${origin}/data/recap/${recap}` : period ? `${origin}/data/archetypes/${period}` : `${origin}/data`;
     const [meta, oracles, prints] = await Promise.all([
       fetchJson(`${dataBase}/meta.json`),
       fetchJson(`${origin}/data/oracles.json`),
@@ -96,6 +97,11 @@ async function onRequest(context) {
     for (const o of oracles) {
       oracleByName[o.name] = o;
       for (const alt of o.alt_names || []) oracleByName[alt] = o;
+    }
+    for (const o of oracles) {
+      for (const f of o.faces || []) {
+        if (f?.name && !oracleByName[f.name]) oracleByName[f.name] = o;
+      }
     }
     let imageUrl = null;
     for (const cardName of arch.top_cards || []) {
@@ -111,9 +117,9 @@ async function onRequest(context) {
     const archName = arch.name || archId;
     const p = meta.period ?? {};
     let contextLabel = p.start && p.end ? `${p.start}\u301C${p.end}` : "";
-    if (recap) {
-      const index = await fetchJson(`${origin}/data/recap/index.json`);
-      const ev = index?.find((e) => e.event_id === recap);
+    if (recap || trio) {
+      const index = await fetchJson(`${origin}/data/${trio ? "recap_trio" : "recap"}/index.json`);
+      const ev = index?.find((e) => e.event_id === (trio || recap));
       contextLabel = ev?.short_name || ev?.event_title || meta.event_title || p.start || "";
     }
     const periodStr = contextLabel ? `\uFF08${contextLabel}\uFF09` : "";
@@ -121,8 +127,9 @@ async function onRequest(context) {
     const winPct = ((arch.win_share ?? 0) * 100).toFixed(2);
     const top8Pct = ((arch.top8_share ?? 0) * 100).toFixed(2);
     const totalLabel = recap && meta.total_decks ? `TOP${meta.total_decks}` : "TOP8";
-    const desc = `\u512A\u52DD: ${arch.winner ?? 0}\u56DE(${winPct}%) | ${totalLabel}: ${arch.count ?? 0}\u56DE(${top8Pct}%)`;
-    const pageUrl = recap ? `${origin}/archetype/${archId}?recap=${recap}` : period ? `${origin}/archetype/${archId}?period=${encodeURIComponent(period)}` : `${origin}/archetype/${archId}`;
+    const teamPct = meta.total_teams ? ((arch.count ?? 0) / meta.total_teams * 100).toFixed(2) : "0.00";
+    const desc = trio ? `\u30C1\u30FC\u30E0: ${arch.count ?? 0}/${meta.total_teams ?? 0}(${teamPct}%) | \u512A\u52DD\u30C1\u30FC\u30E0\u5185: ${arch.winner ?? 0}` : `\u512A\u52DD: ${arch.winner ?? 0}\u56DE(${winPct}%) | ${totalLabel}: ${arch.count ?? 0}\u56DE(${top8Pct}%)`;
+    const pageUrl = trio ? `${origin}/archetype/${archId}?trio=${trio}` : recap ? `${origin}/archetype/${archId}?recap=${recap}` : period ? `${origin}/archetype/${archId}?period=${encodeURIComponent(period)}` : `${origin}/archetype/${archId}`;
     return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
   } catch {
     return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));

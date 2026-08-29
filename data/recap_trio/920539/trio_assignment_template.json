@@ -1,0 +1,157 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "c620a197",
+      "source_id": "9692be",
+      "name": "かげろう",
+      "class": "カードファイト!! ヴァンガード",
+      "count": 30
+    },
+    {
+      "archetype_id": "45af8fa6",
+      "source_id": "2417c9",
+      "name": "荒野ロイヤル",
+      "class": "ロイヤル",
+      "count": 23
+    },
+    {
+      "archetype_id": "460f9861",
+      "source_id": "6c9875",
+      "name": "自然ドラゴン",
+      "class": "ドラゴン",
+      "count": 10
+    },
+    {
+      "archetype_id": "bca75c53",
+      "source_id": "8f8ed2",
+      "name": "NCナイトメア2",
+      "class": "ナイトメア",
+      "count": 6
+    },
+    {
+      "archetype_id": "caf72bcd",
+      "source_id": "304b19",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 6
+    },
+    {
+      "archetype_id": "259c7a37",
+      "source_id": "3b1ecb",
+      "name": "土ウィッチ",
+      "class": "ウィッチ",
+      "count": 5
+    },
+    {
+      "archetype_id": "61ee3434",
+      "source_id": "1db018",
+      "name": "超越ウィッチ1",
+      "class": "ウィッチ",
+      "count": 5
+    },
+    {
+      "archetype_id": "894f3060",
+      "source_id": "f9f7b4",
+      "name": "自然エルフ",
+      "class": "エルフ",
+      "count": 3
+    },
+    {
+      "archetype_id": "9bed1c24",
+      "source_id": "6f21ff",
+      "name": "自然ロイヤル",
+      "class": "ロイヤル",
+      "count": 2
+    },
+    {
+      "archetype_id": "2a8bded0",
+      "source_id": "c087d0",
+      "name": "機械ウィッチ",
+      "class": "ウィッチ",
+      "count": 1
+    },
+    {
+      "archetype_id": "c6a534bd",
+      "source_id": "d818e7",
+      "name": "ミッドレンジロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "9da797d0",
+      "source_id": "194ffa",
+      "name": "童話エルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "51c16695",
+      "source_id": "5d6cc1",
+      "name": "荒野エルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "5d760c86",
+      "source_id": "e89024",
+      "name": "吸血鬼ナイトメア",
+      "class": "ナイトメア",
+      "count": 1
+    },
+    {
+      "archetype_id": "0d261907",
+      "source_id": "adad06",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 1
+    }
+  ],
+  "unassigned": [],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split 'かげろう': decks matching required cards → new archetype",
+        "source": "9692be",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "クラス_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "9692be"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "2417c9"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'クラス_その他' (entire unassigned group) + 'かげろう' into one archetype",
+        "sources": [
+          "クラス_その他",
+          "9692be"
+        ],
+        "class": "カードファイト!! ヴァンガード",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}

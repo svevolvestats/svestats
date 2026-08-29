@@ -1,0 +1,164 @@
+{
+  "assigned": [
+    {
+      "archetype_id": "5a478f7f",
+      "source_id": "f7a1c4",
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "count": 27
+    },
+    {
+      "archetype_id": "d2721fc5",
+      "source_id": "0e8325",
+      "name": "スペルプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 24
+    },
+    {
+      "archetype_id": "6fb13d80",
+      "source_id": "892013",
+      "name": "NCナイトメア",
+      "class": "ナイトメア",
+      "count": 21
+    },
+    {
+      "archetype_id": "7440fe8b",
+      "source_id": "01adc8",
+      "name": "7ドラゴン",
+      "class": "ドラゴン",
+      "count": 4
+    },
+    {
+      "archetype_id": "d40b6e0b",
+      "source_id": "b86a79",
+      "name": "機械ナイトメア",
+      "class": "ナイトメア",
+      "count": 3
+    },
+    {
+      "archetype_id": "a1580f2b",
+      "source_id": "cab75b",
+      "name": "天使ロイヤル",
+      "class": "ロイヤル",
+      "count": 3
+    },
+    {
+      "archetype_id": "dbd1a907",
+      "source_id": "19ca39",
+      "name": "武闘竜人ドラゴン",
+      "class": "ドラゴン",
+      "count": 3
+    },
+    {
+      "archetype_id": "38c1026d",
+      "source_id": "761dc3",
+      "name": "機械ビショップ",
+      "class": "ビショップ",
+      "count": 3
+    },
+    {
+      "archetype_id": "f9bfafd0",
+      "source_id": "a2a1fb",
+      "name": "透京エルフ",
+      "class": "エルフ",
+      "count": 1
+    },
+    {
+      "archetype_id": "c78aa2d1",
+      "source_id": "5d988f",
+      "name": "ミッドレンジプリコネ",
+      "class": "プリンセスコネクト！Re:Dive",
+      "count": 1
+    },
+    {
+      "archetype_id": "3400d157",
+      "source_id": "dd47b7",
+      "name": "簒奪ロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "93890254",
+      "source_id": "00452c",
+      "name": "宴楽ロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "00c6561f",
+      "source_id": "1db921",
+      "name": "透京ロイヤル",
+      "class": "ロイヤル",
+      "count": 1
+    },
+    {
+      "archetype_id": "09897dca",
+      "source_id": "74493a",
+      "name": "アグロビショップ",
+      "class": "ビショップ",
+      "count": 1
+    },
+    {
+      "archetype_id": "02f71ddb",
+      "source_id": "ffcdd6",
+      "name": "アイドルマスター シンデレラガールズ（〔Triad Primus〕渋谷凛・〔individuals〕森久保乃々）",
+      "class": "アイドルマスター シンデレラガールズ",
+      "count": 1
+    },
+    {
+      "archetype_id": "61167d26",
+      "source_id": "4f702e",
+      "name": "機械ウィッチ",
+      "class": "ウィッチ",
+      "count": 1
+    }
+  ],
+  "unassigned": [],
+  "_overrides_syntax": {
+    "_comment": "Create trio_overrides.json in this directory to correct assignments. source / sources use individual CS archetype source_id (see assigned[].source_id above) or \"{class}_その他\" sentinel (see unassigned[].id above). NOT trio hash IDs.",
+    "splits": [
+      {
+        "_comment": "[Pattern A] Split 'コンボエルフ': decks matching required cards → new archetype",
+        "source": "f7a1c4",
+        "rules": [
+          {
+            "required": [
+              "カード名1",
+              "カード名2"
+            ],
+            "name": "派生アーキタイプ名"
+          }
+        ]
+      },
+      {
+        "_comment": "[Pattern B] Redistribute unassigned (その他) decks into existing archetypes by card presence. target = source_id of destination archetype; unmatched remainder stays as その他",
+        "source": "クラス_その他",
+        "rules": [
+          {
+            "required": [
+              "カード名A"
+            ],
+            "target": "f7a1c4"
+          },
+          {
+            "required": [
+              "カード名B"
+            ],
+            "target": "0e8325"
+          }
+        ]
+      }
+    ],
+    "merges": [
+      {
+        "_comment": "Merge 'クラス_その他' (entire unassigned group) + 'コンボエルフ' into one archetype",
+        "sources": [
+          "クラス_その他",
+          "f7a1c4"
+        ],
+        "class": "エルフ",
+        "name": "統合後アーキタイプ名"
+      }
+    ]
+  }
+}
