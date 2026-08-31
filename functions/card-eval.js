@@ -65,11 +65,19 @@ async function serveWithOG(context, ogProps) {
 }
 
 // card-eval.js
-var EXPANSION = "BP21";
-var NUM_RE = /^BP21-\d{3}$/;
+var numRe = (exp) => new RegExp(`^${exp}-\\d{3}$`);
+function pickExpansion(crunch, expParam) {
+  const list = crunch?.expansions || [];
+  if (expParam) return list.find((e) => e.expansion === expParam) || null;
+  const open = list.filter((e) => e.card_eval !== false && (e.release_date || ""));
+  open.sort((a, b) => (b.release_date || "").localeCompare(a.release_date || ""));
+  return open[0] || null;
+}
 async function onRequest(context) {
-  const origin = new URL(context.request.url).origin;
-  const pageUrl = `${origin}/card-eval`;
+  const url = new URL(context.request.url);
+  const origin = url.origin;
+  const expParam = url.searchParams.get("exp");
+  const pageUrl = expParam ? `${origin}/card-eval?exp=${encodeURIComponent(expParam)}` : `${origin}/card-eval`;
   const title = "\u65B0\u5F3E\u30AB\u30FC\u30C9\u8A55\u4FA1 | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40";
   const fallbackDesc = "Shadowverse EVOLVE \u306E\u65B0\u5F3E\u30AB\u30FC\u30C9\u3092\u307F\u3093\u306A\u3067\u8A55\u4FA1\uFF01\u30AB\u30FC\u30C9\u6027\u80FD\u30FB\u74B0\u5883\u4E88\u60F3\u30FB\u30A4\u30E9\u30B9\u30C8\u30923\u8EF8\u3067\u63A1\u70B9\u3002\u3006\u5207\u5F8C\u306B\u30E9\u30F3\u30AD\u30F3\u30B0\u3092\u516C\u958B\u3057\u307E\u3059\u3002";
   try {
@@ -77,10 +85,12 @@ async function onRequest(context) {
       fetchJson(`${origin}/data/crunch.json`).catch(() => null),
       fetchJson(`${origin}/data/upcoming.json`).catch(() => [])
     ]);
-    const exp = (crunch?.expansions || []).find((e) => e.expansion === EXPANSION);
-    const setLabel = exp ? `${exp.expansion} ${exp.name}` : EXPANSION;
+    const exp = pickExpansion(crunch, expParam);
+    if (!exp) return await serveWithOG(context, { title, description: fallbackDesc, pageUrl });
+    const setLabel = `${exp.expansion} ${exp.name}`;
     const description = `Shadowverse EVOLVE ${setLabel} \u306E\u65B0\u5F3E\u30AB\u30FC\u30C9\u3092\u307F\u3093\u306A\u3067\u8A55\u4FA1\uFF01\u30AB\u30FC\u30C9\u6027\u80FD\u30FB\u74B0\u5883\u4E88\u60F3\u30FB\u30A4\u30E9\u30B9\u30C8\u30923\u8EF8\u3067\u63A1\u70B9\u3002\u3006\u5207\u5F8C\u306B\u30E9\u30F3\u30AD\u30F3\u30B0\u3092\u516C\u958B\u3057\u307E\u3059\u3002`;
-    const revealed = (upcoming || []).filter((c) => NUM_RE.test(c.oracle_id || "") && c.rarity && c.image_url && !c.reprint_of && !c.evolved_from);
+    const re = numRe(exp.expansion);
+    const revealed = (upcoming || []).filter((c) => re.test(c.oracle_id || "") && c.rarity && c.image_url && !c.reprint_of && !c.evolved_from);
     const pick = revealed.find((c) => c.rarity === "LG") || revealed[0];
     const imageUrl = pick ? upcomingCardImageUrl(pick) : null;
     return await serveWithOG(context, { title, description, pageUrl, imageUrl });
