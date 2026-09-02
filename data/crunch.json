@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01",
+  "generated_at": "2026-09-02",
   "expansions": [
     {
       "expansion": "BP22",
@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 6,
-      "n_layouts": 356851601708,
+      "revealed_count": 9,
+      "n_layouts": 216608343667,
       "unique": false,
       "classes": [
         "エルフ",
@@ -56,7 +56,7 @@
             {
               "num": 3,
               "cardno": "BP22-003",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 4,
@@ -65,8 +65,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 2,
-          "estimated_count": 2,
+          "confirmed_count": 3,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -85,22 +85,26 @@
             {
               "num": 6,
               "cardno": "BP22-006",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 7,
               "cardno": "BP22-007",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-007",
+              "kind": "base"
             },
             {
               "num": 8,
               "cardno": "BP22-008",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-008",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 2,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -124,7 +128,9 @@
             {
               "num": 11,
               "cardno": "BP22-011",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-011",
+              "kind": "base"
             },
             {
               "num": 12,
@@ -132,9 +138,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 3,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
