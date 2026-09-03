@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03",
   "expansions": [
     {
       "expansion": "BP22",
@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 9,
-      "n_layouts": 216608343667,
+      "revealed_count": 12,
+      "n_layouts": 92384874732,
       "unique": false,
       "classes": [
         "エルフ",
@@ -679,12 +679,16 @@
             {
               "num": 78,
               "cardno": "BP22-078",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-078",
+              "kind": "base"
             },
             {
               "num": 79,
               "cardno": "BP22-079",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-079",
+              "kind": "evolve"
             },
             {
               "num": 80,
@@ -692,14 +696,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ナイトメア|SR": {
           "class": "ナイトメア",
@@ -718,17 +722,19 @@
             {
               "num": 83,
               "cardno": "BP22-083",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 84,
               "cardno": "BP22-084",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-084",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 1,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
