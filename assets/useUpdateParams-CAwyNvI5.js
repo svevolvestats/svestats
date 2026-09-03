@@ -1,0 +1,1 @@
+import{b as m}from"./index-DcHjLj9b.js";function P(){const[s,t]=m();function n(c){t(o=>{const e=new URLSearchParams(o);for(const[r,a,u]of c)a===u||a==null?e.delete(r):e.set(r,String(a));return e},{replace:!0})}return{searchParams:s,updateParams:n}}export{P as u};
