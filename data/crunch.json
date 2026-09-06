@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05",
+  "generated_at": "2026-09-06",
   "expansions": [
     {
       "expansion": "BP22",
@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 24,
-      "n_layouts": 4936553612,
+      "revealed_count": 28,
+      "n_layouts": 1752910204,
       "unique": false,
       "classes": [
         "エルフ",
@@ -214,26 +214,26 @@
               "num": 22,
               "cardno": "BP22-022",
               "status": "estimated"
-            },
-            {
-              "num": 23,
-              "cardno": "BP22-023",
-              "status": "estimated"
             }
           ],
           "revealed_count": 0,
           "confirmed_count": 0,
-          "estimated_count": 5,
-          "size": 5,
+          "estimated_count": 4,
+          "size": 4,
           "size_status": "estimated",
           "advance": 0,
-          "evolve_pred": 2,
+          "evolve_pred": 1,
           "evolve_revealed": 0
         },
         "ロイヤル|GR": {
           "class": "ロイヤル",
           "rarity": "GR",
           "slots": [
+            {
+              "num": 23,
+              "cardno": "BP22-023",
+              "status": "estimated"
+            },
             {
               "num": 24,
               "cardno": "BP22-024",
@@ -247,11 +247,6 @@
             {
               "num": 26,
               "cardno": "BP22-026",
-              "status": "estimated"
-            },
-            {
-              "num": 27,
-              "cardno": "BP22-027",
               "status": "estimated"
             }
           ],
@@ -269,6 +264,11 @@
           "rarity": "SR",
           "slots": [
             {
+              "num": 27,
+              "cardno": "BP22-027",
+              "status": "estimated"
+            },
+            {
               "num": 28,
               "cardno": "BP22-028",
               "status": "estimated"
@@ -281,11 +281,6 @@
             {
               "num": 30,
               "cardno": "BP22-030",
-              "status": "estimated"
-            },
-            {
-              "num": 31,
-              "cardno": "BP22-031",
               "status": "estimated"
             }
           ],
@@ -302,6 +297,11 @@
           "class": "ロイヤル",
           "rarity": "BR",
           "slots": [
+            {
+              "num": 31,
+              "cardno": "BP22-031",
+              "status": "estimated"
+            },
             {
               "num": 32,
               "cardno": "BP22-032",
@@ -326,11 +326,6 @@
               "num": 36,
               "cardno": "BP22-036",
               "status": "estimated"
-            },
-            {
-              "num": 37,
-              "cardno": "BP22-037",
-              "status": "estimated"
             }
           ],
           "revealed_count": 0,
@@ -347,9 +342,18 @@
           "rarity": "LG",
           "slots": [
             {
+              "num": 37,
+              "cardno": "BP22-037",
+              "status": "revealed",
+              "oracle_id": "BP22-037",
+              "kind": "base"
+            },
+            {
               "num": 38,
               "cardno": "BP22-038",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-038",
+              "kind": "evolve"
             },
             {
               "num": 39,
@@ -360,60 +364,64 @@
               "num": 40,
               "cardno": "BP22-040",
               "status": "estimated"
-            },
-            {
-              "num": 41,
-              "cardno": "BP22-041",
-              "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|GR": {
           "class": "ウィッチ",
           "rarity": "GR",
           "slots": [
             {
+              "num": 41,
+              "cardno": "BP22-041",
+              "status": "estimated"
+            },
+            {
               "num": 42,
               "cardno": "BP22-042",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-042",
+              "kind": "base"
             },
             {
               "num": 43,
               "cardno": "BP22-043",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-043",
+              "kind": "evolve"
             },
             {
               "num": 44,
               "cardno": "BP22-044",
               "status": "estimated"
-            },
-            {
-              "num": 45,
-              "cardno": "BP22-045",
-              "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|SR": {
           "class": "ウィッチ",
           "rarity": "SR",
           "slots": [
+            {
+              "num": 45,
+              "cardno": "BP22-045",
+              "status": "estimated"
+            },
             {
               "num": 46,
               "cardno": "BP22-046",
@@ -427,11 +435,6 @@
             {
               "num": 48,
               "cardno": "BP22-048",
-              "status": "estimated"
-            },
-            {
-              "num": 49,
-              "cardno": "BP22-049",
               "status": "estimated"
             }
           ],
@@ -449,6 +452,11 @@
           "rarity": "BR",
           "slots": [
             {
+              "num": 49,
+              "cardno": "BP22-049",
+              "status": "estimated"
+            },
+            {
               "num": 50,
               "cardno": "BP22-050",
               "status": "estimated"
@@ -461,7 +469,7 @@
             {
               "num": 52,
               "cardno": "BP22-052",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 53,
@@ -472,16 +480,11 @@
               "num": 54,
               "cardno": "BP22-054",
               "status": "estimated"
-            },
-            {
-              "num": 55,
-              "cardno": "BP22-055",
-              "status": "estimated"
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 6,
+          "confirmed_count": 1,
+          "estimated_count": 5,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -492,6 +495,11 @@
           "class": "ドラゴン",
           "rarity": "LG",
           "slots": [
+            {
+              "num": 55,
+              "cardno": "BP22-055",
+              "status": "estimated"
+            },
             {
               "num": 56,
               "cardno": "BP22-056",
@@ -510,11 +518,6 @@
               "num": 58,
               "cardno": "BP22-058",
               "status": "estimated"
-            },
-            {
-              "num": 59,
-              "cardno": "BP22-059",
-              "status": "estimated"
             }
           ],
           "revealed_count": 2,
@@ -531,6 +534,11 @@
           "rarity": "GR",
           "slots": [
             {
+              "num": 59,
+              "cardno": "BP22-059",
+              "status": "estimated"
+            },
+            {
               "num": 60,
               "cardno": "BP22-060",
               "status": "estimated"
@@ -543,11 +551,6 @@
             {
               "num": 62,
               "cardno": "BP22-062",
-              "status": "estimated"
-            },
-            {
-              "num": 63,
-              "cardno": "BP22-063",
               "status": "estimated"
             }
           ],
@@ -565,6 +568,11 @@
           "rarity": "SR",
           "slots": [
             {
+              "num": 63,
+              "cardno": "BP22-063",
+              "status": "estimated"
+            },
+            {
               "num": 64,
               "cardno": "BP22-064",
               "status": "estimated"
@@ -577,11 +585,6 @@
             {
               "num": 66,
               "cardno": "BP22-066",
-              "status": "estimated"
-            },
-            {
-              "num": 67,
-              "cardno": "BP22-067",
               "status": "estimated"
             }
           ],
@@ -598,6 +601,11 @@
           "class": "ドラゴン",
           "rarity": "BR",
           "slots": [
+            {
+              "num": 67,
+              "cardno": "BP22-067",
+              "status": "estimated"
+            },
             {
               "num": 68,
               "cardno": "BP22-068",
@@ -622,11 +630,6 @@
               "num": 72,
               "cardno": "BP22-072",
               "status": "estimated"
-            },
-            {
-              "num": 73,
-              "cardno": "BP22-073",
-              "status": "estimated"
             }
           ],
           "revealed_count": 0,
@@ -642,6 +645,11 @@
           "class": "ナイトメア",
           "rarity": "LG",
           "slots": [
+            {
+              "num": 73,
+              "cardno": "BP22-073",
+              "status": "estimated"
+            },
             {
               "num": 74,
               "cardno": "BP22-074",
@@ -669,11 +677,11 @@
           ],
           "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 2,
-          "size": 4,
+          "estimated_count": 3,
+          "size": 5,
           "size_status": "estimated",
           "advance": 0,
-          "evolve_pred": 1,
+          "evolve_pred": 2,
           "evolve_revealed": 1
         },
         "ナイトメア|GR": {
