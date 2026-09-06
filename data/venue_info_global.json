@@ -210,7 +210,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1966
+        "organizer_id": 1966,
+        "participants": 5
       },
       {
         "date": "2026-09-09",
@@ -521,7 +522,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 261
+        "organizer_id": 261,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -598,6 +600,26 @@
     ],
     "_last_seen": "2026-10-24",
     "organizer_id": 261
+  },
+  "2 Bros & A Box New Richmond": {
+    "country_id": 2,
+    "city_address": "New Richmond",
+    "address": "215 S Knowles Ave Lower Level",
+    "lat": 45.121248,
+    "lng": -92.5380962,
+    "upcoming": [
+      {
+        "date": "2026-11-18",
+        "type": "ショップ大会",
+        "time": "23:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2933
+      }
+    ],
+    "_last_seen": "2026-11-18",
+    "organizer_id": 2933
   },
   "88 Cardhouse": {
     "country_id": 2,
@@ -819,7 +841,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 53
+        "organizer_id": 53,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -828,7 +851,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 53
+        "organizer_id": 53,
+        "participants": 3
       },
       {
         "date": "2026-09-12",
@@ -884,7 +908,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 2660
+        "organizer_id": 2660,
+        "participants": 0
       }
     ],
     "_last_seen": "2026-09-05",
@@ -1335,7 +1360,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 54
+        "organizer_id": 54,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -1526,7 +1552,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 867
+        "organizer_id": 867,
+        "participants": 5
       },
       {
         "date": "2026-09-09",
@@ -1679,7 +1706,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 871
+        "organizer_id": 871,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -1688,7 +1716,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 871
+        "organizer_id": 871,
+        "participants": 6
       },
       {
         "date": "2026-09-11",
@@ -1885,7 +1914,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1635
+        "organizer_id": 1635,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -1915,6 +1945,15 @@
         "organizer_id": 1635
       },
       {
+        "date": "2026-09-13",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1635
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
         "time": "09:00",
@@ -1933,6 +1972,15 @@
         "organizer_id": 1635
       },
       {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1635
+      },
+      {
         "date": "2026-09-27",
         "type": "ショップ大会",
         "time": "08:00",
@@ -1940,9 +1988,54 @@
         "series_id": 12384,
         "game_title_id": 106,
         "organizer_id": 1635
+      },
+      {
+        "date": "2026-10-04",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1635
+      },
+      {
+        "date": "2026-10-11",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1635
+      },
+      {
+        "date": "2026-10-11",
+        "type": "その他",
+        "time": "06:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
+        "game_title_id": 106,
+        "organizer_id": 1635
+      },
+      {
+        "date": "2026-10-18",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1635
+      },
+      {
+        "date": "2026-10-25",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1635
       }
     ],
-    "_last_seen": "2026-09-27",
+    "_last_seen": "2026-10-25",
     "organizer_id": 1635
   },
   "ASIAN GATE": {
@@ -2124,7 +2217,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 1708
+        "organizer_id": 1708,
+        "participants": 5
       },
       {
         "date": "2026-09-05",
@@ -2133,7 +2227,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1708
+        "organizer_id": 1708,
+        "participants": 3
       },
       {
         "date": "2026-09-05",
@@ -2142,7 +2237,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1708
+        "organizer_id": 1708,
+        "participants": 8
       },
       {
         "date": "2026-09-12",
@@ -2454,7 +2550,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 2
+        "organizer_id": 2,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -2466,6 +2563,15 @@
         "organizer_id": 2
       },
       {
+        "date": "2026-09-12",
+        "type": "その他",
+        "time": "07:30",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 2
+      },
+      {
         "date": "2026-09-19",
         "type": "ショップ大会",
         "time": "07:30",
@@ -2484,6 +2590,15 @@
         "organizer_id": 2
       },
       {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
+        "time": "07:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 2
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "07:30",
@@ -2498,6 +2613,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 2
+      },
+      {
+        "date": "2026-09-26",
+        "type": "クロスオーバーショップ大会",
+        "time": "07:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 2
       },
@@ -2507,6 +2631,15 @@
         "time": "07:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 2
+      },
+      {
+        "date": "2026-10-03",
+        "type": "その他",
+        "time": "07:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 2
       },
@@ -2761,7 +2894,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 612
+        "organizer_id": 612,
+        "participants": 0
       },
       {
         "date": "2026-09-01",
@@ -2770,7 +2904,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 612
+        "organizer_id": 612,
+        "participants": 5
       },
       {
         "date": "2026-09-08",
@@ -3170,7 +3305,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 613
+        "organizer_id": 613,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -3509,7 +3645,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 240
+        "organizer_id": 240,
+        "participants": 9
       },
       {
         "date": "2026-09-05",
@@ -3518,7 +3655,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 240
+        "organizer_id": 240,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -3559,6 +3697,26 @@
     ],
     "_last_seen": "2026-09-26",
     "organizer_id": 240
+  },
+  "Alphaspel": {
+    "country_id": 177,
+    "city_address": "Hägersten",
+    "address": "Instrumentvägen 2",
+    "lat": 59.3059898,
+    "lng": 17.9868011,
+    "upcoming": [
+      {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "11:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 732
+      }
+    ],
+    "_last_seen": "2026-11-15",
+    "organizer_id": 732
   },
   "Alt Art TCG": {
     "country_id": 2,
@@ -3720,7 +3878,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2050
+        "organizer_id": 2050,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -3752,6 +3911,26 @@
     ],
     "_last_seen": "2026-09-26",
     "organizer_id": 2050
+  },
+  "Anime Kingdom": {
+    "country_id": 2,
+    "city_address": "Sparks",
+    "address": "410 N McCarran Blvd",
+    "lat": 39.5526669,
+    "lng": -119.8062516,
+    "upcoming": [
+      {
+        "date": "2026-10-01",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1819
+      }
+    ],
+    "_last_seen": "2026-10-01",
+    "organizer_id": 1819
   },
   "Anime TCG": {
     "country_id": 2,
@@ -4022,7 +4201,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 489
+        "organizer_id": 489,
+        "participants": 0
       },
       {
         "date": "2026-09-08",
@@ -4505,7 +4685,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 2430
+        "organizer_id": 2430,
+        "participants": 6
       },
       {
         "date": "2026-09-05",
@@ -4514,7 +4695,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2430
+        "organizer_id": 2430,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -4795,7 +4977,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1209
+        "organizer_id": 1209,
+        "participants": 0
       },
       {
         "date": "2026-09-10",
@@ -5067,7 +5250,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1639
+        "organizer_id": 1639,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -5408,6 +5592,35 @@
     "_last_seen": "2026-09-28",
     "organizer_id": 951
   },
+  "Asgard Keep": {
+    "country_id": 2,
+    "city_address": "Mount Vernon",
+    "address": "1001 Olin Lane",
+    "lat": 38.2942447,
+    "lng": -88.9044287,
+    "upcoming": [
+      {
+        "date": "2026-10-17",
+        "type": "ショップ大会",
+        "time": "20:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2941
+      },
+      {
+        "date": "2026-11-21",
+        "type": "ショップ大会",
+        "time": "21:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 2941
+      }
+    ],
+    "_last_seen": "2026-11-21",
+    "organizer_id": 2941
+  },
   "Asobi": {
     "country_id": 3,
     "city_address": "Singapore",
@@ -5666,7 +5879,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1850
+        "organizer_id": 1850,
+        "participants": 8
       },
       {
         "date": "2026-09-10",
@@ -5707,6 +5921,53 @@
     ],
     "_last_seen": "2026-09-24",
     "organizer_id": 1850
+  },
+  "Avalon Game Arena": {
+    "country_id": 44,
+    "city_address": "San José",
+    "address": "Calle 11 , Avenida 14 Edificio Terracota en el segundo piso",
+    "lat": 9.748917,
+    "lng": -83.753428,
+    "upcoming": [
+      {
+        "date": "2026-09-20",
+        "type": "ショップ大会",
+        "time": "19:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 895
+      },
+      {
+        "date": "2026-10-04",
+        "type": "ショップ大会",
+        "time": "19:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 895
+      },
+      {
+        "date": "2026-10-25",
+        "type": "ショップ大会",
+        "time": "19:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 895
+      },
+      {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "20:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 895
+      }
+    ],
+    "_last_seen": "2026-11-15",
+    "organizer_id": 895
   },
   "Awesome Cards, Collectibles, and Games": {
     "country_id": 2,
@@ -5822,7 +6083,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 289
+        "organizer_id": 289,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -6421,7 +6683,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 503
+        "organizer_id": 503,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -6984,7 +7247,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 7
+        "organizer_id": 7,
+        "participants": 1
       },
       {
         "date": "2026-09-04",
@@ -6993,7 +7257,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 7
+        "organizer_id": 7,
+        "participants": 3
       },
       {
         "date": "2026-09-04",
@@ -7002,7 +7267,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 7
+        "organizer_id": 7,
+        "participants": 3
       },
       {
         "date": "2026-09-04",
@@ -7011,7 +7277,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 7
+        "organizer_id": 7,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -7077,6 +7344,15 @@
         "organizer_id": 7
       },
       {
+        "date": "2026-09-18",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 7
+      },
+      {
         "date": "2026-09-25",
         "type": "ショップ大会",
         "time": "12:00",
@@ -7118,6 +7394,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 7
+      },
+      {
+        "date": "2026-10-16",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 7
       },
@@ -7277,7 +7562,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 234
+        "organizer_id": 234,
+        "participants": 2
       },
       {
         "date": "2026-09-19",
@@ -7560,7 +7846,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 1351
+        "organizer_id": 1351,
+        "participants": 5
       },
       {
         "date": "2026-09-01",
@@ -7569,7 +7856,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1351
+        "organizer_id": 1351,
+        "participants": 5
       },
       {
         "date": "2026-09-08",
@@ -7813,7 +8101,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 482
+        "organizer_id": 482,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -8116,7 +8405,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 183
+        "organizer_id": 183,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -8125,7 +8415,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 183
+        "organizer_id": 183,
+        "participants": 2
       },
       {
         "date": "2026-09-09",
@@ -8288,7 +8579,8 @@
         "name": "[EN] Bushiroad Summer Festival 2026 - Shadowverse: Evolve Cross Craft Tournament",
         "series_id": 10427,
         "game_title_id": 6,
-        "organizer_id": 943
+        "organizer_id": 943,
+        "participants": 30
       },
       {
         "date": "2026-09-06",
@@ -8455,7 +8747,8 @@
         "name": "[EN] Bushiroad Summer Festival 2026 - Shadowverse: Evolve",
         "series_id": 10426,
         "game_title_id": 6,
-        "organizer_id": 944
+        "organizer_id": 944,
+        "participants": 3
       },
       {
         "date": "2026-09-12",
@@ -8705,7 +8998,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1196
+        "organizer_id": 1196,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -8714,7 +9008,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1196
+        "organizer_id": 1196,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -9044,7 +9339,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 314
+        "organizer_id": 314,
+        "participants": 6
       },
       {
         "date": "2026-09-04",
@@ -9053,7 +9349,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 314
+        "organizer_id": 314,
+        "participants": 4
       },
       {
         "date": "2026-09-11",
@@ -9232,8 +9529,26 @@
         "organizer_id": 1397
       },
       {
+        "date": "2026-09-09",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1397
+      },
+      {
         "date": "2026-09-16",
         "type": "ショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1397
+      },
+      {
+        "date": "2026-09-16",
+        "type": "クロスオーバーショップ大会",
         "time": "12:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -9273,6 +9588,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1397
+      },
+      {
+        "date": "2026-10-07",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1397
       },
@@ -9811,7 +10135,8 @@
         "name": "【JP】8月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12454,
         "game_title_id": 106,
-        "organizer_id": 1566
+        "organizer_id": 1566,
+        "participants": 3
       },
       {
         "date": "2026-09-02",
@@ -9820,7 +10145,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1566
+        "organizer_id": 1566,
+        "participants": 15
       },
       {
         "date": "2026-09-09",
@@ -9859,8 +10185,26 @@
         "organizer_id": 1566
       },
       {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
+        "time": "06:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1566
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
+        "time": "06:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1566
+      },
+      {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
         "time": "06:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -9891,6 +10235,15 @@
         "time": "11:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1566
+      },
+      {
+        "date": "2026-10-11",
+        "type": "その他",
+        "time": "10:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1566
       },
@@ -10174,7 +10527,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 744
+        "organizer_id": 744,
+        "participants": 7
       },
       {
         "date": "2026-08-30",
@@ -10183,7 +10537,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 744
+        "organizer_id": 744,
+        "participants": 6
       },
       {
         "date": "2026-09-06",
@@ -10480,7 +10835,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 878
+        "organizer_id": 878,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -10489,7 +10845,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 878
+        "organizer_id": 878,
+        "participants": 10
       },
       {
         "date": "2026-09-12",
@@ -10719,7 +11076,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 1705
+        "organizer_id": 1705,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -10728,7 +11086,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1705
+        "organizer_id": 1705,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -11000,7 +11359,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 495
+        "organizer_id": 495,
+        "participants": 12
       },
       {
         "date": "2026-09-04",
@@ -11009,7 +11369,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 495
+        "organizer_id": 495,
+        "participants": 12
       },
       {
         "date": "2026-09-10",
@@ -11329,7 +11690,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1549
+        "organizer_id": 1549,
+        "participants": 3
       },
       {
         "date": "2026-09-04",
@@ -11338,7 +11700,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1549
+        "organizer_id": 1549,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -11581,7 +11944,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 535
+        "organizer_id": 535,
+        "participants": 6
       },
       {
         "date": "2026-09-07",
@@ -11814,7 +12178,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 378
+        "organizer_id": 378,
+        "participants": 9
       },
       {
         "date": "2026-09-06",
@@ -11930,7 +12295,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 680
+        "organizer_id": 680,
+        "participants": 4
       },
       {
         "date": "2026-09-16",
@@ -12186,7 +12552,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1231
+        "organizer_id": 1231,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -12657,7 +13024,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 757
+        "organizer_id": 757,
+        "participants": 0
       },
       {
         "date": "2026-09-10",
@@ -12967,7 +13335,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 758
+        "organizer_id": 758,
+        "participants": 3
       },
       {
         "date": "2026-08-30",
@@ -12976,7 +13345,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 758
+        "organizer_id": 758,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -13295,7 +13665,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 759
+        "organizer_id": 759,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -13669,7 +14040,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1556
+        "organizer_id": 1556,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -13930,7 +14302,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 674
+        "organizer_id": 674,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -14277,7 +14650,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 439
+        "organizer_id": 439,
+        "participants": 4
       },
       {
         "date": "2026-09-01",
@@ -14286,7 +14660,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 439
+        "organizer_id": 439,
+        "participants": 2
       },
       {
         "date": "2026-09-08",
@@ -14527,7 +14902,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 836
+        "organizer_id": 836,
+        "participants": 0
       },
       {
         "date": "2026-09-08",
@@ -14717,7 +15093,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1315
+        "organizer_id": 1315,
+        "participants": 3
       },
       {
         "date": "2026-09-12",
@@ -15048,7 +15425,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1336
+        "organizer_id": 1336,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -15372,7 +15750,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 570
+        "organizer_id": 570,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -15381,7 +15760,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 570
+        "organizer_id": 570,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -15623,7 +16003,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 781
+        "organizer_id": 781,
+        "participants": 6
       },
       {
         "date": "2026-08-30",
@@ -15632,7 +16013,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 781
+        "organizer_id": 781,
+        "participants": 1
       },
       {
         "date": "2026-09-06",
@@ -15922,7 +16304,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 438
+        "organizer_id": 438,
+        "participants": 6
       },
       {
         "date": "2026-09-06",
@@ -16183,7 +16566,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 244
+        "organizer_id": 244,
+        "participants": 0
       },
       {
         "date": "2026-09-03",
@@ -16192,7 +16576,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 244
+        "organizer_id": 244,
+        "participants": 0
       },
       {
         "date": "2026-09-10",
@@ -16513,7 +16898,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1240
+        "organizer_id": 1240,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -16702,7 +17088,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 999
+        "organizer_id": 999,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -16920,7 +17307,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1041
+        "organizer_id": 1041,
+        "participants": 3
       },
       {
         "date": "2026-09-05",
@@ -16929,7 +17317,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1041
+        "organizer_id": 1041,
+        "participants": 10
       },
       {
         "date": "2026-09-12",
@@ -17253,7 +17642,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1925
+        "organizer_id": 1925,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -17270,6 +17660,15 @@
         "time": "00:00",
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 1925
+      },
+      {
+        "date": "2026-09-11",
+        "type": "発売記念",
+        "time": "02:00",
+        "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
+        "series_id": 12366,
         "game_title_id": 6,
         "organizer_id": 1925
       },
@@ -17526,7 +17925,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 787
+        "organizer_id": 787,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -17836,7 +18236,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 607
+        "organizer_id": 607,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -18059,7 +18460,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 892
+        "organizer_id": 892,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -18325,7 +18727,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1884
+        "organizer_id": 1884,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -19062,7 +19465,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 764
+        "organizer_id": 764,
+        "participants": 6
       },
       {
         "date": "2026-09-04",
@@ -19071,7 +19475,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 764
+        "organizer_id": 764,
+        "participants": 2
       },
       {
         "date": "2026-09-11",
@@ -19227,7 +19632,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1010
+        "organizer_id": 1010,
+        "participants": 10
       },
       {
         "date": "2026-09-12",
@@ -19531,7 +19937,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 186
+        "organizer_id": 186,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -19785,7 +20192,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1993
+        "organizer_id": 1993,
+        "participants": 3
       },
       {
         "date": "2026-09-10",
@@ -20086,7 +20494,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 794
+        "organizer_id": 794,
+        "participants": 9
       },
       {
         "date": "2026-09-05",
@@ -20095,7 +20504,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 794
+        "organizer_id": 794,
+        "participants": 8
       },
       {
         "date": "2026-09-12",
@@ -20386,7 +20796,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1949
+        "organizer_id": 1949,
+        "participants": 11
       },
       {
         "date": "2026-09-08",
@@ -20715,7 +21126,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 968
+        "organizer_id": 968,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -21062,7 +21474,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 581
+        "organizer_id": 581,
+        "participants": 4
       },
       {
         "date": "2026-09-11",
@@ -21294,7 +21707,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 39
+        "organizer_id": 39,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -21569,7 +21983,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 293
+        "organizer_id": 293,
+        "participants": 6
       },
       {
         "date": "2026-09-06",
@@ -21888,7 +22303,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 773
+        "organizer_id": 773,
+        "participants": 5
       },
       {
         "date": "2026-09-05",
@@ -21897,7 +22313,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 773
+        "organizer_id": 773,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -22324,7 +22741,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 187
+        "organizer_id": 187,
+        "participants": 11
       },
       {
         "date": "2026-09-06",
@@ -22535,7 +22953,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1250
+        "organizer_id": 1250,
+        "participants": 13
       },
       {
         "date": "2026-09-02",
@@ -22544,7 +22963,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1250
+        "organizer_id": 1250,
+        "participants": 13
       },
       {
         "date": "2026-09-09",
@@ -22874,7 +23294,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 774
+        "organizer_id": 774,
+        "participants": 7
       },
       {
         "date": "2026-09-12",
@@ -23221,7 +23642,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 824
+        "organizer_id": 824,
+        "participants": 6
       },
       {
         "date": "2026-09-11",
@@ -23482,7 +23904,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1169
+        "organizer_id": 1169,
+        "participants": 2
       },
       {
         "date": "2026-09-06",
@@ -23969,7 +24392,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 217
+        "organizer_id": 217,
+        "participants": 0
       },
       {
         "date": "2026-09-01",
@@ -23978,7 +24402,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 217
+        "organizer_id": 217,
+        "participants": 1
       },
       {
         "date": "2026-09-08",
@@ -24259,7 +24684,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 343
+        "organizer_id": 343,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -24574,7 +25000,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2065
+        "organizer_id": 2065,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -24836,7 +25263,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 40
+        "organizer_id": 40,
+        "participants": 10
       },
       {
         "date": "2026-09-06",
@@ -25195,7 +25623,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 189
+        "organizer_id": 189,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -25309,7 +25738,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 82
+        "organizer_id": 82,
+        "participants": 1
       }
     ],
     "_last_seen": "2026-09-05",
@@ -25566,7 +25996,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 140
+        "organizer_id": 140,
+        "participants": 2
       },
       {
         "date": "2026-09-06",
@@ -25643,6 +26074,16 @@
     "lng": -77.3060111,
     "upcoming": [
       {
+        "date": "2026-04-27",
+        "type": "ショップ大会",
+        "time": "23:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "organizer_id": 488,
+        "participants": 0,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-05-04",
         "type": "ショップ大会",
         "time": "23:00",
@@ -25658,6 +26099,16 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - May 2026",
         "series_id": 8629,
         "participants": 0,
+        "game_title_id": 6
+      },
+      {
+        "date": "2026-05-11",
+        "type": "ショップ大会",
+        "time": "23:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "organizer_id": 488,
+        "participants": 6,
         "game_title_id": 6
       },
       {
@@ -25856,7 +26307,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 488
+        "organizer_id": 488,
+        "participants": 10
       },
       {
         "date": "2026-09-07",
@@ -26084,7 +26536,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1665
+        "organizer_id": 1665,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -26597,7 +27050,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 669
+        "organizer_id": 669,
+        "participants": 0
       }
     ],
     "_last_seen": "2026-09-02",
@@ -27030,6 +27484,25 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
+        "organizer_id": 84,
+        "participants": 5
+      },
+      {
+        "date": "2026-09-06",
+        "type": "ショップ大会",
+        "time": "22:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 84
+      },
+      {
+        "date": "2026-09-13",
+        "type": "ショップ大会",
+        "time": "22:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
         "organizer_id": 84
       },
       {
@@ -27040,9 +27513,27 @@
         "series_id": 10574,
         "game_title_id": 6,
         "organizer_id": 84
+      },
+      {
+        "date": "2026-09-20",
+        "type": "ショップ大会",
+        "time": "22:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 84
+      },
+      {
+        "date": "2026-09-27",
+        "type": "ショップ大会",
+        "time": "22:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 84
       }
     ],
-    "_last_seen": "2026-09-20",
+    "_last_seen": "2026-09-27",
     "organizer_id": 84
   },
   "Goat Cards": {
@@ -27266,7 +27757,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1694
+        "organizer_id": 1694,
+        "participants": 6
       },
       {
         "date": "2026-09-07",
@@ -27586,7 +28078,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 801
+        "organizer_id": 801,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -27845,7 +28338,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 808
+        "organizer_id": 808,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -28118,7 +28612,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 862
+        "organizer_id": 862,
+        "participants": 2
       },
       {
         "date": "2026-09-05",
@@ -28127,7 +28622,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 862
+        "organizer_id": 862,
+        "participants": 8
       },
       {
         "date": "2026-09-12",
@@ -28313,7 +28809,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1996
+        "organizer_id": 1996,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -28567,7 +29064,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 597
+        "organizer_id": 597,
+        "participants": 8
       },
       {
         "date": "2026-09-03",
@@ -28576,7 +29074,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 597
+        "organizer_id": 597,
+        "participants": 4
       },
       {
         "date": "2026-09-09",
@@ -29173,7 +29672,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 860
+        "organizer_id": 860,
+        "participants": 8
       },
       {
         "date": "2026-09-10",
@@ -29296,7 +29796,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 819
+        "organizer_id": 819,
+        "participants": 0
       }
     ],
     "_last_seen": "2026-08-30",
@@ -29621,7 +30122,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1261
+        "organizer_id": 1261,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -29695,7 +30197,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 323
+        "organizer_id": 323,
+        "participants": 0
       }
     ],
     "_last_seen": "2026-09-04",
@@ -30218,7 +30721,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 671
+        "organizer_id": 671,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -30227,7 +30731,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 671
+        "organizer_id": 671,
+        "participants": 7
       },
       {
         "date": "2026-09-11",
@@ -30429,7 +30934,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 450
+        "organizer_id": 450,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -30616,7 +31122,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1538
+        "organizer_id": 1538,
+        "participants": 0
       },
       {
         "date": "2026-09-21",
@@ -30782,7 +31289,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 693
+        "organizer_id": 693,
+        "participants": 2
       },
       {
         "date": "2026-09-08",
@@ -31111,7 +31619,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 793
+        "organizer_id": 793,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -31120,7 +31629,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 793
+        "organizer_id": 793,
+        "participants": 6
       },
       {
         "date": "2026-09-12",
@@ -31389,7 +31899,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 88
+        "organizer_id": 88,
+        "participants": 8
       },
       {
         "date": "2026-09-05",
@@ -31398,7 +31909,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 88
+        "organizer_id": 88,
+        "participants": 7
       },
       {
         "date": "2026-09-12",
@@ -31726,7 +32238,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 636
+        "organizer_id": 636,
+        "participants": 2
       },
       {
         "date": "2026-09-11",
@@ -31996,7 +32509,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 569
+        "organizer_id": 569,
+        "participants": 2
       },
       {
         "date": "2026-09-05",
@@ -32005,7 +32519,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 569
+        "organizer_id": 569,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -32098,9 +32613,45 @@
         "series_id": 11978,
         "game_title_id": 6,
         "organizer_id": 1304
+      },
+      {
+        "date": "2026-10-11",
+        "type": "ショップ大会",
+        "time": "05:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1304
+      },
+      {
+        "date": "2026-10-18",
+        "type": "ショップ大会",
+        "time": "05:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1304
+      },
+      {
+        "date": "2026-10-25",
+        "type": "ショップ大会",
+        "time": "05:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1304
+      },
+      {
+        "date": "2026-11-01",
+        "type": "ショップ大会",
+        "time": "05:00",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 1304
       }
     ],
-    "_last_seen": "2026-09-28",
+    "_last_seen": "2026-11-01",
     "organizer_id": 1304
   },
   "Hybrid Technology Solutions RGV": {
@@ -32363,7 +32914,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 451
+        "organizer_id": 451,
+        "participants": 6
       },
       {
         "date": "2026-09-08",
@@ -32567,7 +33119,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 948
+        "organizer_id": 948,
+        "participants": 5
       },
       {
         "date": "2026-09-13",
@@ -32830,7 +33383,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1821
+        "organizer_id": 1821,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -33071,7 +33625,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1268
+        "organizer_id": 1268,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -33137,7 +33692,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2548
+        "organizer_id": 2548,
+        "participants": 0
       },
       {
         "date": "2026-09-08",
@@ -33516,7 +34072,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 452
+        "organizer_id": 452,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -33525,7 +34082,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 452
+        "organizer_id": 452,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -33757,7 +34315,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 595
+        "organizer_id": 595,
+        "participants": 0
       },
       {
         "date": "2026-08-30",
@@ -33766,7 +34325,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 595
+        "organizer_id": 595,
+        "participants": 4
       },
       {
         "date": "2026-08-31",
@@ -33775,7 +34335,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 595
+        "organizer_id": 595,
+        "participants": 5
       },
       {
         "date": "2026-09-06",
@@ -34085,7 +34646,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 35
+        "organizer_id": 35,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -34094,7 +34656,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 35
+        "organizer_id": 35,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -34364,7 +34927,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 399
+        "organizer_id": 399,
+        "participants": 5
       },
       {
         "date": "2026-09-04",
@@ -34373,7 +34937,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 399
+        "organizer_id": 399,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -34674,7 +35239,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 1012
+        "organizer_id": 1012,
+        "participants": 0
       },
       {
         "date": "2026-09-04",
@@ -34683,7 +35249,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1012
+        "organizer_id": 1012,
+        "participants": 5
       },
       {
         "date": "2026-09-04",
@@ -34692,7 +35259,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1012
+        "organizer_id": 1012,
+        "participants": 3
       },
       {
         "date": "2026-09-11",
@@ -34929,7 +35497,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1297
+        "organizer_id": 1297,
+        "participants": 2
       },
       {
         "date": "2026-09-06",
@@ -35103,7 +35672,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 866
+        "organizer_id": 866,
+        "participants": 8
       },
       {
         "date": "2026-09-02",
@@ -35112,7 +35682,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 866
+        "organizer_id": 866,
+        "participants": 1
       },
       {
         "date": "2026-09-09",
@@ -35278,7 +35849,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 902
+        "organizer_id": 902,
+        "participants": 7
       },
       {
         "date": "2026-09-05",
@@ -35287,7 +35859,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 902
+        "organizer_id": 902,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -35383,7 +35956,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 453
+        "organizer_id": 453,
+        "participants": 0
       },
       {
         "date": "2026-09-18",
@@ -35618,7 +36192,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 543
+        "organizer_id": 543,
+        "participants": 1
       },
       {
         "date": "2026-09-04",
@@ -35627,7 +36202,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 543
+        "organizer_id": 543,
+        "participants": 5
       },
       {
         "date": "2026-09-11",
@@ -35824,7 +36400,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 807
+        "organizer_id": 807,
+        "participants": 0
       },
       {
         "date": "2026-09-18",
@@ -36077,7 +36654,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1292
+        "organizer_id": 1292,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -36437,7 +37015,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1191
+        "organizer_id": 1191,
+        "participants": 10
       },
       {
         "date": "2026-09-12",
@@ -36633,7 +37212,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 1249
+        "organizer_id": 1249,
+        "participants": 0
       },
       {
         "date": "2026-09-04",
@@ -36642,7 +37222,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1249
+        "organizer_id": 1249,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -36868,7 +37449,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1935
+        "organizer_id": 1935,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -37084,7 +37666,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1908
+        "organizer_id": 1908,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -37312,7 +37895,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 95
+        "organizer_id": 95,
+        "participants": 6
       },
       {
         "date": "2026-09-12",
@@ -37555,7 +38139,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 144
+        "organizer_id": 144,
+        "participants": 12
       },
       {
         "date": "2026-09-09",
@@ -37807,7 +38392,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1034
+        "organizer_id": 1034,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -38088,7 +38674,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1256
+        "organizer_id": 1256,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -38281,7 +38868,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 287
+        "organizer_id": 287,
+        "participants": 9
       },
       {
         "date": "2026-09-07",
@@ -38503,7 +39091,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1764
+        "organizer_id": 1764,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -38512,7 +39101,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1764
+        "organizer_id": 1764,
+        "participants": 1
       },
       {
         "date": "2026-09-09",
@@ -38542,11 +39132,29 @@
         "organizer_id": 1764
       },
       {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
+        "time": "13:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1764
+      },
+      {
         "date": "2026-09-23",
         "type": "ショップ大会",
         "time": "13:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1764
+      },
+      {
+        "date": "2026-09-26",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
         "game_title_id": 106,
         "organizer_id": 1764
       },
@@ -38594,9 +39202,18 @@
         "series_id": 13432,
         "game_title_id": 106,
         "organizer_id": 1764
+      },
+      {
+        "date": "2026-10-31",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
+        "game_title_id": 106,
+        "organizer_id": 1764
       }
     ],
-    "_last_seen": "2026-10-28",
+    "_last_seen": "2026-10-31",
     "organizer_id": 1764
   },
   "L'Imaginarium": {
@@ -38856,7 +39473,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1724
+        "organizer_id": 1724,
+        "participants": 1
       },
       {
         "date": "2026-09-10",
@@ -38877,8 +39495,26 @@
         "organizer_id": 1724
       },
       {
+        "date": "2026-09-17",
+        "type": "クロスオーバーショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1724
+      },
+      {
         "date": "2026-09-24",
         "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1724
+      },
+      {
+        "date": "2026-09-24",
+        "type": "クロスオーバーショップ大会",
         "time": "10:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -39300,7 +39936,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 711
+        "organizer_id": 711,
+        "participants": 5
       },
       {
         "date": "2026-09-11",
@@ -39571,7 +40208,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 729
+        "organizer_id": 729,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -39715,12 +40353,13 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1303
+        "organizer_id": 1303,
+        "participants": 0
       },
       {
         "date": "2026-09-10",
         "type": "ショップ大会",
-        "time": "01:30",
+        "time": "02:30",
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
@@ -39774,7 +40413,7 @@
       {
         "date": "2026-10-15",
         "type": "ショップ大会",
-        "time": "01:30",
+        "time": "02:30",
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
@@ -40083,7 +40722,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 255
+        "organizer_id": 255,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -40092,7 +40732,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 255
+        "organizer_id": 255,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -40394,7 +41035,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1923
+        "organizer_id": 1923,
+        "participants": 4
       },
       {
         "date": "2026-09-08",
@@ -40682,7 +41324,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 891
+        "organizer_id": 891,
+        "participants": 0
       },
       {
         "date": "2026-09-01",
@@ -40691,7 +41334,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 891
+        "organizer_id": 891,
+        "participants": 7
       },
       {
         "date": "2026-09-08",
@@ -40845,7 +41489,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1877
+        "organizer_id": 1877,
+        "participants": 0
       },
       {
         "date": "2026-09-10",
@@ -41079,7 +41724,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1721
+        "organizer_id": 1721,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -41475,7 +42121,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 879
+        "organizer_id": 879,
+        "participants": 0
       },
       {
         "date": "2026-09-01",
@@ -41484,7 +42131,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 879
+        "organizer_id": 879,
+        "participants": 0
       },
       {
         "date": "2026-09-08",
@@ -41756,7 +42404,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 328
+        "organizer_id": 328,
+        "participants": 6
       },
       {
         "date": "2026-09-02",
@@ -41765,7 +42414,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 328
+        "organizer_id": 328,
+        "participants": 1
       },
       {
         "date": "2026-09-09",
@@ -41920,7 +42570,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 2004
+        "organizer_id": 2004,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -42495,7 +43146,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 1815
+        "organizer_id": 1815,
+        "participants": 5
       },
       {
         "date": "2026-08-30",
@@ -42504,7 +43156,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1815
+        "organizer_id": 1815,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -42785,7 +43438,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1644
+        "organizer_id": 1644,
+        "participants": 0
       },
       {
         "date": "2026-09-03",
@@ -42794,7 +43448,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1644
+        "organizer_id": 1644,
+        "participants": 4
       },
       {
         "date": "2026-09-10",
@@ -42963,7 +43618,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 915
+        "organizer_id": 915,
+        "participants": 7
       },
       {
         "date": "2026-09-12",
@@ -43264,7 +43920,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1627
+        "organizer_id": 1627,
+        "participants": 4
       },
       {
         "date": "2026-09-09",
@@ -43534,7 +44191,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 146
+        "organizer_id": 146,
+        "participants": 10
       },
       {
         "date": "2026-09-12",
@@ -44292,7 +44950,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 695
+        "organizer_id": 695,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -44573,7 +45232,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 893
+        "organizer_id": 893,
+        "participants": 6
       },
       {
         "date": "2026-09-05",
@@ -44582,7 +45242,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 893
+        "organizer_id": 893,
+        "participants": 6
       },
       {
         "date": "2026-09-12",
@@ -44727,7 +45388,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1984
+        "organizer_id": 1984,
+        "participants": 4
       },
       {
         "date": "2026-09-09",
@@ -44988,7 +45650,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1963
+        "organizer_id": 1963,
+        "participants": 0
       },
       {
         "date": "2026-09-03",
@@ -44997,7 +45660,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1963
+        "organizer_id": 1963,
+        "participants": 0
       },
       {
         "date": "2026-09-10",
@@ -45288,7 +45952,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1289
+        "organizer_id": 1289,
+        "participants": 2
       },
       {
         "date": "2026-09-02",
@@ -45318,6 +45983,15 @@
         "organizer_id": 1289
       },
       {
+        "date": "2026-09-13",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 1289
+      },
+      {
         "date": "2026-09-16",
         "type": "ショップ大会",
         "time": "01:00",
@@ -45336,7 +46010,25 @@
         "organizer_id": 1289
       },
       {
+        "date": "2026-09-20",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 1289
+      },
+      {
         "date": "2026-09-23",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
+        "series_id": 11978,
+        "game_title_id": 6,
+        "organizer_id": 1289
+      },
+      {
+        "date": "2026-09-27",
         "type": "ショップ大会",
         "time": "01:00",
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
@@ -45685,7 +46377,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 622
+        "organizer_id": 622,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -46005,7 +46698,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 786
+        "organizer_id": 786,
+        "participants": 6
       },
       {
         "date": "2026-09-06",
@@ -46343,7 +47037,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 101
+        "organizer_id": 101,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -46488,7 +47183,8 @@
         "name": "【JP】8月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12454,
         "game_title_id": 106,
-        "organizer_id": 2074
+        "organizer_id": 2074,
+        "participants": 5
       },
       {
         "date": "2026-09-07",
@@ -46505,6 +47201,15 @@
         "time": "12:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 2074
+      },
+      {
+        "date": "2026-09-07",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 2074
       },
@@ -46874,7 +47579,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 589
+        "organizer_id": 589,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -47184,7 +47890,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 592
+        "organizer_id": 592,
+        "participants": 6
       },
       {
         "date": "2026-09-09",
@@ -47599,7 +48306,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1799
+        "organizer_id": 1799,
+        "participants": 7
       },
       {
         "date": "2026-09-06",
@@ -47839,7 +48547,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 377
+        "organizer_id": 377,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -48150,7 +48859,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 593
+        "organizer_id": 593,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -48159,7 +48869,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 593
+        "organizer_id": 593,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -48466,7 +49177,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 43
+        "organizer_id": 43,
+        "participants": 6
       },
       {
         "date": "2026-09-07",
@@ -48560,7 +49272,8 @@
         "name": "[EN] Bushiroad Summer Festival 2026 - Shadowverse: Evolve Cross Craft Tournament",
         "series_id": 10427,
         "game_title_id": 6,
-        "organizer_id": 2076
+        "organizer_id": 2076,
+        "participants": 8
       },
       {
         "date": "2026-09-06",
@@ -49039,7 +49752,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1994
+        "organizer_id": 1994,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -49281,7 +49995,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 730
+        "organizer_id": 730,
+        "participants": 22
       },
       {
         "date": "2026-09-06",
@@ -49867,7 +50582,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1162
+        "organizer_id": 1162,
+        "participants": 0
       },
       {
         "date": "2026-08-30",
@@ -49876,7 +50592,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1162
+        "organizer_id": 1162,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -50126,7 +50843,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 691
+        "organizer_id": 691,
+        "participants": 11
       },
       {
         "date": "2026-09-12",
@@ -50417,7 +51135,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 368
+        "organizer_id": 368,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -50698,7 +51417,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 980
+        "organizer_id": 980,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -50968,7 +51688,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 298
+        "organizer_id": 298,
+        "participants": 6
       },
       {
         "date": "2026-09-10",
@@ -51231,7 +51952,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 148
+        "organizer_id": 148,
+        "participants": 1
       },
       {
         "date": "2026-09-06",
@@ -51619,7 +52341,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 23
+        "organizer_id": 23,
+        "participants": 0
       },
       {
         "date": "2026-08-31",
@@ -51628,7 +52351,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 23
+        "organizer_id": 23,
+        "participants": 0
       },
       {
         "date": "2026-09-04",
@@ -51637,7 +52361,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 23
+        "organizer_id": 23,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -51664,6 +52389,15 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
+        "organizer_id": 23
+      },
+      {
+        "date": "2026-09-11",
+        "type": "クロスオーバーショップ大会",
+        "time": "11:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
         "organizer_id": 23
       },
       {
@@ -51923,7 +52657,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 882
+        "organizer_id": 882,
+        "participants": 1
       },
       {
         "date": "2026-09-06",
@@ -52232,7 +52967,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 722
+        "organizer_id": 722,
+        "participants": 4
       },
       {
         "date": "2026-09-04",
@@ -52241,7 +52977,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 722
+        "organizer_id": 722,
+        "participants": 4
       },
       {
         "date": "2026-09-11",
@@ -52715,7 +53452,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 236
+        "organizer_id": 236,
+        "participants": 3
       },
       {
         "date": "2026-09-05",
@@ -52724,7 +53462,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 236
+        "organizer_id": 236,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -52930,7 +53669,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 855
+        "organizer_id": 855,
+        "participants": 6
       },
       {
         "date": "2026-09-12",
@@ -53199,7 +53939,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 151
+        "organizer_id": 151,
+        "participants": 1
       },
       {
         "date": "2026-09-10",
@@ -53355,7 +54096,8 @@
         "name": "[JP] Shadowverse EVOLVE CS - August 2026",
         "series_id": 12955,
         "game_title_id": 106,
-        "organizer_id": 1794
+        "organizer_id": 1794,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -53385,6 +54127,24 @@
         "organizer_id": 1794
       },
       {
+        "date": "2026-09-26",
+        "type": "クロスオーバーショップ大会",
+        "time": "05:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1794
+      },
+      {
+        "date": "2026-09-27",
+        "type": "その他",
+        "time": "05:30",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1794
+      },
+      {
         "date": "2026-10-18",
         "type": "ショップ大会",
         "time": "05:30",
@@ -53392,9 +54152,18 @@
         "series_id": 13432,
         "game_title_id": 106,
         "organizer_id": 1794
+      },
+      {
+        "date": "2026-10-31",
+        "type": "その他",
+        "time": "05:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
+        "game_title_id": 106,
+        "organizer_id": 1794
       }
     ],
-    "_last_seen": "2026-10-18",
+    "_last_seen": "2026-10-31",
     "organizer_id": 1794
   },
   "ProjectCCG": {
@@ -53627,7 +54396,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 982
+        "organizer_id": 982,
+        "participants": 6
       },
       {
         "date": "2026-09-06",
@@ -53956,7 +54726,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 173
+        "organizer_id": 173,
+        "participants": 2
       },
       {
         "date": "2026-09-05",
@@ -53965,7 +54736,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 173
+        "organizer_id": 173,
+        "participants": 2
       },
       {
         "date": "2026-09-12",
@@ -54372,7 +55144,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1858
+        "organizer_id": 1858,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -54574,7 +55347,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1415
+        "organizer_id": 1415,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -54591,6 +55365,24 @@
         "time": "08:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1415
+      },
+      {
+        "date": "2026-09-26",
+        "type": "その他",
+        "time": "08:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1415
+      },
+      {
+        "date": "2026-10-02",
+        "type": "その他",
+        "time": "20:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1415
       },
@@ -54630,7 +55422,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2507
+        "organizer_id": 2507,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -54882,7 +55675,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1201
+        "organizer_id": 1201,
+        "participants": 0
       },
       {
         "date": "2026-09-04",
@@ -54891,7 +55685,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1201
+        "organizer_id": 1201,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -55154,7 +55949,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 623
+        "organizer_id": 623,
+        "participants": 2
       },
       {
         "date": "2026-09-02",
@@ -55163,7 +55959,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 623
+        "organizer_id": 623,
+        "participants": 8
       },
       {
         "date": "2026-09-09",
@@ -55521,7 +56318,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 210
+        "organizer_id": 210,
+        "participants": 5
       },
       {
         "date": "2026-09-04",
@@ -55530,7 +56328,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 210
+        "organizer_id": 210,
+        "participants": 7
       },
       {
         "date": "2026-09-11",
@@ -55908,7 +56707,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1505
+        "organizer_id": 1505,
+        "participants": 1
       },
       {
         "date": "2026-09-08",
@@ -56084,7 +56884,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1288
+        "organizer_id": 1288,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -56268,7 +57069,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1825
+        "organizer_id": 1825,
+        "participants": 9
       },
       {
         "date": "2026-09-12",
@@ -56577,7 +57379,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 499
+        "organizer_id": 499,
+        "participants": 9
       },
       {
         "date": "2026-09-06",
@@ -56887,7 +57690,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 462
+        "organizer_id": 462,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -56896,7 +57700,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 462
+        "organizer_id": 462,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -57175,7 +57980,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 44
+        "organizer_id": 44,
+        "participants": 6
       },
       {
         "date": "2026-09-12",
@@ -57457,7 +58263,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 575
+        "organizer_id": 575,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -57814,7 +58621,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 333
+        "organizer_id": 333,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -58065,7 +58873,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1722
+        "organizer_id": 1722,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -58578,7 +59387,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1290
+        "organizer_id": 1290,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -58898,7 +59708,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 670
+        "organizer_id": 670,
+        "participants": 8
       },
       {
         "date": "2026-09-01",
@@ -58907,7 +59718,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 670
+        "organizer_id": 670,
+        "participants": 8
       },
       {
         "date": "2026-09-08",
@@ -59161,7 +59973,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 464
+        "organizer_id": 464,
+        "participants": 5
       },
       {
         "date": "2026-09-06",
@@ -59441,7 +60254,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 782
+        "organizer_id": 782,
+        "participants": 5
       },
       {
         "date": "2026-09-07",
@@ -59772,7 +60586,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 154
+        "organizer_id": 154,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -60004,7 +60819,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 239
+        "organizer_id": 239,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -60013,7 +60829,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 239
+        "organizer_id": 239,
+        "participants": 7
       },
       {
         "date": "2026-09-19",
@@ -60296,7 +61113,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 176
+        "organizer_id": 176,
+        "participants": 2
       },
       {
         "date": "2026-09-03",
@@ -60305,7 +61123,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 176
+        "organizer_id": 176,
+        "participants": 4
       },
       {
         "date": "2026-09-10",
@@ -60691,7 +61510,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 988
+        "organizer_id": 988,
+        "participants": 7
       },
       {
         "date": "2026-09-05",
@@ -60700,7 +61520,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 988
+        "organizer_id": 988,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -61118,7 +61939,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1599
+        "organizer_id": 1599,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -61127,7 +61949,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1599
+        "organizer_id": 1599,
+        "participants": 2
       },
       {
         "date": "2026-09-05",
@@ -61136,7 +61959,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1599
+        "organizer_id": 1599,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -61372,7 +62196,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1364
+        "organizer_id": 1364,
+        "participants": 6
       },
       {
         "date": "2026-08-30",
@@ -61381,7 +62206,8 @@
         "name": "【JP】8月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12454,
         "game_title_id": 106,
-        "organizer_id": 1364
+        "organizer_id": 1364,
+        "participants": 8
       },
       {
         "date": "2026-09-06",
@@ -61420,6 +62246,15 @@
         "organizer_id": 1364
       },
       {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1364
+      },
+      {
         "date": "2026-09-27",
         "type": "ショップ大会",
         "time": "09:00",
@@ -61443,6 +62278,15 @@
         "time": "08:00",
         "name": "[JP] Shadowverse EVOLVE CS - September 2026",
         "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1364
+      },
+      {
+        "date": "2026-09-27",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1364
       },
@@ -61745,7 +62589,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 699
+        "organizer_id": 699,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -61889,7 +62734,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 2568
+        "organizer_id": 2568,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -61991,7 +62837,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 658
+        "organizer_id": 658,
+        "participants": 0
       }
     ],
     "_last_seen": "2026-09-01",
@@ -62129,7 +62976,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 18
+        "organizer_id": 18,
+        "participants": 0
       },
       {
         "date": "2026-08-30",
@@ -62138,7 +62986,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 18
+        "organizer_id": 18,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -62363,7 +63212,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 116
+        "organizer_id": 116,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -62372,7 +63222,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 116
+        "organizer_id": 116,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -62617,7 +63468,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 117
+        "organizer_id": 117,
+        "participants": 1
       },
       {
         "date": "2026-09-11",
@@ -62888,7 +63740,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 269
+        "organizer_id": 269,
+        "participants": 4
       },
       {
         "date": "2026-09-04",
@@ -62897,7 +63750,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 269
+        "organizer_id": 269,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -63149,7 +64003,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1299
+        "organizer_id": 1299,
+        "participants": 9
       },
       {
         "date": "2026-09-06",
@@ -63440,7 +64295,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1601
+        "organizer_id": 1601,
+        "participants": 0
       },
       {
         "date": "2026-09-04",
@@ -63449,7 +64305,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1601
+        "organizer_id": 1601,
+        "participants": 0
       },
       {
         "date": "2026-09-18",
@@ -63694,7 +64551,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 912
+        "organizer_id": 912,
+        "participants": 6
       },
       {
         "date": "2026-09-08",
@@ -64021,7 +64879,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1624
+        "organizer_id": 1624,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -64164,7 +65023,8 @@
         "name": " [EN]Shadowverse: Evolve Showdown Challenge - July to August 2026",
         "series_id": 10795,
         "game_title_id": 6,
-        "organizer_id": 2310
+        "organizer_id": 2310,
+        "participants": 2
       },
       {
         "date": "2026-09-13",
@@ -64417,7 +65277,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 480
+        "organizer_id": 480,
+        "participants": 1
       },
       {
         "date": "2026-09-12",
@@ -64747,7 +65608,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 873
+        "organizer_id": 873,
+        "participants": 1
       },
       {
         "date": "2026-09-06",
@@ -64986,7 +65848,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 818
+        "organizer_id": 818,
+        "participants": 6
       },
       {
         "date": "2026-09-05",
@@ -64995,7 +65858,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 818
+        "organizer_id": 818,
+        "participants": 8
       },
       {
         "date": "2026-09-12",
@@ -65238,7 +66102,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1660
+        "organizer_id": 1660,
+        "participants": 5
       },
       {
         "date": "2026-09-07",
@@ -65603,7 +66468,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 792
+        "organizer_id": 792,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -65612,7 +66478,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 792
+        "organizer_id": 792,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -65679,7 +66546,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 270
+        "organizer_id": 270,
+        "participants": 0
       },
       {
         "date": "2026-09-18",
@@ -65963,7 +66831,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 352
+        "organizer_id": 352,
+        "participants": 4
       },
       {
         "date": "2026-09-03",
@@ -65972,7 +66841,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 352
+        "organizer_id": 352,
+        "participants": 2
       },
       {
         "date": "2026-09-10",
@@ -66234,7 +67104,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 469
+        "organizer_id": 469,
+        "participants": 6
       },
       {
         "date": "2026-09-05",
@@ -66243,7 +67114,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 469
+        "organizer_id": 469,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -66252,7 +67124,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 469
+        "organizer_id": 469,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -66418,7 +67291,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2352
+        "organizer_id": 2352,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -66530,9 +67404,18 @@
         "game_title_id": 6,
         "organizer_id": 231,
         "participants": 7
+      },
+      {
+        "date": "2026-09-18",
+        "type": "ショップ大会",
+        "time": "22:30",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "game_title_id": 6,
+        "organizer_id": 231
       }
     ],
-    "_last_seen": "2026-08-07",
+    "_last_seen": "2026-09-18",
     "organizer_id": 231
   },
   "The Trading Gallery": {
@@ -66756,7 +67639,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 1341
+        "organizer_id": 1341,
+        "participants": 0
       },
       {
         "date": "2026-09-03",
@@ -66765,7 +67649,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1341
+        "organizer_id": 1341,
+        "participants": 0
       },
       {
         "date": "2026-09-03",
@@ -66774,7 +67659,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1341
+        "organizer_id": 1341,
+        "participants": 4
       },
       {
         "date": "2026-09-10",
@@ -66860,6 +67746,16 @@
     "lng": 101.5858628,
     "upcoming": [
       {
+        "date": "2026-04-16",
+        "type": "ショップ大会",
+        "time": "12:30",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "organizer_id": 800,
+        "participants": 0,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-05-02",
         "type": "ショップ大会",
         "time": "12:30",
@@ -66884,6 +67780,16 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - May 2026",
         "series_id": 8629,
         "participants": 5,
+        "game_title_id": 6
+      },
+      {
+        "date": "2026-05-21",
+        "type": "ショップ大会",
+        "time": "12:30",
+        "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
+        "series_id": 9351,
+        "organizer_id": 800,
+        "participants": 0,
         "game_title_id": 6
       },
       {
@@ -67052,7 +67958,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 800
+        "organizer_id": 800,
+        "participants": 1
       },
       {
         "date": "2026-09-10",
@@ -67204,7 +68111,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1353
+        "organizer_id": 1353,
+        "participants": 5
       },
       {
         "date": "2026-09-06",
@@ -67641,7 +68549,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 1335
+        "organizer_id": 1335,
+        "participants": 0
       },
       {
         "date": "2026-09-03",
@@ -67650,7 +68559,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1335
+        "organizer_id": 1335,
+        "participants": 8
       },
       {
         "date": "2026-09-10",
@@ -67715,7 +68625,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2560
+        "organizer_id": 2560,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -67724,7 +68635,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 2560
+        "organizer_id": 2560,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -67920,7 +68832,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1944
+        "organizer_id": 1944,
+        "participants": 5
       },
       {
         "date": "2026-09-12",
@@ -68192,7 +69105,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1762
+        "organizer_id": 1762,
+        "participants": 3
       },
       {
         "date": "2026-09-06",
@@ -68703,7 +69617,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 1007
+        "organizer_id": 1007,
+        "participants": 6
       },
       {
         "date": "2026-09-07",
@@ -69024,7 +69939,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1681
+        "organizer_id": 1681,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -69086,6 +70002,15 @@
         "time": "09:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1681
+      },
+      {
+        "date": "2026-10-11",
+        "type": "その他",
+        "time": "08:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1681
       },
@@ -69155,7 +70080,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 113
+        "organizer_id": 113,
+        "participants": 4
       }
     ],
     "_last_seen": "2026-09-05",
@@ -69323,7 +70249,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 682
+        "organizer_id": 682,
+        "participants": 0
       },
       {
         "date": "2026-09-13",
@@ -69867,7 +70794,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1912
+        "organizer_id": 1912,
+        "participants": 13
       },
       {
         "date": "2026-09-02",
@@ -69876,7 +70804,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1912
+        "organizer_id": 1912,
+        "participants": 9
       },
       {
         "date": "2026-09-09",
@@ -70148,7 +71077,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 883
+        "organizer_id": 883,
+        "participants": 0
       },
       {
         "date": "2026-09-07",
@@ -70615,7 +71545,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1362
+        "organizer_id": 1362,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -70885,7 +71816,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 115
+        "organizer_id": 115,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -71090,7 +72022,8 @@
         "name": "[EN] SVEE BP18 \"3rd-Anniversary\" Release Tournaments",
         "series_id": 11555,
         "game_title_id": 6,
-        "organizer_id": 1161
+        "organizer_id": 1161,
+        "participants": 2
       },
       {
         "date": "2026-09-06",
@@ -72053,7 +72986,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 552
+        "organizer_id": 552,
+        "participants": 1
       },
       {
         "date": "2026-09-08",
@@ -72127,7 +73061,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 553
+        "organizer_id": 553,
+        "participants": 1
       },
       {
         "date": "2026-09-02",
@@ -72136,7 +73071,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 553
+        "organizer_id": 553,
+        "participants": 0
       },
       {
         "date": "2026-09-09",
@@ -72311,7 +73247,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2363
+        "organizer_id": 2363,
+        "participants": 4
       },
       {
         "date": "2026-09-09",
@@ -72604,7 +73541,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1671
+        "organizer_id": 1671,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -72799,7 +73737,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2434
+        "organizer_id": 2434,
+        "participants": 3
       },
       {
         "date": "2026-09-12",
@@ -73081,7 +74020,8 @@
         "name": "Shadowverse EVOLVE Japan Championship 2027 (JCS) – August Qualifier",
         "series_id": 12588,
         "game_title_id": 106,
-        "organizer_id": 1140
+        "organizer_id": 1140,
+        "participants": 4
       },
       {
         "date": "2026-09-05",
@@ -73090,7 +74030,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1140
+        "organizer_id": 1140,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -73283,7 +74224,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 1641
+        "organizer_id": 1641,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -73292,7 +74234,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1641
+        "organizer_id": 1641,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -73755,7 +74698,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 1600
+        "organizer_id": 1600,
+        "participants": 3
       },
       {
         "date": "2026-09-12",
@@ -74107,7 +75051,8 @@
         "name": "[EN] SVEE CP04 Princess Connect! Re: Dive Crossover Release Tournaments",
         "series_id": 12366,
         "game_title_id": 6,
-        "organizer_id": 683
+        "organizer_id": 683,
+        "participants": 3
       },
       {
         "date": "2026-09-04",
@@ -74116,7 +75061,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 683
+        "organizer_id": 683,
+        "participants": 3
       },
       {
         "date": "2026-09-19",
@@ -74165,7 +75111,8 @@
         "name": "[EN] SVEE Demo Sessions and Showdown Deck Duo Tournaments 2026",
         "series_id": 9351,
         "game_title_id": 6,
-        "organizer_id": 2517
+        "organizer_id": 2517,
+        "participants": 0
       },
       {
         "date": "2026-09-04",
@@ -74174,7 +75121,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 2517
+        "organizer_id": 2517,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
@@ -74425,7 +75373,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Aug 2026",
         "series_id": 11152,
         "game_title_id": 6,
-        "organizer_id": 679
+        "organizer_id": 679,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -74434,7 +75383,8 @@
         "name": "[EN][Monthly]Shadowverse: Evolve Monthly Shop Tournament - Sep 2026",
         "series_id": 11978,
         "game_title_id": 6,
-        "organizer_id": 679
+        "organizer_id": 679,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -74775,11 +75725,21 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1416
+        "organizer_id": 1416,
+        "participants": 0
       },
       {
         "date": "2026-09-11",
         "type": "ショップ大会",
+        "time": "12:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1416
+      },
+      {
+        "date": "2026-09-11",
+        "type": "クロスオーバーショップ大会",
         "time": "12:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -74801,6 +75761,33 @@
         "time": "12:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1416
+      },
+      {
+        "date": "2026-09-25",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1416
+      },
+      {
+        "date": "2026-09-25",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1416
+      },
+      {
+        "date": "2026-10-02",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1416
       },
@@ -74909,8 +75896,26 @@
         "organizer_id": 2566
       },
       {
+        "date": "2026-09-07",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 2566
+      },
+      {
         "date": "2026-09-14",
         "type": "ショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 2566
+      },
+      {
+        "date": "2026-09-14",
+        "type": "クロスオーバーショップ大会",
         "time": "12:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -75131,7 +76136,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1403
+        "organizer_id": 1403,
+        "participants": 1
       },
       {
         "date": "2026-09-06",
@@ -75152,6 +76158,24 @@
         "organizer_id": 1403
       },
       {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
+        "time": "08:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1403
+      },
+      {
+        "date": "2026-09-13",
+        "type": "その他",
+        "time": "08:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1403
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
         "time": "08:00",
@@ -75166,6 +76190,15 @@
         "time": "08:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1403
+      },
+      {
+        "date": "2026-10-04",
+        "type": "その他",
+        "time": "10:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1403
       },
@@ -75382,7 +76415,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1060
+        "organizer_id": 1060,
+        "participants": 3
       },
       {
         "date": "2026-09-12",
@@ -75403,6 +76437,15 @@
         "organizer_id": 1060
       },
       {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1060
+      },
+      {
         "date": "2026-09-19",
         "type": "ショップ大会",
         "time": "09:00",
@@ -75417,6 +76460,15 @@
         "time": "09:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1060
+      },
+      {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1060
       },
@@ -75426,6 +76478,15 @@
         "time": "09:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1060
+      },
+      {
+        "date": "2026-09-26",
+        "type": "その他",
+        "time": "09:01",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
         "game_title_id": 106,
         "organizer_id": 1060
       },
@@ -75699,7 +76760,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1569
+        "organizer_id": 1569,
+        "participants": 4
       },
       {
         "date": "2026-08-30",
@@ -75708,7 +76770,8 @@
         "name": "Shadowverse EVOLVE Japan Championship 2027 (JCS) – August Qualifier",
         "series_id": 12588,
         "game_title_id": 106,
-        "organizer_id": 1569
+        "organizer_id": 1569,
+        "participants": 6
       },
       {
         "date": "2026-09-06",
@@ -75738,6 +76801,15 @@
         "organizer_id": 1569
       },
       {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
+        "time": "05:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1569
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
         "time": "05:00",
@@ -75756,11 +76828,29 @@
         "organizer_id": 1569
       },
       {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "05:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1569
+      },
+      {
         "date": "2026-09-27",
         "type": "ショップ大会",
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1569
+      },
+      {
+        "date": "2026-09-27",
+        "type": "その他",
+        "time": "05:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
         "game_title_id": 106,
         "organizer_id": 1569
       },
@@ -75788,6 +76878,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1569
+      },
+      {
+        "date": "2026-10-18",
+        "type": "その他",
+        "time": "05:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1569
       },
@@ -76093,7 +77192,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1076
+        "organizer_id": 1076,
+        "participants": 6
       },
       {
         "date": "2026-09-12",
@@ -76125,6 +77225,15 @@
       {
         "date": "2026-09-19",
         "type": "ショップ大会",
+        "time": "11:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1076
+      },
+      {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
         "time": "11:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -76173,6 +77282,15 @@
         "time": "11:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1076
+      },
+      {
+        "date": "2026-10-24",
+        "type": "その他",
+        "time": "11:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1076
       },
@@ -76314,8 +77432,26 @@
         "organizer_id": 1405
       },
       {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1405
+      },
+      {
         "date": "2026-09-19",
         "type": "ショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1405
+      },
+      {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
         "time": "06:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -76330,9 +77466,18 @@
         "series_id": 13432,
         "game_title_id": 106,
         "organizer_id": 1405
+      },
+      {
+        "date": "2026-10-17",
+        "type": "その他",
+        "time": "06:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
+        "game_title_id": 106,
+        "organizer_id": 1405
       }
     ],
-    "_last_seen": "2026-10-15",
+    "_last_seen": "2026-10-17",
     "organizer_id": 1405
   },
   "明志玩具": {
@@ -76605,7 +77750,8 @@
         "name": "【JP】8月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12454,
         "game_title_id": 106,
-        "organizer_id": 1055
+        "organizer_id": 1055,
+        "participants": 1
       },
       {
         "date": "2026-09-05",
@@ -76614,7 +77760,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1055
+        "organizer_id": 1055,
+        "participants": 8
       },
       {
         "date": "2026-09-12",
@@ -76628,6 +77775,15 @@
       {
         "date": "2026-09-13",
         "type": "ショップ大会",
+        "time": "08:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
         "time": "08:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -76671,9 +77827,27 @@
         "organizer_id": 1055
       },
       {
+        "date": "2026-09-27",
+        "type": "クロスオーバーショップ大会",
+        "time": "08:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
         "date": "2026-10-04",
         "type": "ショップ大会",
         "time": "08:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
+        "date": "2026-10-10",
+        "type": "ショップ大会",
+        "time": "06:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
         "game_title_id": 106,
@@ -76689,11 +77863,38 @@
         "organizer_id": 1055
       },
       {
+        "date": "2026-10-17",
+        "type": "ショップ大会",
+        "time": "06:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
         "date": "2026-10-18",
         "type": "ショップ大会",
         "time": "08:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
+        "date": "2026-10-24",
+        "type": "ショップ大会",
+        "time": "06:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1055
+      },
+      {
+        "date": "2026-10-24",
+        "type": "その他",
+        "time": "08:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1055
       },
@@ -76705,9 +77906,18 @@
         "series_id": 13432,
         "game_title_id": 106,
         "organizer_id": 1055
+      },
+      {
+        "date": "2026-10-31",
+        "type": "ショップ大会",
+        "time": "06:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1055
       }
     ],
-    "_last_seen": "2026-10-25",
+    "_last_seen": "2026-10-31",
     "organizer_id": 1055
   },
   "松梅桌遊舖": {
@@ -76874,7 +78084,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1056
+        "organizer_id": 1056,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -76882,6 +78093,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1056
+      },
+      {
+        "date": "2026-10-03",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1056
       },
@@ -77023,6 +78243,15 @@
         "organizer_id": 1411
       },
       {
+        "date": "2026-09-12",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1411
+      },
+      {
         "date": "2026-09-19",
         "type": "ショップ大会",
         "time": "12:30",
@@ -77039,9 +78268,45 @@
         "series_id": 12384,
         "game_title_id": 106,
         "organizer_id": 1411
+      },
+      {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1411
+      },
+      {
+        "date": "2026-10-10",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1411
+      },
+      {
+        "date": "2026-10-10",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
+        "game_title_id": 106,
+        "organizer_id": 1411
+      },
+      {
+        "date": "2026-10-17",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1411
       }
     ],
-    "_last_seen": "2026-09-19",
+    "_last_seen": "2026-10-17",
     "organizer_id": 1411
   },
   "球琪桌遊": {
@@ -77235,7 +78500,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1417
+        "organizer_id": 1417,
+        "participants": 4
       },
       {
         "date": "2026-09-09",
@@ -77245,9 +78511,54 @@
         "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1417
+      },
+      {
+        "date": "2026-09-09",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1417
+      },
+      {
+        "date": "2026-09-30",
+        "type": "その他",
+        "time": "12:30",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
+        "game_title_id": 106,
+        "organizer_id": 1417
+      },
+      {
+        "date": "2026-10-21",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1417
+      },
+      {
+        "date": "2026-10-28",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1417
+      },
+      {
+        "date": "2026-10-28",
+        "type": "その他",
+        "time": "12:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
+        "game_title_id": 106,
+        "organizer_id": 1417
       }
     ],
-    "_last_seen": "2026-09-09",
+    "_last_seen": "2026-10-28",
     "organizer_id": 1417
   },
   "脈動卡牌屋": {
@@ -77383,7 +78694,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1398
+        "organizer_id": 1398,
+        "participants": 8
       },
       {
         "date": "2026-09-06",
@@ -77418,6 +78730,15 @@
         "time": "10:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1398
+      },
+      {
+        "date": "2026-10-17",
+        "type": "その他",
+        "time": "10:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1398
       },
@@ -77635,7 +78956,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 655
+        "organizer_id": 655,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
@@ -77652,6 +78974,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 655
+      },
+      {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 655
       },
@@ -77679,6 +79010,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 655
+      },
+      {
+        "date": "2026-09-26",
+        "type": "クロスオーバーショップ大会",
+        "time": "12:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 655
       },
@@ -77963,7 +79303,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1084
+        "organizer_id": 1084,
+        "participants": 3
       },
       {
         "date": "2026-09-06",
@@ -78002,6 +79343,15 @@
         "organizer_id": 1084
       },
       {
+        "date": "2026-09-22",
+        "type": "クロスオーバーショップ大会",
+        "time": "11:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1084
+      },
+      {
         "date": "2026-09-26",
         "type": "その他",
         "time": "07:00",
@@ -78022,6 +79372,15 @@
       {
         "date": "2026-09-29",
         "type": "ショップ大会",
+        "time": "11:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1084
+      },
+      {
+        "date": "2026-09-29",
+        "type": "クロスオーバーショップ大会",
         "time": "11:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -78052,6 +79411,15 @@
         "time": "10:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1084
+      },
+      {
+        "date": "2026-10-24",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1084
       },
@@ -78338,7 +79706,8 @@
         "name": "【JP】8月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12454,
         "game_title_id": 106,
-        "organizer_id": 1086
+        "organizer_id": 1086,
+        "participants": 5
       },
       {
         "date": "2026-09-04",
@@ -78347,7 +79716,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1086
+        "organizer_id": 1086,
+        "participants": 6
       },
       {
         "date": "2026-09-11",
@@ -78361,6 +79731,15 @@
       {
         "date": "2026-09-14",
         "type": "ショップ大会",
+        "time": "11:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1086
+      },
+      {
+        "date": "2026-09-14",
+        "type": "クロスオーバーショップ大会",
         "time": "11:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -78404,6 +79783,15 @@
         "organizer_id": 1086
       },
       {
+        "date": "2026-09-28",
+        "type": "クロスオーバーショップ大会",
+        "time": "11:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1086
+      },
+      {
         "date": "2026-10-09",
         "type": "ショップ大会",
         "time": "11:30",
@@ -78427,6 +79815,15 @@
         "time": "11:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1086
+      },
+      {
+        "date": "2026-10-25",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1086
       },
@@ -78664,7 +80061,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1081
+        "organizer_id": 1081,
+        "participants": 5
       },
       {
         "date": "2026-08-30",
@@ -78673,7 +80071,8 @@
         "name": "【JP】8月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12454,
         "game_title_id": 106,
-        "organizer_id": 1081
+        "organizer_id": 1081,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -78708,6 +80107,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1081
+      },
+      {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1081
       },
@@ -78981,7 +80389,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1089
+        "organizer_id": 1089,
+        "participants": 0
       },
       {
         "date": "2026-08-30",
@@ -78990,7 +80399,8 @@
         "name": "[JP] Shadowverse EVOLVE CS - August 2026",
         "series_id": 12955,
         "game_title_id": 106,
-        "organizer_id": 1089
+        "organizer_id": 1089,
+        "participants": 2
       },
       {
         "date": "2026-09-06",
@@ -79025,6 +80435,15 @@
         "time": "08:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1089
+      },
+      {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1089
       },
@@ -79079,6 +80498,15 @@
         "time": "08:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1089
+      },
+      {
+        "date": "2026-10-18",
+        "type": "その他",
+        "time": "10:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1089
       },
@@ -79375,7 +80803,8 @@
         "name": "Shadowverse EVOLVE Japan Championship 2027 (JCS) – August Qualifier",
         "series_id": 12588,
         "game_title_id": 106,
-        "organizer_id": 1805
+        "organizer_id": 1805,
+        "participants": 10
       },
       {
         "date": "2026-09-05",
@@ -79384,7 +80813,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1805
+        "organizer_id": 1805,
+        "participants": 9
       },
       {
         "date": "2026-09-10",
@@ -79401,6 +80831,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1805
+      },
+      {
+        "date": "2026-09-17",
+        "type": "その他",
+        "time": "11:30",
+        "name": "[JP] Shadowverse EVOLVE CS - September 2026",
+        "series_id": 13893,
         "game_title_id": 106,
         "organizer_id": 1805
       },
@@ -79464,6 +80903,15 @@
         "time": "07:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1805
+      },
+      {
+        "date": "2026-10-29",
+        "type": "その他",
+        "time": "11:30",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1805
       },
@@ -79770,11 +81218,21 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1102
+        "organizer_id": 1102,
+        "participants": 8
       },
       {
         "date": "2026-09-09",
         "type": "ショップ大会",
+        "time": "09:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1102
+      },
+      {
+        "date": "2026-09-09",
+        "type": "クロスオーバーショップ大会",
         "time": "09:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -79818,6 +81276,15 @@
         "organizer_id": 1102
       },
       {
+        "date": "2026-09-23",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1102
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "13:00",
@@ -79832,6 +81299,15 @@
         "time": "12:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 1102
+      },
+      {
+        "date": "2026-10-04",
+        "type": "その他",
+        "time": "07:00",
+        "name": "[JP] Shadowverse EVOLVE CS - October 2026",
+        "series_id": 13436,
         "game_title_id": 106,
         "organizer_id": 1102
       },
@@ -80262,7 +81738,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1497
+        "organizer_id": 1497,
+        "participants": 0
       },
       {
         "date": "2026-09-06",
@@ -80294,6 +81771,15 @@
       {
         "date": "2026-09-20",
         "type": "ショップ大会",
+        "time": "07:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1497
+      },
+      {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
         "time": "07:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -80773,8 +82259,26 @@
         "organizer_id": 1503
       },
       {
+        "date": "2026-09-21",
+        "type": "クロスオーバーショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1503
+      },
+      {
         "date": "2026-09-28",
         "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1503
+      },
+      {
+        "date": "2026-09-28",
+        "type": "クロスオーバーショップ大会",
         "time": "10:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -81141,6 +82645,15 @@
         "organizer_id": 1482
       },
       {
+        "date": "2026-09-15",
+        "type": "クロスオーバーショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1482
+      },
+      {
         "date": "2026-09-22",
         "type": "ショップ大会",
         "time": "10:30",
@@ -81161,6 +82674,15 @@
       {
         "date": "2026-09-29",
         "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1482
+      },
+      {
+        "date": "2026-09-29",
+        "type": "クロスオーバーショップ大会",
         "time": "10:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -81313,6 +82835,15 @@
         "organizer_id": 2332
       },
       {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
+        "time": "07:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 2332
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
         "time": "07:00",
@@ -81324,6 +82855,15 @@
       {
         "date": "2026-09-27",
         "type": "ショップ大会",
+        "time": "07:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 2332
+      },
+      {
+        "date": "2026-09-27",
+        "type": "クロスオーバーショップ大会",
         "time": "07:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -81470,7 +83010,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1144
+        "organizer_id": 1144,
+        "participants": 4
       },
       {
         "date": "2026-09-06",
@@ -81493,6 +83034,15 @@
       {
         "date": "2026-09-13",
         "type": "ショップ大会",
+        "time": "07:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1144
+      },
+      {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
         "time": "07:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -81912,6 +83462,15 @@
         "organizer_id": 1128
       },
       {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "08:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1128
+      },
+      {
         "date": "2026-09-27",
         "type": "ショップ大会",
         "time": "08:00",
@@ -82143,7 +83702,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1134
+        "organizer_id": 1134,
+        "participants": 8
       },
       {
         "date": "2026-09-11",
@@ -82164,8 +83724,26 @@
         "organizer_id": 1134
       },
       {
+        "date": "2026-09-18",
+        "type": "クロスオーバーショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1134
+      },
+      {
         "date": "2026-09-23",
         "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1134
+      },
+      {
+        "date": "2026-09-23",
+        "type": "クロスオーバーショップ大会",
         "time": "10:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -82409,6 +83987,15 @@
         "time": "08:00",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 1533
+      },
+      {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1533
       },
@@ -82694,11 +84281,21 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1491
+        "organizer_id": 1491,
+        "participants": 11
       },
       {
         "date": "2026-09-12",
         "type": "ショップ大会",
+        "time": "08:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1491
+      },
+      {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
         "time": "08:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -82729,6 +84326,15 @@
         "time": "04:30",
         "name": "[JP][개인전] Shadowverse EVOLVE CS - September 2026",
         "series_id": 13660,
+        "game_title_id": 106,
+        "organizer_id": 1491
+      },
+      {
+        "date": "2026-09-26",
+        "type": "クロスオーバーショップ大会",
+        "time": "08:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
         "game_title_id": 106,
         "organizer_id": 1491
       },
@@ -83042,6 +84648,15 @@
         "organizer_id": 1145
       },
       {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1145
+      },
+      {
         "date": "2026-09-27",
         "type": "ショップ大会",
         "time": "06:00",
@@ -83338,8 +84953,26 @@
         "organizer_id": 1494
       },
       {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1494
+      },
+      {
         "date": "2026-09-13",
         "type": "ショップ大会",
+        "time": "09:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1494
+      },
+      {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
         "time": "09:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -83770,7 +85403,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1535
+        "organizer_id": 1535,
+        "participants": 5
       },
       {
         "date": "2026-09-05",
@@ -83779,7 +85413,8 @@
         "name": "[JP][개인전] Shadowverse EVOLVE CS - September 2026",
         "series_id": 13660,
         "game_title_id": 106,
-        "organizer_id": 1535
+        "organizer_id": 1535,
+        "participants": 4
       },
       {
         "date": "2026-09-12",
@@ -83800,8 +85435,26 @@
         "organizer_id": 1535
       },
       {
+        "date": "2026-09-19",
+        "type": "クロスオーバーショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1535
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1535
+      },
+      {
+        "date": "2026-09-26",
+        "type": "クロスオーバーショップ大会",
         "time": "06:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -84037,7 +85690,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1990
+        "organizer_id": 1990,
+        "participants": 0
       },
       {
         "date": "2026-09-05",
@@ -84046,7 +85700,8 @@
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
         "game_title_id": 106,
-        "organizer_id": 1990
+        "organizer_id": 1990,
+        "participants": 5
       },
       {
         "date": "2026-09-11",
@@ -84060,6 +85715,15 @@
       {
         "date": "2026-09-12",
         "type": "ショップ大会",
+        "time": "06:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1990
+      },
+      {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
         "time": "06:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -84325,8 +85989,26 @@
         "organizer_id": 1122
       },
       {
+        "date": "2026-09-20",
+        "type": "クロスオーバーショップ大会",
+        "time": "05:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1122
+      },
+      {
         "date": "2026-09-27",
         "type": "ショップ大会",
+        "time": "05:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1122
+      },
+      {
+        "date": "2026-09-27",
+        "type": "クロスオーバーショップ大会",
         "time": "05:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -84538,6 +86220,15 @@
         "organizer_id": 1129
       },
       {
+        "date": "2026-09-13",
+        "type": "クロスオーバーショップ大会",
+        "time": "07:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1129
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
         "time": "07:30",
@@ -84549,6 +86240,15 @@
       {
         "date": "2026-09-27",
         "type": "ショップ大会",
+        "time": "07:30",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1129
+      },
+      {
+        "date": "2026-09-27",
+        "type": "クロスオーバーショップ大会",
         "time": "07:30",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -84605,7 +86305,7 @@
       {
         "date": "2026-10-03",
         "type": "ショップ大会",
-        "time": "06:00",
+        "time": "06:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
         "game_title_id": 106,
@@ -84614,7 +86314,7 @@
       {
         "date": "2026-10-10",
         "type": "ショップ大会",
-        "time": "06:00",
+        "time": "06:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
         "game_title_id": 106,
@@ -84623,7 +86323,7 @@
       {
         "date": "2026-10-17",
         "type": "ショップ大会",
-        "time": "06:00",
+        "time": "06:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
         "game_title_id": 106,
@@ -84632,14 +86332,23 @@
       {
         "date": "2026-10-24",
         "type": "ショップ大会",
-        "time": "06:00",
+        "time": "06:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 2333
+      },
+      {
+        "date": "2026-10-31",
+        "type": "ショップ大会",
+        "time": "06:30",
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
         "series_id": 13432,
         "game_title_id": 106,
         "organizer_id": 2333
       }
     ],
-    "_last_seen": "2026-10-24",
+    "_last_seen": "2026-10-31",
     "organizer_id": 2333
   },
   "티씨지짐": {
@@ -84802,11 +86511,21 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
         "series_id": 12384,
         "game_title_id": 106,
-        "organizer_id": 1123
+        "organizer_id": 1123,
+        "participants": 0
       },
       {
         "date": "2026-09-12",
         "type": "ショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1123
+      },
+      {
+        "date": "2026-09-12",
+        "type": "クロスオーバーショップ大会",
         "time": "06:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -84825,6 +86544,15 @@
       {
         "date": "2026-09-26",
         "type": "ショップ大会",
+        "time": "06:00",
+        "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 12455,
+        "game_title_id": 106,
+        "organizer_id": 1123
+      },
+      {
+        "date": "2026-09-26",
+        "type": "クロスオーバーショップ大会",
         "time": "06:00",
         "name": "【JP】9月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 12455,
@@ -85021,7 +86749,8 @@
         "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - August 2026",
         "series_id": 11687,
         "game_title_id": 106,
-        "organizer_id": 1489
+        "organizer_id": 1489,
+        "participants": 4
       },
       {
         "date": "2026-10-10",
@@ -85035,5 +86764,70 @@
     ],
     "_last_seen": "2026-10-10",
     "organizer_id": 1489
+  },
+  "하비게임몰(종로점)": {
+    "country_id": 170,
+    "city_address": "서울시",
+    "address": "종로구 율곡로 202-7, 4층",
+    "lat": 37.575701,
+    "lng": 127.0014176,
+    "upcoming": [
+      {
+        "date": "2026-09-23",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
+        "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 2962
+      },
+      {
+        "date": "2026-09-30",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - September 2026",
+        "series_id": 12384,
+        "game_title_id": 106,
+        "organizer_id": 2962
+      },
+      {
+        "date": "2026-10-07",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 2962
+      },
+      {
+        "date": "2026-10-14",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 2962
+      },
+      {
+        "date": "2026-10-21",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 2962
+      },
+      {
+        "date": "2026-10-28",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "【JP】Shadowverse EVOLVE Bushiroad Monthly Shop Tournament - October 2026",
+        "series_id": 13432,
+        "game_title_id": 106,
+        "organizer_id": 2962
+      }
+    ],
+    "_last_seen": "2026-10-28",
+    "organizer_id": 2962
   }
 }
