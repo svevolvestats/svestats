@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06",
+  "generated_at": "2026-09-07",
   "expansions": [
     {
       "expansion": "BP22",
@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 31,
-      "n_layouts": 793671668,
+      "revealed_count": 35,
+      "n_layouts": 96582712,
       "unique": false,
       "classes": [
         "エルフ",
@@ -168,7 +168,7 @@
             {
               "num": 15,
               "cardno": "BP22-015",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 16,
@@ -187,8 +187,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 6,
+          "confirmed_count": 1,
+          "estimated_count": 5,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -202,12 +202,14 @@
             {
               "num": 19,
               "cardno": "BP22-019",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-019",
+              "kind": "base"
             },
             {
               "num": 20,
               "cardno": "BP22-020",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 21,
@@ -220,9 +222,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 1,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -236,17 +238,21 @@
             {
               "num": 23,
               "cardno": "BP22-023",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-023",
+              "kind": "base"
             },
             {
               "num": 24,
               "cardno": "BP22-024",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-024",
+              "kind": "evolve"
             },
             {
               "num": 25,
               "cardno": "BP22-025",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 26,
@@ -254,14 +260,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 2,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|SR": {
           "class": "ロイヤル",
@@ -275,22 +281,24 @@
             {
               "num": 28,
               "cardno": "BP22-028",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 29,
               "cardno": "BP22-029",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 30,
               "cardno": "BP22-030",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-030",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -314,7 +322,7 @@
             {
               "num": 33,
               "cardno": "BP22-033",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 34,
@@ -333,8 +341,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 6,
+          "confirmed_count": 1,
+          "estimated_count": 5,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
