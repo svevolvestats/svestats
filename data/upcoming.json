@@ -791,5 +791,43 @@
         "release_date": "2026-10-02",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2097251150206747004"
+    },
+    {
+        "oracle_id": "BP22-039",
+        "name": "プレデターゴーレム",
+        "class": "ウィッチ",
+        "card_type": ["フォロワー"],
+        "tribe": ["ゴーレム"],
+        "title": null,
+        "cost": 9,
+        "atk": 6,
+        "hp": 6,
+        "text": "これをプレイする際、【土の秘術_9】：コストを1にする。\n【守護】\n【ファンファーレ】相手の場のフォロワー3体まで選ぶ。それを破壊する。相手のリーダーすべてに3ダメージ。自分のリーダーは体力+3する。",
+        "keywords": ["ファンファーレ","土の秘術","守護"],
+        "expansion": "BP22",
+        "image_url": "BP22-039.jpg",
+        "release_date": "2026-10-02",
+        "rarity": "LG",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2097611327586070771"
+    },
+    {
+        "oracle_id": "BP22-044",
+        "name": "グレートマジシャン",
+        "class": "ウィッチ",
+        "card_type": ["フォロワー"],
+        "tribe": ["魔法使い"],
+        "title": null,
+        "cost": 2,
+        "atk": 2,
+        "hp": 3,
+        "text": "【ファンファーレ】自分の場の【スタック】を+1する。（自分の場に【スタック】を持つカードがないなら、『大地の魔片』1つを場に出し【スタック】を+する）\n【起動】これをアクト【土の秘術_3】：自分の場の【スタック】を+6する。",
+        "keywords": ["ファンファーレ","起動","スタック","土の秘術"],
+        "expansion": "BP22",
+        "mentions": ["BP01-T10"],
+        "mentions_tokens": ["BP01-T10"],
+        "image_url": "BP22-044.jpg",
+        "release_date": "2026-10-02",
+        "rarity": "GR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2097613529897746935"
     }
 ]
