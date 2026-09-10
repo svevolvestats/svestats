@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 40,
-      "n_layouts": 15427139,
+      "revealed_count": 42,
+      "n_layouts": 9833167,
       "unique": false,
       "classes": [
         "エルフ",
@@ -563,12 +563,16 @@
             {
               "num": 60,
               "cardno": "BP22-060",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-060",
+              "kind": "base"
             },
             {
               "num": 61,
               "cardno": "BP22-061",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-061",
+              "kind": "evolve"
             },
             {
               "num": 62,
@@ -581,14 +585,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ドラゴン|SR": {
           "class": "ドラゴン",
@@ -641,7 +645,7 @@
             {
               "num": 70,
               "cardno": "BP22-070",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 71,
@@ -660,8 +664,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 1,
-          "estimated_count": 5,
+          "confirmed_count": 2,
+          "estimated_count": 4,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
