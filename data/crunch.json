@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-11",
   "expansions": [
     {
       "expansion": "BP22",
@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 42,
-      "n_layouts": 9833167,
+      "revealed_count": 46,
+      "n_layouts": 1888653,
       "unique": false,
       "classes": [
         "エルフ",
@@ -337,12 +337,12 @@
             {
               "num": 36,
               "cardno": "BP22-036",
-              "status": "estimated"
+              "status": "confirmed"
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 3,
-          "estimated_count": 3,
+          "confirmed_count": 4,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -377,22 +377,26 @@
             {
               "num": 40,
               "cardno": "BP22-040",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-040",
+              "kind": "base"
             },
             {
               "num": 41,
               "cardno": "BP22-041",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-041",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 5,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 5,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 2,
-          "evolve_revealed": 1
+          "evolve_revealed": 2
         },
         "ウィッチ|GR": {
           "class": "ウィッチ",
@@ -577,7 +581,9 @@
             {
               "num": 62,
               "cardno": "BP22-062",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-062",
+              "kind": "base"
             },
             {
               "num": 63,
@@ -585,9 +591,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -606,22 +612,24 @@
             {
               "num": 65,
               "cardno": "BP22-065",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 66,
               "cardno": "BP22-066",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 67,
               "cardno": "BP22-067",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-067",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
