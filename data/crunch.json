@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11",
+  "generated_at": "2026-09-12",
   "expansions": [
     {
       "expansion": "BP22",
@@ -20,8 +20,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 46,
-      "n_layouts": 1888653,
+      "revealed_count": 50,
+      "n_layouts": 74987,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1011,7 +1011,9 @@
             {
               "num": 110,
               "cardno": "BP22-110",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-110",
+              "kind": "base"
             },
             {
               "num": 111,
@@ -1021,11 +1023,11 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 2,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 0,
           "evolve_revealed": 0
@@ -1037,14 +1039,16 @@
             {
               "num": 112,
               "cardno": "BP22-112",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-112",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 1,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 0,
           "evolve_revealed": 0
@@ -1056,12 +1060,16 @@
             {
               "num": 113,
               "cardno": "BP22-113",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-113",
+              "kind": "base"
             },
             {
               "num": 114,
               "cardno": "BP22-114",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-114",
+              "kind": "evolve"
             },
             {
               "num": 115,
@@ -1069,14 +1077,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 3,
+          "estimated_count": 1,
           "size": 3,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ニュートラル|BR": {
           "class": "ニュートラル",
