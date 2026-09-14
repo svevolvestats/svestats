@@ -2,6 +2,1093 @@
   "generated_at": "2026-09-14",
   "expansions": [
     {
+      "expansion": "CP05",
+      "name": "コラボパック「グランブルーファンタジー」",
+      "release_date": "2026-11-27",
+      "card_eval": false,
+      "totals": {
+        "LG": 27,
+        "GR": 27,
+        "SR": 25,
+        "BR": 32
+      },
+      "total_count": 111,
+      "main_count": 111,
+      "main_totals": {
+        "LG": 27,
+        "GR": 27,
+        "SR": 25,
+        "BR": 32
+      },
+      "revealed_count": 8,
+      "n_layouts": 82460860580,
+      "unique": false,
+      "classes": [
+        "エルフ",
+        "ロイヤル",
+        "ウィッチ",
+        "ドラゴン",
+        "ナイトメア",
+        "ビショップ",
+        "ニュートラル"
+      ],
+      "rarities": [
+        "LG",
+        "GR",
+        "SR",
+        "BR"
+      ],
+      "cells": {
+        "エルフ|LG": {
+          "class": "エルフ",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 1,
+              "cardno": "CP05-001",
+              "status": "confirmed"
+            },
+            {
+              "num": 2,
+              "cardno": "CP05-002",
+              "status": "confirmed"
+            },
+            {
+              "num": 3,
+              "cardno": "CP05-003",
+              "status": "estimated"
+            },
+            {
+              "num": 4,
+              "cardno": "CP05-004",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 2,
+          "estimated_count": 2,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "エルフ|GR": {
+          "class": "エルフ",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 5,
+              "cardno": "CP05-005",
+              "status": "estimated"
+            },
+            {
+              "num": 6,
+              "cardno": "CP05-006",
+              "status": "estimated"
+            },
+            {
+              "num": 7,
+              "cardno": "CP05-007",
+              "status": "estimated"
+            },
+            {
+              "num": 8,
+              "cardno": "CP05-008",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "エルフ|SR": {
+          "class": "エルフ",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 9,
+              "cardno": "CP05-009",
+              "status": "estimated"
+            },
+            {
+              "num": 10,
+              "cardno": "CP05-010",
+              "status": "estimated"
+            },
+            {
+              "num": 11,
+              "cardno": "CP05-011",
+              "status": "estimated"
+            },
+            {
+              "num": 12,
+              "cardno": "CP05-012",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "エルフ|BR": {
+          "class": "エルフ",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 13,
+              "cardno": "CP05-013",
+              "status": "estimated"
+            },
+            {
+              "num": 14,
+              "cardno": "CP05-014",
+              "status": "estimated"
+            },
+            {
+              "num": 15,
+              "cardno": "CP05-015",
+              "status": "estimated"
+            },
+            {
+              "num": 16,
+              "cardno": "CP05-016",
+              "status": "estimated"
+            },
+            {
+              "num": 17,
+              "cardno": "CP05-017",
+              "status": "estimated"
+            },
+            {
+              "num": 18,
+              "cardno": "CP05-018",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 6,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|LG": {
+          "class": "ロイヤル",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 19,
+              "cardno": "CP05-019",
+              "status": "estimated"
+            },
+            {
+              "num": 20,
+              "cardno": "CP05-020",
+              "status": "estimated"
+            },
+            {
+              "num": 21,
+              "cardno": "CP05-021",
+              "status": "estimated"
+            },
+            {
+              "num": 22,
+              "cardno": "CP05-022",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|GR": {
+          "class": "ロイヤル",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 23,
+              "cardno": "CP05-023",
+              "status": "estimated"
+            },
+            {
+              "num": 24,
+              "cardno": "CP05-024",
+              "status": "estimated"
+            },
+            {
+              "num": 25,
+              "cardno": "CP05-025",
+              "status": "estimated"
+            },
+            {
+              "num": 26,
+              "cardno": "CP05-026",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|SR": {
+          "class": "ロイヤル",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 27,
+              "cardno": "CP05-027",
+              "status": "estimated"
+            },
+            {
+              "num": 28,
+              "cardno": "CP05-028",
+              "status": "estimated"
+            },
+            {
+              "num": 29,
+              "cardno": "CP05-029",
+              "status": "estimated"
+            },
+            {
+              "num": 30,
+              "cardno": "CP05-030",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ロイヤル|BR": {
+          "class": "ロイヤル",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 31,
+              "cardno": "CP05-031",
+              "status": "estimated"
+            },
+            {
+              "num": 32,
+              "cardno": "CP05-032",
+              "status": "estimated"
+            },
+            {
+              "num": 33,
+              "cardno": "CP05-033",
+              "status": "estimated"
+            },
+            {
+              "num": 34,
+              "cardno": "CP05-034",
+              "status": "estimated"
+            },
+            {
+              "num": 35,
+              "cardno": "CP05-035",
+              "status": "estimated"
+            },
+            {
+              "num": 36,
+              "cardno": "CP05-036",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 6,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|LG": {
+          "class": "ウィッチ",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 37,
+              "cardno": "CP05-037",
+              "status": "revealed",
+              "oracle_id": "CP05-037",
+              "kind": "base"
+            },
+            {
+              "num": 38,
+              "cardno": "CP05-038",
+              "status": "confirmed"
+            },
+            {
+              "num": 39,
+              "cardno": "CP05-039",
+              "status": "estimated"
+            },
+            {
+              "num": 40,
+              "cardno": "CP05-040",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 1,
+          "confirmed_count": 1,
+          "estimated_count": 2,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|GR": {
+          "class": "ウィッチ",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 41,
+              "cardno": "CP05-041",
+              "status": "estimated"
+            },
+            {
+              "num": 42,
+              "cardno": "CP05-042",
+              "status": "confirmed"
+            },
+            {
+              "num": 43,
+              "cardno": "CP05-043",
+              "status": "confirmed"
+            },
+            {
+              "num": 44,
+              "cardno": "CP05-044",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 2,
+          "estimated_count": 2,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|SR": {
+          "class": "ウィッチ",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 45,
+              "cardno": "CP05-045",
+              "status": "estimated"
+            },
+            {
+              "num": 46,
+              "cardno": "CP05-046",
+              "status": "estimated"
+            },
+            {
+              "num": 47,
+              "cardno": "CP05-047",
+              "status": "confirmed"
+            },
+            {
+              "num": 48,
+              "cardno": "CP05-048",
+              "status": "revealed",
+              "oracle_id": "CP05-048",
+              "kind": "base"
+            }
+          ],
+          "revealed_count": 1,
+          "confirmed_count": 1,
+          "estimated_count": 2,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ウィッチ|BR": {
+          "class": "ウィッチ",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 49,
+              "cardno": "CP05-049",
+              "status": "estimated"
+            },
+            {
+              "num": 50,
+              "cardno": "CP05-050",
+              "status": "estimated"
+            },
+            {
+              "num": 51,
+              "cardno": "CP05-051",
+              "status": "revealed",
+              "oracle_id": "CP05-051",
+              "kind": "base"
+            },
+            {
+              "num": 52,
+              "cardno": "CP05-052",
+              "status": "confirmed"
+            },
+            {
+              "num": 53,
+              "cardno": "CP05-053",
+              "status": "revealed",
+              "oracle_id": "CP05-053",
+              "kind": "base"
+            },
+            {
+              "num": 54,
+              "cardno": "CP05-054",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 2,
+          "confirmed_count": 1,
+          "estimated_count": 3,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ドラゴン|LG": {
+          "class": "ドラゴン",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 55,
+              "cardno": "CP05-055",
+              "status": "revealed",
+              "oracle_id": "CP05-055",
+              "kind": "base"
+            },
+            {
+              "num": 56,
+              "cardno": "CP05-056",
+              "status": "revealed",
+              "oracle_id": "CP05-056",
+              "kind": "base"
+            },
+            {
+              "num": 57,
+              "cardno": "CP05-057",
+              "status": "revealed",
+              "oracle_id": "CP05-057",
+              "kind": "evolve"
+            },
+            {
+              "num": 58,
+              "cardno": "CP05-058",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 3,
+          "confirmed_count": 0,
+          "estimated_count": 1,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 1
+        },
+        "ドラゴン|GR": {
+          "class": "ドラゴン",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 59,
+              "cardno": "CP05-059",
+              "status": "estimated"
+            },
+            {
+              "num": 60,
+              "cardno": "CP05-060",
+              "status": "estimated"
+            },
+            {
+              "num": 61,
+              "cardno": "CP05-061",
+              "status": "estimated"
+            },
+            {
+              "num": 62,
+              "cardno": "CP05-062",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ドラゴン|SR": {
+          "class": "ドラゴン",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 63,
+              "cardno": "CP05-063",
+              "status": "estimated"
+            },
+            {
+              "num": 64,
+              "cardno": "CP05-064",
+              "status": "estimated"
+            },
+            {
+              "num": 65,
+              "cardno": "CP05-065",
+              "status": "estimated"
+            },
+            {
+              "num": 66,
+              "cardno": "CP05-066",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ドラゴン|BR": {
+          "class": "ドラゴン",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 67,
+              "cardno": "CP05-067",
+              "status": "estimated"
+            },
+            {
+              "num": 68,
+              "cardno": "CP05-068",
+              "status": "estimated"
+            },
+            {
+              "num": 69,
+              "cardno": "CP05-069",
+              "status": "estimated"
+            },
+            {
+              "num": 70,
+              "cardno": "CP05-070",
+              "status": "estimated"
+            },
+            {
+              "num": 71,
+              "cardno": "CP05-071",
+              "status": "estimated"
+            },
+            {
+              "num": 72,
+              "cardno": "CP05-072",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 6,
+          "size": 6,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|LG": {
+          "class": "ナイトメア",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 73,
+              "cardno": "CP05-073",
+              "status": "estimated"
+            },
+            {
+              "num": 74,
+              "cardno": "CP05-074",
+              "status": "estimated"
+            },
+            {
+              "num": 75,
+              "cardno": "CP05-075",
+              "status": "estimated"
+            },
+            {
+              "num": 76,
+              "cardno": "CP05-076",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|GR": {
+          "class": "ナイトメア",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 77,
+              "cardno": "CP05-077",
+              "status": "estimated"
+            },
+            {
+              "num": 78,
+              "cardno": "CP05-078",
+              "status": "estimated"
+            },
+            {
+              "num": 79,
+              "cardno": "CP05-079",
+              "status": "estimated"
+            },
+            {
+              "num": 80,
+              "cardno": "CP05-080",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|SR": {
+          "class": "ナイトメア",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 81,
+              "cardno": "CP05-081",
+              "status": "estimated"
+            },
+            {
+              "num": 82,
+              "cardno": "CP05-082",
+              "status": "estimated"
+            },
+            {
+              "num": 83,
+              "cardno": "CP05-083",
+              "status": "estimated"
+            },
+            {
+              "num": 84,
+              "cardno": "CP05-084",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|BR": {
+          "class": "ナイトメア",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 85,
+              "cardno": "CP05-085",
+              "status": "estimated"
+            },
+            {
+              "num": 86,
+              "cardno": "CP05-086",
+              "status": "estimated"
+            },
+            {
+              "num": 87,
+              "cardno": "CP05-087",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 3,
+          "size": 3,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|LG": {
+          "class": "ビショップ",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 88,
+              "cardno": "CP05-088",
+              "status": "estimated"
+            },
+            {
+              "num": 89,
+              "cardno": "CP05-089",
+              "status": "estimated"
+            },
+            {
+              "num": 90,
+              "cardno": "CP05-090",
+              "status": "estimated"
+            },
+            {
+              "num": 91,
+              "cardno": "CP05-091",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|GR": {
+          "class": "ビショップ",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 92,
+              "cardno": "CP05-092",
+              "status": "estimated"
+            },
+            {
+              "num": 93,
+              "cardno": "CP05-093",
+              "status": "estimated"
+            },
+            {
+              "num": 94,
+              "cardno": "CP05-094",
+              "status": "estimated"
+            },
+            {
+              "num": 95,
+              "cardno": "CP05-095",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|SR": {
+          "class": "ビショップ",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 96,
+              "cardno": "CP05-096",
+              "status": "estimated"
+            },
+            {
+              "num": 97,
+              "cardno": "CP05-097",
+              "status": "estimated"
+            },
+            {
+              "num": 98,
+              "cardno": "CP05-098",
+              "status": "estimated"
+            },
+            {
+              "num": 99,
+              "cardno": "CP05-099",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 4,
+          "size": 4,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ビショップ|BR": {
+          "class": "ビショップ",
+          "rarity": "BR",
+          "slots": [
+            {
+              "num": 100,
+              "cardno": "CP05-100",
+              "status": "estimated"
+            },
+            {
+              "num": 101,
+              "cardno": "CP05-101",
+              "status": "estimated"
+            },
+            {
+              "num": 102,
+              "cardno": "CP05-102",
+              "status": "estimated"
+            },
+            {
+              "num": 103,
+              "cardno": "CP05-103",
+              "status": "estimated"
+            },
+            {
+              "num": 104,
+              "cardno": "CP05-104",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 5,
+          "size": 5,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|LG": {
+          "class": "ニュートラル",
+          "rarity": "LG",
+          "slots": [
+            {
+              "num": 105,
+              "cardno": "CP05-105",
+              "status": "estimated"
+            },
+            {
+              "num": 106,
+              "cardno": "CP05-106",
+              "status": "estimated"
+            },
+            {
+              "num": 107,
+              "cardno": "CP05-107",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 3,
+          "size": 3,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|GR": {
+          "class": "ニュートラル",
+          "rarity": "GR",
+          "slots": [
+            {
+              "num": 108,
+              "cardno": "CP05-108",
+              "status": "estimated"
+            },
+            {
+              "num": 109,
+              "cardno": "CP05-109",
+              "status": "estimated"
+            },
+            {
+              "num": 110,
+              "cardno": "CP05-110",
+              "status": "revealed",
+              "oracle_id": "CP05-110",
+              "kind": "base"
+            }
+          ],
+          "revealed_count": 1,
+          "confirmed_count": 0,
+          "estimated_count": 2,
+          "size": 3,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|SR": {
+          "class": "ニュートラル",
+          "rarity": "SR",
+          "slots": [
+            {
+              "num": 111,
+              "cardno": "CP05-111",
+              "status": "estimated"
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 1,
+          "size": 1,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 0,
+          "evolve_revealed": 0
+        },
+        "ニュートラル|BR": {
+          "class": "ニュートラル",
+          "rarity": "BR",
+          "slots": [],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 0,
+          "size": 0,
+          "size_status": "confirmed",
+          "advance": 0,
+          "evolve_pred": 0,
+          "evolve_revealed": 0
+        }
+      },
+      "appendix": null,
+      "tokens": {
+        "count": 15,
+        "reprint_count": 0,
+        "revealed_count": 2,
+        "slots": [
+          {
+            "num": 1,
+            "cardno": "CP05-T01",
+            "status": "confirmed"
+          },
+          {
+            "num": 2,
+            "cardno": "CP05-T02",
+            "status": "confirmed"
+          },
+          {
+            "num": 3,
+            "cardno": "CP05-T03",
+            "status": "confirmed"
+          },
+          {
+            "num": 4,
+            "cardno": "CP05-T04",
+            "status": "confirmed"
+          },
+          {
+            "num": 5,
+            "cardno": "CP05-T05",
+            "status": "confirmed"
+          },
+          {
+            "num": 6,
+            "cardno": "CP05-T06",
+            "status": "confirmed"
+          },
+          {
+            "num": 7,
+            "cardno": "CP05-T07",
+            "status": "confirmed"
+          },
+          {
+            "num": 8,
+            "cardno": "CP05-T08",
+            "status": "confirmed"
+          },
+          {
+            "num": 9,
+            "cardno": "CP05-T09",
+            "status": "revealed",
+            "oracle_id": "CP05-T09"
+          },
+          {
+            "num": 10,
+            "cardno": "CP05-T10",
+            "status": "confirmed"
+          },
+          {
+            "num": 11,
+            "cardno": "CP05-T11",
+            "status": "confirmed"
+          },
+          {
+            "num": 12,
+            "cardno": "CP05-T12",
+            "status": "confirmed"
+          },
+          {
+            "num": 13,
+            "cardno": "CP05-T13",
+            "status": "confirmed"
+          },
+          {
+            "num": 14,
+            "cardno": "CP05-T14",
+            "status": "confirmed"
+          },
+          {
+            "num": 15,
+            "cardno": "CP05-T15",
+            "status": "revealed",
+            "oracle_id": "CP05-T15"
+          }
+        ]
+      }
+    },
+    {
       "expansion": "BP22",
       "name": "ブースターパック「オーバー・ザ・カラミティ」",
       "release_date": "2026-10-02",
@@ -20,8 +1107,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 51,
-      "n_layouts": 30954,
+      "revealed_count": 54,
+      "n_layouts": 18209,
       "unique": false,
       "classes": [
         "エルフ",
@@ -173,12 +1260,12 @@
             {
               "num": 16,
               "cardno": "BP22-016",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 17,
               "cardno": "BP22-017",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 18,
@@ -187,8 +1274,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 1,
-          "estimated_count": 5,
+          "confirmed_count": 3,
+          "estimated_count": 3,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -214,22 +1301,26 @@
             {
               "num": 21,
               "cardno": "BP22-021",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-021",
+              "kind": "base"
             },
             {
               "num": 22,
               "cardno": "BP22-022",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-022",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 3,
           "confirmed_count": 1,
-          "estimated_count": 2,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|GR": {
           "class": "ロイヤル",
@@ -665,7 +1756,7 @@
             {
               "num": 72,
               "cardno": "BP22-072",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 73,
@@ -674,8 +1765,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 2,
-          "estimated_count": 4,
+          "confirmed_count": 3,
+          "estimated_count": 3,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -708,12 +1799,14 @@
             {
               "num": 77,
               "cardno": "BP22-077",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-077",
+              "kind": "base"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -1146,7 +2239,7 @@
       "tokens": {
         "count": 10,
         "reprint_count": 7,
-        "revealed_count": 2,
+        "revealed_count": 3,
         "slots": [
           {
             "num": 1,
@@ -1186,8 +2279,10 @@
           {
             "num": 7,
             "cardno": "BP22-T07",
-            "status": "confirmed",
-            "reprint": true
+            "status": "revealed",
+            "reprint": true,
+            "oracle_id": "BP14-T02",
+            "image": "BP22-T07.png"
           },
           {
             "num": 8,
