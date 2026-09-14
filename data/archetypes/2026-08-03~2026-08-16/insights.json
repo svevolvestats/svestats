@@ -22,15 +22,36 @@
           "name": "アイドルウィッチ",
           "archetype_id": "347845"
         }
-      ]
+      ],
+      "nuance": "revert",
+      "lead_id": "77a0df",
+      "lead_share": 0.2058
     },
     {
       "kind": "grade",
+      "target": "nuance",
+      "nuance": "persist",
+      "mood": "calm",
+      "hit": false,
+      "name": "アイドルウィッチ",
+      "text": "前回の予想は外れでしたね。崩れないと見ていた「アイドルウィッチ」は、シェア17.1%→11.3%まで落ちました。",
+      "archetype_id": "347845"
+    },
+    {
+      "kind": "grade",
+      "target": "riser",
       "mood": "smug",
       "hit": true,
       "name": "レヴィオンロイヤル",
       "text": "ふふ、前回の予想は当たりです。「レヴィオンロイヤル」はシェア5.6%から20.6%へ。データは正直ですね！",
       "archetype_id": "77a0df"
+    },
+    {
+      "kind": "riser",
+      "mood": "smug",
+      "archetype_id": "133e23",
+      "name": "スペルプリコネ",
+      "text": "データが選んだ上昇候補は「スペルプリコネ」です！ノーマークだった方は要チェックですよ？"
     }
   ]
 }
