@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15",
+  "generated_at": "2026-09-16",
   "expansions": [
     {
       "expansion": "CP05",
@@ -1107,8 +1107,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 57,
-      "n_layouts": 17328,
+      "revealed_count": 60,
+      "n_layouts": 4318,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1558,19 +1558,21 @@
             {
               "num": 48,
               "cardno": "BP22-048",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 49,
               "cardno": "BP22-049",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-049",
+              "kind": "base"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 0,
-          "estimated_count": 2,
+          "revealed_count": 3,
+          "confirmed_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -1597,22 +1599,26 @@
             {
               "num": 53,
               "cardno": "BP22-053",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-053",
+              "kind": "base"
             },
             {
               "num": 54,
               "cardno": "BP22-054",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 55,
               "cardno": "BP22-055",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-055",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 3,
-          "estimated_count": 3,
+          "estimated_count": 1,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
