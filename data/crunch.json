@@ -1107,8 +1107,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 64,
-      "n_layouts": 1802,
+      "revealed_count": 67,
+      "n_layouts": 870,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1657,14 +1657,16 @@
             {
               "num": 59,
               "cardno": "BP22-059",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-059",
+              "kind": "base"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 3,
           "confirmed_count": 1,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -1718,12 +1720,16 @@
             {
               "num": 64,
               "cardno": "BP22-064",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-064",
+              "kind": "base"
             },
             {
               "num": 65,
               "cardno": "BP22-065",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-065",
+              "kind": "evolve"
             },
             {
               "num": 66,
@@ -1738,14 +1744,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 1,
+          "revealed_count": 3,
+          "confirmed_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ドラゴン|BR": {
           "class": "ドラゴン",
@@ -1759,7 +1765,7 @@
             {
               "num": 69,
               "cardno": "BP22-069",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 70,
@@ -1783,8 +1789,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 3,
-          "estimated_count": 3,
+          "confirmed_count": 4,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
