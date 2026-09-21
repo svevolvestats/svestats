@@ -1107,8 +1107,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 72,
-      "n_layouts": 208,
+      "revealed_count": 74,
+      "n_layouts": 160,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1877,14 +1877,16 @@
             {
               "num": 81,
               "cardno": "BP22-081",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-081",
+              "kind": "base"
             }
           ],
-          "revealed_count": 3,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -1953,7 +1955,9 @@
             {
               "num": 89,
               "cardno": "BP22-089",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-089",
+              "kind": "base"
             },
             {
               "num": 90,
@@ -1966,8 +1970,8 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 3,
           "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
