@@ -9670,26 +9670,11 @@
     "set_name": "Booster Set #4 “Cosmic Mythos”",
     "prints": {
       "BP04-071": "BP04-071EN",
+      "BP04-072": "BP04-072EN",
       "BP04-P19": "BP04-P19EN"
-    }
-  },
-  "BP04-072": {
-    "name": "Divine Tiger",
-    "text": "When this card is discarded, you may put it into your EX area.\n----------\nSelect an enemy follower on the field and deal it 3 damage.",
-    "keywords": [],
-    "card_type": [
-      "Spell"
-    ],
-    "trait_en": [
-      "Dragonewt",
-      "Wyrmkin"
-    ],
-    "cardno": "BP04-072EN",
-    "img": "BP04/BP04-072EN.webp",
-    "release_date": "2024-04-12",
-    "set_name": "Booster Set #4 “Cosmic Mythos”",
-    "prints": {
-      "BP04-072": "BP04-072EN"
+    },
+    "print_names": {
+      "BP04-072": "Divine Tiger"
     }
   },
   "BP04-073": {
@@ -23128,20 +23113,22 @@
     }
   },
   "BP09-107": {
-    "name": "Paradise Vanguard",
-    "text": "On Evolve - Select an enemy follower that costs 4 or less on the field and banish it.",
-    "keywords": [],
+    "name": "Ameth",
+    "text": "【Ub】 On Evolve - Choose 1. (1) Select another follower on your field and give it Ward. (2) Select a PriConne follower on your field not named Ameth and, if 【Ub】 abilities you control have executed at least 2 other times this turn, execute 1 of its 【Ub】 abilities without paying its cost.",
+    "keywords": [
+      "Ub"
+    ],
     "card_type": [
       "Follower",
       "Evolved"
     ],
     "trait_en": [
-      "Angel"
+      "PriConne"
     ],
-    "cardno": "PR-243EN",
-    "img": "PR/PR-243EN.webp",
+    "cardno": "PR-541EN",
+    "img": "PR/PR-541EN.webp",
     "prints": {
-      "BP09-107": "PR-243EN"
+      "BP09-107": "PR-541EN"
     }
   },
   "BP09-112": {
@@ -39219,13 +39206,14 @@
       "Anathema",
       "Mage"
     ],
-    "cardno": "BP16-039EN",
-    "img": "BP16/BP16-039EN.webp",
-    "release_date": "2026-03-27",
-    "set_name": "Booster Set \"New World Genesis\"",
+    "cardno": "PCS01-001EN",
+    "img": "PCS01/PCS01-001EN.webp",
+    "release_date": "2026-09-04",
+    "set_name": "Premium Card Set \"Summer Edition Vol. 1\"",
     "prints": {
       "BP16-038": "BP16-039EN",
-      "BP16-SL10": "BP16-SL10EN"
+      "BP16-SL10": "BP16-SL10EN",
+      "PCS02-001": "PCS01-001EN"
     }
   },
   "BP16-039": {
@@ -40916,7 +40904,8 @@
     "prints": {
       "BP17-001": "BP17-001EN",
       "BP17-SL01": "BP17-SL01EN",
-      "BP17-U01": "BP17-U01EN"
+      "BP17-U01": "BP17-U01EN",
+      "PR-544": "PR-572EN"
     }
   },
   "BP17-002": {
@@ -41680,7 +41669,8 @@
     "set_name": "Booster Set \"Convergent Destinies\"",
     "prints": {
       "BP17-037": "BP17-037EN",
-      "BP17-SL09": "BP17-SL09EN"
+      "BP17-SL09": "BP17-SL09EN",
+      "PR-461": "PR-547EN"
     }
   },
   "BP17-038": {
@@ -41700,7 +41690,8 @@
     "set_name": "Booster Set \"Convergent Destinies\"",
     "prints": {
       "BP17-038": "BP17-038EN",
-      "BP17-SL10": "BP17-SL10EN"
+      "BP17-SL10": "BP17-SL10EN",
+      "PR-462": "PR-548EN"
     }
   },
   "BP17-039": {
@@ -41724,7 +41715,8 @@
     "prints": {
       "BP17-039": "BP17-039EN",
       "BP17-SL11": "BP17-SL11EN",
-      "BP17-U04": "BP17-U04EN"
+      "BP17-U04": "BP17-U04EN",
+      "PR-465": "PR-550EN"
     }
   },
   "BP17-040": {
@@ -44330,13 +44322,14 @@
     "trait_en": [
       "Mage"
     ],
-    "cardno": "BP18-042EN",
-    "img": "BP18/BP18-042EN.webp",
-    "release_date": "2026-07-24",
-    "set_name": "Booster Set \"Neometropolis\"",
+    "cardno": "PCS01-002EN",
+    "img": "PCS01/PCS01-002EN.webp",
+    "release_date": "2026-09-04",
+    "set_name": "Premium Card Set \"Summer Edition Vol. 1\"",
     "prints": {
       "BP18-042": "BP18-042EN",
-      "BP18-SL12": "BP18-SL12EN"
+      "BP18-SL12": "BP18-SL12EN",
+      "PCS02-002": "PCS01-002EN"
     }
   },
   "BP18-043": {
@@ -46166,6 +46159,5196 @@
     "prints": {
       "BP18-126": "BP18-126EN",
       "BP18-P49": "BP18-P49EN"
+    }
+  },
+  "BP19-001": {
+    "name": "Magachiyo, Barbed Convict",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-001EN",
+    "img": "BP19/BP19-001EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-001": "BP19-001EN",
+      "BP19-SL01": "BP19-SL01EN",
+      "PR-528": "PR-546EN"
+    }
+  },
+  "BP19-002": {
+    "name": "Magachiyo, Barbed Convict",
+    "text": "Storm.\nOn Evolve - Select an enemy follower on the field. Combo (3) - Deal it 4 damage.\nOn Super-Evolve - Give each other Condemned follower on your field Storm.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-002EN",
+    "img": "BP19/BP19-002EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-002": "BP19-002EN",
+      "BP19-SL02": "BP19-SL02EN",
+      "BP19-U01": "BP19-U01EN"
+    }
+  },
+  "BP19-003": {
+    "name": "Wimael, Redolent Enforcer",
+    "text": "【Fanfare】 Select an enemy follower on the field and deal it 4 damage.\n【Last Words】 Put this onto its owner's field.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Verdant",
+      "Insect"
+    ],
+    "cardno": "BP19-003EN",
+    "img": "BP19/BP19-003EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-003": "BP19-003EN",
+      "BP19-SL03": "BP19-SL03EN"
+    }
+  },
+  "BP19-004": {
+    "name": "Zwei, Symphonic Heart",
+    "text": "【Fanfare】 Banish 2 cards named Puppet from your EX area: Put a Victoria token into your EX area.\n【Act】 【Engage】: Select up to 2 cards on your field named Puppet and give them Attack+1/Defense+1. Activate only if there are at least 3 Puppetry cards in your cemetery.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Puppetry",
+      "Cutthroat"
+    ],
+    "cardno": "BP19-004EN",
+    "img": "BP19/BP19-004EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-004": "BP19-004EN",
+      "BP19-SL04": "BP19-SL04EN"
+    }
+  },
+  "BP19-005": {
+    "name": "Verdant Lieutenant",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWhenever a Condemned follower on your field evolves, Combo (3) - Draw a card.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-005EN",
+    "img": "BP19/BP19-005EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-005": "BP19-005EN",
+      "BP19-P01": "BP19-P01EN"
+    }
+  },
+  "BP19-006": {
+    "name": "Verdant Lieutenant",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 2 damage.\nWhenever a Condemned follower on your field evolves, Combo (3) - Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-006EN",
+    "img": "BP19/BP19-006EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-006": "BP19-006EN",
+      "BP19-P02": "BP19-P02EN"
+    }
+  },
+  "BP19-007": {
+    "name": "Warden of Balms",
+    "text": "Ward.\n【Fanfare】/【Last Words】 Deal 3 damage to each enemy leader.\n【Act】 Discard this: Select a Condemned follower on your field. Destroy it, deal 1 damage to each enemy leader, and draw a card.",
+    "keywords": [
+      "Fanfare",
+      "Last Words",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Verdant",
+      "Insect"
+    ],
+    "cardno": "BP19-007EN",
+    "img": "BP19/BP19-007EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-007": "BP19-007EN",
+      "BP19-P03": "BP19-P03EN"
+    }
+  },
+  "BP19-008": {
+    "name": "Synchronous Hearts",
+    "text": "Search your deck for a follower with \"Orchis\" in its name that costs 3 or less and a follower with \"Zwei\" in its name that costs 3 or less, summon them, then shuffle. Put 2 Puppet tokens into your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Puppetry",
+      "Cutthroat"
+    ],
+    "cardno": "BP19-008EN",
+    "img": "BP19/BP19-008EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-008": "BP19-008EN"
+    }
+  },
+  "BP19-009": {
+    "name": "Budding Initiate",
+    "text": "【Evolve】 Cost 2: Evolve this.\n【Fanfare】 Combo (3) - Evolve this.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-009EN",
+    "img": "BP19/BP19-009EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-009": "BP19-009EN",
+      "PR-522": "PR-557EN"
+    }
+  },
+  "BP19-010": {
+    "name": "Budding Initiate",
+    "text": "On Evolve - Look at the top 4 cards of your deck. You may reveal a Condemned card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-010EN",
+    "img": "BP19/BP19-010EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-010": "BP19-010EN",
+      "PR-523": "PR-558EN"
+    }
+  },
+  "BP19-011": {
+    "name": "Leafshade Assassin",
+    "text": "Whenever a Condemned follower on your field evolves, Combo (3) - Select an enemy follower on the field and deal it 3 damage.\n【Fanfare】 The next Condemned card you play this turn costs 1 less.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Elf"
+    ],
+    "cardno": "BP19-011EN",
+    "img": "BP19/BP19-011EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-011": "BP19-011EN",
+      "BP19-P04": "BP19-P04EN"
+    }
+  },
+  "BP19-012": {
+    "name": "Puppet Workout",
+    "text": "Summon 2 Puppet tokens. Give each Puppetry token follower on your field Attack+2 and Assail.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Puppetry"
+    ],
+    "cardno": "BP19-012EN",
+    "img": "BP19/BP19-012EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-012": "BP19-012EN",
+      "PR-516": "PR-551EN"
+    }
+  },
+  "BP19-013": {
+    "name": "Beast Lancer",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 Select an enemy follower on the field and deal it 3 damage.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP19-013EN",
+    "img": "BP19/BP19-013EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-013": "BP19-013EN"
+    }
+  },
+  "BP19-014": {
+    "name": "Beast Lancer",
+    "text": "Ward.\nOn Evolve - Select an enemy follower on the field and deal it 3 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP19-014EN",
+    "img": "BP19/BP19-014EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-014": "BP19-014EN"
+    }
+  },
+  "BP19-015": {
+    "name": "Merchant of the Wood",
+    "text": "Rush.\n【Fanfare】 Draw 2 cards.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Merchant",
+      "Beast"
+    ],
+    "cardno": "BP19-015EN",
+    "img": "BP19/BP19-015EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-015": "BP19-015EN"
+    }
+  },
+  "BP19-016": {
+    "name": "Rogue Puppeteer",
+    "text": "【Fanfare】 Discard a Puppetry card: Draw a card. Put 2 Puppet tokens into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Puppetry"
+    ],
+    "cardno": "BP19-016EN",
+    "img": "BP19/BP19-016EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-016": "BP19-016EN",
+      "BP19-P05": "BP19-P05EN"
+    }
+  },
+  "BP19-017": {
+    "name": "Support Troop Elf",
+    "text": "Rush.\n【Fanfare】 Select a card on your field not named Support Troop Elf and return it to its owner's hand.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Elf"
+    ],
+    "cardno": "BP19-017EN",
+    "img": "BP19/BP19-017EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-017": "BP19-017EN"
+    }
+  },
+  "BP19-018": {
+    "name": "Galepierce",
+    "text": "Return a card on your field to its owner's hand: Select an enemy follower on the field. Deal 6 damage to it and 2 damage to its leader.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Elf"
+    ],
+    "cardno": "BP19-018EN",
+    "img": "BP19/BP19-018EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-018": "BP19-018EN"
+    }
+  },
+  "BP19-019": {
+    "name": "Barbaros, Briny Convict",
+    "text": "【Evolve】 Cost 1: Evolve this.\nDuring your turn, any Loot card you play from the EX area costs 1 less.\n【Fanfare】 Put a Dread Pirate's Flag token into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Thief"
+    ],
+    "cardno": "BP19-019EN",
+    "img": "BP19/BP19-019EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-019": "BP19-019EN",
+      "BP19-SL05": "BP19-SL05EN",
+      "BP19-SP01": "BP19-SP01EN"
+    }
+  },
+  "BP19-020": {
+    "name": "Barbaros, Briny Convict",
+    "text": "During your turn, any Loot card you play from the EX area costs 1 less.\nDuring your turn, whenever you play a Loot card, choose 1 that you haven't chosen this turn. (1) Select an enemy follower on the field and destroy it. (2) Each opponent buries the top 2 cards of their deck. (3) Recover 2 play points.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Thief"
+    ],
+    "cardno": "BP19-020EN",
+    "img": "BP19/BP19-020EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-020": "BP19-020EN",
+      "BP19-SL06": "BP19-SL06EN",
+      "BP19-U02": "BP19-U02EN"
+    }
+  },
+  "BP19-021": {
+    "name": "Radiel, Valorous Enforcer",
+    "text": "Storm. Ward.\n【Fanfare】 If there are at least 5 Swordcraft followers on your field and/or in your EX area, banish each enemy follower on the field.\nStrike - If there are at least 10 Swordcraft followers on your field and/or in your EX area, refresh this. Perform only twice per turn.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Commander"
+    ],
+    "cardno": "BP19-021EN",
+    "img": "BP19/BP19-021EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-021": "BP19-021EN",
+      "BP19-SL07": "BP19-SL07EN"
+    }
+  },
+  "BP19-022": {
+    "name": "Gildaria, Anathema of Peace",
+    "text": "【Evolve】 Cost 2: Evolve this.\n【Fanfare】 Summon a Steelclad Knight and Knight token. Then, if there are 5 Swordcraft cards on your field, evolve this.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Anathema",
+      "Beast"
+    ],
+    "cardno": "BP19-022EN",
+    "img": "BP19/BP19-022EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-022": "BP19-022EN",
+      "BP19-SL08": "BP19-SL08EN"
+    }
+  },
+  "BP19-023": {
+    "name": "Gildaria, Anathema of Peace",
+    "text": "On Evolve - Deal 4 damage to each enemy follower on the field and 2 damage to each enemy leader.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Anathema",
+      "Beast"
+    ],
+    "cardno": "BP19-023EN",
+    "img": "BP19/BP19-023EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-023": "BP19-023EN",
+      "BP19-SL09": "BP19-SL09EN"
+    }
+  },
+  "BP19-024": {
+    "name": "Warden of Honor",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 Put the top card of your deck into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Commander"
+    ],
+    "cardno": "BP19-024EN",
+    "img": "BP19/BP19-024EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-024": "BP19-024EN"
+    }
+  },
+  "BP19-025": {
+    "name": "Warden of Honor",
+    "text": "Ward.\nOn Evolve - Choose 1. (1) Search your deck for a Warden of Honor, summon it, then shuffle. (2) Cost 3: Search your deck for a Radiel, Valorous Enforcer, summon it, then shuffle.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Commander"
+    ],
+    "cardno": "BP19-025EN",
+    "img": "BP19/BP19-025EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-025": "BP19-025EN"
+    }
+  },
+  "BP19-026": {
+    "name": "Tidal Gunner",
+    "text": "【Fanfare】 Put a Dread Pirate's Flag token into your EX area.\nWhenever you play a Dread Pirate's Flag, select an enemy leader or enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Thief"
+    ],
+    "cardno": "BP19-026EN",
+    "img": "BP19/BP19-026EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-026": "BP19-026EN",
+      "PR-515": "PR-525EN"
+    }
+  },
+  "BP19-027": {
+    "name": "Prim, Princess's Picnic",
+    "text": "【Fanfare】 Search your deck for a Maid follower, reveal it, add it to your hand, then shuffle.\n【Act】 Cost 1, 【Engage】: You may summon a Nonja, Silent Maid from your hand and give it Ward.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Commander",
+      "Princess"
+    ],
+    "cardno": "BP19-027EN",
+    "img": "BP19/BP19-027EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-027": "BP19-027EN",
+      "BP19-P06": "BP19-P06EN"
+    }
+  },
+  "BP19-028": {
+    "name": "Storm-Wracked First Mate",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Put a Dread Pirate's Flag token into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Thief"
+    ],
+    "cardno": "BP19-028EN",
+    "img": "BP19/BP19-028EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-028": "BP19-028EN",
+      "BP19-P07": "BP19-P07EN"
+    }
+  },
+  "BP19-029": {
+    "name": "Storm-Wracked First Mate",
+    "text": "On Evolve - Search your deck for a Condemned–Thief follower, reveal it, add it to your hand, then shuffle.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Thief"
+    ],
+    "cardno": "BP19-029EN",
+    "img": "BP19/BP19-029EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-029": "BP19-029EN",
+      "BP19-P08": "BP19-P08EN"
+    }
+  },
+  "BP19-030": {
+    "name": "Deep-Sea Scout",
+    "text": "【Fanfare】 Put a Dread Pirate's Flag token into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Thief"
+    ],
+    "cardno": "BP19-030EN",
+    "img": "BP19/BP19-030EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-030": "BP19-030EN",
+      "PR-517": "PR-552EN"
+    }
+  },
+  "BP19-031": {
+    "name": "Return from the Brink",
+    "text": "Select an Officer follower in your cemetery. Put it into your EX area and give it Attack+1/Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP19-031EN",
+    "img": "BP19/BP19-031EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-031": "BP19-031EN"
+    }
+  },
+  "BP19-032": {
+    "name": "Felpurr Maid",
+    "text": "【Evolve】 Cost 1: Evolve this.\nStorm.\nStrike - Draw a card.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Maid",
+      "Beast"
+    ],
+    "cardno": "BP19-032EN",
+    "img": "BP19/BP19-032EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-032": "BP19-032EN"
+    }
+  },
+  "BP19-033": {
+    "name": "Felpurr Maid",
+    "text": "Storm.\nOn Evolve - Deal 1 damage to each enemy follower on the field.\nStrike - Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Maid",
+      "Beast"
+    ],
+    "cardno": "BP19-033EN",
+    "img": "BP19/BP19-033EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-033": "BP19-033EN"
+    }
+  },
+  "BP19-034": {
+    "name": "Knightly Thief",
+    "text": "Rush.\n【Last Words】 Put a Gilded Blade token into your EX area.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer",
+      "Thief"
+    ],
+    "cardno": "BP19-034EN",
+    "img": "BP19/BP19-034EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-034": "BP19-034EN",
+      "BP19-P09": "BP19-P09EN"
+    }
+  },
+  "BP19-035": {
+    "name": "Heavy Warrior",
+    "text": "Ward.\n【Fanfare】 Select an enemy follower on the field. Deal 3 damage to it and its leader.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP19-035EN",
+    "img": "BP19/BP19-035EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-035": "BP19-035EN"
+    }
+  },
+  "BP19-036": {
+    "name": "Ninja Onslaught",
+    "text": "Select an enemy follower on the field. Deal it 2 damage and draw a card. If there's a Ninja follower on your field, deal 3 damage instead.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Ninja"
+    ],
+    "cardno": "BP19-036EN",
+    "img": "BP19/BP19-036EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-036": "BP19-036EN"
+    }
+  },
+  "BP19-037": {
+    "name": "Cannon Volley",
+    "text": "Select an enemy follower on the field. Summon a Shield Guardian and Knight token, then deal the selected follower damage equal to the number of Swordcraft followers on your field.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP19-037EN",
+    "img": "BP19/BP19-037EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-037": "BP19-037EN",
+      "BP19-P10": "BP19-P10EN"
+    }
+  },
+  "BP19-038": {
+    "name": "Sephie, Depraved Convict",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Remove a fusion counter from this: Summon a Chimera Test Subject token.\n【Act】 Fuse a non-token follower: Place a fusion counter on this. If you fused a Condemned follower, draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Alchemist",
+      "Forbidden"
+    ],
+    "cardno": "BP19-038EN",
+    "img": "BP19/BP19-038EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-038": "BP19-038EN",
+      "BP19-SL10": "BP19-SL10EN"
+    }
+  },
+  "BP19-039": {
+    "name": "Sephie, Depraved Convict",
+    "text": "On Evolve - Choose 1. If there are at least 10 Condemned followers in your cemetery, choose up to 2 instead. (1) Select an enemy follower on the field and deal it 5 damage. (2) Summon a Chimera Test Subject token.\nOn Super-Evolve - Select up to 2 cards on your field named Volunteer Test Subject and/or Chimera Test Subject and give them Storm.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Alchemist",
+      "Forbidden"
+    ],
+    "cardno": "BP19-039EN",
+    "img": "BP19/BP19-039EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-039": "BP19-039EN",
+      "BP19-SL11": "BP19-SL11EN",
+      "BP19-U03": "BP19-U03EN"
+    }
+  },
+  "BP19-040": {
+    "name": "Simael, Cleansing Enforcer",
+    "text": "This costs 1 less to play for every pair of Mage follower and Mage spell in your cemetery.\n----------\nStorm. Bane. Ward.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Mage"
+    ],
+    "cardno": "BP19-040EN",
+    "img": "BP19/BP19-040EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-040": "BP19-040EN",
+      "BP19-SL12": "BP19-SL12EN"
+    }
+  },
+  "BP19-041": {
+    "name": "Kyrzael, Killshot Enforcer",
+    "text": "Storm.\n【Fanfare】 Search your deck for a Warden of the Trigger, summon it, then shuffle.\nStrike - Give each other Machina follower on your field Attack+1/Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Machina"
+    ],
+    "cardno": "BP19-041EN",
+    "img": "BP19/BP19-041EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-041": "BP19-041EN",
+      "BP19-SL13": "BP19-SL13EN"
+    }
+  },
+  "BP19-042": {
+    "name": "Obsessive Scholar",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Remove a fusion counter from this: Summon a Chimera Test Subject token.\n【Act】 Fuse a non-token follower: Place a fusion counter on this. (To fuse a card, discard it or bury it from your EX area, and put this from your hand into your EX area.)",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Alchemist",
+      "Forbidden"
+    ],
+    "cardno": "BP19-042EN",
+    "img": "BP19/BP19-042EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-042": "BP19-042EN",
+      "BP19-P11": "BP19-P11EN"
+    }
+  },
+  "BP19-043": {
+    "name": "Obsessive Scholar",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 3 damage.\n【Act】 【Engage】: Select a Volunteer Test Subject or Chimera Test Subject on your field and give it Drain.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Alchemist",
+      "Forbidden"
+    ],
+    "cardno": "BP19-043EN",
+    "img": "BP19/BP19-043EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-043": "BP19-043EN",
+      "BP19-P12": "BP19-P12EN"
+    }
+  },
+  "BP19-044": {
+    "name": "Warden of the Trigger",
+    "text": "【Fanfare】 Look at the top card of your deck. If it's a Machina card, you may put into your EX area.\n【Act】 【Engage】: Select an enemy follower on the field and destroy it. Activate only if there's a Machina follower on your field that costs at least 6.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Machina"
+    ],
+    "cardno": "BP19-044EN",
+    "img": "BP19/BP19-044EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-044": "BP19-044EN"
+    }
+  },
+  "BP19-045": {
+    "name": "Warden of the Arcane",
+    "text": "【Fanfare】 Deal 2 damage to each enemy follower on the field. Look at the top 3 cards of your deck. You may reveal a Mage card from among them and add it to your hand. Bury the rest. The next Mage card that costs 3 or less you play this turn costs 3 less.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Mage"
+    ],
+    "cardno": "BP19-045EN",
+    "img": "BP19/BP19-045EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-045": "BP19-045EN",
+      "BP19-P13": "BP19-P13EN"
+    }
+  },
+  "BP19-046": {
+    "name": "Devoted Researcher",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Remove a fusion counter from this: Summon a Chimera Test Subject token.\n【Act】 Fuse a non-token follower: Place a fusion counter on this. (To fuse a card, discard it or bury it from your EX area, and put this from your hand into your EX area.)",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Alchemist",
+      "Forbidden"
+    ],
+    "cardno": "BP19-046EN",
+    "img": "BP19/BP19-046EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-046": "BP19-046EN",
+      "BP19-P14": "BP19-P14EN"
+    }
+  },
+  "BP19-047": {
+    "name": "Devoted Researcher",
+    "text": "On Evolve - Search your deck for a Volunteer Test Subject, put it into your EX area, then shuffle.\n【Act】 【Engage】, bury a Volunteer Test Subject or Chimera Test Subject: Select an enemy follower on the field and deal it damage equal to the buried follower's attack.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Alchemist",
+      "Forbidden"
+    ],
+    "cardno": "BP19-047EN",
+    "img": "BP19/BP19-047EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-047": "BP19-047EN",
+      "BP19-P15": "BP19-P15EN"
+    }
+  },
+  "BP19-048": {
+    "name": "Volunteer Test Subject",
+    "text": "When this is fused by an ability of a Condemned follower you control, draw a card, then discard a card.\n【Fanfare】 If there are at least 5 Condemned followers in your cemetery, give this Attack+2/Defense+2 and Rush. If there are at least 10, give it Assail and Bane.\n【Last Words】 Draw a card.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Arcanaform",
+      "Forbidden"
+    ],
+    "cardno": "BP19-048EN",
+    "img": "BP19/BP19-048EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-048": "BP19-048EN",
+      "PR-518": "PR-553EN"
+    }
+  },
+  "BP19-049": {
+    "name": "Astral Dancer",
+    "text": "Ward.\n【Fanfare】 Select a follower on your field. Reveal the top card of your deck, give the selected follower Defense+X, and draw a card. X equals the cost of the revealed card.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage",
+      "Dancer"
+    ],
+    "cardno": "BP19-049EN",
+    "img": "BP19/BP19-049EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-049": "BP19-049EN"
+    }
+  },
+  "BP19-050": {
+    "name": "Electrokitty",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Arcanaform"
+    ],
+    "cardno": "BP19-050EN",
+    "img": "BP19/BP19-050EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-050": "BP19-050EN"
+    }
+  },
+  "BP19-051": {
+    "name": "Electrokitty",
+    "text": "On Evolve - Select an enemy leader or enemy follower on the field and deal it 2 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Arcanaform"
+    ],
+    "cardno": "BP19-051EN",
+    "img": "BP19/BP19-051EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-051": "BP19-051EN"
+    }
+  },
+  "BP19-052": {
+    "name": "Outdoorsmage",
+    "text": "【Fanfare】 Summon a Magic Sediment token.\n【Act】 Cost 5, Earth Rite: Summon a total of 3 Guardform Golem and/or Strikeform Golem tokens.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP19-052EN",
+    "img": "BP19/BP19-052EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-052": "BP19-052EN"
+    }
+  },
+  "BP19-053": {
+    "name": "Ultramarine Witch",
+    "text": "Storm.\n【Fanfare】 Select an enemy follower on the field and deal it 4 damage.\n【Act】 Cost 1, discard this: Search your deck for a Witch's Cauldron, summon it, then shuffle.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP19-053EN",
+    "img": "BP19/BP19-053EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-053": "BP19-053EN"
+    }
+  },
+  "BP19-054": {
+    "name": "Feline Magic",
+    "text": "Search your deck for an Electrokitty, put it into your EX area, then shuffle. Spellchain (7) - It costs 1 less to play this turn.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Mage",
+      "Arcanaform"
+    ],
+    "cardno": "BP19-054EN",
+    "img": "BP19/BP19-054EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-054": "BP19-054EN"
+    }
+  },
+  "BP19-055": {
+    "name": "Meandering Bolt",
+    "text": "Select an enemy follower on the field. Draw a card, then deal it damage equal to the number of cards in your hand.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Mage"
+    ],
+    "cardno": "BP19-055EN",
+    "img": "BP19/BP19-055EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-055": "BP19-055EN"
+    }
+  },
+  "BP19-056": {
+    "name": "Antemaria, Huntress Convict",
+    "text": "This can't be played from the EX area.\n----------\n【Fanfare】 Bury 2 Condemned cards from your EX area: Give this Storm and Drain.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Dragonewt"
+    ],
+    "cardno": "BP19-056EN",
+    "img": "BP19/BP19-056EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-056": "BP19-056EN",
+      "BP19-SL14": "BP19-SL14EN",
+      "BP19-U04": "BP19-U04EN"
+    }
+  },
+  "BP19-057": {
+    "name": "Drazael, Ravening Enforcer",
+    "text": "This can't be played from the EX area.\n----------\n【Evolve】 Cost 1: Evolve this.\nWard.\nThis can't be destroyed by abilities.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Evolve",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Wyrmkin"
+    ],
+    "cardno": "BP19-057EN",
+    "img": "BP19/BP19-057EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-057": "BP19-057EN",
+      "BP19-SL15": "BP19-SL15EN"
+    }
+  },
+  "BP19-058": {
+    "name": "Drazael, Ravening Enforcer",
+    "text": "Ward.\nThis can't be destroyed by abilities.\nOn Evolve - Bury two Condemned cards from your EX area: Give each enemy follower on the field Attack-5/Defense-5. Give your leader Defense+5.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Wyrmkin"
+    ],
+    "cardno": "BP19-058EN",
+    "img": "BP19/BP19-058EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-058": "BP19-058EN",
+      "BP19-SL16": "BP19-SL16EN"
+    }
+  },
+  "BP19-059": {
+    "name": "Masamune, One-Eyed Dragon",
+    "text": "Assail. Bane.\n【Fanfare】 If there are at least 3 Draconic Duelist cards on your field, give this Storm.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Dragonheart",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP19-059EN",
+    "img": "BP19/BP19-059EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-059": "BP19-059EN",
+      "BP19-SL17": "BP19-SL17EN"
+    }
+  },
+  "BP19-060": {
+    "name": "Scorched-Earth Tyrant",
+    "text": "This can't be played from the EX area.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Bury a Condemned card from your EX area: Select an enemy follower on the field and deal it 4 damage.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Dragonewt"
+    ],
+    "cardno": "BP19-060EN",
+    "img": "BP19/BP19-060EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-060": "BP19-060EN"
+    }
+  },
+  "BP19-061": {
+    "name": "Scorched-Earth Tyrant",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 4 damage.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Dragonewt"
+    ],
+    "cardno": "BP19-061EN",
+    "img": "BP19/BP19-061EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-061": "BP19-061EN"
+    }
+  },
+  "BP19-062": {
+    "name": "Neptune, Arbiter of Tides",
+    "text": "【Fanfare】 Put a Megalorca token into your EX area. If Overflow is active for you, summon a Megalorca token.\nWhenever a Megalorca is put onto your field, give it Storm and your leader Defense+1.\n【Act】 Cost 0: The next Marine card you play from the EX area this turn costs 1 less. Activate only once per turn.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Dragonheart",
+      "Marine"
+    ],
+    "cardno": "BP19-062EN",
+    "img": "BP19/BP19-062EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-062": "BP19-062EN",
+      "PR-525": "PR-528EN"
+    }
+  },
+  "BP19-063": {
+    "name": "Warden of the Adamant Claw",
+    "text": "This can't be played from the EX area.\n----------\nWard.\n【Fanfare】 Look at the top 4 cards of your deck. You may reveal a Condemned card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Wyrmkin"
+    ],
+    "cardno": "BP19-063EN",
+    "img": "BP19/BP19-063EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-063": "BP19-063EN",
+      "BP19-P16": "BP19-P16EN"
+    }
+  },
+  "BP19-064": {
+    "name": "Hotheaded Marauder",
+    "text": "This can't be played from the EX area.\n----------\n【Evolve】 Cost 1: Evolve this.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Evolve",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Dragonewt"
+    ],
+    "cardno": "BP19-064EN",
+    "img": "BP19/BP19-064EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-064": "BP19-064EN",
+      "BP19-P17": "BP19-P17EN"
+    }
+  },
+  "BP19-065": {
+    "name": "Hotheaded Marauder",
+    "text": "On Evolve - Search your deck for a 1-cost Condemned follower, summon it, then shuffle.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Dragonewt"
+    ],
+    "cardno": "BP19-065EN",
+    "img": "BP19/BP19-065EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-065": "BP19-065EN",
+      "BP19-P18": "BP19-P18EN"
+    }
+  },
+  "BP19-066": {
+    "name": "Razor-Clawed Thief",
+    "text": "This can't be played from the EX area.\n----------\nRush. Assail.\n【Last Words】 Put this into its owner's EX area.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Dragonewt"
+    ],
+    "cardno": "BP19-066EN",
+    "img": "BP19/BP19-066EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-066": "BP19-066EN",
+      "BP19-P19": "BP19-P19EN"
+    }
+  },
+  "BP19-067": {
+    "name": "Seasoned Merman",
+    "text": "Each Megalorca on your field has Rush and Assail.\n【Fanfare】 Summon 2 Megalorca tokens. Put the top card of your deck into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP19-067EN",
+    "img": "BP19/BP19-067EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-067": "BP19-067EN",
+      "PR-519": "PR-554EN"
+    }
+  },
+  "BP19-068": {
+    "name": "Dancing Crab",
+    "text": "【Evolve】 Cost 1: Evolve this.\nIntimidate.\nStrike - Select an enemy follower on the field and give it Attack-1/Defense-1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP19-068EN",
+    "img": "BP19/BP19-068EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-068": "BP19-068EN"
+    }
+  },
+  "BP19-069": {
+    "name": "Dancing Crab",
+    "text": "Intimidate.\nOn Evolve - Select an enemy follower on the field and engage it.\nStrike - Select an enemy follower on the field and give it Attack-1/Defense-1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP19-069EN",
+    "img": "BP19/BP19-069EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-069": "BP19-069EN"
+    }
+  },
+  "BP19-070": {
+    "name": "Mermaid Songstress",
+    "text": "【Fanfare】 Discard a Marine card: Put the top card of your deck into your EX area. Then, if there are at least 2 cards in your EX area, give your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine",
+      "Musical"
+    ],
+    "cardno": "BP19-070EN",
+    "img": "BP19/BP19-070EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-070": "BP19-070EN"
+    }
+  },
+  "BP19-071": {
+    "name": "Dark Mermaid",
+    "text": "【Fanfare】 Select an enemy follower on the field. Destroy it and put the top card of your deck into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP19-071EN",
+    "img": "BP19/BP19-071EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-071": "BP19-071EN"
+    }
+  },
+  "BP19-072": {
+    "name": "Dragonewt's Might",
+    "text": "Select up to 2 enemy followers on the field and deal them 6 damage. You may discard a card. If you discarded a Dragonewt follower, deal 2 damage to each enemy leader.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Dragonewt",
+      "Draconic Duelist"
+    ],
+    "cardno": "BP19-072EN",
+    "img": "BP19/BP19-072EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-072": "BP19-072EN"
+    }
+  },
+  "BP19-073": {
+    "name": "Call of the Megalorca",
+    "text": "This costs 1 less to play from the EX area.\n----------\nSummon a Megalorca token. Draw a card. If Overflow is active for you, summon a Megalorca token.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP19-073EN",
+    "img": "BP19/BP19-073EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-073": "BP19-073EN",
+      "BP19-P20": "BP19-P20EN"
+    }
+  },
+  "BP19-074": {
+    "name": "Istyndet, Soul Convict",
+    "text": "Once on each of your turns, if there are at least 10 cards in your cemetery, when another Condemned follower that costs 3 or less is put from your field into the cemetery, put it onto its owner's field. Its 【Fanfare】 abilities do not trigger.\n【Fanfare】 Bury the top 2 cards of your deck.\n【Act】 【Engage】, bury a Condemned follower not named Istyndet, Soul Convict: Select an enemy follower on the field and destroy it.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Necromancer"
+    ],
+    "cardno": "BP19-074EN",
+    "img": "BP19/BP19-074EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-074": "BP19-074EN",
+      "BP19-SL18": "BP19-SL18EN",
+      "BP19-U05": "BP19-U05EN"
+    }
+  },
+  "BP19-075": {
+    "name": "Garodeth, Insurgent Convict",
+    "text": "【Evolve】 Cost 5: Evolve this.\nDuring your turn, whenever your leader loses defense, if your leader has lost defense at least 4 times this turn, evolve this.\n【Fanfare】 Deal 1 damage to your leader.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-075EN",
+    "img": "BP19/BP19-075EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-075": "BP19-075EN",
+      "BP19-SL19": "BP19-SL19EN"
+    }
+  },
+  "BP19-076": {
+    "name": "Garodeth, Insurgent Convict",
+    "text": "Storm.\nOn Evolve - Select an enemy follower on the field and deal it 8 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-076EN",
+    "img": "BP19/BP19-076EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-076": "BP19-076EN",
+      "BP19-SL20": "BP19-SL20EN"
+    }
+  },
+  "BP19-077": {
+    "name": "Zeronua, Demon Dominator",
+    "text": "【Fanfare】 If there are 2 cards or less in your hand, search your deck for a Paracelise, Demon of Greed, put it into your EX area, then shuffle. If there are 0, it costs 3 less to play this turn.\n【Act】 Cost 1, put this from your hand into your EX area: Give your leader Defense+1.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Festive",
+      "Demon"
+    ],
+    "cardno": "BP19-077EN",
+    "img": "BP19/BP19-077EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-077": "BP19-077EN",
+      "BP19-SL21": "BP19-SL21EN"
+    }
+  },
+  "BP19-078": {
+    "name": "Abyssal Colonel",
+    "text": "【Evolve】 Cost 1: Evolve this.\nNecrocharge (10) - This has Storm.\n【Last Words】 Select an enemy follower on the field and deal it 3 damage.",
+    "keywords": [
+      "Evolve",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Departed"
+    ],
+    "cardno": "BP19-078EN",
+    "img": "BP19/BP19-078EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-078": "BP19-078EN"
+    }
+  },
+  "BP19-079": {
+    "name": "Abyssal Colonel",
+    "text": "Necrocharge (10) - This has Storm and Ward.\nOn Evolve - Give your leader Defense+2.\n【Last Words】 Select an enemy follower on the field and deal it 3 damage.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Departed"
+    ],
+    "cardno": "BP19-079EN",
+    "img": "BP19/BP19-079EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-079": "BP19-079EN"
+    }
+  },
+  "BP19-080": {
+    "name": "Myroel, Death Enforcer",
+    "text": "【Fanfare】 Discard a Condemned card: Draw a card.\nWhenever a follower is put onto your field from the cemetery, deal 1 damage to each enemy follower on the field.\n【Act】 【Engage】: Select up to 1 Condemned follower that costs 5 or less and up to 1 Condemned follower that costs 3 or less in your cemetery and summon them.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-080EN",
+    "img": "BP19/BP19-080EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-080": "BP19-080EN",
+      "BP19-P21": "BP19-P21EN"
+    }
+  },
+  "BP19-081": {
+    "name": "Genomuel, Wyrm Enforcer",
+    "text": "At the start of your end phase, give each enemy follower on the field Attack-3/Defense-3 and deal 3 damage to each enemy leader.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-081EN",
+    "img": "BP19/BP19-081EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-081": "BP19-081EN",
+      "BP19-P22": "BP19-P22EN"
+    }
+  },
+  "BP19-082": {
+    "name": "Underworld Lieutenant",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Evolve】 Cost 0: Evolve this. Activate only if this was put onto the field from the cemetery.\n【Last Words】 Bury the top card of your deck.",
+    "keywords": [
+      "Evolve",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Departed"
+    ],
+    "cardno": "BP19-082EN",
+    "img": "BP19/BP19-082EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-082": "BP19-082EN"
+    }
+  },
+  "BP19-083": {
+    "name": "Underworld Lieutenant",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 2 damage.\n【Last Words】 Bury the top card of your deck.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Departed"
+    ],
+    "cardno": "BP19-083EN",
+    "img": "BP19/BP19-083EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-083": "BP19-083EN"
+    }
+  },
+  "BP19-084": {
+    "name": "Warden of Corpses",
+    "text": "Ward.\n【Fanfare】 Draw a card. If there's a Myroel, Death Enforcer on your field, give your leader Defense+4.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-084EN",
+    "img": "BP19/BP19-084EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-084": "BP19-084EN",
+      "BP19-P23": "BP19-P23EN"
+    }
+  },
+  "BP19-085": {
+    "name": "Raging Commander",
+    "text": "Any Garodeth, Insurgent Convict you play costs 1 less.\n【Fanfare】 Deal 1 damage to your leader. Draw a card.\n4 times on each of your turns, when your leader loses defense, select an enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-085EN",
+    "img": "BP19/BP19-085EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-085": "BP19-085EN",
+      "BP19-P24": "BP19-P24EN"
+    }
+  },
+  "BP19-086": {
+    "name": "Vicious Blitzer",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Deal 1 damage to your leader. If there's a Garodeth, Insurgent Convict on your field, evolve this.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-086EN",
+    "img": "BP19/BP19-086EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-086": "BP19-086EN"
+    }
+  },
+  "BP19-087": {
+    "name": "Vicious Blitzer",
+    "text": "On Evolve - Deal 1 damage to each leader.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-087EN",
+    "img": "BP19/BP19-087EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-087": "BP19-087EN"
+    }
+  },
+  "BP19-088": {
+    "name": "Fallen Sergeant",
+    "text": "【Last Words】 Choose 1. (1) Select an enemy follower on the field. Necrocharge (10) - Deal it 2 damage. (2) Bury the top card of your deck.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Departed"
+    ],
+    "cardno": "BP19-088EN",
+    "img": "BP19/BP19-088EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-088": "BP19-088EN",
+      "BP19-P25": "BP19-P25EN"
+    }
+  },
+  "BP19-089": {
+    "name": "Steamrolling Tank",
+    "text": "Ward.\n【Fanfare】 Deal 1 damage to your leader.\n4 times on each of your turns, when your leader loses defense, give your leader Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Demon"
+    ],
+    "cardno": "BP19-089EN",
+    "img": "BP19/BP19-089EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-089": "BP19-089EN",
+      "PR-520": "PR-555EN"
+    }
+  },
+  "BP19-090": {
+    "name": "Howling Scream",
+    "text": "Choose up to 2. (1) Cost 1: Select an enemy follower on the field. Deal 2 damage to it and 1 damage to your leader. (2) Cost 1: Deal 1 damage to your leader. Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP19-090EN",
+    "img": "BP19/BP19-090EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-090": "BP19-090EN"
+    }
+  },
+  "BP19-091": {
+    "name": "Prison of Pain",
+    "text": "【Fanfare】 Place 2 pain counters on this. Draw a card.\n【Act】 【Engage】, remove a pain counter from this: Deal 1 damage to your leader. If this has no pain counters, bury it.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Demon"
+    ],
+    "cardno": "BP19-091EN",
+    "img": "BP19/BP19-091EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-091": "BP19-091EN"
+    }
+  },
+  "BP19-092": {
+    "name": "Erralde, Troth Convict",
+    "text": "Abilities you control that trigger at the start of the end phase trigger an additional time.\nAt the start of your end phase, choose 1. If there's another Condemned follower on your field, choose up to 2 instead. (1) Select an enemy follower on the field and deal it 4 damage. (2) Give your leader Defense+1. Refresh this. (3) Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Luminary"
+    ],
+    "cardno": "BP19-092EN",
+    "img": "BP19/BP19-092EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-092": "BP19-092EN",
+      "BP19-SL22": "BP19-SL22EN",
+      "BP19-U06": "BP19-U06EN"
+    }
+  },
+  "BP19-093": {
+    "name": "Uneriel, Winged Enforcer",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Draw 2 cards.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Avian"
+    ],
+    "cardno": "BP19-093EN",
+    "img": "BP19/BP19-093EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-093": "BP19-093EN",
+      "BP19-SL23": "BP19-SL23EN"
+    }
+  },
+  "BP19-094": {
+    "name": "Uneriel, Winged Enforcer",
+    "text": "On Evolve - Destroy each amulet on your field. Deal X damage to each enemy leader and enemy follower on the field, give your leader Defense+X, and recover X play points. X equals the number of amulets destroyed this way.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Avian"
+    ],
+    "cardno": "BP19-094EN",
+    "img": "BP19/BP19-094EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-094": "BP19-094EN",
+      "BP19-SL24": "BP19-SL24EN"
+    }
+  },
+  "BP19-095": {
+    "name": "Zoe, Queen of Hope",
+    "text": "Ward.\n【Fanfare】 Search your deck for a 1-cost Faith follower, reveal it, add it to your hand, then shuffle. Give your leader Defense+4.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Faith",
+      "Princess"
+    ],
+    "cardno": "BP19-095EN",
+    "img": "BP19/BP19-095EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-095": "BP19-095EN",
+      "BP19-SL25": "BP19-SL25EN"
+    }
+  },
+  "BP19-096": {
+    "name": "Warden of the Wings",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Last Words】 You may summon an amulet that costs 1 or less from your hand.",
+    "keywords": [
+      "Evolve",
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Avian"
+    ],
+    "cardno": "BP19-096EN",
+    "img": "BP19/BP19-096EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-096": "BP19-096EN"
+    }
+  },
+  "BP19-097": {
+    "name": "Warden of the Wings",
+    "text": "On Evolve - Look at the top 4 cards of your deck. You may reveal an amulet or Uneriel, Winged Enforcer from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Last Words】 You may summon an amulet that costs 1 or less from your hand.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Avian"
+    ],
+    "cardno": "BP19-097EN",
+    "img": "BP19/BP19-097EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-097": "BP19-097EN"
+    }
+  },
+  "BP19-098": {
+    "name": "Executor of the Oath",
+    "text": "When playing this, 【Engage】 an Erralde, Troth Convict on your field: This costs 0 to play.\n----------\n【Fanfare】 Search your deck for an Agent of the Commandments or Follower of the Precepts, summon it, then shuffle.\nAt the start of your end phase, select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [
+      "Engage",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Faith"
+    ],
+    "cardno": "BP19-098EN",
+    "img": "BP19/BP19-098EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-098": "BP19-098EN",
+      "BP19-P26": "BP19-P26EN"
+    }
+  },
+  "BP19-099": {
+    "name": "Meus Gourmand",
+    "text": "【Fanfare】 If this wasn't put onto the field from hand, choose 1. (1) Deal 2 damage to each enemy leader. (2) Give your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast",
+      "Chef"
+    ],
+    "cardno": "BP19-099EN",
+    "img": "BP19/BP19-099EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-099": "BP19-099EN",
+      "PR-524": "PR-567EN"
+    }
+  },
+  "BP19-100": {
+    "name": "Agent of the Commandments",
+    "text": "When playing this, 【Engage】 an Erralde, Troth Convict on your field: This costs 0 to play.\n----------\n【Evolve】 Cost 1: Evolve this.\nAt the start of your end phase, give your leader Defense+1.",
+    "keywords": [
+      "Engage",
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Faith"
+    ],
+    "cardno": "BP19-100EN",
+    "img": "BP19/BP19-100EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-100": "BP19-100EN",
+      "BP19-P27": "BP19-P27EN"
+    }
+  },
+  "BP19-101": {
+    "name": "Agent of the Commandments",
+    "text": "On Evolve - Search your deck for an Erralde, Troth Convict, reveal it, add it to your hand, then shuffle.\nAt the start of your end phase, give your leader Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Faith"
+    ],
+    "cardno": "BP19-101EN",
+    "img": "BP19/BP19-101EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-101": "BP19-101EN",
+      "BP19-P28": "BP19-P28EN"
+    }
+  },
+  "BP19-102": {
+    "name": "Follower of the Precepts",
+    "text": "When playing this, 【Engage】 an Erralde, Troth Convict on your field: This costs 0 to play.\n----------\nAt the start of your end phase, select an enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Faith"
+    ],
+    "cardno": "BP19-102EN",
+    "img": "BP19/BP19-102EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-102": "BP19-102EN",
+      "BP19-P29": "BP19-P29EN"
+    }
+  },
+  "BP19-103": {
+    "name": "Sacrosanct Temple",
+    "text": "【Act】 Cost 1, 【Engage】, bury an amulet: Select an enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP19-103EN",
+    "img": "BP19/BP19-103EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-103": "BP19-103EN",
+      "BP19-P30": "BP19-P30EN"
+    }
+  },
+  "BP19-104": {
+    "name": "Sacred Tiger",
+    "text": "【Evolve】 Cost 1: Evolve this.\nEach Holy Tiger on your field has Ward.\n【Fanfare】 Summon a Holy Tiger token.\n【Act】 Bury an amulet: Give this Storm.",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Lightborne",
+      "Beast"
+    ],
+    "cardno": "BP19-104EN",
+    "img": "BP19/BP19-104EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-104": "BP19-104EN"
+    }
+  },
+  "BP19-105": {
+    "name": "Sacred Tiger",
+    "text": "Each Holy Tiger on your field has Ward.\nOn Evolve - Summon a Holy Tiger token.\n【Act】 Bury an amulet: Give this Storm.",
+    "keywords": [
+      "Act"
+    ],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Lightborne",
+      "Beast"
+    ],
+    "cardno": "BP19-105EN",
+    "img": "BP19/BP19-105EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-105": "BP19-105EN"
+    }
+  },
+  "BP19-106": {
+    "name": "Avaricious Altruist",
+    "text": "【Fanfare】 Search your deck for a Beast follower that costs 1 or less or Beast amulet that costs 1 or less, summon it, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Faith",
+      "Beast"
+    ],
+    "cardno": "BP19-106EN",
+    "img": "BP19/BP19-106EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-106": "BP19-106EN"
+    }
+  },
+  "BP19-107": {
+    "name": "Sword Al-mi'raj",
+    "text": "Storm.\nAt the start of your end phase, select a follower on your field and change its defense to its original value.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP19-107EN",
+    "img": "BP19/BP19-107EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-107": "BP19-107EN"
+    }
+  },
+  "BP19-108": {
+    "name": "Luminescent Gem",
+    "text": "【Last Words】 Give your leader Defense+1.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Lightborne"
+    ],
+    "cardno": "BP19-108EN",
+    "img": "BP19/BP19-108EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-108": "BP19-108EN",
+      "PR-521": "PR-556EN"
+    }
+  },
+  "BP19-109": {
+    "name": "Holybeast Ruins",
+    "text": "【Fanfare】/【Last Words】 Summon a Holy Tiger token.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Faith",
+      "Eidolon"
+    ],
+    "cardno": "BP19-109EN",
+    "img": "BP19/BP19-109EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-109": "BP19-109EN"
+    }
+  },
+  "BP19-110": {
+    "name": "Cutthroat, Discord Convict",
+    "text": "【Evolve】 Cost 4: Evolve this.\n【Fanfare】 Look at the top 8 cards of your deck. Add one of them to your hand. Shuffle the rest and put them on the bottom of your deck.\n----------\nYour main deck and evolve deck may only contain 1 copy of any card without \"Cutthroat\" in its name.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Supreme"
+    ],
+    "cardno": "BP19-110EN",
+    "img": "BP19/BP19-110EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-110": "BP19-110EN",
+      "BP19-SL26": "BP19-SL26EN"
+    }
+  },
+  "BP19-111": {
+    "name": "Cutthroat, Discord Convict",
+    "text": "On Evolve - Select up to 2 enemy followers on the field and deal 4 damage divided between them.\nOn Super-Evolve - Select an enemy follower on the field. Deal 8 damage to it and its leader.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Supreme"
+    ],
+    "cardno": "BP19-111EN",
+    "img": "BP19/BP19-111EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-111": "BP19-111EN",
+      "BP19-SL27": "BP19-SL27EN",
+      "BP19-U07": "BP19-U07EN"
+    }
+  },
+  "BP19-112": {
+    "name": "Eudie, Maiden Reborn",
+    "text": "Ward.\n【Fanfare】 Draw a card. If you have 0 Super-Evolution Points, give this Attack+2/Defense+2 and your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Supreme"
+    ],
+    "cardno": "PCS01-003EN",
+    "img": "PCS01/PCS01-003EN.webp",
+    "release_date": "2026-09-04",
+    "set_name": "Premium Card Set \"Summer Edition Vol. 1\"",
+    "prints": {
+      "BP19-112": "BP19-112EN",
+      "BP19-SL28": "BP19-SL28EN",
+      "PCS02-003": "PCS01-003EN"
+    }
+  },
+  "BP19-113": {
+    "name": "Zerael, Regent of Rebirth",
+    "text": "【Fanfare】 Reveal the top 9 cards of your deck. Shuffle them and put them on the bottom of your deck. If you revealed 9 cards with different names this way, bury this, and you may summon a Zerael, Regent of Transmigration from your evolve deck.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Deity"
+    ],
+    "cardno": "BP19-113EN",
+    "img": "BP19/BP19-113EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-113": "BP19-113EN",
+      "BP19-P31": "BP19-P31EN"
+    }
+  },
+  "BP19-114": {
+    "name": "Zerael, Regent of Transmigration",
+    "text": "Ward. Aura.\n【Fanfare】 Destroy each enemy follower on the field.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower",
+      "Advanced"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Deity"
+    ],
+    "cardno": "BP19-114EN",
+    "img": "BP19/BP19-114EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-114": "BP19-114EN",
+      "BP19-P32": "BP19-P32EN"
+    }
+  },
+  "BP19-115": {
+    "name": "Ironforged Right Hand",
+    "text": "【Fanfare】 Draw a card. If there's a follower on your field or in your cemetery with \"Cutthroat\" in its name, recover 2 play points.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Supreme"
+    ],
+    "cardno": "BP19-115EN",
+    "img": "BP19/BP19-115EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-115": "BP19-115EN"
+    }
+  },
+  "BP19-116": {
+    "name": "Azvaldt",
+    "text": "【Fanfare】 Look at the top 4 cards of your deck. You may reveal a Condemned follower from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 【Engage】, bury this: If this is your 8th turn or later, draw a card.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Condemned"
+    ],
+    "cardno": "BP19-116EN",
+    "img": "BP19/BP19-116EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-116": "BP19-116EN",
+      "PR-527": "PR-568EN"
+    }
+  },
+  "BP19-117": {
+    "name": "Smeltwork Bodyguard",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 Draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Supreme"
+    ],
+    "cardno": "BP19-117EN",
+    "img": "BP19/BP19-117EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-117": "BP19-117EN"
+    }
+  },
+  "BP19-118": {
+    "name": "Smeltwork Bodyguard",
+    "text": "Ward.\nOn Evolve - Select an enemy follower on the field. If there's a follower on your field or in your cemetery with \"Cutthroat\" in its name, deal the selected follower 4 damage and give your leader Defense+4.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Supreme"
+    ],
+    "cardno": "BP19-118EN",
+    "img": "BP19/BP19-118EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-118": "BP19-118EN"
+    }
+  },
+  "BP19-119": {
+    "name": "Warden of Recurrence",
+    "text": "Ward.\n【Fanfare】 Choose 1. (1) Search your deck for a Zerael, Regent of Rebirth, summon it, then shuffle. (2) Recover 8 play points.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Angel"
+    ],
+    "cardno": "BP19-119EN",
+    "img": "BP19/BP19-119EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-119": "BP19-119EN"
+    }
+  },
+  "BP19-120": {
+    "name": "Blackrust Underling",
+    "text": "Storm.\nStrike - Select an enemy follower on the field and, if there's a follower on your field or in your cemetery with \"Cutthroat\" in its name, deal the selected follower 4 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Condemned",
+      "Supreme"
+    ],
+    "cardno": "BP19-120EN",
+    "img": "BP19/BP19-120EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP19-120": "BP19-120EN"
+    }
+  },
+  "BP20-001": {
+    "name": "Izudia, Annihilation Manifest",
+    "text": "【Fanfare】 Search your deck for an Omen–Hunter spell that costs 2 or less, reveal it, add it to your hand, then shuffle. If there are at least 6 Hunter cards in your cemetery, put an Annihilating Onslaught token into your EX area.\n【Act】 Cost 0: The next Omen–Hunter card you play this turn costs 2 less. Activate only once per turn.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-001EN",
+    "img": "BP20/BP20-001EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-001": "BP20-001EN",
+      "BP20-SL01": "BP20-SL01EN"
+    }
+  },
+  "BP20-002": {
+    "name": "Krulle, Heir to Unkilling",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If there are at least 6 Hunter cards in your cemetery, put a Crest: Krulle, Heir to Unkilling token into your EX area and give your leader Defense+2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Hunter"
+    ],
+    "cardno": "BP20-002EN",
+    "img": "BP20/BP20-002EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-002": "BP20-002EN",
+      "BP20-SL02": "BP20-SL02EN"
+    }
+  },
+  "BP20-003": {
+    "name": "Krulle, Heir to Unkilling",
+    "text": "On Evolve - Select an enemy follower on the field and give it Attack-3/Defense-3.\nOn Super-Evolve - Give each enemy follower on the field Attack-3/Defense-3.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Hunter"
+    ],
+    "cardno": "BP20-003EN",
+    "img": "BP20/BP20-003EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-003": "BP20-003EN",
+      "BP20-SL03": "BP20-SL03EN",
+      "BP20-U01": "BP20-U01EN"
+    }
+  },
+  "BP20-004": {
+    "name": "Plumeria, Serene Goddess",
+    "text": "【Fanfare】 If there are at least 3 Verdant cards in your cemetery, draw a card.\nOnce per turn, when a Verdant follower on your field that costs 5 or less evolves, give it Storm.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Verdant"
+    ],
+    "cardno": "BP20-004EN",
+    "img": "BP20/BP20-004EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-004": "BP20-004EN",
+      "BP20-SL04": "BP20-SL04EN"
+    }
+  },
+  "BP20-005": {
+    "name": "Windbloom Sylph",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWhenever you play a Fae-Touched card, give your leader Defense+1.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Fae-Touched"
+    ],
+    "cardno": "BP20-005EN",
+    "img": "BP20/BP20-005EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-005": "BP20-005EN",
+      "BP20-P01": "BP20-P01EN"
+    }
+  },
+  "BP20-006": {
+    "name": "Windbloom Sylph",
+    "text": "On Evolve - Search your deck for a Fae-Touched card not named Windbloom Sylph, reveal it, add it to your hand, then shuffle.\nWhenever you play a Fae-Touched card, give your leader Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Fae-Touched"
+    ],
+    "cardno": "BP20-006EN",
+    "img": "BP20/BP20-006EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-006": "BP20-006EN",
+      "BP20-P02": "BP20-P02EN"
+    }
+  },
+  "BP20-007": {
+    "name": "Congregant of Unkilling",
+    "text": "Ward.\n【Fanfare】 Search your deck for an Omen–Hunter follower that costs 3 or less, summon it, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-007EN",
+    "img": "BP20/BP20-007EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-007": "BP20-007EN",
+      "PR-545": "PR-559EN"
+    }
+  },
+  "BP20-008": {
+    "name": "Eradicating Arrow",
+    "text": "Select up to 2 enemy followers on the field and deal them 2 damage. If there are at least 6 Hunter cards in your cemetery, deal 3 damage instead and deal 2 damage to each enemy leader.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-008EN",
+    "img": "BP20/BP20-008EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-008": "BP20-008EN",
+      "BP20-P03": "BP20-P03EN"
+    }
+  },
+  "BP20-009": {
+    "name": "Supplicant of Unkilling",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If there's an enemy follower on the field with 1 defense, draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-009EN",
+    "img": "BP20/BP20-009EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-009": "BP20-009EN",
+      "BP20-P04": "BP20-P04EN"
+    }
+  },
+  "BP20-010": {
+    "name": "Supplicant of Unkilling",
+    "text": "On Evolve - If there's an enemy follower on the field with 1 defense, give your leader Defense+2.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-010EN",
+    "img": "BP20/BP20-010EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-010": "BP20-010EN",
+      "BP20-P05": "BP20-P05EN"
+    }
+  },
+  "BP20-011": {
+    "name": "Greatwood Warrior",
+    "text": "【Fanfare】 Search your deck for up to 2 Forestcraft spells with different names, reveal them, add them to your hand, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Hunter"
+    ],
+    "cardno": "BP20-011EN",
+    "img": "BP20/BP20-011EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-011": "BP20-011EN"
+    }
+  },
+  "BP20-012": {
+    "name": "Hamlet of Unkilling",
+    "text": "【Fanfare】 Look at the top 2 cards of your deck. You may reveal an Omen–Hunter card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 【Engage】, bury this: Give your leader Defense+1. Activate only if there are at least 3 Hunter cards in your cemetery.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-012EN",
+    "img": "BP20/BP20-012EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-012": "BP20-012EN",
+      "BP20-P06": "BP20-P06EN"
+    }
+  },
+  "BP20-013": {
+    "name": "Bearer of the Fairy Blade",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Put a Fairy token into your EX area.\nWhenever a Pixie token follower is put onto your field, give it Attack+1.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Elf",
+      "Fae-Touched"
+    ],
+    "cardno": "BP20-013EN",
+    "img": "BP20/BP20-013EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-013": "BP20-013EN",
+      "BP20-P07": "BP20-P07EN"
+    }
+  },
+  "BP20-014": {
+    "name": "Bearer of the Fairy Blade",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 2 damage.\nWhenever a Pixie token follower is put onto your field, give it Attack+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Elf",
+      "Fae-Touched"
+    ],
+    "cardno": "BP20-014EN",
+    "img": "BP20/BP20-014EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-014": "BP20-014EN",
+      "BP20-P08": "BP20-P08EN"
+    }
+  },
+  "BP20-015": {
+    "name": "Devotee of Unkilling",
+    "text": "【Fanfare】 Discard an Omen–Hunter card: Draw 2 cards.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Hunter"
+    ],
+    "cardno": "BP20-015EN",
+    "img": "BP20/BP20-015EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-015": "BP20-015EN",
+      "BP20-P09": "BP20-P09EN"
+    }
+  },
+  "BP20-016": {
+    "name": "Ageless Bystander",
+    "text": "【Fanfare】 Put a Fairy Wisp token into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Elf"
+    ],
+    "cardno": "BP20-016EN",
+    "img": "BP20/BP20-016EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-016": "BP20-016EN",
+      "BP20-P10": "BP20-P10EN"
+    }
+  },
+  "BP20-017": {
+    "name": "Cutie Cat",
+    "text": "Storm.\nStrike - Select an enemy follower on the field and deal it 4 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP20-017EN",
+    "img": "BP20/BP20-017EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-017": "BP20-017EN",
+      "BP20-P11": "BP20-P11EN"
+    }
+  },
+  "BP20-018": {
+    "name": "Bestial Swipe",
+    "text": "As an additional cost to play this, you may discard a Beast card.\n----------\nSelect an enemy follower on the field and deal it 3 damage. If you paid this card's additional cost, deal 5 damage instead and draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP20-018EN",
+    "img": "BP20/BP20-018EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-018": "BP20-018EN",
+      "BP20-P12": "BP20-P12EN"
+    }
+  },
+  "BP20-019": {
+    "name": "Octrice, Hollowness Manifest",
+    "text": "Whenever you play or fuse a Loot card, give this Storm.\n【Fanfare】 Choose 1. (1) Put a Crest: Octrice, Hollowness Manifest token into your EX area. (2) Search your deck for a Returning Slash, reveal it, add it to your hand, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief"
+    ],
+    "cardno": "BP20-019EN",
+    "img": "BP20/BP20-019EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-019": "BP20-019EN",
+      "BP20-SL05": "BP20-SL05EN"
+    }
+  },
+  "BP20-020": {
+    "name": "Sinciro, Heir to Usurpation",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If this has a fusion counter, draw a card. If not, put a Gilded Blade token into your EX area.\n【Act】 Fuse X Loot cards that cost 1 or more: Place X fusion counters on this. X must be 2 or less.",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Thief"
+    ],
+    "cardno": "BP20-020EN",
+    "img": "BP20/BP20-020EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-020": "BP20-020EN",
+      "BP20-SL06": "BP20-SL06EN"
+    }
+  },
+  "BP20-021": {
+    "name": "Sinciro, Heir to Usurpation",
+    "text": "If this would deal ability damage, it deals that much +2 for every fusion counter on it instead.\nOn Evolve - Select an enemy follower on the field and deal it 3 damage.\nOn Super-Evolve - Deal 1 damage to each enemy leader and enemy follower on the field.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Thief"
+    ],
+    "cardno": "BP20-021EN",
+    "img": "BP20/BP20-021EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-021": "BP20-021EN",
+      "BP20-SL07": "BP20-SL07EN",
+      "BP20-U02": "BP20-U02EN"
+    }
+  },
+  "BP20-022": {
+    "name": "Aurelia, Glorious Saber",
+    "text": "This costs X less to play. X equals the number of Swordcraft cards on your field.\n----------\nRush. Assail. Ward.\nStrike - Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Commander",
+      "Princess"
+    ],
+    "cardno": "BP20-022EN",
+    "img": "BP20/BP20-022EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-022": "BP20-022EN",
+      "BP20-SL08": "BP20-SL08EN"
+    }
+  },
+  "BP20-023": {
+    "name": "Congregant of Usurpation",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief"
+    ],
+    "cardno": "BP20-023EN",
+    "img": "BP20/BP20-023EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-023": "BP20-023EN",
+      "BP20-P13": "BP20-P13EN"
+    }
+  },
+  "BP20-024": {
+    "name": "Congregant of Usurpation",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 5 damage. The next Loot card you play this turn costs 2 less.\nWhenever an enemy follower is put from the field into the cemetery, put a Gilded Blade, Gilded Goblet, or Gilded Boots token into your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief"
+    ],
+    "cardno": "BP20-024EN",
+    "img": "BP20/BP20-024EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-024": "BP20-024EN",
+      "BP20-P14": "BP20-P14EN"
+    }
+  },
+  "BP20-025": {
+    "name": "Fearful Fighter",
+    "text": "Intimidate.\n【Fanfare】 Select up to 2 enemy followers on the field and deal 6 damage divided between them.\nDuring your turn, whenever an enemy follower that took damage this turn from this is put from the field into the cemetery, put the top card of your deck into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-025EN",
+    "img": "BP20/BP20-025EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-025": "BP20-025EN",
+      "BP20-P15": "BP20-P15EN"
+    }
+  },
+  "BP20-026": {
+    "name": "Returning Slash",
+    "text": "Select an enemy follower on the field. Deal it 4 damage and, if there's a follower on your field with \"Octrice\" in its name, put a Gilded Blade token into your EX area.\n【Act】 Fuse a Loot card that costs 1 or more: Give this \"This costs 1 less to play.\"",
+    "keywords": [
+      "Act"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief",
+      "Loot"
+    ],
+    "cardno": "BP20-026EN",
+    "img": "BP20/BP20-026EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-026": "BP20-026EN",
+      "PR-551": "PR-569EN"
+    }
+  },
+  "BP20-027": {
+    "name": "Peppy Scout",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-027EN",
+    "img": "BP20/BP20-027EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-027": "BP20-027EN"
+    }
+  },
+  "BP20-028": {
+    "name": "Peppy Scout",
+    "text": "On Evolve - Search your deck for an Officer follower that costs 3 or less, summon it, then shuffle.\nOnce per turn, when an Officer follower is put onto your field, draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-028EN",
+    "img": "BP20/BP20-028EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-028": "BP20-028EN"
+    }
+  },
+  "BP20-029": {
+    "name": "Supplicant of Usurpation",
+    "text": "【Fanfare】 Put a Gilded Goblet token into your EX area.\nOnce per turn, when you play or fuse a Loot card, give your leader Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief"
+    ],
+    "cardno": "BP20-029EN",
+    "img": "BP20/BP20-029EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-029": "BP20-029EN",
+      "BP20-P16": "BP20-P16EN"
+    }
+  },
+  "BP20-030": {
+    "name": "Lair of Usurpation",
+    "text": "【Act】 【Engage】, remove a fusion counter from this, bury this: Search your deck for up to 3 differently named Omen–Thief followers that cost a total of 8 or less, summon them, then shuffle.\n【Act】 Fuse 3 Loot cards that cost 1 or more: Place a fusion counter on this.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief"
+    ],
+    "cardno": "BP20-030EN",
+    "img": "BP20/BP20-030EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-030": "BP20-030EN",
+      "PR-546": "PR-560EN"
+    }
+  },
+  "BP20-031": {
+    "name": "Comrade of the Swordmaster",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Search your deck for an Officer follower that costs 2 or less, put it into your EX area, then shuffle.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-031EN",
+    "img": "BP20/BP20-031EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-031": "BP20-031EN",
+      "BP20-P17": "BP20-P17EN"
+    }
+  },
+  "BP20-032": {
+    "name": "Comrade of the Swordmaster",
+    "text": "On Evolve - Select an enemy follower on the field and deal it 4 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-032EN",
+    "img": "BP20/BP20-032EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-032": "BP20-032EN",
+      "BP20-P18": "BP20-P18EN"
+    }
+  },
+  "BP20-033": {
+    "name": "Devotee of Usurpation",
+    "text": "Rush.\nWhenever you play or fuse a Loot card, give this Assail.\n【Last Words】 Put a Gilded Goblet and Gilded Boots token into your EX area.",
+    "keywords": [
+      "Last Words"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Thief"
+    ],
+    "cardno": "BP20-033EN",
+    "img": "BP20/BP20-033EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-033": "BP20-033EN",
+      "BP20-P19": "BP20-P19EN"
+    }
+  },
+  "BP20-034": {
+    "name": "Mercurial Mercenary",
+    "text": "【Fanfare】 Cost 2: Search your deck for a Mercurial Mercenary, summon it, then shuffle. Give each Mercurial Mercenary on your field Attack+1/Defense+1.\n【Act】 【Engage】: Select an enemy follower on the field and deal it damage equal to the number of cards on your field named Mercurial Mercenary.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-034EN",
+    "img": "BP20/BP20-034EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-034": "BP20-034EN"
+    }
+  },
+  "BP20-035": {
+    "name": "Palace Knight",
+    "text": "【Fanfare】 Put a Steelclad Knight token into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-035EN",
+    "img": "BP20/BP20-035EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-035": "BP20-035EN",
+      "BP20-P20": "BP20-P20EN"
+    }
+  },
+  "BP20-036": {
+    "name": "Shield Bash",
+    "text": "Select a follower on your field and give it Assail and, for the rest of this turn, \"This doesn't take damage.\"",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Officer"
+    ],
+    "cardno": "BP20-036EN",
+    "img": "BP20/BP20-036EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-036": "BP20-036EN"
+    }
+  },
+  "BP20-037": {
+    "name": "Lishenna, Melody Manifest",
+    "text": "【Fanfare】 Choose 1. (1) Select another Idolatry card on your field. Destroy it and put a Melodious Monody token into your EX area. (2) Summon a White Psalm, New Revelation token.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-037EN",
+    "img": "BP20/BP20-037EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-037": "BP20-037EN",
+      "BP20-SL09": "BP20-SL09EN"
+    }
+  },
+  "BP20-038": {
+    "name": "Velharia, Heir to Truth",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Draw a card.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Mage"
+    ],
+    "cardno": "BP20-038EN",
+    "img": "BP20/BP20-038EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-038": "BP20-038EN",
+      "BP20-SL10": "BP20-SL10EN"
+    }
+  },
+  "BP20-039": {
+    "name": "Velharia, Heir to Truth",
+    "text": "On Evolve - Select an enemy follower on the field and destroy it.\nOn Super-Evolve - Select a Runecraft spell in your cemetery that costs 9 or less and put it into your EX area. It costs 3 less to play this turn.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Mage"
+    ],
+    "cardno": "BP20-039EN",
+    "img": "BP20/BP20-039EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-039": "BP20-039EN",
+      "BP20-SL11": "BP20-SL11EN",
+      "BP20-U03": "BP20-U03EN"
+    }
+  },
+  "BP20-040": {
+    "name": "Axia, Heir to Destruction",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Idolatry"
+    ],
+    "cardno": "BP20-040EN",
+    "img": "BP20/BP20-040EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-040": "BP20-040EN",
+      "BP20-SL12": "BP20-SL12EN"
+    }
+  },
+  "BP20-041": {
+    "name": "Axia, Heir to Destruction",
+    "text": "On Evolve - Bury another Idolatry card: Search your deck for a follower with \"Lishenna\" in its name, reveal it, add it to your hand, then shuffle.\nOn Super-Evolve - Deal each enemy leader damage equal to the number of Idolatry cards on your field.\nOnce per turn, when an Idolatry amulet is put onto your field, select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Idolatry"
+    ],
+    "cardno": "BP20-041EN",
+    "img": "BP20/BP20-041EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-041": "BP20-041EN",
+      "BP20-SL13": "BP20-SL13EN",
+      "BP20-U04": "BP20-U04EN"
+    }
+  },
+  "BP20-042": {
+    "name": "Raio, Elimination Manifest",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If this wasn't put onto the field from hand, evolve it.\n【Act】 Discard this and an Omen–Mage spell: Put an Ersatz Elimination token into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-042EN",
+    "img": "BP20/BP20-042EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-042": "BP20-042EN",
+      "BP20-SL14": "BP20-SL14EN"
+    }
+  },
+  "BP20-043": {
+    "name": "Raio, Elimination Manifest",
+    "text": "On Evolve - Deal 9 damage to each enemy follower on the field. Put 2 Ersatz Elimination tokens into your EX area. They cost 1 less to play this turn.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-043EN",
+    "img": "BP20/BP20-043EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-043": "BP20-043EN",
+      "BP20-SL15": "BP20-SL15EN"
+    }
+  },
+  "BP20-044": {
+    "name": "Congregant of Destruction",
+    "text": "【Fanfare】 Bury another Idolatry card: Select an enemy follower on the field. Destroy it and deal 2 damage to its leader.\n【Act】 Bury another Idolatry card: Select an enemy follower on the field. Destroy it and deal 2 damage to its leader. Activate only once per turn.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-044EN",
+    "img": "BP20/BP20-044EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-044": "BP20-044EN",
+      "BP20-P21": "BP20-P21EN"
+    }
+  },
+  "BP20-045": {
+    "name": "Devastating Soprano",
+    "text": "Choose 1. (1) Select an Idolatry card on your field. Destroy it and draw a card. (2) Summon a White Psalm, New Revelation token.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-045EN",
+    "img": "BP20/BP20-045EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-045": "BP20-045EN",
+      "PR-552": "PR-565EN"
+    }
+  },
+  "BP20-046": {
+    "name": "Congregant of Truth",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If this wasn't put onto the field from hand, evolve it.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-046EN",
+    "img": "BP20/BP20-046EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-046": "BP20-046EN",
+      "BP20-P22": "BP20-P22EN"
+    }
+  },
+  "BP20-047": {
+    "name": "Congregant of Truth",
+    "text": "On Evolve - Select an enemy follower on the field. Deal it 3 damage, draw a card, then discard a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-047EN",
+    "img": "BP20/BP20-047EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-047": "BP20-047EN",
+      "BP20-P23": "BP20-P23EN"
+    }
+  },
+  "BP20-048": {
+    "name": "Supplicant of Destruction",
+    "text": "【Act】 【Engage】, bury another Idolatry card: Select an enemy leader or enemy follower on the field and deal it 2 damage.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-048EN",
+    "img": "BP20/BP20-048EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-048": "BP20-048EN",
+      "PR-547": "PR-561EN"
+    }
+  },
+  "BP20-049": {
+    "name": "Illusory Conjuration",
+    "text": "Look at the top 3 cards of your deck. You may reveal an Omen–Mage card from among them and add it to your hand or put it into your EX area. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-049EN",
+    "img": "BP20/BP20-049EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-049": "BP20-049EN"
+    }
+  },
+  "BP20-050": {
+    "name": "Devotee of Destruction",
+    "text": "【Evolve】 Cost 1: Evolve this.\nAssail.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-050EN",
+    "img": "BP20/BP20-050EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-050": "BP20-050EN",
+      "BP20-P24": "BP20-P24EN"
+    }
+  },
+  "BP20-051": {
+    "name": "Devotee of Destruction",
+    "text": "Assail.\nOn Evolve - Bury another Idolatry card: Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-051EN",
+    "img": "BP20/BP20-051EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-051": "BP20-051EN",
+      "BP20-P25": "BP20-P25EN"
+    }
+  },
+  "BP20-052": {
+    "name": "Supplicant of Truth",
+    "text": "Ward.\n【Fanfare】 Draw 2 cards. Discard a card. If this wasn't put onto the field from hand, give it Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-052EN",
+    "img": "BP20/BP20-052EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-052": "BP20-052EN",
+      "BP20-P26": "BP20-P26EN"
+    }
+  },
+  "BP20-053": {
+    "name": "Devotee of Truth",
+    "text": "【Fanfare】 Draw a card. Discard a card. If this wasn't put onto the field from hand, give your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Mage"
+    ],
+    "cardno": "BP20-053EN",
+    "img": "BP20/BP20-053EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-053": "BP20-053EN",
+      "BP20-P27": "BP20-P27EN"
+    }
+  },
+  "BP20-054": {
+    "name": "Ascetic of Wuxing",
+    "text": "【Fanfare】 Discard a card: Look at the top 3 cards of your deck. You may reveal a spell or Onmyoji follower from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 【Engage】: Summon a Paper Shikigami token. Activate only if there are at least 7 spells and/or Onmyoji cards in your cemetery.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Onmyoji"
+    ],
+    "cardno": "BP20-054EN",
+    "img": "BP20/BP20-054EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-054": "BP20-054EN",
+      "BP20-P28": "BP20-P28EN"
+    }
+  },
+  "BP20-055": {
+    "name": "Wasteland of Destruction",
+    "text": "【Fanfare】 Look at the top 2 cards of your deck. You may reveal an Omen–Idolatry card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 Bury this: Bury another Idolatry card.",
+    "keywords": [
+      "Fanfare",
+      "Act"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Idolatry"
+    ],
+    "cardno": "BP20-055EN",
+    "img": "BP20/BP20-055EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-055": "BP20-055EN",
+      "BP20-P29": "BP20-P29EN"
+    }
+  },
+  "BP20-056": {
+    "name": "Galmieux, Ardor Manifest",
+    "text": "While Overflow is active for you, this has Storm.\nOnce on each of your turns, when this takes ability damage, select an enemy follower on the field and deal it 2 damage.\n【Fanfare】 Put a Crest: Galmieux, Ardor Manifest token into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-056EN",
+    "img": "BP20/BP20-056EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-056": "BP20-056EN",
+      "BP20-SL16": "BP20-SL16EN",
+      "BP20-U05": "BP20-U05EN"
+    }
+  },
+  "BP20-057": {
+    "name": "Azurifrit, Heir to Disdain",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 If there's another Omen card on your field or in your EX area, deal 1 damage to each follower on the field.\nDuring your turn, whenever this takes ability damage, deal 1 damage to each enemy follower on the field.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-057EN",
+    "img": "BP20/BP20-057EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-057": "BP20-057EN",
+      "BP20-SL17": "BP20-SL17EN"
+    }
+  },
+  "BP20-058": {
+    "name": "Azurifrit, Heir to Disdain",
+    "text": "Ward.\nOn Evolve - Deal 1 damage to each follower on the field.\nOn Super-Evolve - Deal 1 damage to each follower on the field and 4 damage to each enemy leader. Change this follower's defense to 7.\nDuring your turn, whenever this takes ability damage, deal 1 damage to each enemy follower on the field.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-058EN",
+    "img": "BP20/BP20-058EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-058": "BP20-058EN",
+      "BP20-SL18": "BP20-SL18EN"
+    }
+  },
+  "BP20-059": {
+    "name": "Dagon, Lord of the Seas",
+    "text": "This costs 3 less to play from the EX area.\n----------\nRush. Assail.\nIf this would take more than 3 damage, it takes 3 instead.\nStrike - Refresh this. Perform only twice per turn.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP20-059EN",
+    "img": "BP20/BP20-059EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-059": "BP20-059EN",
+      "BP20-SL19": "BP20-SL19EN"
+    }
+  },
+  "BP20-060": {
+    "name": "Spoiled Mermanager",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Discard a Marine card: Look at the top 2 cards of your deck. You may put a Marine card from among them into your EX area. Put the rest on the bottom of your deck in any order. Give your leader Defense+1.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP20-060EN",
+    "img": "BP20/BP20-060EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-060": "BP20-060EN",
+      "BP20-P30": "BP20-P30EN"
+    }
+  },
+  "BP20-061": {
+    "name": "Spoiled Mermanager",
+    "text": "On Evolve - Discard a Marine card: Look at the top 2 cards of your deck. You may put a Marine card from among them into your EX area. Put the rest on the bottom of your deck in any order. Give your leader Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP20-061EN",
+    "img": "BP20/BP20-061EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-061": "BP20-061EN",
+      "BP20-P31": "BP20-P31EN"
+    }
+  },
+  "BP20-062": {
+    "name": "Congregant of Disdain",
+    "text": "【Fanfare】 If Overflow is active for you, deal 1 damage to each follower on the field.\nOnce on each of your turns, when this takes ability damage, increase your max play points by 1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-062EN",
+    "img": "BP20/BP20-062EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-062": "BP20-062EN",
+      "BP20-P32": "BP20-P32EN"
+    }
+  },
+  "BP20-063": {
+    "name": "Ferocious Flame",
+    "text": "Select a follower on your field and an enemy follower on the field. Deal 1 damage to the first follower and 4 damage to the second, draw a card, and if there's a follower on your field with \"Galmieux\" in its name, increase your max play points by 1.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-063EN",
+    "img": "BP20/BP20-063EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-063": "BP20-063EN"
+    }
+  },
+  "BP20-064": {
+    "name": "Supplicant of Disdain",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 Select a follower on the field. If Overflow is active for you, deal it 1 damage and give your leader Defense+2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-064EN",
+    "img": "BP20/BP20-064EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-064": "BP20-064EN",
+      "BP20-P33": "BP20-P33EN"
+    }
+  },
+  "BP20-065": {
+    "name": "Supplicant of Disdain",
+    "text": "Ward.\nOn Evolve - Select an enemy follower on the field and deal it 2 damage.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-065EN",
+    "img": "BP20/BP20-065EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-065": "BP20-065EN",
+      "BP20-P34": "BP20-P34EN"
+    }
+  },
+  "BP20-066": {
+    "name": "Encounter from the Deep",
+    "text": "Look at the top 5 cards of your deck. You may summon a Marine follower from among them. Put the rest on the bottom of your deck in any order. Deal X damage to each enemy follower on the field. X equals the defense of the Marine follower summoned this way.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP20-066EN",
+    "img": "BP20/BP20-066EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-066": "BP20-066EN",
+      "PR-548": "PR-562EN"
+    }
+  },
+  "BP20-067": {
+    "name": "Nation of Disdain",
+    "text": "【Fanfare】 Look at the top 2 cards of your deck. You may reveal an Omen–Wyrmkin card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 【Engage】, bury this: Select a follower on your field and deal it 1 damage.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-067EN",
+    "img": "BP20/BP20-067EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-067": "BP20-067EN",
+      "BP20-P35": "BP20-P35EN"
+    }
+  },
+  "BP20-068": {
+    "name": "Snowstorm Dragonewt",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select an enemy follower on the field and deal it 1 damage.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Dragonewt"
+    ],
+    "cardno": "BP20-068EN",
+    "img": "BP20/BP20-068EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-068": "BP20-068EN",
+      "BP20-P36": "BP20-P36EN"
+    }
+  },
+  "BP20-069": {
+    "name": "Snowstorm Dragonewt",
+    "text": "On Evolve - Destroy each enemy follower on the field that has taken damage this turn.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Dragonewt"
+    ],
+    "cardno": "BP20-069EN",
+    "img": "BP20/BP20-069EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-069": "BP20-069EN",
+      "BP20-P37": "BP20-P37EN"
+    }
+  },
+  "BP20-070": {
+    "name": "Devotee of Disdain",
+    "text": "【Act】 Cost 0: Select a follower on your field and deal it 1 damage. Activate only once per turn.",
+    "keywords": [
+      "Act"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-070EN",
+    "img": "BP20/BP20-070EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-070": "BP20-070EN",
+      "BP20-P38": "BP20-P38EN"
+    }
+  },
+  "BP20-071": {
+    "name": "Militant Mermaid",
+    "text": "Ward.\n【Fanfare】 Put a Marine card from your hand into your EX area: Recover 3 play points.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP20-071EN",
+    "img": "BP20/BP20-071EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-071": "BP20-071EN",
+      "BP20-P39": "BP20-P39EN"
+    }
+  },
+  "BP20-072": {
+    "name": "Ocean Rider",
+    "text": "Each Megalorca on your field has Ward.\n【Fanfare】 Summon a Megalorca token. If Overflow is active for you, summon 3 instead.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Marine"
+    ],
+    "cardno": "BP20-072EN",
+    "img": "BP20/BP20-072EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-072": "BP20-072EN",
+      "BP20-P40": "BP20-P40EN"
+    }
+  },
+  "BP20-073": {
+    "name": "Raging Lightning",
+    "text": "【Quick】\nSelect an enemy follower on the field and deal it 6 damage. If you selected a follower with 3 defense or less, deal 3 damage to its leader.",
+    "keywords": [
+      "Quick"
+    ],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Wyrmkin"
+    ],
+    "cardno": "BP20-073EN",
+    "img": "BP20/BP20-073EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-073": "BP20-073EN"
+    }
+  },
+  "BP20-074": {
+    "name": "Rulenye & Valnareik",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-074EN",
+    "img": "BP20/BP20-074EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-074": "BP20-074EN",
+      "BP20-SL20": "BP20-SL20EN"
+    }
+  },
+  "BP20-075": {
+    "name": "Rulenye & Valnareik",
+    "text": "On Evolve - Choose 1. (1) Summon 2 Rulenye, Echoing Scream tokens. (2) Give this Storm. Give each Abysscraft Omen follower on your field Attack+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-075EN",
+    "img": "BP20/BP20-075EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-075": "BP20-075EN",
+      "BP20-SL21": "BP20-SL21EN",
+      "BP20-U06": "BP20-U06EN"
+    }
+  },
+  "BP20-076": {
+    "name": "Sham-Nacha, Heir to Entwining",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Encroacher"
+    ],
+    "cardno": "BP20-076EN",
+    "img": "BP20/BP20-076EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-076": "BP20-076EN",
+      "BP20-SL22": "BP20-SL22EN"
+    }
+  },
+  "BP20-077": {
+    "name": "Sham-Nacha, Heir to Entwining",
+    "text": "On Evolve - Put a Crest: Sham-Nacha, Heir to Entwining token into your EX area.\nOn Super-Evolve - Select an Abysscraft Omen follower in your cemetery. Summon it and evolve it.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Encroacher"
+    ],
+    "cardno": "BP20-077EN",
+    "img": "BP20/BP20-077EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-077": "BP20-077EN",
+      "BP20-SL23": "BP20-SL23EN"
+    }
+  },
+  "BP20-078": {
+    "name": "Diabolus Hedone",
+    "text": "【Fanfare】 Select up to 2 enemy followers on the field and, if Sanguine is active for you, destroy them.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Demon"
+    ],
+    "cardno": "BP20-078EN",
+    "img": "BP20/BP20-078EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-078": "BP20-078EN",
+      "BP20-SL24": "BP20-SL24EN"
+    }
+  },
+  "BP20-079": {
+    "name": "Congregant of Entwining",
+    "text": "【Evolve】 Cost 1: Evolve this.",
+    "keywords": [
+      "Evolve"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-079EN",
+    "img": "BP20/BP20-079EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-079": "BP20-079EN",
+      "PR-542": "PR-544EN"
+    }
+  },
+  "BP20-080": {
+    "name": "Congregant of Entwining",
+    "text": "On Evolve - Choose 1. (1) Select an enemy follower on the field and deal it 5 damage. (2) Select an Abysscraft Omen follower in your cemetery that costs 3 or less and summon it. (3) Give each Abysscraft Omen follower on your field Attack+1/Defense+1.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-080EN",
+    "img": "BP20/BP20-080EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-080": "BP20-080EN",
+      "PR-543": "PR-545EN"
+    }
+  },
+  "BP20-081": {
+    "name": "Hervör",
+    "text": "【Fanfare】 Choose 1. (1) Deal 4 damage to each enemy follower on the field. (2) Give your leader Defense+4. Draw 2 cards.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Demon"
+    ],
+    "cardno": "BP20-081EN",
+    "img": "BP20/BP20-081EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-081": "BP20-081EN",
+      "BP20-P41": "BP20-P41EN"
+    }
+  },
+  "BP20-082": {
+    "name": "Screaming and Loathing",
+    "text": "Choose 1. (1) Select an enemy follower on the field and deal it 3 damage. (2) Deal 2 damage to each enemy leader. (3) Draw a card. Discard a card. (4) Recover 1 play point.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-082EN",
+    "img": "BP20/BP20-082EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-082": "BP20-082EN",
+      "BP20-P42": "BP20-P42EN"
+    }
+  },
+  "BP20-083": {
+    "name": "Spirited Gravekeeper",
+    "text": "【Evolve】 Cost 5: Evolve this.\n【Fanfare】 Bury the top 2 cards of your deck.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Necromancer"
+    ],
+    "cardno": "BP20-083EN",
+    "img": "BP20/BP20-083EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-083": "BP20-083EN"
+    }
+  },
+  "BP20-084": {
+    "name": "Spirited Gravekeeper",
+    "text": "On Evolve - Select a non-Abysscraft follower that costs 5 or less and a non-Abysscraft follower that costs 3 or less in your cemetery and summon them.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Necromancer"
+    ],
+    "cardno": "BP20-084EN",
+    "img": "BP20/BP20-084EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-084": "BP20-084EN"
+    }
+  },
+  "BP20-085": {
+    "name": "Supplicant of Entwining",
+    "text": "【Fanfare】 Choose 1. (1) Select an enemy follower on the field and deal it 1 damage. (2) Deal 2 damage to each enemy leader. (3) Give your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-085EN",
+    "img": "BP20/BP20-085EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-085": "BP20-085EN",
+      "PR-554": "PR-566EN"
+    }
+  },
+  "BP20-086": {
+    "name": "Castle of Entwining",
+    "text": "【Fanfare】 Look at the top 3 cards of your deck. You may reveal an Abysscraft Omen card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Act】 Cost 1, 【Engage】, bury this: Choose 1. (1) Select a follower on your field and give it Rush. (2) Select a follower on your field and give it Assail.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-086EN",
+    "img": "BP20/BP20-086EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-086": "BP20-086EN",
+      "BP20-P43": "BP20-P43EN"
+    }
+  },
+  "BP20-087": {
+    "name": "Ephemeral Demon Princess",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Bury the top 3 cards of your deck.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Yokai",
+      "Demon"
+    ],
+    "cardno": "BP20-087EN",
+    "img": "BP20/BP20-087EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-087": "BP20-087EN",
+      "BP20-P44": "BP20-P44EN"
+    }
+  },
+  "BP20-088": {
+    "name": "Ephemeral Demon Princess",
+    "text": "On Evolve - Select up to 2 Yokai cards in your cemetery that cost a total of 4 or less and put them into your EX area. They cost 0 to play this turn.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Yokai",
+      "Demon"
+    ],
+    "cardno": "BP20-088EN",
+    "img": "BP20/BP20-088EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-088": "BP20-088EN",
+      "BP20-P45": "BP20-P45EN"
+    }
+  },
+  "BP20-089": {
+    "name": "Devotee of Entwining",
+    "text": "【Fanfare】 Choose 1. (1) Select an enemy follower on the field and deal it 3 damage. (2) Deal 1 damage to each enemy leader and enemy follower on the field. (3) Draw a card.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Necromancer",
+      "Demon"
+    ],
+    "cardno": "BP20-089EN",
+    "img": "BP20/BP20-089EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-089": "BP20-089EN",
+      "PR-549": "PR-563EN"
+    }
+  },
+  "BP20-090": {
+    "name": "Wicked Collector",
+    "text": "【Fanfare】 Put the top card of your deck into your EX area. If it's a follower, give it Attack+1/Defense+1.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Demon"
+    ],
+    "cardno": "BP20-090EN",
+    "img": "BP20/BP20-090EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-090": "BP20-090EN",
+      "BP20-P46": "BP20-P46EN"
+    }
+  },
+  "BP20-091": {
+    "name": "Nemean Lion",
+    "text": "Strike - Select an Abysscraft follower in your cemetery and add it to your hand.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP20-091EN",
+    "img": "BP20/BP20-091EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-091": "BP20-091EN"
+    }
+  },
+  "BP20-092": {
+    "name": "March of the Brutes",
+    "text": "Select up to 2 enemy followers on the field and deal them 5 damage. Deal 3 damage to each enemy leader.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Demon"
+    ],
+    "cardno": "BP20-092EN",
+    "img": "BP20/BP20-092EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-092": "BP20-092EN"
+    }
+  },
+  "BP20-093": {
+    "name": "Marwynn, Despair Manifest",
+    "text": "【Fanfare】 Choose 1. (1) Select an enemy follower on the field. If there are at least 3 crests in your EX area, banish it and give your leader Defense+2. (2) Put a Crest: Marwynn, Despair Manifest token into your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-093EN",
+    "img": "BP20/BP20-093EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-093": "BP20-093EN",
+      "BP20-SL25": "BP20-SL25EN"
+    }
+  },
+  "BP20-094": {
+    "name": "Himeka, Heir to Repose",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Put a Crest: Himeka, Heir to Repose token into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Zealot"
+    ],
+    "cardno": "BP20-094EN",
+    "img": "BP20/BP20-094EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-094": "BP20-094EN",
+      "BP20-SL26": "BP20-SL26EN"
+    }
+  },
+  "BP20-095": {
+    "name": "Himeka, Heir to Repose",
+    "text": "On Evolve - Search your deck for an Omen–Zealot card not named Himeka, Heir to Repose, reveal it, add it to your hand, then shuffle.\nOn Super-Evolve - Cost 2: Search your deck for an Omen–Zealot follower not named Himeka, Heir to Repose that costs 4 or less, summon it, then shuffle.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Heir",
+      "Zealot"
+    ],
+    "cardno": "BP20-095EN",
+    "img": "BP20/BP20-095EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-095": "BP20-095EN",
+      "BP20-SL27": "BP20-SL27EN",
+      "BP20-U07": "BP20-U07EN"
+    }
+  },
+  "BP20-096": {
+    "name": "Holy Serpent's Blessing",
+    "text": "【Fanfare】 Select an enemy follower on the field and deal it 4 damage.\n【Last Words】 Choose 1. (1) Give your leader Defense+2. (2) Cost 1: Search your deck for a Holy Serpent's Blessing, summon it, then shuffle.",
+    "keywords": [
+      "Fanfare",
+      "Last Words"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP20-096EN",
+    "img": "BP20/BP20-096EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-096": "BP20-096EN",
+      "BP20-SL28": "BP20-SL28EN"
+    }
+  },
+  "BP20-097": {
+    "name": "Congregant of Repose",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Put a Crest: Congregant of Repose token into your EX area.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-097EN",
+    "img": "BP20/BP20-097EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-097": "BP20-097EN",
+      "BP20-P47": "BP20-P47EN"
+    }
+  },
+  "BP20-098": {
+    "name": "Congregant of Repose",
+    "text": "On Evolve - Select an enemy follower on the field and deal it damage equal to 2 times the number of crests in your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-098EN",
+    "img": "BP20/BP20-098EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-098": "BP20-098EN",
+      "BP20-P48": "BP20-P48EN"
+    }
+  },
+  "BP20-099": {
+    "name": "Sacred Sheep",
+    "text": "At the start of each opponent's main phase, the next time your leader would take damage this turn, it doesn't.",
+    "keywords": [],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Luminary"
+    ],
+    "cardno": "BP20-099EN",
+    "img": "BP20/BP20-099EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-099": "BP20-099EN",
+      "PR-550": "PR-564EN"
+    }
+  },
+  "BP20-100": {
+    "name": "Shining Disenchantment",
+    "text": "【Fanfare】 Draw a card.\n【Act】 【Engage】, bury this: Select an enemy follower on the field and deal it 4 damage. Activate only if there are at least 3 crests in your EX area.",
+    "keywords": [
+      "Fanfare",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-100EN",
+    "img": "BP20/BP20-100EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-100": "BP20-100EN",
+      "BP20-P49": "BP20-P49EN"
+    }
+  },
+  "BP20-101": {
+    "name": "Supplicant of Repose",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If there are at least 3 crests in your EX area, give your leader Defense+2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-101EN",
+    "img": "BP20/BP20-101EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-101": "BP20-101EN",
+      "BP20-P50": "BP20-P50EN"
+    }
+  },
+  "BP20-102": {
+    "name": "Supplicant of Repose",
+    "text": "On Evolve - Put a Crest: Supplicant of Repose token into your EX area.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-102EN",
+    "img": "BP20/BP20-102EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-102": "BP20-102EN",
+      "BP20-P51": "BP20-P51EN"
+    }
+  },
+  "BP20-103": {
+    "name": "Temple of Repose",
+    "text": "【Fanfare】 Look at the top 3 cards of your deck. You may reveal an Omen–Zealot card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.\n【Quick】【Act】 Cost 1, 【Engage】, bury this: The next time your leader would take damage this turn, it takes that much -2 instead. Activate only if there are at least 3 crests in your EX area.",
+    "keywords": [
+      "Fanfare",
+      "Quick",
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-103EN",
+    "img": "BP20/BP20-103EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-103": "BP20-103EN"
+    }
+  },
+  "BP20-104": {
+    "name": "Winged Lion Statue",
+    "text": "【Act】 Cost 1, 【Engage】, bury this and another amulet: Summon a Holy Falcon and Holy Tiger token.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Faith",
+      "Beast"
+    ],
+    "cardno": "BP20-104EN",
+    "img": "BP20/BP20-104EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-104": "BP20-104EN",
+      "BP20-P52": "BP20-P52EN"
+    }
+  },
+  "BP20-105": {
+    "name": "Knight of the Holy Order",
+    "text": "【Evolve】 Cost 1: Evolve this.\nWard.\n【Fanfare】 If this was put onto the field by an ability, evolve it.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Luminary"
+    ],
+    "cardno": "BP20-105EN",
+    "img": "BP20/BP20-105EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-105": "BP20-105EN"
+    }
+  },
+  "BP20-106": {
+    "name": "Knight of the Holy Order",
+    "text": "Ward.\nOn Evolve - Give your leader Defense+1. Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Luminary"
+    ],
+    "cardno": "BP20-106EN",
+    "img": "BP20/BP20-106EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-106": "BP20-106EN"
+    }
+  },
+  "BP20-107": {
+    "name": "Devotee of Repose",
+    "text": "Ward.\n【Fanfare】 Select an enemy follower on the field and deal it X damage. X equals the number of crests in your EX area.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Zealot"
+    ],
+    "cardno": "BP20-107EN",
+    "img": "BP20/BP20-107EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-107": "BP20-107EN",
+      "BP20-P53": "BP20-P53EN"
+    }
+  },
+  "BP20-108": {
+    "name": "Featherfolk Courier",
+    "text": "Storm.\nStrike - Draw a card.\n【Fanfare】 Cost 2: Search your deck for a follower with Storm that has 3 attack or less, summon it, then shuffle.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Avian"
+    ],
+    "cardno": "BP20-108EN",
+    "img": "BP20/BP20-108EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-108": "BP20-108EN"
+    }
+  },
+  "BP20-109": {
+    "name": "Peckish Al-mi'raj",
+    "text": "【Fanfare】 Look at the top 3 cards of your deck. You may put a Beast follower from among them into your EX area. Put the rest on the bottom of your deck in any order.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Beast"
+    ],
+    "cardno": "BP20-109EN",
+    "img": "BP20/BP20-109EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-109": "BP20-109EN"
+    }
+  },
+  "BP20-110": {
+    "name": "Blinding Faith",
+    "text": "Deal 4 damage to each enemy follower on the field. Give your leader Defense+2. Draw a card.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Faith"
+    ],
+    "cardno": "BP20-110EN",
+    "img": "BP20/BP20-110EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-110": "BP20-110EN",
+      "BP20-P54": "BP20-P54EN"
+    }
+  },
+  "BP20-111": {
+    "name": "Mjerrabaine, Great Manifest",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Discard your hand.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen"
+    ],
+    "cardno": "BP20-111EN",
+    "img": "BP20/BP20-111EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-111": "BP20-111EN",
+      "BP20-SL29": "BP20-SL29EN"
+    }
+  },
+  "BP20-112": {
+    "name": "Mjerrabaine, Great Manifest",
+    "text": "On Evolve - Put a Crest: Mjerrabaine, Great Manifest token into your EX area.\nOn Super-Evolve - Select an enemy follower on the field. Destroy it and deal 2 damage to its leader.\nAt the start of your end phase, select an enemy follower on the field and, if there's 1 card or less in your hand, destroy it.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen"
+    ],
+    "cardno": "BP20-112EN",
+    "img": "BP20/BP20-112EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-112": "BP20-112EN",
+      "BP20-SL30": "BP20-SL30EN"
+    }
+  },
+  "BP20-113": {
+    "name": "Gilnelise, Voracity Manifest",
+    "text": "Drain.\n【Fanfare】 Select another follower on the field. Give it Attack+3/Defense-3 and, if you have 0 Super-Evolution Points, put a Ravenous Sweetness token into your EX area.\nWhenever you play a Ravenous Sweetness, select an enemy follower on the field and deal it 5 damage.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen"
+    ],
+    "cardno": "BP20-113EN",
+    "img": "BP20/BP20-113EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-113": "BP20-113EN",
+      "BP20-SL31": "BP20-SL31EN",
+      "BP20-U08": "BP20-U08EN"
+    }
+  },
+  "BP20-114": {
+    "name": "Dogged One",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 If you have 0 Super-Evolution Points, give this Attack+1/Defense+1 and Storm.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Lightborne"
+    ],
+    "cardno": "BP20-114EN",
+    "img": "BP20/BP20-114EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-114": "BP20-114EN"
+    }
+  },
+  "BP20-115": {
+    "name": "Dogged One",
+    "text": "On Evolve - Select a follower on your field and give it Rush and Assail.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Lightborne"
+    ],
+    "cardno": "BP20-115EN",
+    "img": "BP20/BP20-115EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-115": "BP20-115EN"
+    }
+  },
+  "BP20-116": {
+    "name": "Inspirational One",
+    "text": "Ward.\n【Fanfare】 Select an enemy follower on the field. If you have 0 Super-Evolution Points, deal it 5 damage and give your leader Defense+2.",
+    "keywords": [
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Lightborne"
+    ],
+    "cardno": "BP20-116EN",
+    "img": "BP20/BP20-116EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-116": "BP20-116EN",
+      "BP20-P55": "BP20-P55EN"
+    }
+  },
+  "BP20-117": {
+    "name": "Tablet of Tribulations",
+    "text": "【Act】 Cost 9, 【Engage】, bury this: Search your deck for up to 10 differently named Omen followers with \"Mjerrabaine,\" \"Lishenna,\" \"Rulenye,\" \"Marwynn,\" \"Galmieux,\" \"Izudia,\" \"Valnareik,\" \"Octrice,\" \"Raio,\" or \"Gilnelise\" in their names, summon any number of them, put any number of them into your EX area, then shuffle.",
+    "keywords": [
+      "Act",
+      "Engage"
+    ],
+    "card_type": [
+      "Amulet"
+    ],
+    "trait_en": [
+      "Omen"
+    ],
+    "cardno": "BP20-117EN",
+    "img": "BP20/BP20-117EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-117": "BP20-117EN",
+      "BP20-P56": "BP20-P56EN"
+    }
+  },
+  "BP20-118": {
+    "name": "Apostle of Voracity",
+    "text": "【Evolve】 Cost 1: Evolve this.\n【Fanfare】 Select another follower on the field and give it Attack+2/Defense-2.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "Omen",
+      "Beast"
+    ],
+    "cardno": "BP20-118EN",
+    "img": "BP20/BP20-118EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-118": "BP20-118EN",
+      "BP20-P57": "BP20-P57EN"
+    }
+  },
+  "BP20-119": {
+    "name": "Apostle of Voracity",
+    "text": "On Evolve - Select another follower on the field and give it Attack+2/Defense-2.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Omen",
+      "Beast"
+    ],
+    "cardno": "BP20-119EN",
+    "img": "BP20/BP20-119EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-119": "BP20-119EN",
+      "BP20-P58": "BP20-P58EN"
+    }
+  },
+  "BP20-120": {
+    "name": "Greatness Ascended",
+    "text": "This costs 2 less to play from the EX area.\nWhen this is discarded, if there's a follower on your field with \"Mjerrabaine\" in its name, you may put this into your EX area.\n----------\nDraw 2 cards.",
+    "keywords": [],
+    "card_type": [
+      "Spell"
+    ],
+    "trait_en": [
+      "Omen"
+    ],
+    "cardno": "BP20-120EN",
+    "img": "BP20/BP20-120EN.webp",
+    "release_date": "2026-09-25",
+    "set_name": "Combined Set \"Eightfold Retribution & Omens and Heirs\"",
+    "prints": {
+      "BP20-120": "BP20-120EN",
+      "BP20-P59": "BP20-P59EN"
     }
   },
   "CP01-001": {
@@ -54013,7 +59196,8 @@
     "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
     "prints": {
       "CP04-029": "CP04-029EN",
-      "CP04-P21": "CP04-P21EN"
+      "CP04-P21": "CP04-P21EN",
+      "PCS01-011": "PR-539EN"
     }
   },
   "CP04-030": {
@@ -54626,7 +59810,8 @@
     "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
     "prints": {
       "CP04-055": "CP04-055EN",
-      "CP04-SL13": "CP04-SL13EN"
+      "CP04-SL13": "CP04-SL13EN",
+      "PCS01-022": "PR-542EN"
     }
   },
   "CP04-056": {
@@ -54674,7 +59859,8 @@
     "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
     "prints": {
       "CP04-057": "CP04-057EN",
-      "CP04-SL15": "CP04-SL15EN"
+      "CP04-SL15": "CP04-SL15EN",
+      "PR-505": "PR-538EN"
     }
   },
   "CP04-058": {
@@ -55434,7 +60620,8 @@
     "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
     "prints": {
       "CP04-089": "CP04-089EN",
-      "CP04-P69": "CP04-P69EN"
+      "CP04-P69": "CP04-P69EN",
+      "PR-507": "PR-540EN"
     }
   },
   "CP04-090": {
@@ -60989,6 +66176,44 @@
     "prints": {
       "BP03-016": "BP03-016EN",
       "BP03-P05": "BP03-P05EN"
+    }
+  },
+  "PCS01-048": {
+    "name": "Princess Knight",
+    "text": "【Evolve】 Cost 1: Evolve this.\nEach other PriConne follower on your field has Ward.\n【Fanfare】 Reveal the top card of your deck. If it's a PriConne follower, summon it.",
+    "keywords": [
+      "Evolve",
+      "Fanfare"
+    ],
+    "card_type": [
+      "Follower"
+    ],
+    "trait_en": [
+      "PriConne"
+    ],
+    "cardno": "CP04-113EN",
+    "img": "CP04/CP04-113EN.webp",
+    "release_date": "2026-08-21",
+    "set_name": "Crossover Set \"Princess Connect! Re: Dive\"",
+    "prints": {
+      "PCS01-048": "CP04-113EN"
+    }
+  },
+  "PCS01-049": {
+    "name": "Paradise Vanguard",
+    "text": "On Evolve - Select an enemy follower that costs 4 or less on the field and banish it.",
+    "keywords": [],
+    "card_type": [
+      "Follower",
+      "Evolved"
+    ],
+    "trait_en": [
+      "Angel"
+    ],
+    "cardno": "PR-243EN",
+    "img": "PR/PR-243EN.webp",
+    "prints": {
+      "PCS01-049": "PR-243EN"
     }
   },
   "SD01-001": {
