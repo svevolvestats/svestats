@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22",
+  "generated_at": "2026-09-23",
   "expansions": [
     {
       "expansion": "CP05",
@@ -1107,8 +1107,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 76,
-      "n_layouts": 32,
+      "revealed_count": 79,
+      "n_layouts": 28,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1570,7 +1570,9 @@
             {
               "num": 48,
               "cardno": "BP22-048",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-048",
+              "kind": "base"
             },
             {
               "num": 49,
@@ -1580,8 +1582,8 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
@@ -1596,12 +1598,16 @@
             {
               "num": 50,
               "cardno": "BP22-050",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-050",
+              "kind": "base"
             },
             {
               "num": 51,
               "cardno": "BP22-051",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-051",
+              "kind": "evolve"
             },
             {
               "num": 52,
@@ -1628,14 +1634,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 3,
-          "estimated_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 2,
+          "estimated_count": 0,
           "size": 6,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ドラゴン|LG": {
           "class": "ドラゴン",
