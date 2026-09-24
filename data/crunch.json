@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-24",
   "expansions": [
     {
       "expansion": "CP05",
@@ -1107,7 +1107,7 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 79,
+      "revealed_count": 81,
       "n_layouts": 28,
       "unique": false,
       "classes": [
@@ -1431,12 +1431,16 @@
             {
               "num": 33,
               "cardno": "BP22-033",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-033",
+              "kind": "base"
             },
             {
               "num": 34,
               "cardno": "BP22-034",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-034",
+              "kind": "base"
             },
             {
               "num": 35,
@@ -1449,8 +1453,8 @@
               "status": "confirmed"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 5,
+          "revealed_count": 2,
+          "confirmed_count": 3,
           "estimated_count": 1,
           "size": 6,
           "size_status": "estimated",
