@@ -1107,8 +1107,8 @@
         "SR": 27,
         "BR": 36
       },
-      "revealed_count": 81,
-      "n_layouts": 28,
+      "revealed_count": 85,
+      "n_layouts": 24,
       "unique": false,
       "classes": [
         "エルフ",
@@ -1308,7 +1308,9 @@
             {
               "num": 20,
               "cardno": "BP22-020",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-020",
+              "kind": "base"
             },
             {
               "num": 21,
@@ -1325,8 +1327,8 @@
               "kind": "evolve"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
@@ -1362,11 +1364,13 @@
             {
               "num": 26,
               "cardno": "BP22-026",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-026",
+              "kind": "base"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
@@ -2001,12 +2005,16 @@
             {
               "num": 93,
               "cardno": "BP22-093",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "BP22-093",
+              "kind": "base"
             },
             {
               "num": 94,
               "cardno": "BP22-094",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "BP22-094",
+              "kind": "evolve"
             },
             {
               "num": 95,
@@ -2016,14 +2024,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 1,
-          "estimated_count": 2,
+          "revealed_count": 3,
+          "confirmed_count": 0,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ビショップ|GR": {
           "class": "ビショップ",
@@ -2136,7 +2144,7 @@
             {
               "num": 108,
               "cardno": "BP22-108",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 109,
@@ -2145,8 +2153,8 @@
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 3,
+          "confirmed_count": 3,
+          "estimated_count": 2,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
@@ -2293,12 +2301,13 @@
       "tokens": {
         "count": 10,
         "reprint_count": 7,
-        "revealed_count": 3,
+        "revealed_count": 4,
         "slots": [
           {
             "num": 1,
             "cardno": "BP22-T01",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "BP22-T01"
           },
           {
             "num": 2,
