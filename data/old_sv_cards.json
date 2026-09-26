@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2151,
+ "in_evolve": 2157,
  "match_breakdown": {
-  "exact": 2131,
-  "null": 2710,
+  "exact": 2137,
+  "null": 2704,
   "alias": 19,
   "normalized": 1
  },
@@ -4169,9 +4169,9 @@
      "vo_101111030_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-017",
+   "matched_by": "exact",
    "name_en": "Dungeoncrawl Fairy",
    "expansion_en": "Classic"
   },
@@ -4207,9 +4207,9 @@
      "vo_101111040_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-015",
+   "matched_by": "exact",
    "name_en": "Fairy Bringer",
    "expansion_en": "Classic"
   },
@@ -20461,9 +20461,9 @@
      "vo_103521030_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-088",
+   "matched_by": "exact",
    "name_en": "Lurching Corpse",
    "expansion_en": "Rise of Bahamut"
   },
@@ -96632,9 +96632,9 @@
      "vo_122141020_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-002",
+   "matched_by": "exact",
    "name_en": "Noxious Elf",
    "expansion_en": "Dawn of Calamity"
   },
@@ -98221,9 +98221,9 @@
    "is_token": false,
    "image": "old_sv/image/122514010.webp",
    "voices": null,
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-091",
+   "matched_by": "exact",
    "name_en": "Undead Stampede",
    "expansion_en": "Dawn of Calamity"
   },
@@ -147984,9 +147984,9 @@
      "vo_715514010_1.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-091",
+   "matched_by": "exact",
    "name_en": "Undead Stampede",
    "expansion_en": "Token"
   },
