@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2157,
+ "in_evolve": 2159,
  "match_breakdown": {
-  "exact": 2137,
-  "null": 2704,
+  "exact": 2139,
+  "null": 2702,
   "alias": 19,
   "normalized": 1
  },
@@ -99329,9 +99329,9 @@
      "vo_122731010_5.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-098",
+   "matched_by": "exact",
    "name_en": "Cursed Maiden",
    "expansion_en": "Dawn of Calamity"
   },
@@ -99438,9 +99438,9 @@
      "vo_800743040_1.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "BP22-092",
+   "matched_by": "exact",
    "name_en": "God of Curses",
    "expansion_en": "Dawn of Calamity"
   },
