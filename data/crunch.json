@@ -469,17 +469,12 @@
               "status": "revealed",
               "oracle_id": "CP05-053",
               "kind": "base"
-            },
-            {
-              "num": 54,
-              "cardno": "CP05-054",
-              "status": "estimated"
             }
           ],
           "revealed_count": 2,
           "confirmed_count": 1,
-          "estimated_count": 3,
-          "size": 6,
+          "estimated_count": 2,
+          "size": 5,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
@@ -489,6 +484,11 @@
           "class": "ドラゴン",
           "rarity": "LG",
           "slots": [
+            {
+              "num": 54,
+              "cardno": "CP05-054",
+              "status": "estimated"
+            },
             {
               "num": 55,
               "cardno": "CP05-055",
@@ -509,11 +509,6 @@
               "status": "revealed",
               "oracle_id": "CP05-057",
               "kind": "evolve"
-            },
-            {
-              "num": 58,
-              "cardno": "CP05-058",
-              "status": "estimated"
             }
           ],
           "revealed_count": 3,
@@ -530,6 +525,11 @@
           "rarity": "GR",
           "slots": [
             {
+              "num": 58,
+              "cardno": "CP05-058",
+              "status": "estimated"
+            },
+            {
               "num": 59,
               "cardno": "CP05-059",
               "status": "estimated"
@@ -542,11 +542,6 @@
             {
               "num": 61,
               "cardno": "CP05-061",
-              "status": "estimated"
-            },
-            {
-              "num": 62,
-              "cardno": "CP05-062",
               "status": "estimated"
             }
           ],
@@ -564,6 +559,11 @@
           "rarity": "SR",
           "slots": [
             {
+              "num": 62,
+              "cardno": "CP05-062",
+              "status": "estimated"
+            },
+            {
               "num": 63,
               "cardno": "CP05-063",
               "status": "estimated"
@@ -576,11 +576,6 @@
             {
               "num": 65,
               "cardno": "CP05-065",
-              "status": "estimated"
-            },
-            {
-              "num": 66,
-              "cardno": "CP05-066",
               "status": "estimated"
             }
           ],
@@ -598,6 +593,11 @@
           "rarity": "BR",
           "slots": [
             {
+              "num": 66,
+              "cardno": "CP05-066",
+              "status": "estimated"
+            },
+            {
               "num": 67,
               "cardno": "CP05-067",
               "status": "estimated"
@@ -606,7 +606,21 @@
               "num": 68,
               "cardno": "CP05-068",
               "status": "estimated"
-            },
+            }
+          ],
+          "revealed_count": 0,
+          "confirmed_count": 0,
+          "estimated_count": 3,
+          "size": 3,
+          "size_status": "estimated",
+          "advance": 0,
+          "evolve_pred": 1,
+          "evolve_revealed": 0
+        },
+        "ナイトメア|LG": {
+          "class": "ナイトメア",
+          "rarity": "LG",
+          "slots": [
             {
               "num": 69,
               "cardno": "CP05-069",
@@ -630,16 +644,16 @@
           ],
           "revealed_count": 0,
           "confirmed_count": 0,
-          "estimated_count": 6,
-          "size": 6,
+          "estimated_count": 4,
+          "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 0
         },
-        "ナイトメア|LG": {
+        "ナイトメア|GR": {
           "class": "ナイトメア",
-          "rarity": "LG",
+          "rarity": "GR",
           "slots": [
             {
               "num": 73,
@@ -671,9 +685,9 @@
           "evolve_pred": 1,
           "evolve_revealed": 0
         },
-        "ナイトメア|GR": {
+        "ナイトメア|SR": {
           "class": "ナイトメア",
-          "rarity": "GR",
+          "rarity": "SR",
           "slots": [
             {
               "num": 77,
@@ -705,9 +719,9 @@
           "evolve_pred": 1,
           "evolve_revealed": 0
         },
-        "ナイトメア|SR": {
+        "ナイトメア|BR": {
           "class": "ナイトメア",
-          "rarity": "SR",
+          "rarity": "BR",
           "slots": [
             {
               "num": 81,
@@ -728,21 +742,7 @@
               "num": 84,
               "cardno": "CP05-084",
               "status": "estimated"
-            }
-          ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
-          "size": 4,
-          "size_status": "estimated",
-          "advance": 0,
-          "evolve_pred": 1,
-          "evolve_revealed": 0
-        },
-        "ナイトメア|BR": {
-          "class": "ナイトメア",
-          "rarity": "BR",
-          "slots": [
+            },
             {
               "num": 85,
               "cardno": "CP05-085",
@@ -752,17 +752,12 @@
               "num": 86,
               "cardno": "CP05-086",
               "status": "estimated"
-            },
-            {
-              "num": 87,
-              "cardno": "CP05-087",
-              "status": "estimated"
             }
           ],
           "revealed_count": 0,
           "confirmed_count": 0,
-          "estimated_count": 3,
-          "size": 3,
+          "estimated_count": 6,
+          "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
@@ -772,6 +767,11 @@
           "class": "ビショップ",
           "rarity": "LG",
           "slots": [
+            {
+              "num": 87,
+              "cardno": "CP05-087",
+              "status": "estimated"
+            },
             {
               "num": 88,
               "cardno": "CP05-088",
@@ -785,11 +785,6 @@
             {
               "num": 90,
               "cardno": "CP05-090",
-              "status": "estimated"
-            },
-            {
-              "num": 91,
-              "cardno": "CP05-091",
               "status": "estimated"
             }
           ],
@@ -807,6 +802,11 @@
           "rarity": "GR",
           "slots": [
             {
+              "num": 91,
+              "cardno": "CP05-091",
+              "status": "estimated"
+            },
+            {
               "num": 92,
               "cardno": "CP05-092",
               "status": "estimated"
@@ -819,11 +819,6 @@
             {
               "num": 94,
               "cardno": "CP05-094",
-              "status": "estimated"
-            },
-            {
-              "num": 95,
-              "cardno": "CP05-095",
               "status": "estimated"
             }
           ],
@@ -841,6 +836,11 @@
           "rarity": "SR",
           "slots": [
             {
+              "num": 95,
+              "cardno": "CP05-095",
+              "status": "estimated"
+            },
+            {
               "num": 96,
               "cardno": "CP05-096",
               "status": "estimated"
@@ -853,11 +853,6 @@
             {
               "num": 98,
               "cardno": "CP05-098",
-              "status": "estimated"
-            },
-            {
-              "num": 99,
-              "cardno": "CP05-099",
               "status": "estimated"
             }
           ],
@@ -874,6 +869,11 @@
           "class": "ビショップ",
           "rarity": "BR",
           "slots": [
+            {
+              "num": 99,
+              "cardno": "CP05-099",
+              "status": "estimated"
+            },
             {
               "num": 100,
               "cardno": "CP05-100",
@@ -902,8 +902,8 @@
           ],
           "revealed_count": 0,
           "confirmed_count": 0,
-          "estimated_count": 5,
-          "size": 5,
+          "estimated_count": 6,
+          "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
@@ -1092,7 +1092,7 @@
       "expansion": "BP22",
       "name": "ブースターパック「オーバー・ザ・カラミティ」",
       "release_date": "2026-10-02",
-      "card_eval": false,
+      "card_eval": true,
       "totals": {
         "LG": 29,
         "GR": 26,
