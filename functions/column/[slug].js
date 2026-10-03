@@ -1,0 +1,97 @@
+// _shared.js
+var CACHE_NAME = "sve-og-v1";
+async function fetchJson(url) {
+  const cache = await caches.open(CACHE_NAME);
+  const cached = await cache.match(url);
+  if (cached) return cached.json();
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`${url} \u2192 ${res.status}`);
+  const text = await res.text();
+  await cache.put(url, new Response(text, {
+    headers: { "Content-Type": "application/json", "Cache-Control": "max-age=3600" }
+  }));
+  return JSON.parse(text);
+}
+var CRAWLER_RE = /bot|crawler|spider|discord|slack|twitter|facebook|kakao|telegram|whatsapp|line\/|skype|embed|preview|curl|wget|python-requests|pinterest/i;
+function isCrawler(request) {
+  return CRAWLER_RE.test(request.headers.get("user-agent") || "");
+}
+function serveIndex(context) {
+  const origin = new URL(context.request.url).origin;
+  return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+}
+function escapeHtml(str) {
+  return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+function injectOG(html, { title, description, imageUrl, pageUrl }) {
+  let out = html;
+  out = out.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`);
+  out = out.replace(
+    /(<meta property="og:title" content=")[^"]*(")/,
+    `$1${escapeHtml(title)}$2`
+  );
+  const descEscaped = escapeHtml(description);
+  const prevOut = out;
+  out = out.replace(
+    /(<meta property="og:description" content=")[\s\S]*?(")/,
+    `$1${descEscaped}$2`
+  );
+  if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  out = out.replace(/<meta property="og:url"[^>]*>/g, "");
+  out = out.replace(/<meta property="og:image"[^>]*>/g, "");
+  out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
+  const extra = [
+    `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
+    imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
+    imageUrl ? `<meta name="twitter:image" content="${imageUrl}" />` : ""
+  ].filter(Boolean).join("\n  ");
+  out = out.replace("</head>", `  ${extra}
+</head>`);
+  return out;
+}
+async function serveWithOG(context, ogProps) {
+  const origin = new URL(context.request.url).origin;
+  const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+  const html = await indexRes.text();
+  return new Response(injectOG(html, ogProps), {
+    headers: {
+      "Content-Type": "text/html;charset=UTF-8",
+      // Keep this short. The HTML names hashed asset files, so a stale copy asks
+      // for chunks a deploy already replaced -> 404 -> the error screen, and the
+      // screen's recovery button hits the very same cached HTML. 300s meant the
+      // site could look broken for five minutes after every deploy; main.jsx only
+      // budgets ~4s of automatic retries. The _headers rule for /index.html does
+      // not help here — real entry points are /prices, /cards, … not /index.html.
+      "Cache-Control": "public, max-age=30"
+    }
+  });
+}
+
+// column/[slug].js
+async function onRequest(context) {
+  const { params, request } = context;
+  const origin = new URL(request.url).origin;
+  if (!isCrawler(request)) return serveIndex(context);
+  try {
+    const slug = String(params.slug || "");
+    const index = await fetchJson(`${origin}/data/columns/index.json`);
+    const col = Array.isArray(index) ? index.find((c) => c.slug === slug) : null;
+    if (!col) throw new Error("not found");
+    let imageUrl = null;
+    if (col.cover) {
+      const slim = await fetchJson(`${origin}/data/prints_slim.json`).catch(() => null);
+      imageUrl = slim?.[col.cover] || null;
+    }
+    return serveWithOG(context, {
+      title: `${col.title || "\u8A18\u4E8B"} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
+      description: col.excerpt || "\u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40\u306E\u8A18\u4E8B",
+      imageUrl,
+      pageUrl: `${origin}/column/${slug}`
+    });
+  } catch {
+    return serveIndex(context);
+  }
+}
+export {
+  onRequest
+};

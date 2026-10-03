@@ -1,0 +1,1815 @@
+{
+  "meta": {
+    "slug": "1",
+    "title": "【シャドウバースエボルヴ】第21弾「アカデミー・ロワイヤル」CS環境振り返り",
+    "description": "第21弾のCS環境を、レヴィオンロイヤルの復活とスパルタクス、アイドルウィッチと人形エルフとの相性から振り返ります。",
+    "author": {
+      "name": "エボルヴ統計局"
+    },
+    "date": "2026-10-03",
+    "published": true,
+    "period": "2026-09-14~2026-10-01",
+    "archetypes": [
+      {
+        "id": "021113",
+        "period": "2026-09-14~2026-10-01"
+      },
+      {
+        "id": "2883dc",
+        "period": "2026-09-14~2026-10-01"
+      },
+      {
+        "id": "546e9c",
+        "period": "2026-09-14~2026-10-01"
+      }
+    ]
+  },
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "こんにちは、皆様。エボルヴを数字とともにもっと楽しみたいと思っている者です。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "世は第22弾の時代ですが、今更ながら第21弾の環境を少し振り返りたいと思いました。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "前回の振り返りと同じく、エボルヴ統計局の「環境まとめ」ページを使います。今回は第20弾と第21弾を並べて見てみます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "環境まとめ（第20弾〜第21弾）",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/lineage?view=era&era=BP20~BP21"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "データ概要"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "収集期間"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "CS数"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "TOP8デッキ数"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "07/31~08/02"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "27"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "216"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/03~16"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "69"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "515"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/17~09/13"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "72"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "564"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "09/14~10/01"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "37"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "279"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "合計"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "205"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "1574"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "各CSの参加者数は中央値16人・平均18.8人でした。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "全体的な流れ"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "第20弾は財宝・侮蔑・アイドルの3強がずっとTOP8の65~70%を占める環境でした。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "第21弾が始まってからは、まあ、皆さんご存知の通り、この形。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "caption": "主要デッキのTOP8シェア",
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "期間"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "侮蔑ドラゴン"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "財宝ロイヤル"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "レヴィオンロイヤル"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "アイドルウィッチ"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "人形エルフ"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "07/13~30（第20弾）"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "28.8%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "22.2%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "17.8%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.3%"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "07/31~08/02"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "10.6%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "9.7%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "5.6%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "17.1%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "6.0%"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/03~16"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "16.3%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "8.9%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "20.6%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "11.3%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "10.5%"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/17~09/13"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "15.6%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "8.7%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "27.7%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3.2%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "9.4%"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "09/14~10/01"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "20.8%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "14.7%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "19.4%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "4.7%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "7.5%"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "その流れを図で見ると、こうなります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "円にカーソルを合わせると数字が表示され、クリックするとそのデッキのページが開きます。"
+          }
+        ]
+      },
+      {
+        "type": "era",
+        "attrs": {
+          "era": "BP20~BP21"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "初動の3日間はとりあえず新弾のテーマでもあった学院デッキが一斉に姿を見せ、特に"
+          },
+          {
+            "type": "text",
+            "text": "学院ナイトメア",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/archetype/06b5a0?period=2026-09-14~2026-10-01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が12.5%という結果でした。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "侮蔑と財宝も一旦は10%前後。毎弾そうなんですが、最初の段階ですし、新デッキを使ってみたい方々が多かったんですよね。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "その後は、"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "・"
+          },
+          {
+            "type": "text",
+            "text": "レヴィオンロイヤル",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/archetype/021113?period=2026-09-14~2026-10-01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "・"
+          },
+          {
+            "type": "text",
+            "text": "侮蔑ドラゴン",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/archetype/2883dc?period=2026-09-14~2026-10-01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "・"
+          },
+          {
+            "type": "text",
+            "text": "財宝ロイヤル",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/archetype/996d38?period=2026-09-14~2026-10-01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "の3つで最後の期間には54.9%。形は変わりましたが、また「3強」の環境に戻ってきました。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "第20弾の3強の中で席を失ったのは"
+          },
+          {
+            "type": "text",
+            "text": "アイドルウィッチ",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/archetype/526265?period=2026-09-14~2026-10-01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "でした。17%台から3~4%台まで。その原因については、また下で見てみましょう。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "そして最後の期間では、侮蔑ドラゴンがまたTOP8の1位に戻ってきました。エボルヴ個人CSの集計上(26/05~26/10)、"
+          },
+          {
+            "type": "text",
+            "text": "2弾を通してTOP8入賞数の3位以内から一度も落ちなかったのは、侮蔑ドラゴンだけです。",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "まあ。そのお陰でこうなりましたけどね。"
+          }
+        ]
+      },
+      {
+        "type": "embed",
+        "attrs": {
+          "provider": "x",
+          "user": "shadowverse_ev",
+          "id": "2105817580137263210"
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "帰ってきたレヴィオンロイヤル"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "第21弾の主役は、やはりこのデッキ。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "もちろん、ご存知の方も多いと思いますが、レヴィオンロイヤルは以前から存在しましたね。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "2025年の夏には各期間でTOP8に5~13本（~5.0%）入っていたデッキです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "それが2025/10/01の"
+          },
+          {
+            "type": "card",
+            "attrs": {
+              "oid": "BP04-037"
+            }
+          },
+          {
+            "type": "text",
+            "text": "禁止以降はほとんど姿を見なくなり、第19弾・第20弾の期間ではTOP8入賞0本でした。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "レヴィオンロイヤルの系譜",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/lineage?class=ロイヤル&archetype=021113"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "そこに第21弾で入ってきたのが、この2枚です。"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "attrs": {
+          "items": [
+            {
+              "cards": [
+                "BP21-022"
+              ],
+              "text": [
+                {
+                  "type": "text",
+                  "text": "万能触手おじさん"
+                }
+              ]
+            },
+            {
+              "cards": [
+                "BP21-034"
+              ],
+              "text": [
+                {
+                  "type": "text",
+                  "text": "「残りを墓場に置く」"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "以前のリストと比べると、BP13のレヴィオン一族とSD07のジェノ・アルベールは今も全部3枚のままです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "（"
+          },
+          {
+            "type": "card",
+            "attrs": {
+              "oid": "BP18-023"
+            }
+          },
+          {
+            "type": "text",
+            "text": "も第18弾の頃からすでに3枚入っていました）"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1コストの"
+          },
+          {
+            "type": "card",
+            "attrs": {
+              "oid": "BP16-026"
+            }
+          },
+          {
+            "type": "text",
+            "text": "がユリウスのお陰で3枚に戻りました。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "card",
+            "attrs": {
+              "oid": "BP16-031"
+            }
+          },
+          {
+            "type": "text",
+            "text": "は第21弾の序盤にはほとんど使われておらず、最後の期間には"
+          },
+          {
+            "type": "card",
+            "attrs": {
+              "oid": "BP13-025"
+            }
+          },
+          {
+            "type": "text",
+            "text": "と入れ替わる感じで採用率93%まで増えています。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "caption": "平均採用枚数の変化",
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "カード"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "2025/07"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "07/31~08/16"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "09/14~10/01"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP21-022"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3.0"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3.0"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP21-034"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3.0"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3.0"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP16-026"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.8"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.9"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3.0"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP16-031"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.3"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.1"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP02-027"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.9"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "1.1"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.5"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP13-025"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.5"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "1.1"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.1"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP13-019"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.2"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.3"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.4"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "card",
+                  "attrs": {
+                    "oid": "BP04-037"
+                  }
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2.8"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "スパルタクス"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "個人的に一番気になったのはこのカードです。"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "attrs": {
+          "size": "l",
+          "items": [
+            {
+              "cards": [
+                "BP09-020"
+              ],
+              "text": [
+                {
+                  "type": "text",
+                  "text": "数少ない特殊勝利カード"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "以前は天使・自然・宴楽ロイヤルで使われるくらいだったこのカード。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "それが第21弾ではレヴィオンの1枚枠として戻ってきました。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "caption": "レヴィオンロイヤル内のスパルタクス",
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "期間"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "採用率"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "価値"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "07/31~08/02"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "33%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.811"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/03~16"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "62%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.693"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/17~09/13"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "38%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "1.000"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "09/14~10/01"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "24%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0.553"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "面白いのは08/17~09/13です。採用率は下がっているのに価値は1.000で、その期間のレヴィオンのリストの中で、採用が上位のデッキに一番偏っていたカードでした。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "実際にスパルタクス採用・非採用でレヴィオンのTOP8デッキを分けてみると、こうなります。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "head": [
+            [],
+            [
+              {
+                "type": "text",
+                "text": "デッキ数"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "優勝率"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "準優勝以上"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "採用"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "143"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "18.2%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "33.6%"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "非採用"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "185"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "13.0%"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "23.8%"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "さらに、17人以上のCSでTOP8トーナメントの組み合わせを予選順位から再構成して、対戦成績を推定してみました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "・対侮蔑ドラゴン：採用 18-8（69%）／非採用 16-15（52%）"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "最後の期間では採用率が24%まで下がり、採用・非採用の差もほとんどなくなりました。"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "attrs": {
+          "tone": "info"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "母数が少ないので、あくまで参考程度に見ていただければと思います。"
+              },
+              {
+                "type": "hard_break"
+              },
+              {
+                "type": "text",
+                "text": "対戦成績はTOP8トーナメントの組み合わせを予選順位から再構成した推定値で、予選の対戦は含みません。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "vs アイドルウィッチ"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "第20弾の3強の一角だったアイドルウィッチは、第21弾の初動でも17.1%と、3強の中でただ一つシェアを保っていました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "それが08/03~16に11.3%、08/17~09/13には3.2%まで下がります。レヴィオンロイヤルが一気に増えた時期と、ちょうど重なります。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "同じくTOP8トーナメントの再構成で、アイドルウィッチの対戦成績を見てみました。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "caption": "アイドルウィッチの推定成績（第21弾）",
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "相手"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "成績"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "レヴィオンロイヤル"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "4-17 (19%)"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "それ以外のデッキ"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "63-36 (64%)"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "caption": "アイドルウィッチの対レヴィオン推定成績",
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "期間"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "成績"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "07/31~08/02"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "1-2"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/03~16"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "2-10"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/17~09/13"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0-4"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "09/14~10/01"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "1-1"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "レヴィオン以外の相手には64%と、しっかり勝ち越しています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "でも、まあ、レヴィオンの時代でしたので。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "vs 人形エルフ"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "同じ再構成でもう一つ見えたのが、"
+          },
+          {
+            "type": "text",
+            "text": "人形エルフ",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/archetype/546e9c?period=2026-09-14~2026-10-01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "です。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "人形エルフもBP20の頃から少数ながら入賞していたデッキで、第21弾で10%前後まで伸びました。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "caption": "人形エルフの対レヴィオン推定成績",
+          "head": [
+            [
+              {
+                "type": "text",
+                "text": "期間"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "成績"
+              }
+            ]
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "07/31~08/02"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "0-2"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/03~16"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "15-4"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "08/17~09/13"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "9-10"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "09/14~10/01"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "3-1"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "レヴィオンが急に増えた08/03~16に15-4。ここでレヴィオンをたくさん倒して伸びたように見えます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "ただその後は9-10で、ほぼ五分に落ち着きました。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "他のデッキとの推定成績はだいたい五分なので、「1位のデッキに強いデッキ」ではあった感じです。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "終わりに"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "第21弾は、学院の初動のあと、昔のレヴィオンが戻ってきて1位を取り、最後はまた侮蔑ドラゴンが1位を取り返して終わる環境でした。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "第20弾の3強は崩れましたが、ロイヤル2つとドラゴン1つの新しい3強になって、結局は上位3つで半分を超える形に戻っています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "そしてその3強の内、2強は禁止・殿堂入りを食らってしまった感じですね。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "そして昨日から、第22弾になりました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "どのようなデッキが残り、どのようなデッキが戻ってきて、それらをまたどのようなデッキで対処できるのか、また数字とともに見ていきたいと思います。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "記事を読んでくださり本当にありがとうございます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "この統計が新しいデッキ構築とデッキ修正のヒントとなれば嬉しいです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "皆様の研究とプレイをいつも応援しております！"
+          }
+        ]
+      }
+    ]
+  }
+}
