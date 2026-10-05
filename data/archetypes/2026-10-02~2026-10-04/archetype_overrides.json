@@ -1,0 +1,46 @@
+{
+  "auto_splits": [],
+  "moves": [
+    {
+      "deck_id": "BWP1A",
+      "date": "2026-10-04",
+      "to": "09a433",
+      "_note": "ぺろ 狩人スペルエルフ → 狩人エルフ"}
+  ],
+  "merges": [
+    {
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "d17bbf",
+      "rules": [
+        {
+          "required": ["金色の威信・リュミオール"],
+          "name": "ドラゴニュートドラゴン"
+        },
+        {
+          "required": [],
+          "name": "フェイスドラゴン"
+        }
+      ]
+    },
+    {
+      "source": "b9b63d",
+      "rules": [
+        {
+          "required": ["葉脈の舎弟頭"],
+          "name": "八獄エルフ"
+        },
+        {
+          "required": [],
+          "name": "コンボエルフ"
+        }
+      ]
+    }
+  ]
+}
