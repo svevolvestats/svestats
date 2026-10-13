@@ -6784,52 +6784,6 @@
       "venue": "トーナメントセンターバトロコ本厚木駅前",
       "rank": 7,
       "participants": 14,
-      "team_name": "チーム名どうしよ",
-      "members": [
-        {
-          "order": "A",
-          "class": "ナイトメア",
-          "deck_id": "1WB13E",
-          "player": "菓実農家",
-          "friend_code": "VNTIV",
-          "archetype_id": "667946",
-          "archetype_name": "2コスナイトメア",
-          "archetype_period": "2026-10-02~2026-10-04",
-          "sim_score": 0.776,
-          "is_estimated": true
-        },
-        {
-          "order": "B",
-          "class": "ドラゴン",
-          "deck_id": "CF66C",
-          "player": "もっちー",
-          "friend_code": "HBOCF",
-          "archetype_id": "9b2326",
-          "archetype_name": "八獄ドラゴン",
-          "archetype_period": "2026-08-17~2026-09-13",
-          "sim_score": 0.72,
-          "is_estimated": true
-        },
-        {
-          "order": "C",
-          "class": "ウマ娘 プリティーダービー",
-          "deck_id": "1M6XR2",
-          "player": "恋と呼ばれているもの",
-          "friend_code": "ECBSU",
-          "archetype_id": "9aa9d8",
-          "archetype_name": "スペルウマ娘",
-          "archetype_period": "2026-10-02~2026-10-04",
-          "sim_score": 0.985,
-          "is_estimated": true
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "event_id": "1789975",
-      "venue": "トーナメントセンターバトロコ本厚木駅前",
-      "rank": 7,
-      "participants": 14,
       "team_name": "山上ツモまでちゃんと考えましょう",
       "members": [
         {
@@ -6866,6 +6820,52 @@
           "archetype_name": "侮蔑ドラゴン",
           "archetype_period": "2026-10-02~2026-10-04",
           "sim_score": 0.981,
+          "is_estimated": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "event_id": "1789975",
+      "venue": "トーナメントセンターバトロコ本厚木駅前",
+      "rank": 7,
+      "participants": 14,
+      "team_name": "チーム名どうしよ",
+      "members": [
+        {
+          "order": "A",
+          "class": "ナイトメア",
+          "deck_id": "1WB13E",
+          "player": "菓実農家",
+          "friend_code": "VNTIV",
+          "archetype_id": "667946",
+          "archetype_name": "2コスナイトメア",
+          "archetype_period": "2026-10-02~2026-10-04",
+          "sim_score": 0.776,
+          "is_estimated": true
+        },
+        {
+          "order": "B",
+          "class": "ドラゴン",
+          "deck_id": "CF66C",
+          "player": "もっちー",
+          "friend_code": "HBOCF",
+          "archetype_id": "9b2326",
+          "archetype_name": "八獄ドラゴン",
+          "archetype_period": "2026-08-17~2026-09-13",
+          "sim_score": 0.72,
+          "is_estimated": true
+        },
+        {
+          "order": "C",
+          "class": "ウマ娘 プリティーダービー",
+          "deck_id": "1M6XR2",
+          "player": "恋と呼ばれているもの",
+          "friend_code": "ECBSU",
+          "archetype_id": "9aa9d8",
+          "archetype_name": "スペルウマ娘",
+          "archetype_period": "2026-10-02~2026-10-04",
+          "sim_score": 0.985,
           "is_estimated": true
         }
       ]
