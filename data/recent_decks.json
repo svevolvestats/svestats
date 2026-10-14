@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "analysis_cutoff": "2026-10-04",
   "decks": [
     {
@@ -6784,52 +6784,6 @@
       "venue": "トーナメントセンターバトロコ本厚木駅前",
       "rank": 7,
       "participants": 14,
-      "team_name": "山上ツモまでちゃんと考えましょう",
-      "members": [
-        {
-          "order": "A",
-          "class": "ロイヤル",
-          "deck_id": "2V51VS",
-          "player": "ビーサン",
-          "friend_code": "ENLRW",
-          "archetype_id": "021113",
-          "archetype_name": "レヴィオンロイヤル",
-          "archetype_period": "2026-09-14~2026-10-01",
-          "sim_score": 0.993,
-          "is_estimated": true
-        },
-        {
-          "order": "B",
-          "class": "ウマ娘 プリティーダービー",
-          "deck_id": "JN664",
-          "player": "waz",
-          "friend_code": "LFQUC",
-          "archetype_id": "c0c1e6",
-          "archetype_name": "横並びウマ娘",
-          "archetype_period": "2026-10-02~2026-10-04",
-          "sim_score": 0.914,
-          "is_estimated": true
-        },
-        {
-          "order": "C",
-          "class": "ドラゴン",
-          "deck_id": "VKQC0",
-          "player": "コハク",
-          "friend_code": "JCNOD",
-          "archetype_id": "291e53",
-          "archetype_name": "侮蔑ドラゴン",
-          "archetype_period": "2026-10-02~2026-10-04",
-          "sim_score": 0.981,
-          "is_estimated": true
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "event_id": "1789975",
-      "venue": "トーナメントセンターバトロコ本厚木駅前",
-      "rank": 7,
-      "participants": 14,
       "team_name": "チーム名どうしよ",
       "members": [
         {
@@ -6866,6 +6820,52 @@
           "archetype_name": "スペルウマ娘",
           "archetype_period": "2026-10-02~2026-10-04",
           "sim_score": 0.985,
+          "is_estimated": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "event_id": "1789975",
+      "venue": "トーナメントセンターバトロコ本厚木駅前",
+      "rank": 7,
+      "participants": 14,
+      "team_name": "山上ツモまでちゃんと考えましょう",
+      "members": [
+        {
+          "order": "A",
+          "class": "ロイヤル",
+          "deck_id": "2V51VS",
+          "player": "ビーサン",
+          "friend_code": "ENLRW",
+          "archetype_id": "021113",
+          "archetype_name": "レヴィオンロイヤル",
+          "archetype_period": "2026-09-14~2026-10-01",
+          "sim_score": 0.993,
+          "is_estimated": true
+        },
+        {
+          "order": "B",
+          "class": "ウマ娘 プリティーダービー",
+          "deck_id": "JN664",
+          "player": "waz",
+          "friend_code": "LFQUC",
+          "archetype_id": "c0c1e6",
+          "archetype_name": "横並びウマ娘",
+          "archetype_period": "2026-10-02~2026-10-04",
+          "sim_score": 0.914,
+          "is_estimated": true
+        },
+        {
+          "order": "C",
+          "class": "ドラゴン",
+          "deck_id": "VKQC0",
+          "player": "コハク",
+          "friend_code": "JCNOD",
+          "archetype_id": "291e53",
+          "archetype_name": "侮蔑ドラゴン",
+          "archetype_period": "2026-10-02~2026-10-04",
+          "sim_score": 0.981,
           "is_estimated": true
         }
       ]
