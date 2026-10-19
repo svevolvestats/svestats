@@ -1,0 +1,39 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "c93526",
+      "rules": [
+        {
+          "required": ["滅屍の執行者・ミロエル"],
+          "name": "ミロエルナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+    },
+    {
+      "source": "2cd6ee",
+      "rules": [
+        {
+          "required": ["安息の継承者・ヒメカ"],
+          "name": "クレストビショップ"
+        },
+        {
+          "required": [],
+          "name": "コントロールビショップ"
+        }
+      ]
+    }
+  ]
+}

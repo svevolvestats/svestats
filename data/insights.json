@@ -1,37 +1,49 @@
 {
-  "period": "2026-10-02~2026-10-04",
+  "period": "2026-10-05~2026-10-18",
   "messages": [
     {
       "kind": "tier",
       "mood": "calm",
-      "text": "現環境のトップティアは「守護ビショップ」と「侮蔑ドラゴン」！対策の準備は忘れずに！首位の「守護ビショップ」はシェア15.3%。統計的に、この規模のデッキは急には崩れません。",
+      "text": "環境をリードしているのは「レヴィオンロイヤル」と「侮蔑ドラゴン」です！この調子だと、しばらくは「レヴィオンロイヤル」の時代ですね！",
       "links": [
         {
-          "name": "守護ビショップ",
-          "archetype_id": "db5bcd"
+          "name": "レヴィオンロイヤル",
+          "archetype_id": "c6c689"
         },
         {
           "name": "侮蔑ドラゴン",
-          "archetype_id": "291e53"
+          "archetype_id": "86cdcc"
         }
       ],
       "nuance": "persist",
-      "lead_id": "db5bcd",
-      "lead_share": 0.1535
+      "lead_id": "c6c689",
+      "lead_share": 0.179
+    },
+    {
+      "kind": "grade",
+      "target": "nuance",
+      "nuance": "persist",
+      "mood": "calm",
+      "hit": false,
+      "name": "守護ビショップ",
+      "text": "「守護ビショップ」は崩れないと言いましたが……シェア15.3%→6.5%。予想は外れでしたね。",
+      "archetype_id": "1fdcd8"
+    },
+    {
+      "kind": "grade",
+      "target": "riser",
+      "mood": "happy",
+      "hit": true,
+      "name": "透京ウィッチ",
+      "text": "前回の上昇予想「透京ウィッチ」は、シェア3.1%→4.2%。小幅ですが、いちおう当たりです。",
+      "archetype_id": "87d3bb"
     },
     {
       "kind": "riser",
       "mood": "smug",
-      "archetype_id": "f3de7b",
-      "name": "透京ウィッチ",
-      "text": "データが選んだ上昇候補は「透京ウィッチ」です！ノーマークだった方は要チェックですよ？"
-    },
-    {
-      "kind": "return",
-      "mood": "happy",
-      "archetype_id": "508f6a",
-      "name": "宴楽ロイヤル",
-      "text": "「宴楽ロイヤル」が帰ってきました！26/05以来の入賞で、TOP8シェアは4.8%です。"
+      "archetype_id": "cb8d2e",
+      "name": "スペルプリコネ",
+      "text": "データが選んだ上昇候補は「スペルプリコネ」です！ノーマークだった方は要チェックですよ？"
     }
   ]
 }
