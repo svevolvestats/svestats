@@ -1,0 +1,584 @@
+{
+ "period": {
+  "start": "2026-10-05",
+  "end": "2026-10-18"
+ },
+ "total_decks": 553,
+ "median_cost": 17516,
+ "budget": [
+  {
+   "id": "eeb513",
+   "name": "ゴブリンナイトメア",
+   "class": "ナイトメア",
+   "cost": 9762,
+   "count": 45,
+   "winner": 7,
+   "share": 0.0814,
+   "win_share": 0.1,
+   "min": {
+    "cost": 5730,
+    "deck_id": "84H0Y",
+    "date": "2026-10-10",
+    "rank": 6
+   }
+  },
+  {
+   "id": "87d3bb",
+   "name": "透京ウィッチ",
+   "class": "ウィッチ",
+   "cost": 11920,
+   "count": 23,
+   "winner": 3,
+   "share": 0.0416,
+   "win_share": 0.0429,
+   "min": {
+    "cost": 11530,
+    "deck_id": "1VTJBJ",
+    "date": "2026-10-17",
+    "rank": 2
+   }
+  },
+  {
+   "id": "65802b",
+   "name": "妖精エルフ",
+   "class": "エルフ",
+   "cost": 12754,
+   "count": 20,
+   "winner": 1,
+   "share": 0.0362,
+   "win_share": 0.0143,
+   "min": {
+    "cost": 10030,
+    "deck_id": "1XSB68",
+    "date": "2026-10-07",
+    "rank": 7
+   }
+  },
+  {
+   "id": "cf520b",
+   "name": "宴楽ロイヤル",
+   "class": "ロイヤル",
+   "cost": 13952,
+   "count": 20,
+   "winner": 1,
+   "share": 0.0362,
+   "win_share": 0.0143,
+   "min": {
+    "cost": 13410,
+    "deck_id": "2J0Y5W",
+    "date": "2026-10-12",
+    "rank": 2
+   }
+  },
+  {
+   "id": "03c305",
+   "name": "八獄ウィッチ",
+   "class": "ウィッチ",
+   "cost": 14338,
+   "count": 18,
+   "winner": 3,
+   "share": 0.0325,
+   "win_share": 0.0429,
+   "min": {
+    "cost": 10670,
+    "deck_id": "1XM4UY",
+    "date": "2026-10-11",
+    "rank": 4
+   }
+  },
+  {
+   "id": "302c78",
+   "name": "アイドルウィッチ",
+   "class": "ウィッチ",
+   "cost": 16601,
+   "count": 31,
+   "winner": 4,
+   "share": 0.0561,
+   "win_share": 0.0571,
+   "min": {
+    "cost": 14100,
+    "deck_id": "F8XPJ",
+    "date": "2026-10-17",
+    "rank": 7
+   }
+  }
+ ],
+ "starters": [
+  {
+   "code": "EBD01",
+   "type": "EBD",
+   "name": "EXビギナーデッキ「エルフ」",
+   "date": "2025-11-21",
+   "classes": [
+    "エルフ"
+   ],
+   "kinds": 19,
+   "cover": {
+    "expansion": "EBD01",
+    "image_url": "ebd01-001.webp",
+    "cardno": "EBD01-001",
+    "name": "自然の妖精姫・アリア"
+   },
+   "matches": [
+    {
+     "id": "65802b",
+     "name": "妖精エルフ",
+     "class": "エルフ",
+     "coverage": 0.379,
+     "kinds": 13,
+     "count": 20,
+     "winner": 1,
+     "key_card": "自然の妖精姫・アリア"
+    },
+    {
+     "id": "d76e7e",
+     "name": "墓場エルフ",
+     "class": "エルフ",
+     "coverage": 0.167,
+     "kinds": 6,
+     "count": 3,
+     "winner": 0,
+     "key_card": "フェアリーサークル"
+    }
+   ]
+  },
+  {
+   "code": "EBD02",
+   "type": "EBD",
+   "name": "EXビギナーデッキ「ウィッチ」",
+   "date": "2025-11-21",
+   "classes": [
+    "ウィッチ"
+   ],
+   "kinds": 18,
+   "cover": {
+    "expansion": "EBD02",
+    "image_url": "ebd02-001.webp",
+    "cardno": "EBD02-001",
+    "name": "真理の大文豪・ユキシマ"
+   },
+   "matches": []
+  },
+  {
+   "code": "EBD03",
+   "type": "EBD",
+   "name": "EXビギナーデッキ「ナイトメア」",
+   "date": "2025-11-21",
+   "classes": [
+    "ナイトメア"
+   ],
+   "kinds": 24,
+   "cover": {
+    "expansion": "EBD03",
+    "image_url": "ebd03-007.webp",
+    "cardno": "EBD03-007",
+    "name": "ストレイホロウ・イルガンノ"
+   },
+   "matches": [
+    {
+     "id": "911056",
+     "name": "NCナイトメア",
+     "class": "ナイトメア",
+     "coverage": 0.575,
+     "kinds": 10,
+     "count": 3,
+     "winner": 1,
+     "key_card": "ストレイホロウ・イルガンノ"
+    }
+   ]
+  },
+  {
+   "code": "EBD04",
+   "type": "EBD",
+   "name": "EXビギナーデッキ「ビショップ」",
+   "date": "2025-11-21",
+   "classes": [
+    "ビショップ"
+   ],
+   "kinds": 22,
+   "cover": {
+    "expansion": "EBD04",
+    "image_url": "ebd04-017.webp",
+    "cardno": "EBD04-017",
+    "name": "ダークオファリング"
+   },
+   "matches": [
+    {
+     "id": "189684",
+     "name": "コントロールビショップ",
+     "class": "ビショップ",
+     "coverage": 0.352,
+     "kinds": 10,
+     "count": 12,
+     "winner": 1,
+     "key_card": "ダークオファリング"
+    },
+    {
+     "id": "475a57",
+     "name": "クレストビショップ",
+     "class": "ビショップ",
+     "coverage": 0.183,
+     "kinds": 6,
+     "count": 3,
+     "winner": 1,
+     "key_card": "ダークオファリング"
+    }
+   ]
+  },
+  {
+   "code": "SD07",
+   "type": "SD",
+   "name": "スターターデッキ「新たなる戦場」",
+   "date": "2025-06-27",
+   "classes": [
+    "ロイヤル"
+   ],
+   "kinds": 19,
+   "cover": {
+    "expansion": "SD07",
+    "image_url": "sd07-019.webp",
+    "cardno": "SD07-019",
+    "name": "レヴィオンの魔術師・ミイム"
+   },
+   "matches": [
+    {
+     "id": "c6c689",
+     "name": "レヴィオンロイヤル",
+     "class": "ロイヤル",
+     "coverage": 0.632,
+     "kinds": 13,
+     "count": 99,
+     "winner": 16,
+     "key_card": "レヴィオンの魔術師・ミイム"
+    }
+   ]
+  },
+  {
+   "code": "SD08",
+   "type": "SD",
+   "name": "スターターデッキ「燃え尽きぬ炎」",
+   "date": "2025-06-27",
+   "classes": [
+    "ドラゴン"
+   ],
+   "kinds": 18,
+   "cover": {
+    "expansion": "SD08",
+    "image_url": "sd08-017.webp",
+    "cardno": "SD08-017",
+    "name": "オーブキャンサー"
+   },
+   "matches": [
+    {
+     "id": "5a2775",
+     "name": "7ドラゴン",
+     "class": "ドラゴン",
+     "coverage": 0.45,
+     "kinds": 7,
+     "count": 3,
+     "winner": 0,
+     "key_card": "オーブキャンサー"
+    }
+   ]
+  },
+  {
+   "code": "CSD03A",
+   "type": "CSD",
+   "name": "コラボスターターデッキ「聖域の騎士団」",
+   "date": "2024-06-28",
+   "classes": [
+    "ロイヤル"
+   ],
+   "kinds": 17,
+   "cover": {
+    "expansion": "CSD03A",
+    "image_url": "csd03a-001.webp",
+    "cardno": "CSD03A-001",
+    "name": "アルフレッド・アーリー"
+   },
+   "matches": []
+  },
+  {
+   "code": "CSD03B",
+   "type": "CSD",
+   "name": "コラボスターターデッキ「黙示録の炎」",
+   "date": "2024-06-28",
+   "classes": [
+    "ドラゴン"
+   ],
+   "kinds": 17,
+   "cover": {
+    "expansion": "CSD03B",
+    "image_url": "csd03b-001.webp",
+    "cardno": "CSD03B-001",
+    "name": "ドラゴニック・オーバーロード"
+   },
+   "matches": []
+  },
+  {
+   "code": "DSD01",
+   "type": "DSD",
+   "name": "DXスターターデッキ「学院に咲く双華」「武なる雷鳴」",
+   "date": "2024-04-19",
+   "classes": [
+    "ウィッチ",
+    "ドラゴン"
+   ],
+   "kinds": 32,
+   "cover": {
+    "expansion": "DSD01",
+    "image_url": "dsd01a-009.webp",
+    "cardno": "DSD01a-009",
+    "name": "グレアの炎熱"
+   },
+   "matches": [
+    {
+     "id": "ab4b28",
+     "name": "学院ウィッチ",
+     "class": "ウィッチ",
+     "coverage": 0.272,
+     "kinds": 5,
+     "count": 18,
+     "winner": 3,
+     "key_card": "グレアの炎熱"
+    }
+   ]
+  },
+  {
+   "code": "CSD02A",
+   "type": "CSD",
+   "name": "コラボスターターデッキ「Cute」",
+   "date": "2023-08-25",
+   "classes": [
+    "ロイヤル",
+    "ウィッチ"
+   ],
+   "kinds": 16,
+   "cover": {
+    "expansion": "CSD02A",
+    "image_url": "csd02a-001.webp",
+    "cardno": "CSD02A-001",
+    "name": "〔P.C.S〕島村卯月"
+   },
+   "matches": []
+  },
+  {
+   "code": "CSD02B",
+   "type": "CSD",
+   "name": "コラボスターターデッキ「Cool」",
+   "date": "2023-08-25",
+   "classes": [
+    "ロイヤル",
+    "ウィッチ"
+   ],
+   "kinds": 16,
+   "cover": {
+    "expansion": "CSD02B",
+    "image_url": "csd02b-001.webp",
+    "cardno": "CSD02B-001",
+    "name": "〔Triad Primus〕渋谷凛"
+   },
+   "matches": []
+  },
+  {
+   "code": "CSD02C",
+   "type": "CSD",
+   "name": "コラボスターターデッキ「Passion」",
+   "date": "2023-08-25",
+   "classes": [
+    "ロイヤル",
+    "ビショップ"
+   ],
+   "kinds": 16,
+   "cover": {
+    "expansion": "CSD02C",
+    "image_url": "csd02c-001.webp",
+    "cardno": "CSD02C-001",
+    "name": "〔ポジティブパッション〕本田未央"
+   },
+   "matches": []
+  },
+  {
+   "code": "ETD01",
+   "type": "ETD",
+   "name": "エントリーデッキSVF第1弾「天竜ライト」",
+   "date": "2022-11-19",
+   "classes": [
+    "ドラゴン"
+   ],
+   "kinds": 17,
+   "cover": {
+    "expansion": "ETD01",
+    "image_url": "etd01-001.webp",
+    "cardno": "ETD01-001",
+    "name": "ナックルドラゴン・ドラグニル"
+   },
+   "matches": []
+  },
+  {
+   "code": "ETD02",
+   "type": "ETD",
+   "name": "エントリーデッキSVF第2弾「真壁スバル」",
+   "date": "2022-11-19",
+   "classes": [
+    "ナイトメア"
+   ],
+   "kinds": 18,
+   "cover": {
+    "expansion": "ETD02",
+    "image_url": "etd02-001.webp",
+    "cardno": "ETD02-001",
+    "name": "プチゴースト・バケルス"
+   },
+   "matches": []
+  },
+  {
+   "code": "ETD03",
+   "type": "ETD",
+   "name": "エントリーデッキSVF第3弾「蜜田川イツキ」",
+   "date": "2022-11-19",
+   "classes": [
+    "エルフ"
+   ],
+   "kinds": 18,
+   "cover": {
+    "expansion": "ETD03",
+    "image_url": "etd03-001.webp",
+    "cardno": "ETD03-001",
+    "name": "ブロッサムウルフ・スレイド"
+   },
+   "matches": []
+  },
+  {
+   "code": "CSD01",
+   "type": "CSD",
+   "name": "コラボスターターデッキ「出走！ウマ娘！」",
+   "date": "2022-10-01",
+   "classes": [
+    "ロイヤル",
+    "ドラゴン"
+   ],
+   "kinds": 31,
+   "cover": {
+    "expansion": "CSD01",
+    "image_url": "csd01-009.webp",
+    "cardno": "CSD01-009",
+    "name": "検証、開始"
+   },
+   "matches": [
+    {
+     "id": "945255",
+     "name": "スペルウマ娘",
+     "class": "ウマ娘 プリティーダービー",
+     "coverage": 0.175,
+     "kinds": 4,
+     "count": 6,
+     "winner": 0,
+     "key_card": "検証、開始"
+    }
+   ]
+  },
+  {
+   "code": "SD01",
+   "type": "SD",
+   "name": "スターターデッキ第1弾「麗しの妖精姫」",
+   "date": "2022-04-28",
+   "classes": [
+    "エルフ"
+   ],
+   "kinds": 18,
+   "cover": {
+    "expansion": "SD01",
+    "image_url": "SD01-001.webp",
+    "cardno": "SD01-001",
+    "name": "フェアリープリンセス・アリア"
+   },
+   "matches": []
+  },
+  {
+   "code": "SD02",
+   "type": "SD",
+   "name": "スターターデッキ第2弾「怨讐刀鬼」",
+   "date": "2022-04-28",
+   "classes": [
+    "ロイヤル"
+   ],
+   "kinds": 19,
+   "cover": {
+    "expansion": "SD02",
+    "image_url": "SD02-001.webp",
+    "cardno": "SD02-001",
+    "name": "ツバキ"
+   },
+   "matches": []
+  },
+  {
+   "code": "SD03",
+   "type": "SD",
+   "name": "スターターデッキ第3弾「神秘錬成」",
+   "date": "2022-04-28",
+   "classes": [
+    "ウィッチ"
+   ],
+   "kinds": 19,
+   "cover": {
+    "expansion": "SD03",
+    "image_url": "SD03-001.webp",
+    "cardno": "SD03-001",
+    "name": "ミスリルゴーレム"
+   },
+   "matches": []
+  },
+  {
+   "code": "SD04",
+   "type": "SD",
+   "name": "スターターデッキ第4弾「蛇竜の爪牙」",
+   "date": "2022-04-28",
+   "classes": [
+    "ドラゴン"
+   ],
+   "kinds": 18,
+   "cover": {
+    "expansion": "SD04",
+    "image_url": "SD04-001.webp",
+    "cardno": "SD04-001",
+    "name": "ファフニール"
+   },
+   "matches": []
+  },
+  {
+   "code": "SD05",
+   "type": "SD",
+   "name": "スターターデッキ第5弾「永久なる定め」",
+   "date": "2022-04-28",
+   "classes": [
+    "ナイトメア"
+   ],
+   "kinds": 19,
+   "cover": {
+    "expansion": "SD05",
+    "image_url": "SD05-001.webp",
+    "cardno": "SD05-001",
+    "name": "クイーンヴァンパイア"
+   },
+   "matches": []
+  },
+  {
+   "code": "SD06",
+   "type": "SD",
+   "name": "スターターデッキ第6弾「穢れし洗礼」",
+   "date": "2022-04-28",
+   "classes": [
+    "ビショップ"
+   ],
+   "kinds": 19,
+   "cover": {
+    "expansion": "SD06",
+    "image_url": "SD06-001.webp",
+    "cardno": "SD06-001",
+    "name": "スカルフェイン"
+   },
+   "matches": []
+  }
+ ]
+}
