@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 19,
-      "n_layouts": 2387642010,
+      "revealed_count": 22,
+      "n_layouts": 1791771103,
       "unique": false,
       "classes": [
         "エルフ",
@@ -46,7 +46,9 @@
             {
               "num": 1,
               "cardno": "CP05-001",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-001",
+              "kind": "base"
             },
             {
               "num": 2,
@@ -64,8 +66,8 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 2,
+          "revealed_count": 1,
+          "confirmed_count": 1,
           "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
@@ -206,22 +208,26 @@
             {
               "num": 21,
               "cardno": "CP05-021",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-021",
+              "kind": "base"
             },
             {
               "num": 22,
               "cardno": "CP05-022",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-022",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|GR": {
           "class": "ロイヤル",
