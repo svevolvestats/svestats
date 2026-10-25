@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2187,
+ "in_evolve": 2189,
  "match_breakdown": {
-  "exact": 2167,
-  "null": 2674,
+  "exact": 2169,
+  "null": 2672,
   "alias": 19,
   "normalized": 1
  },
@@ -45144,9 +45144,9 @@
      "vo_109741010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-095",
+   "matched_by": "exact",
    "name_en": "De La Fille, Gem Princess",
    "expansion_en": "Brigade of the Sky"
   },
@@ -83392,9 +83392,9 @@
      "vo_119031010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-108",
+   "matched_by": "exact",
    "name_en": "Vyrn, Li'l Red Dragon",
    "expansion_en": "Eternal Awakening"
   },
