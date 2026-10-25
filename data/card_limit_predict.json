@@ -1,0 +1,4 @@
+{
+  "_comment": "禁止・殿堂入り予想の回. {id, notice_date, announce_date, name?, url?}. id = 日付と無関係な連番 (\"1\",\"2\",…; URL ?round= に出るので振り直さない). notice_date = 「○日に発表」の告知が出た日 (この日 0:00 JST から受付), announce_date = 実際の発表日 (この日 0:00 JST に締切 → 集計ページ). name 省略時は「第{id}回」. card_limit_history.json の announced を announce_date と同じ日にすると採点が付く. サーバーは VM の git pull で反映 (再起動不要), サイトは deploy で反映.",
+  "rounds": []
+}
