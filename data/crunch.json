@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 22,
-      "n_layouts": 1791771103,
+      "revealed_count": 28,
+      "n_layouts": 287514971,
       "unique": false,
       "classes": [
         "エルフ",
@@ -483,12 +483,17 @@
               "status": "revealed",
               "oracle_id": "CP05-053",
               "kind": "base"
+            },
+            {
+              "num": 54,
+              "cardno": "CP05-054",
+              "status": "estimated"
             }
           ],
           "revealed_count": 2,
           "confirmed_count": 1,
-          "estimated_count": 2,
-          "size": 5,
+          "estimated_count": 3,
+          "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
@@ -498,11 +503,6 @@
           "class": "ドラゴン",
           "rarity": "LG",
           "slots": [
-            {
-              "num": 54,
-              "cardno": "CP05-054",
-              "status": "estimated"
-            },
             {
               "num": 55,
               "cardno": "CP05-055",
@@ -527,9 +527,9 @@
           ],
           "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 1,
-          "size": 4,
-          "size_status": "estimated",
+          "estimated_count": 0,
+          "size": 3,
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -808,26 +808,26 @@
               "num": 90,
               "cardno": "CP05-090",
               "status": "estimated"
+            },
+            {
+              "num": 91,
+              "cardno": "CP05-091",
+              "status": "estimated"
             }
           ],
           "revealed_count": 0,
           "confirmed_count": 0,
-          "estimated_count": 4,
-          "size": 4,
+          "estimated_count": 5,
+          "size": 5,
           "size_status": "estimated",
           "advance": 0,
-          "evolve_pred": 1,
+          "evolve_pred": 2,
           "evolve_revealed": 0
         },
         "ビショップ|GR": {
           "class": "ビショップ",
           "rarity": "GR",
           "slots": [
-            {
-              "num": 91,
-              "cardno": "CP05-091",
-              "status": "estimated"
-            },
             {
               "num": 92,
               "cardno": "CP05-092",
@@ -842,11 +842,18 @@
               "num": 94,
               "cardno": "CP05-094",
               "status": "estimated"
+            },
+            {
+              "num": 95,
+              "cardno": "CP05-095",
+              "status": "revealed",
+              "oracle_id": "CP05-095",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 3,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -858,11 +865,6 @@
           "rarity": "SR",
           "slots": [
             {
-              "num": 95,
-              "cardno": "CP05-095",
-              "status": "estimated"
-            },
-            {
               "num": 96,
               "cardno": "CP05-096",
               "status": "estimated"
@@ -870,32 +872,36 @@
             {
               "num": 97,
               "cardno": "CP05-097",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-097",
+              "kind": "base"
             },
             {
               "num": 98,
               "cardno": "CP05-098",
+              "status": "revealed",
+              "oracle_id": "CP05-098",
+              "kind": "evolve"
+            },
+            {
+              "num": 99,
+              "cardno": "CP05-099",
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 2,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ビショップ|BR": {
           "class": "ビショップ",
           "rarity": "BR",
           "slots": [
-            {
-              "num": 99,
-              "cardno": "CP05-099",
-              "status": "estimated"
-            },
             {
               "num": 100,
               "cardno": "CP05-100",
@@ -923,13 +929,15 @@
             {
               "num": 104,
               "cardno": "CP05-104",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-104",
+              "kind": "base"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 3,
           "confirmed_count": 1,
-          "estimated_count": 3,
-          "size": 6,
+          "estimated_count": 1,
+          "size": 5,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
@@ -973,12 +981,16 @@
             {
               "num": 108,
               "cardno": "CP05-108",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-108",
+              "kind": "base"
             },
             {
               "num": 109,
               "cardno": "CP05-109",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-109",
+              "kind": "evolve"
             },
             {
               "num": 110,
@@ -988,14 +1000,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 0,
           "size": 3,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ニュートラル|SR": {
           "class": "ニュートラル",
