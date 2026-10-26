@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2189,
+ "in_evolve": 2192,
  "match_breakdown": {
-  "exact": 2169,
-  "null": 2672,
+  "exact": 2172,
+  "null": 2669,
   "alias": 19,
   "normalized": 1
  },
@@ -43195,9 +43195,9 @@
      "vo_109331020_4_evo.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-041",
+   "matched_by": "exact",
    "name_en": "Cagliostro, Adorable Genius",
    "expansion_en": "Brigade of the Sky"
   },
@@ -87499,9 +87499,9 @@
      "vo_800843020_1.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-044",
+   "matched_by": "exact",
    "name_en": "Colossus Omega",
    "expansion_en": "Eternal Awakening"
   },
@@ -159199,9 +159199,9 @@
      "vo_900334030_1.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T08",
+   "matched_by": "exact",
    "name_en": "Ars Magna",
    "expansion_en": "Token"
   },
