@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 33,
-      "n_layouts": 114888194,
+      "revealed_count": 39,
+      "n_layouts": 17030673,
       "unique": false,
       "classes": [
         "エルフ",
@@ -53,7 +53,9 @@
             {
               "num": 2,
               "cardno": "CP05-002",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-002",
+              "kind": "base"
             },
             {
               "num": 3,
@@ -66,8 +68,8 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 1,
+          "revealed_count": 2,
+          "confirmed_count": 0,
           "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
@@ -152,17 +154,21 @@
             {
               "num": 13,
               "cardno": "CP05-013",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-013",
+              "kind": "base"
             },
             {
               "num": 14,
               "cardno": "CP05-014",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-014",
+              "kind": "evolve"
             },
             {
               "num": 15,
               "cardno": "CP05-015",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 16,
@@ -182,14 +188,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 3,
+          "revealed_count": 3,
+          "confirmed_count": 3,
+          "estimated_count": 0,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|LG": {
           "class": "ロイヤル",
@@ -203,7 +209,7 @@
             {
               "num": 20,
               "cardno": "CP05-020",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 21,
@@ -221,8 +227,8 @@
             }
           ],
           "revealed_count": 2,
-          "confirmed_count": 0,
-          "estimated_count": 2,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -621,17 +627,23 @@
             {
               "num": 66,
               "cardno": "CP05-066",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-066",
+              "kind": "base"
             },
             {
               "num": 67,
               "cardno": "CP05-067",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-067",
+              "kind": "evolve"
             },
             {
               "num": 68,
               "cardno": "CP05-068",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-068",
+              "kind": "base"
             },
             {
               "num": 69,
@@ -651,14 +663,14 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 2,
-          "estimated_count": 3,
+          "revealed_count": 4,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ナイトメア|LG": {
           "class": "ナイトメア",
@@ -672,7 +684,7 @@
             {
               "num": 73,
               "cardno": "CP05-073",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 74,
@@ -686,8 +698,8 @@
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "confirmed_count": 1,
+          "estimated_count": 3,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
