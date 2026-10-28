@@ -4,7 +4,7 @@
   "end": "2026-10-18"
  },
  "total_decks": 553,
- "median_cost": 17373,
+ "median_cost": 16903,
  "budget": [
   {
    "id": "eeb513",
@@ -22,6 +22,24 @@
     "rank": 6,
     "player": "朝倉",
     "friend_code": "XJUWV"
+   }
+  },
+  {
+   "id": "65802b",
+   "name": "妖精エルフ",
+   "class": "エルフ",
+   "cost": 11164,
+   "count": 20,
+   "winner": 1,
+   "share": 0.0362,
+   "win_share": 0.0143,
+   "min": {
+    "cost": 8230,
+    "deck_id": "1XSB68",
+    "date": "2026-10-07",
+    "rank": 7,
+    "player": "chome",
+    "friend_code": "YYASC"
    }
   },
   {
@@ -43,24 +61,6 @@
    }
   },
   {
-   "id": "65802b",
-   "name": "妖精エルフ",
-   "class": "エルフ",
-   "cost": 11754,
-   "count": 20,
-   "winner": 1,
-   "share": 0.0362,
-   "win_share": 0.0143,
-   "min": {
-    "cost": 8830,
-    "deck_id": "1XSB68",
-    "date": "2026-10-07",
-    "rank": 7,
-    "player": "chome",
-    "friend_code": "YYASC"
-   }
-  },
-  {
    "id": "cf520b",
    "name": "宴楽ロイヤル",
    "class": "ロイヤル",
@@ -79,6 +79,24 @@
    }
   },
   {
+   "id": "0b7232",
+   "name": "横並びウマ娘",
+   "class": "ウマ娘 プリティーダービー",
+   "cost": 13688,
+   "count": 25,
+   "winner": 1,
+   "share": 0.0452,
+   "win_share": 0.0143,
+   "min": {
+    "cost": 12180,
+    "deck_id": "13MKX2",
+    "date": "2026-10-18",
+    "rank": 7,
+    "player": "ほわとら",
+    "friend_code": "YLUKJ"
+   }
+  },
+  {
    "id": "03c305",
    "name": "八獄ウィッチ",
    "class": "ウィッチ",
@@ -94,24 +112,6 @@
     "rank": 4,
     "player": "TEMMIE",
     "friend_code": "DZLJB"
-   }
-  },
-  {
-   "id": "0b7232",
-   "name": "横並びウマ娘",
-   "class": "ウマ娘 プリティーダービー",
-   "cost": 14428,
-   "count": 25,
-   "winner": 1,
-   "share": 0.0452,
-   "win_share": 0.0143,
-   "min": {
-    "cost": 12680,
-    "deck_id": "13MKX2",
-    "date": "2026-10-18",
-    "rank": 7,
-    "player": "ほわとら",
-    "friend_code": "YLUKJ"
    }
   }
  ],
