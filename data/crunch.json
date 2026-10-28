@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 44,
-      "n_layouts": 2745903,
+      "revealed_count": 46,
+      "n_layouts": 2161433,
       "unique": false,
       "classes": [
         "エルフ",
@@ -862,12 +862,16 @@
             {
               "num": 93,
               "cardno": "CP05-093",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-093",
+              "kind": "base"
             },
             {
               "num": 94,
               "cardno": "CP05-094",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-094",
+              "kind": "evolve"
             },
             {
               "num": 95,
@@ -877,14 +881,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 3,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ビショップ|SR": {
           "class": "ビショップ",
