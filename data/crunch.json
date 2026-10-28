@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 39,
-      "n_layouts": 17030673,
+      "revealed_count": 44,
+      "n_layouts": 2745903,
       "unique": false,
       "classes": [
         "エルフ",
@@ -252,7 +252,9 @@
             {
               "num": 25,
               "cardno": "CP05-025",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-025",
+              "kind": "base"
             },
             {
               "num": 26,
@@ -260,9 +262,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 3,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -829,7 +831,9 @@
             {
               "num": 90,
               "cardno": "CP05-090",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-090",
+              "kind": "base"
             },
             {
               "num": 91,
@@ -837,13 +841,13 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 5,
+          "estimated_count": 4,
           "size": 5,
           "size_status": "estimated",
           "advance": 0,
-          "evolve_pred": 2,
+          "evolve_pred": 1,
           "evolve_revealed": 0
         },
         "ビショップ|GR": {
@@ -972,12 +976,16 @@
             {
               "num": 105,
               "cardno": "CP05-105",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-105",
+              "kind": "base"
             },
             {
               "num": 106,
               "cardno": "CP05-106",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-106",
+              "kind": "evolve"
             },
             {
               "num": 107,
@@ -987,14 +995,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 1,
+          "revealed_count": 3,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 0,
           "size": 3,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ニュートラル|GR": {
           "class": "ニュートラル",
@@ -1026,7 +1034,7 @@
           "confirmed_count": 0,
           "estimated_count": 0,
           "size": 3,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -1038,14 +1046,16 @@
             {
               "num": 111,
               "cardno": "CP05-111",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-111",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 1,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 0,
           "evolve_revealed": 0
@@ -1058,7 +1068,7 @@
           "confirmed_count": 0,
           "estimated_count": 0,
           "size": 0,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 0,
           "evolve_revealed": 0
