@@ -655,6 +655,24 @@
         "source_url": "https://x.com/shadowverse_ev/status/2114281055033471025"
     },
     {
+        "oracle_id": "CP05-096",
+        "name": "シュヴァリエ・マグナ",
+        "class": "ビショップ",
+        "card_type": ["アミュレット"],
+        "tribe": ["グラブル","光属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 3,
+        "atk": null,
+        "hp": null,
+        "text": "【ファンファーレ】自分のデッキの上1枚を公開する。光属性・カードを公開したなら、自分のPP最大値を+1する。\n【起動】これを墓場に置く：『光晶のエレメント』1枚をEXエリアに置く。1枚引く。この能力は自分の場の元のコスト5のグラブル・フォロワーが3体以上なら使える。",
+        "keywords": ["ファンファーレ","起動"],
+        "expansion": "CP05",
+        "image_url": "CP05-096.png",
+        "release_date": "2026-11-27",
+        "rarity": "GR",
+        "source_url": "https://dorasuta.jp/column/detail?aid=11568"
+    },
+    {
         "oracle_id": "CP05-097",
         "name": "魔杖の外科医・ティコ",
         "class": "ビショップ",
@@ -693,6 +711,24 @@
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://x.com/shadowverse_ev/status/2114283398353359223"
+    },
+    {
+        "oracle_id": "CP05-099",
+        "name": "星界の艇人・ノア",
+        "class": "ビショップ",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","光属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 5,
+        "atk": 1,
+        "hp": 1,
+        "text": "【守護】（これが場に出たときか、自分のエンドフェイズにこれをアクトできる。相手は、アクト状態の【守護】を持つフォロワー以外を攻撃できない）\n【ファンファーレ】これは攻撃力+X/体力+Xする。Xは「自分のPP最大値」である。",
+        "keywords": ["守護","ファンファーレ"],
+        "expansion": "CP05",
+        "image_url": "CP05-099.png",
+        "release_date": "2026-11-27",
+        "rarity": "SR",
+        "source_url": "https://dorasuta.jp/column/detail?aid=11568"
     },
     {
         "oracle_id": "CP05-101",
