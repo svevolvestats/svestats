@@ -82,15 +82,10 @@ async function onRequest(context) {
   }
   if (!isCrawler(context.request)) return serveIndex(context);
   try {
-    const shard = (fc[0] || "").toUpperCase();
-    const players = await fetchJson(`${origin}/data/players/${encodeURIComponent(shard)}.json`).catch(() => fetchJson(`${origin}/data/players.json`));
+    const players = await fetchJson(`${origin}/data/og/players.json`);
     const p = players[fc];
-    const name = p ? p.names[0] : fc;
-    const desc = p ? [
-      p.wins ? `\u512A\u52DD\uFF1A${p.wins}\u56DE` : null,
-      p.second ? `\u6E96\u512A\u52DD\uFF1A${p.second}\u56DE` : null,
-      p.top8 ? `TOP8\uFF1A${p.top8}\u56DE` : null
-    ].filter(Boolean).join(" ") : "";
+    const name = p ? p[0] : fc;
+    const desc = p ? p[1] : "";
     return serveWithOG(context, {
       title: `${name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description: desc,

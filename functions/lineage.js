@@ -21,10 +21,8 @@ function serveIndex(context) {
   const origin = new URL(context.request.url).origin;
   return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
 }
-function cardImageUrl(print) {
-  if (!print?.image_url) return null;
-  const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
-  return `${R2_BASE}/images/${print.expansion}/${filename}`;
+function ogImgUrl(path) {
+  return path ? `${R2_BASE}/images/${path}` : null;
 }
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -134,25 +132,8 @@ function rangeLabel(ps) {
 async function repCardImage(origin, node) {
   const names = node?.top_cards || [];
   if (!names.length) return null;
-  const lite = await fetchJson(`${origin}/data/cards_lite.json`);
-  const byName = {};
-  for (const pass of [0, 1]) {
-    for (const o of lite.oracles || []) {
-      const isEvolved = (o.evolved_from?.length ?? 0) > 0;
-      if (pass === 0 ? isEvolved : !isEvolved) continue;
-      if (pass === 0 || !byName[o.name]) byName[o.name] = o;
-      for (const alt of o.alt_names || []) {
-        if (pass === 0 || !byName[alt]) byName[alt] = o;
-      }
-    }
-  }
-  for (const name of names) {
-    const oracle = byName[name];
-    const print = oracle && lite.prints?.[oracle.canonical_print];
-    const img = print && cardImageUrl(print);
-    if (img) return img;
-  }
-  return null;
+  const cardImg = await fetchJson(`${origin}/data/og/card_img.json`);
+  return ogImgUrl(names.map((n) => cardImg[n]).find(Boolean));
 }
 function topArchetypes(nodes, periodSet, filterClass, limit = 3) {
   const agg = /* @__PURE__ */ new Map();

@@ -1,5 +1,4 @@
 // _shared.js
-var R2_BASE = "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev";
 var CACHE_NAME = "sve-og-v1";
 async function fetchJson(url) {
   const cache = await caches.open(CACHE_NAME);
@@ -21,14 +20,8 @@ function serveIndex(context) {
   const origin = new URL(context.request.url).origin;
   return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
 }
-function cardImageUrl(print) {
-  if (!print?.image_url) return null;
-  const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
-  return `${R2_BASE}/images/${print.expansion}/${filename}`;
-}
-function upcomingCardImageUrl(card) {
-  if (!card?.image_url) return null;
-  return `${R2_BASE}/images/upcoming/${card.image_url}`;
+function ogShard(id) {
+  return id.toLowerCase().split("-")[0].replace(/[^a-z0-9]/g, "") || "_";
 }
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -84,42 +77,14 @@ async function onRequest(context) {
   const origin = new URL(request.url).origin;
   if (!isCrawler(request)) return serveIndex(context);
   try {
-    const [oracles, prints] = await Promise.all([
-      fetchJson(`${origin}/data/oracles.json`),
-      fetchJson(`${origin}/data/prints.json`)
-    ]);
-    const printsMap = Object.fromEntries(prints.map((p) => [p.cardno, p]));
-    const idLower = cardId.toLowerCase();
-    let oracle = oracles.find((o) => o.oracle_id === cardId) || oracles.find((o) => o.oracle_id.toLowerCase() === idLower);
-    let resolvedCardId = cardId;
-    if (!oracle) {
-      const hit = printsMap[cardId] || prints.find((p) => p.cardno.toLowerCase() === idLower);
-      if (hit) {
-        oracle = oracles.find((o) => o.oracle_id === hit.oracle_id);
-        resolvedCardId = hit.cardno;
-      }
-    }
-    if (oracle) {
-      const printCardno = printsMap[resolvedCardId] ? resolvedCardId : oracle.canonical_print;
-      const print = printsMap[printCardno];
-      const title2 = `${print?.name || oracle.name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
-      const desc2 = (oracle.text || "").replace(/\n/g, " ").slice(0, 150) || "Shadowverse EVOLVE \u30AB\u30FC\u30C9";
-      return serveWithOG(context, {
-        title: title2,
-        description: desc2,
-        imageUrl: cardImageUrl(print),
-        pageUrl: `${origin}/card/${cardId}`
-      });
-    }
-    const upcoming = await fetchJson(`${origin}/data/upcoming.json`);
-    const upcomingCard = upcoming.find((c) => c.oracle_id === cardId || c.oracle_id.toLowerCase() === idLower);
-    if (!upcomingCard) throw new Error("not found");
-    const title = `${upcomingCard.name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`;
-    const desc = (upcomingCard.text || "").replace(/\n/g, " ").slice(0, 150) || "Shadowverse EVOLVE \u30AB\u30FC\u30C9";
-    return serveWithOG(context, {
-      title,
+    const shard = await fetchJson(`${origin}/data/og/cards/${ogShard(cardId)}.json`);
+    const hit = shard[cardId.toLowerCase()];
+    if (!hit) throw new Error("not found");
+    const [name, desc, imageUrl] = hit;
+    return await serveWithOG(context, {
+      title: `${name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description: desc,
-      imageUrl: upcomingCardImageUrl(upcomingCard),
+      imageUrl,
       pageUrl: `${origin}/card/${cardId}`
     });
   } catch {

@@ -21,10 +21,8 @@ function serveIndex(context) {
   const origin = new URL(context.request.url).origin;
   return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
 }
-function cardImageUrl(print) {
-  if (!print?.image_url) return null;
-  const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
-  return `${R2_BASE}/images/${print.expansion}/${filename}`;
+function ogImgUrl(path) {
+  return path ? `${R2_BASE}/images/${path}` : null;
 }
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -85,35 +83,15 @@ async function onRequest(context) {
   const trio = url.searchParams.get("trio");
   try {
     const dataBase = trio ? `${origin}/data/recap_trio/${trio}` : recap ? `${origin}/data/recap/${recap}` : period ? `${origin}/data/archetypes/${period}` : `${origin}/data`;
-    const [meta, oracles, prints] = await Promise.all([
+    const [meta, cardImg] = await Promise.all([
       fetchJson(`${dataBase}/meta.json`),
-      fetchJson(`${origin}/data/oracles.json`),
-      fetchJson(`${origin}/data/prints.json`)
+      // {card name: "EXP/file.jpg"} from scraper/build_og_lookup.py (alt/face names
+      // included) — parsing oracles+prints (7MB) here blew the Workers CPU limit.
+      fetchJson(`${origin}/data/og/card_img.json`)
     ]);
     const arch = meta.archetypes?.find((a) => a.id === archId);
     if (!arch) throw new Error("not found");
-    const printsMap = Object.fromEntries(prints.map((p2) => [p2.cardno, p2]));
-    const oracleByName = {};
-    for (const o of oracles) {
-      oracleByName[o.name] = o;
-      for (const alt of o.alt_names || []) oracleByName[alt] = o;
-    }
-    for (const o of oracles) {
-      for (const f of o.faces || []) {
-        if (f?.name && !oracleByName[f.name]) oracleByName[f.name] = o;
-      }
-    }
-    let imageUrl = null;
-    for (const cardName of arch.top_cards || []) {
-      const oracle = oracleByName[cardName];
-      if (oracle) {
-        const img = cardImageUrl(printsMap[oracle.canonical_print]);
-        if (img) {
-          imageUrl = img;
-          break;
-        }
-      }
-    }
+    const imageUrl = ogImgUrl((arch.top_cards || []).map((n) => cardImg[n]).find(Boolean));
     const archName = arch.name || archId;
     const p = meta.period ?? {};
     let contextLabel = p.start && p.end ? `${p.start}\u301C${p.end}` : "";
