@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30",
+  "generated_at": "2026-10-31",
   "expansions": [
     {
       "expansion": "CP05",
@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 48,
-      "n_layouts": 635148,
+      "revealed_count": 50,
+      "n_layouts": 579650,
       "unique": false,
       "classes": [
         "エルフ",
@@ -288,7 +288,9 @@
             {
               "num": 29,
               "cardno": "CP05-029",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-029",
+              "kind": "base"
             },
             {
               "num": 30,
@@ -296,9 +298,9 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 0,
+          "revealed_count": 1,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 3,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -489,7 +491,9 @@
             {
               "num": 52,
               "cardno": "CP05-052",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-052",
+              "kind": "base"
             },
             {
               "num": 53,
@@ -504,8 +508,8 @@
               "status": "estimated"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
+          "revealed_count": 3,
+          "confirmed_count": 0,
           "estimated_count": 3,
           "size": 6,
           "size_status": "estimated",
@@ -697,26 +701,26 @@
               "num": 75,
               "cardno": "CP05-075",
               "status": "estimated"
+            },
+            {
+              "num": 76,
+              "cardno": "CP05-076",
+              "status": "estimated"
             }
           ],
           "revealed_count": 0,
           "confirmed_count": 1,
-          "estimated_count": 3,
-          "size": 4,
+          "estimated_count": 4,
+          "size": 5,
           "size_status": "estimated",
           "advance": 0,
-          "evolve_pred": 1,
+          "evolve_pred": 2,
           "evolve_revealed": 0
         },
         "ナイトメア|GR": {
           "class": "ナイトメア",
           "rarity": "GR",
           "slots": [
-            {
-              "num": 76,
-              "cardno": "CP05-076",
-              "status": "estimated"
-            },
             {
               "num": 77,
               "cardno": "CP05-077",
@@ -732,6 +736,11 @@
             {
               "num": 79,
               "cardno": "CP05-079",
+              "status": "estimated"
+            },
+            {
+              "num": 80,
+              "cardno": "CP05-080",
               "status": "estimated"
             }
           ],
@@ -749,11 +758,6 @@
           "rarity": "SR",
           "slots": [
             {
-              "num": 80,
-              "cardno": "CP05-080",
-              "status": "estimated"
-            },
-            {
               "num": 81,
               "cardno": "CP05-081",
               "status": "estimated"
@@ -768,6 +772,11 @@
             {
               "num": 83,
               "cardno": "CP05-083",
+              "status": "estimated"
+            },
+            {
+              "num": 84,
+              "cardno": "CP05-084",
               "status": "estimated"
             }
           ],
@@ -785,11 +794,6 @@
           "rarity": "BR",
           "slots": [
             {
-              "num": 84,
-              "cardno": "CP05-084",
-              "status": "estimated"
-            },
-            {
               "num": 85,
               "cardno": "CP05-085",
               "status": "estimated"
@@ -802,6 +806,11 @@
             {
               "num": 87,
               "cardno": "CP05-087",
+              "status": "estimated"
+            },
+            {
+              "num": 88,
+              "cardno": "CP05-088",
               "status": "estimated"
             }
           ],
@@ -818,11 +827,6 @@
           "class": "ビショップ",
           "rarity": "LG",
           "slots": [
-            {
-              "num": 88,
-              "cardno": "CP05-088",
-              "status": "estimated"
-            },
             {
               "num": 89,
               "cardno": "CP05-089",
@@ -848,11 +852,11 @@
           ],
           "revealed_count": 1,
           "confirmed_count": 1,
-          "estimated_count": 3,
-          "size": 5,
+          "estimated_count": 2,
+          "size": 4,
           "size_status": "estimated",
           "advance": 0,
-          "evolve_pred": 2,
+          "evolve_pred": 1,
           "evolve_revealed": 0
         },
         "ビショップ|GR": {
@@ -1086,7 +1090,7 @@
       "tokens": {
         "count": 15,
         "reprint_count": 0,
-        "revealed_count": 3,
+        "revealed_count": 5,
         "slots": [
           {
             "num": 1,
@@ -1138,12 +1142,14 @@
           {
             "num": 10,
             "cardno": "CP05-T10",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "CP05-T10"
           },
           {
             "num": 11,
             "cardno": "CP05-T11",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "CP05-T11"
           },
           {
             "num": 12,
