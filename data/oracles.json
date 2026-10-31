@@ -153456,7 +153456,9 @@
     "oracle_id": "BP22-079",
     "is_dual_face": false,
     "name": "カースメーカー・スージー",
-    "alt_names": [],
+    "alt_names": [
+      "懇切の呪い・スージー"
+    ],
     "class": "ナイトメア",
     "card_type": [
       "フォロワー",
@@ -153475,7 +153477,8 @@
     ],
     "canonical_print": "BP22-079",
     "prints": [
-      "BP22-079"
+      "BP22-079",
+      "PR-624"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -155200,43 +155203,5 @@
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 30
-  },
-  {
-    "oracle_id": "PR-624",
-    "is_dual_face": false,
-    "name": "懇切の呪い・スージー",
-    "alt_names": [],
-    "class": "ナイトメア",
-    "card_type": [
-      "フォロワー",
-      "エボルヴ"
-    ],
-    "tribe": [
-      "魔界"
-    ],
-    "title": null,
-    "cost": null,
-    "atk": 3,
-    "hp": 3,
-    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに6ダメージ。自分のリーダーは体力+2する。",
-    "keywords": [
-      "進化時"
-    ],
-    "canonical_print": "PR-624",
-    "prints": [
-      "PR-624"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 5980
   }
 ]
