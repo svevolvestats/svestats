@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2201,
+ "in_evolve": 2202,
  "match_breakdown": {
-  "exact": 2181,
-  "null": 2660,
+  "exact": 2182,
+  "null": 2659,
   "alias": 19,
   "normalized": 1
  },
@@ -43258,9 +43258,9 @@
      "vo_109341010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-045",
+   "matched_by": "exact",
    "name_en": "Arulumaya, Mystic Seer",
    "expansion_en": "Brigade of the Sky"
   },
