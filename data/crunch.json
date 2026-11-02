@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 53,
-      "n_layouts": 375196,
+      "revealed_count": 57,
+      "n_layouts": 127793,
       "unique": false,
       "classes": [
         "エルフ",
@@ -60,7 +60,7 @@
             {
               "num": 3,
               "cardno": "CP05-003",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 4,
@@ -69,8 +69,8 @@
             }
           ],
           "revealed_count": 2,
-          "confirmed_count": 0,
-          "estimated_count": 2,
+          "confirmed_count": 1,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -94,17 +94,19 @@
             {
               "num": 7,
               "cardno": "CP05-007",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 8,
               "cardno": "CP05-008",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-008",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 1,
-          "estimated_count": 3,
+          "revealed_count": 1,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -180,7 +182,9 @@
             {
               "num": 17,
               "cardno": "CP05-017",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-017",
+              "kind": "base"
             },
             {
               "num": 18,
@@ -190,8 +194,8 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 4,
-          "confirmed_count": 2,
+          "revealed_count": 5,
+          "confirmed_count": 1,
           "estimated_count": 0,
           "size": 6,
           "size_status": "estimated",
@@ -812,17 +816,19 @@
             {
               "num": 87,
               "cardno": "CP05-087",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 88,
               "cardno": "CP05-088",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-088",
+              "kind": "base"
             }
           ],
-          "revealed_count": 0,
-          "confirmed_count": 0,
-          "estimated_count": 4,
+          "revealed_count": 1,
+          "confirmed_count": 1,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -968,7 +974,9 @@
             {
               "num": 103,
               "cardno": "CP05-103",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-103",
+              "kind": "base"
             },
             {
               "num": 104,
@@ -978,8 +986,8 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "estimated",
