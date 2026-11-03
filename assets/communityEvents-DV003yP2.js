@@ -1,1 +1,0 @@
-import{ak as s}from"./index-BkaMShyp.js";const r="非公認",o={};function a(t="sve"){return o[t]||(o[t]=fetch(`${s}/api/community-events?game=${t}`,{signal:AbortSignal.timeout(4e3)}).then(n=>n.ok?n.json():[]).then(n=>Array.isArray(n)?n:[]).catch(()=>[])),o[t]}export{r as C,a as l};
