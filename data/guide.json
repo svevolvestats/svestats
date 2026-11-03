@@ -4,8 +4,117 @@
   "end": "2026-11-01"
  },
  "total_decks": 234,
- "median_cost": null,
- "budget": [],
+ "median_cost": 16704,
+ "budget": [
+  {
+   "id": "ec1fa3",
+   "name": "妖精エルフ",
+   "class": "エルフ",
+   "cost": 9160,
+   "count": 6,
+   "winner": 0,
+   "share": 0.0256,
+   "win_share": 0.0,
+   "min": {
+    "cost": 6860,
+    "deck_id": "16Y7FA",
+    "date": "2026-10-25",
+    "rank": 8,
+    "player": "koo",
+    "friend_code": "NTTWX"
+   }
+  },
+  {
+   "id": "148e42",
+   "name": "透京ウィッチ",
+   "class": "ウィッチ",
+   "cost": 11496,
+   "count": 5,
+   "winner": 0,
+   "share": 0.0214,
+   "win_share": 0.0,
+   "min": {
+    "cost": 11300,
+    "deck_id": "1HA412",
+    "date": "2026-10-31",
+    "rank": 3,
+    "player": "rurto",
+    "friend_code": "RAQWQ"
+   }
+  },
+  {
+   "id": "313390",
+   "name": "八獄ウィッチ",
+   "class": "ウィッチ",
+   "cost": 11827,
+   "count": 19,
+   "winner": 2,
+   "share": 0.0812,
+   "win_share": 0.0667,
+   "min": {
+    "cost": 10690,
+    "deck_id": "2L5DUQ",
+    "date": "2026-10-31",
+    "rank": 3,
+    "player": "柚ノ木ルコト",
+    "friend_code": "MGBTF"
+   }
+  },
+  {
+   "id": "658b34",
+   "name": "宴楽ロイヤル",
+   "class": "ロイヤル",
+   "cost": 11918,
+   "count": 5,
+   "winner": 0,
+   "share": 0.0214,
+   "win_share": 0.0,
+   "min": {
+    "cost": 11600,
+    "deck_id": "2H64U4",
+    "date": "2026-10-25",
+    "rank": 5,
+    "player": "ますよし",
+    "friend_code": "DUGLC"
+   }
+  },
+  {
+   "id": "7d2904",
+   "name": "宴楽ナイトメア",
+   "class": "ナイトメア",
+   "cost": 12136,
+   "count": 10,
+   "winner": 1,
+   "share": 0.0427,
+   "win_share": 0.0333,
+   "min": {
+    "cost": 10750,
+    "deck_id": "1NLTZ",
+    "date": "2026-10-25",
+    "rank": 2,
+    "player": "AEG",
+    "friend_code": "LZUIH"
+   }
+  },
+  {
+   "id": "2a131d",
+   "name": "ゴブリンナイトメア",
+   "class": "ナイトメア",
+   "cost": 14089,
+   "count": 11,
+   "winner": 0,
+   "share": 0.047,
+   "win_share": 0.0,
+   "min": {
+    "cost": 6710,
+    "deck_id": "16FRCG",
+    "date": "2026-10-31",
+    "rank": 8,
+    "player": "koo",
+    "friend_code": "NTTWX"
+   }
+  }
+ ],
  "starters": [
   {
    "code": "EBD01",
