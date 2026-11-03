@@ -1,0 +1,40 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "aad9d9",
+      "rules": [
+        {
+          "required": ["若芽の組員"],
+          "name": "八獄エルフ"
+        },
+        {
+          "required": [],
+          "name": "獣エルフ"
+        }
+      ]
+    },
+    {
+      "source": "a74196",
+      "rules": [
+        {
+          "required": ["滅屍の執行者・ミロエル"],
+          "name": "ミロエルナイトメア"
+        },
+        {
+          "required": [],
+          "name": "コントロールナイトメア"
+        }
+      ]
+    }
+  ]
+}
