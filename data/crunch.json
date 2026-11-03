@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 57,
-      "n_layouts": 127793,
+      "revealed_count": 61,
+      "n_layouts": 20300,
       "unique": false,
       "classes": [
         "エルフ",
@@ -320,12 +320,16 @@
             {
               "num": 31,
               "cardno": "CP05-031",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-031",
+              "kind": "base"
             },
             {
               "num": 32,
               "cardno": "CP05-032",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-032",
+              "kind": "evolve"
             },
             {
               "num": 33,
@@ -344,22 +348,26 @@
             {
               "num": 35,
               "cardno": "CP05-035",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-035",
+              "kind": "base"
             },
             {
               "num": 36,
               "cardno": "CP05-036",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-036",
+              "kind": "base"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 6,
           "confirmed_count": 0,
-          "estimated_count": 4,
+          "estimated_count": 0,
           "size": 6,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|LG": {
           "class": "ウィッチ",

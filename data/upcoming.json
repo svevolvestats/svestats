@@ -15,7 +15,7 @@
         "image_url": "CP05-001.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2113938902524588519"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113938902524588519"
     },
     {
         "oracle_id": "CP05-002",
@@ -33,7 +33,7 @@
         "image_url": "CP05-002.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2115013205680652351"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115013205680652351"
     },
     {
         "oracle_id": "CP05-008",
@@ -71,7 +71,7 @@
         "image_url": "CP05-011.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113904164975829297"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113904164975829297"
     },
     {
         "oracle_id": "CP05-013",
@@ -93,7 +93,7 @@
         "image_url": "CP05-013.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115010659385819587"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115010659385819587"
     },
     {
         "oracle_id": "CP05-014",
@@ -115,7 +115,7 @@
         "image_url": "CP05-014.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115010659385819587"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115010659385819587"
     },
     {
         "oracle_id": "CP05-016",
@@ -133,7 +133,7 @@
         "image_url": "CP05-016.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2116817659836977317"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2116817659836977317"
     },
     {
         "oracle_id": "CP05-017",
@@ -169,7 +169,7 @@
         "image_url": "CP05-018.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113903959580746073"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113903959580746073"
     },
     {
         "oracle_id": "CP05-021",
@@ -189,7 +189,7 @@
         "image_url": "CP05-021.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2113938770101928258"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113938770101928258"
     },
     {
         "oracle_id": "CP05-022",
@@ -209,7 +209,7 @@
         "image_url": "CP05-022.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2113938770101928258"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113938770101928258"
     },
     {
         "oracle_id": "CP05-025",
@@ -228,7 +228,7 @@
         "image_url": "CP05-025.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115368392815452319"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115368392815452319"
     },
     {
         "oracle_id": "CP05-029",
@@ -250,6 +250,48 @@
         "source_url": "https://www.gamer.ne.jp/news/202610310002/"
     },
     {
+        "oracle_id": "CP05-031",
+        "name": "花開く筋肉・フィオリト",
+        "class": "ロイヤル",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","土属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 2,
+        "atk": 1,
+        "hp": 3,
+        "text": "【進化】コスト0：これは進化する。この能力は自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上なら使える。\n【守護】\n【ファンファーレ】『土晶のエレメント』1枚をEXエリアに置く。自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+        "keywords": ["進化","守護","ファンファーレ"],
+        "expansion": "CP05",
+        "evolves_to": ["CP05-032"],
+        "evolved_from": [],
+        "mentions": ["CP05-T11"],
+        "mentions_tokens": ["CP05-T11"],
+        "image_url": "CP05-031.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2117542378601082934"
+    },
+    {
+        "oracle_id": "CP05-032",
+        "name": "花開く筋肉・フィオリト",
+        "class": "ロイヤル",
+        "card_type": ["フォロワー","エボルヴ"],
+        "tribe": ["グラブル","土属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 2,
+        "atk": 4,
+        "hp": 6,
+        "text": "【指定攻撃】【必殺】【守護】（【必殺】を持つフォロワーと交戦した相手のフォロワーは、ダメージを与え合ったあと破壊される）",
+        "keywords": ["指定攻撃","必殺","守護"],
+        "expansion": "CP05",
+        "evolves_to": [],
+        "evolved_from": ["CP05-031"],
+        "image_url": "CP05-032.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2117542378601082934"
+    },
+    {
         "oracle_id": "CP05-033",
         "name": "眠れる輝竜・アーサー",
         "class": "ロイヤル",
@@ -267,7 +309,7 @@
         "image_url": "CP05-033.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113903608500724154"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113903608500724154"
     },
     {
         "oracle_id": "CP05-034",
@@ -287,7 +329,43 @@
         "image_url": "CP05-034.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113903792039305679"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113903792039305679"
+    },
+    {
+        "oracle_id": "CP05-035",
+        "name": "燃え滾る闘志・フェザー",
+        "class": "ロイヤル",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","光属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 3,
+        "atk": 4,
+        "hp": 4,
+        "text": "【突進】【守護】（【突進】を持つフォロワーは、場に出たターンから相手のフォロワーを攻撃できる）\n【ファンファーレ】『光晶のエレメント』1枚をEXエリアに置く。",
+        "keywords": ["突進","守護","ファンファーレ"],
+        "expansion": "CP05",
+        "image_url": "CP05-035.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2117544825935520217"
+    },
+    {
+        "oracle_id": "CP05-036",
+        "name": "信念の蹴撃・ランドル",
+        "class": "ロイヤル",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","風属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 4,
+        "atk": 2,
+        "hp": 1,
+        "text": "これをプレイする際、コストを-Xする。Xは「このターン中に自分の場のフォロワーが上限解放や最終上限解放をした回数」である。\n【疾走】\n自分のエンドフェイズが来たとき、これを手札に戻す。",
+        "keywords": ["疾走"],
+        "expansion": "CP05",
+        "image_url": "CP05-036.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2117547343855984855"
     },
     {
         "oracle_id": "CP05-037",
@@ -327,7 +405,7 @@
         "image_url": "CP05-041.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114650827390677084"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
     },
     {
         "oracle_id": "CP05-042",
@@ -347,7 +425,7 @@
         "image_url": "CP05-042.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114650827390677084"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
     },
     {
         "oracle_id": "CP05-044",
@@ -365,7 +443,7 @@
         "image_url": "CP05-044.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114648243087052975"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114648243087052975"
     },
     {
         "oracle_id": "CP05-045",
@@ -387,7 +465,7 @@
         "image_url": "CP05-045.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2116820063743549871"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2116820063743549871"
     },
     {
         "oracle_id": "CP05-046",
@@ -409,7 +487,7 @@
         "image_url": "CP05-046.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2116820063743549871"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2116820063743549871"
     },
     {
         "oracle_id": "CP05-048",
@@ -565,7 +643,7 @@
         "image_url": "CP05-058.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113902588030844982"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113902588030844982"
     },
     {
         "oracle_id": "CP05-059",
@@ -586,7 +664,7 @@
         "image_url": "CP05-059.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113902588030844982"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113902588030844982"
     },
     {
         "oracle_id": "CP05-065",
@@ -605,7 +683,7 @@
         "image_url": "CP05-065.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113902710047330786"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113902710047330786"
     },
     {
         "oracle_id": "CP05-066",
@@ -625,7 +703,7 @@
         "image_url": "CP05-066.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115008126634295776"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115008126634295776"
     },
     {
         "oracle_id": "CP05-067",
@@ -647,7 +725,7 @@
         "image_url": "CP05-067.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115008126634295776"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115008126634295776"
     },
     {
         "oracle_id": "CP05-068",
@@ -665,7 +743,7 @@
         "image_url": "CP05-068.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115005974746730731"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115005974746730731"
     },
     {
         "oracle_id": "CP05-070",
@@ -684,7 +762,7 @@
         "image_url": "CP05-070.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114645760637813026"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114645760637813026"
     },
     {
         "oracle_id": "CP05-078",
@@ -702,7 +780,7 @@
         "image_url": "CP05-078.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114643400905650649"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114643400905650649"
     },
     {
         "oracle_id": "CP05-082",
@@ -720,7 +798,7 @@
         "image_url": "CP05-082.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113903032455033012"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113903032455033012"
     },
     {
         "oracle_id": "CP05-088",
@@ -756,7 +834,7 @@
         "image_url": "CP05-090.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2115370504626602494"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115370504626602494"
     },
     {
         "oracle_id": "CP05-093",
@@ -816,7 +894,7 @@
         "image_url": "CP05-095.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114281055033471025"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114281055033471025"
     },
     {
         "oracle_id": "CP05-096",
@@ -854,7 +932,7 @@
         "image_url": "CP05-097.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114283398353359223"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114283398353359223"
     },
     {
         "oracle_id": "CP05-098",
@@ -874,7 +952,7 @@
         "image_url": "CP05-098.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114283398353359223"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114283398353359223"
     },
     {
         "oracle_id": "CP05-099",
@@ -914,7 +992,7 @@
         "image_url": "CP05-101.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113903392028545038"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113903392028545038"
     },
     {
         "oracle_id": "CP05-102",
@@ -934,7 +1012,7 @@
         "image_url": "CP05-102.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2113903392028545038"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113903392028545038"
     },
     {
         "oracle_id": "CP05-103",
@@ -973,7 +1051,7 @@
         "image_url": "CP05-104.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114285856920092871"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114285856920092871"
     },
     {
         "oracle_id": "CP05-105",
@@ -993,7 +1071,7 @@
         "image_url": "CP05-105.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2115373070550794266"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115373070550794266"
     },
     {
         "oracle_id": "CP05-106",
@@ -1013,7 +1091,7 @@
         "image_url": "CP05-106.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2115373070550794266"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115373070550794266"
     },
     {
         "oracle_id": "CP05-107",
@@ -1034,7 +1112,7 @@
         "image_url": "CP05-107.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
-        "source_url": "https://x.com/shadowverse_ev/status/2113902375190876388"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2113902375190876388"
     },
     {
         "oracle_id": "CP05-108",
@@ -1055,7 +1133,7 @@
         "image_url": "CP05-108.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114288435834060937"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114288435834060937"
     },
     {
         "oracle_id": "CP05-109",
@@ -1077,7 +1155,7 @@
         "image_url": "CP05-109.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
-        "source_url": "https://x.com/shadowverse_ev/status/2114288435834060937"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114288435834060937"
     },
     {
         "oracle_id": "CP05-110",
@@ -1115,7 +1193,7 @@
         "image_url": "CP05-111.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
-        "source_url": "https://x.com/shadowverse_ev/status/2115375625183887722"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2115375625183887722"
     },
     {
         "oracle_id": "CP05-T08",
@@ -1134,7 +1212,7 @@
         "image_url": "CP05-T08.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
-        "source_url": "https://x.com/shadowverse_ev/status/2114650827390677084"
+        "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
     },
     {
         "oracle_id": "CP05-T09",
