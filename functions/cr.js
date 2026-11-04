@@ -70,6 +70,13 @@ function truncate(s, n = 150) {
 async function onRequest(context) {
   const url = new URL(context.request.url);
   const r = url.searchParams.get("r");
+  if (url.searchParams.get("tab") === "qa") {
+    return serveWithOG(context, {
+      title: "\u516C\u5F0FQ&A\u4E00\u89A7 | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40",
+      description: "Shadowverse EVOLVE \u516C\u5F0F\u30AB\u30FC\u30C9Q&A\uFF08\u88C1\u5B9A\uFF09\u3092No.\u9806\u30FB\u30AD\u30FC\u30EF\u30FC\u30C9\u30FB\u30AF\u30E9\u30B9\u30FB\u53CE\u9332\u5F3E\u3067\u691C\u7D22\u3067\u304D\u308B\u975E\u516C\u5F0F\u4E00\u89A7",
+      pageUrl: `${url.origin}/cr?tab=qa`
+    });
+  }
   if (r && NUM_RE.test(r)) {
     try {
       const cr = await fetchJson(`${url.origin}/data/cr.json`);
