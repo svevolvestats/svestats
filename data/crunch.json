@@ -1112,7 +1112,7 @@
       "tokens": {
         "count": 15,
         "reprint_count": 0,
-        "revealed_count": 5,
+        "revealed_count": 8,
         "slots": [
           {
             "num": 1,
@@ -1176,17 +1176,20 @@
           {
             "num": 12,
             "cardno": "CP05-T12",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "CP05-T12"
           },
           {
             "num": 13,
             "cardno": "CP05-T13",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "CP05-T13"
           },
           {
             "num": 14,
             "cardno": "CP05-T14",
-            "status": "confirmed"
+            "status": "revealed",
+            "oracle_id": "CP05-T14"
           },
           {
             "num": 15,
