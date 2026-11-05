@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2205,
+ "in_evolve": 2210,
  "match_breakdown": {
-  "exact": 2185,
-  "null": 2656,
+  "exact": 2190,
+  "null": 2651,
   "alias": 19,
   "normalized": 1
  },
@@ -42758,9 +42758,9 @@
    "is_token": false,
    "image": "old_sv/image/109234010.webp",
    "voices": null,
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-026",
+   "matched_by": "exact",
    "name_en": "Dragon Knights",
    "expansion_en": "Brigade of the Sky"
   },
@@ -156309,9 +156309,9 @@
      "vo_900231040_5.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T04",
+   "matched_by": "exact",
    "name_en": "Vane, Indomitable Knight",
    "expansion_en": "Token"
   },
@@ -156350,9 +156350,9 @@
      "vo_900231050_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T05",
+   "matched_by": "exact",
    "name_en": "Siegfried, Dragonslayer",
    "expansion_en": "Token"
   },
@@ -156391,9 +156391,9 @@
      "vo_900231060_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T03",
+   "matched_by": "exact",
    "name_en": "Lancelot, Twinfang Prodigy",
    "expansion_en": "Token"
   },
@@ -156432,9 +156432,9 @@
      "vo_900231070_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T06",
+   "matched_by": "exact",
    "name_en": "Percival, Lord of Flames",
    "expansion_en": "Token"
   },
