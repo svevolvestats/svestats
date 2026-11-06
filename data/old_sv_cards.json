@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2210,
+ "in_evolve": 2212,
  "match_breakdown": {
-  "exact": 2190,
-  "null": 2651,
+  "exact": 2192,
+  "null": 2649,
   "alias": 19,
   "normalized": 1
  },
@@ -84460,9 +84460,9 @@
      "vo_119241010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-020",
+   "matched_by": "exact",
    "name_en": "Eahta, God of the Blade",
    "expansion_en": "Eternal Awakening"
   },
@@ -85430,9 +85430,9 @@
      "vo_119441010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-054",
+   "matched_by": "exact",
    "name_en": "Threo, Divine Havoc",
    "expansion_en": "Eternal Awakening"
   },
