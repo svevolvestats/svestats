@@ -12,7 +12,7 @@
         "text": "これをプレイする際、場の元のコスト5のグラブル・フォロワー2体をアクト：コストを-5する。\n【最終上限解放可能】\nこれが上限解放したとき、2枚引く。自分の手札1枚を捨てる。\nこれが最終上限解放したとき、これは【疾走】を持つ。",
         "keywords": ["最終上限解放可能","疾走"],
         "expansion": "CP05",
-        "image_url": "CP05-001.jpg",
+        "image_url": "CP05-001_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113938902524588519"
@@ -30,7 +30,7 @@
         "text": "【ファンファーレ】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それに3ダメージ。それのリーダーに3ダメージ。\n【クイック】【起動】コスト1手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それに4ダメージ。この能力はこのターン、自分が他の【クイック】【起動】能力をプレイしていたなら使える。",
         "keywords": ["ファンファーレ","クイック","起動"],
         "expansion": "CP05",
-        "image_url": "CP05-002.jpg",
+        "image_url": "CP05-002_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115013205680652351"
@@ -68,7 +68,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-T10"],
         "mentions_tokens": ["CP05-T10"],
-        "image_url": "CP05-008.png",
+        "image_url": "CP05-008_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://gamewith.jp/shadowverse-wb/585655"
@@ -128,7 +128,7 @@
         "text": "これが上限解放したとき、相手の場のフォロワー1体を選ぶ。それに5ダメージ。\n自分のエンドフェイズが来たとき、このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、相手のリーダーすべてに5ダメージ。",
         "keywords": [],
         "expansion": "CP05",
-        "image_url": "CP05-011.jpg",
+        "image_url": "CP05-011_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113904164975829297"
@@ -150,7 +150,7 @@
         "evolved_from": [],
         "mentions": ["CP05-T09"],
         "mentions_tokens": ["CP05-T09"],
-        "image_url": "CP05-013.jpg",
+        "image_url": "CP05-013_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115010659385819587"
@@ -172,7 +172,7 @@
         "evolved_from": ["CP05-013"],
         "mentions": ["CP05-T09"],
         "mentions_tokens": ["CP05-T09"],
-        "image_url": "CP05-014.jpg",
+        "image_url": "CP05-014_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115010659385819587"
@@ -190,7 +190,7 @@
         "text": "【突進】【指定攻撃】\n【攻撃時】自分のデッキの上1枚を公開する。公開したカードが元のコスト5のグラブル・フォロワーなら、それを場に出す。公開したカードが元のコスト5のグラブル・フォロワーでないなら、それを手札に加える。",
         "keywords": ["突進","指定攻撃","攻撃時"],
         "expansion": "CP05",
-        "image_url": "CP05-016.jpg",
+        "image_url": "CP05-016_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2116817659836977317"
@@ -208,7 +208,7 @@
         "text": "これが上限解放したとき、手札の闇属性・カード1枚を捨てる：1枚引く。\n自分のエンドフェイズが来たとき、相手の場のフォロワー1体を選ぶ。このターン、自分の手札の闇属性・カードを捨てていたなら、それに2ダメージ。それのリーダーに1ダメージ。",
         "keywords": [],
         "expansion": "CP05",
-        "image_url": "CP05-017.png",
+        "image_url": "CP05-017_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://gamewith.jp/shadowverse-wb/585655"
@@ -226,10 +226,28 @@
         "text": "これをプレイする際、コストを-Xする。Xは「このターン中に自分の場のフォロワーが上限解放や最終上限解放をした回数」である。\n相手の場のフォロワー1体を選ぶ。それに4ダメージ。『風晶のエレメント』1枚をEXエリアに置く。",
         "keywords": [],
         "expansion": "CP05",
-        "image_url": "CP05-018.jpg",
+        "image_url": "CP05-018_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113903959580746073"
+    },
+    {
+        "oracle_id": "CP05-020",
+        "name": "刀神・オクトー",
+        "class": "ロイヤル",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","十天衆","土属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 8,
+        "atk": 5,
+        "hp": 5,
+        "text": "これをプレイする際、自分のエボルヴデッキの表向きの土属性・エボルヴフォロワー2枚につき、コストを-2する。\n【最終上限解放可能】\nこれが上限解放したとき、これは【突進】【指定攻撃】を持つ。\nこれが最終上限解放したとき、コスト1：相手の場のフォロワー1体を選ぶ。それを破壊する。それのリーダーに3ダメージ。",
+        "keywords": ["最終上限解放可能","突進","指定攻撃"],
+        "expansion": "CP05",
+        "image_url": "CP05-020.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "LG",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2118629664247992683"
     },
     {
         "oracle_id": "CP05-021",
@@ -246,7 +264,7 @@
         "expansion": "CP05",
         "evolves_to": ["CP05-022"],
         "evolved_from": [],
-        "image_url": "CP05-021.jpg",
+        "image_url": "CP05-021_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113938770101928258"
@@ -266,7 +284,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-021"],
-        "image_url": "CP05-022.jpg",
+        "image_url": "CP05-022_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113938770101928258"
@@ -285,7 +303,7 @@
         "keywords": ["疾走","最終上限解放可能","攻撃時"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-029"],
-        "image_url": "CP05-025.jpg",
+        "image_url": "CP05-025_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115368392815452319"
@@ -324,7 +342,7 @@
         "keywords": ["疾走"],
         "expansion": "CP05",
         "mentions": ["CP05-025"],
-        "image_url": "CP05-029.jpg",
+        "image_url": "CP05-029_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://www.gamer.ne.jp/news/202610310002/"
@@ -346,7 +364,7 @@
         "evolved_from": [],
         "mentions": ["CP05-T11"],
         "mentions_tokens": ["CP05-T11"],
-        "image_url": "CP05-031.jpg",
+        "image_url": "CP05-031_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2117542378601082934"
@@ -366,7 +384,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-031"],
-        "image_url": "CP05-032.jpg",
+        "image_url": "CP05-032_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2117542378601082934"
@@ -386,7 +404,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-034"],
         "mentioned_from": ["CP05-034"],
-        "image_url": "CP05-033.jpg",
+        "image_url": "CP05-033_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113903608500724154"
@@ -406,7 +424,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-033"],
         "mentioned_from": ["CP05-033"],
-        "image_url": "CP05-034.jpg",
+        "image_url": "CP05-034_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113903792039305679"
@@ -424,7 +442,7 @@
         "text": "【突進】【守護】（【突進】を持つフォロワーは、場に出たターンから相手のフォロワーを攻撃できる）\n【ファンファーレ】『光晶のエレメント』1枚をEXエリアに置く。",
         "keywords": ["突進","守護","ファンファーレ"],
         "expansion": "CP05",
-        "image_url": "CP05-035.jpg",
+        "image_url": "CP05-035_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2117544825935520217"
@@ -442,7 +460,7 @@
         "text": "これをプレイする際、コストを-Xする。Xは「このターン中に自分の場のフォロワーが上限解放や最終上限解放をした回数」である。\n【疾走】\n自分のエンドフェイズが来たとき、これを手札に戻す。",
         "keywords": ["疾走"],
         "expansion": "CP05",
-        "image_url": "CP05-036.jpg",
+        "image_url": "CP05-036_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2117547343855984855"
@@ -460,7 +478,7 @@
         "text": "これを自分の手札から公開したとき、相手の場のフォロワー1体を選ぶ。それに1ダメージ。\n【最終上限解放可能】\nこれが上限解放したとき、相手の場のフォロワー1体を選ぶ。それに4ダメージ。\nこれが最終上限解放したとき、自分の場の元のコスト3以下のフォロワー1体を選ぶ。それは【疾走】を持つ。",
         "keywords": ["最終上限解放可能","疾走"],
         "expansion": "CP05",
-        "image_url": "CP05-037.png",
+        "image_url": "CP05-037_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -482,7 +500,7 @@
         "evolved_from": [],
         "mentions": ["CP05-T08","CP05-T15"],
         "mentions_tokens": ["CP05-T08","CP05-T15"],
-        "image_url": "CP05-041.jpg",
+        "image_url": "CP05-041_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
@@ -502,7 +520,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-041"],
-        "image_url": "CP05-042.jpg",
+        "image_url": "CP05-042_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
@@ -520,7 +538,7 @@
         "text": "【ファンファーレ】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【起動】コスト1これをアクト手札の火属性・カード1枚を公開：相手の場のフォロワー1体を選ぶ。それに1ダメージ。",
         "keywords": ["ファンファーレ","起動"],
         "expansion": "CP05",
-        "image_url": "CP05-044.jpg",
+        "image_url": "CP05-044_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114648243087052975"
@@ -542,7 +560,7 @@
         "evolved_from": [],
         "mentions": ["CP05-T11"],
         "mentions_tokens": ["CP05-T11"],
-        "image_url": "CP05-045.jpg",
+        "image_url": "CP05-045_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2116820063743549871"
@@ -564,7 +582,7 @@
         "evolved_from": ["CP05-045"],
         "mentions": ["CP05-T11"],
         "mentions_tokens": ["CP05-T11"],
-        "image_url": "CP05-046.jpg",
+        "image_url": "CP05-046_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2116820063743549871"
@@ -584,7 +602,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-T09"],
         "mentions_tokens": ["CP05-T09"],
-        "image_url": "CP05-048.png",
+        "image_url": "CP05-048_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -602,7 +620,7 @@
         "text": "これが上限解放したとき、相手のリーダーすべてに1ダメージ。\n【ファンファーレ】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それに3ダメージ。",
         "keywords": ["ファンファーレ"],
         "expansion": "CP05",
-        "image_url": "CP05-051.png",
+        "image_url": "CP05-051_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -622,7 +640,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-T10"],
         "mentions_tokens": ["CP05-T10"],
-        "image_url": "CP05-052.jpg",
+        "image_url": "CP05-052_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://www.gamer.ne.jp/news/202610310002/"
@@ -640,10 +658,28 @@
         "text": "自分のデッキの上4枚を見る。その中から、土属性・カードか光属性・カードか闇属性・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
         "keywords": [],
         "expansion": "CP05",
-        "image_url": "CP05-053.png",
+        "image_url": "CP05-053_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
+    },
+    {
+        "oracle_id": "CP05-054",
+        "name": "怪力乱神・サラーサ",
+        "class": "ドラゴン",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","十天衆","土属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 4,
+        "atk": 3,
+        "hp": 3,
+        "text": "【最終上限解放可能】\nこれが上限解放したとき、自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー2枚まで表向きにしてよい。\nこれが最終上限解放したとき、相手のリーダーすべてと相手の場のフォロワーすべてに「自分のエボルヴデッキの表向きの土属性・エボルヴフォロワー」2枚につき1ダメージ。",
+        "keywords": ["最終上限解放可能"],
+        "expansion": "CP05",
+        "image_url": "CP05-054.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "LG",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2118632038471512130"
     },
     {
         "oracle_id": "CP05-055",
@@ -659,7 +695,7 @@
         "keywords": ["最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-070"],
-        "image_url": "CP05-055.png",
+        "image_url": "CP05-055_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -679,7 +715,7 @@
         "expansion": "CP05",
         "evolves_to": ["CP05-057"],
         "evolved_from": [],
-        "image_url": "CP05-056.png",
+        "image_url": "CP05-056_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -699,7 +735,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-056"],
-        "image_url": "CP05-057.png",
+        "image_url": "CP05-057_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -720,7 +756,7 @@
         "evolves_to": ["CP05-059"],
         "evolved_from": [],
         "mentioned_from": ["CP05-065"],
-        "image_url": "CP05-058.jpg",
+        "image_url": "CP05-058_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113902588030844982"
@@ -741,7 +777,7 @@
         "evolves_to": [],
         "evolved_from": ["CP05-058"],
         "mentioned_from": ["CP05-065"],
-        "image_url": "CP05-059.jpg",
+        "image_url": "CP05-059_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113902588030844982"
@@ -760,7 +796,7 @@
         "keywords": ["ファンファーレ"],
         "expansion": "CP05",
         "mentions": ["CP05-058","CP05-059"],
-        "image_url": "CP05-065.jpg",
+        "image_url": "CP05-065_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113902710047330786"
@@ -780,7 +816,7 @@
         "expansion": "CP05",
         "evolves_to": ["CP05-067"],
         "evolved_from": [],
-        "image_url": "CP05-066.jpg",
+        "image_url": "CP05-066_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115008126634295776"
@@ -802,7 +838,7 @@
         "evolved_from": ["CP05-066"],
         "mentions": ["CP05-T09"],
         "mentions_tokens": ["CP05-T09"],
-        "image_url": "CP05-067.jpg",
+        "image_url": "CP05-067_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115008126634295776"
@@ -820,7 +856,7 @@
         "text": "これを自分の手札から公開したとき、自分の場の火属性・フォロワー1体を選ぶ。それは【突進】【指定攻撃】を持つ。\n【突進】【指定攻撃】\n【攻撃時】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それとそれのリーダーに6ダメージ。",
         "keywords": ["突進","指定攻撃","攻撃時"],
         "expansion": "CP05",
-        "image_url": "CP05-068.jpg",
+        "image_url": "CP05-068_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115005974746730731"
@@ -839,7 +875,7 @@
         "keywords": [],
         "expansion": "CP05",
         "mentions": ["CP05-055"],
-        "image_url": "CP05-070.jpg",
+        "image_url": "CP05-070_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114645760637813026"
@@ -857,7 +893,7 @@
         "text": "【ファンファーレ】自分のデッキの上5枚を見る。その中から、「これと同名を除く元のコスト5のグラブル・フォロワー」1枚を場に出してよい。残りを好きな順にデッキの下に置く。",
         "keywords": ["ファンファーレ"],
         "expansion": "CP05",
-        "image_url": "CP05-078.jpg",
+        "image_url": "CP05-078_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114643400905650649"
@@ -875,7 +911,7 @@
         "text": "自分の闇属性・カードの能力によってこれを自分の手札から捨てたとき、コスト1：相手の場のフォロワー1体を選ぶ。それに3ダメージ。\nこれが上限解放したとき、これは「【ラストワード】これを場に出す」を持つ。\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それを破壊する。",
         "keywords": ["ファンファーレ","ラストワード"],
         "expansion": "CP05",
-        "image_url": "CP05-082.jpg",
+        "image_url": "CP05-082_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113903032455033012"
@@ -893,7 +929,7 @@
         "text": "【クイック】\n下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。それに2ダメージ。【2】手札の闇属性・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに3ダメージ。それのリーダーに1ダメージ。",
         "keywords": ["クイック"],
         "expansion": "CP05",
-        "image_url": "CP05-088.png",
+        "image_url": "CP05-088_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://gamewith.jp/shadowverse-wb/585655"
@@ -911,7 +947,7 @@
         "text": "【最終上限解放可能】\nこれが上限解放したとき、自分の手札の元のコスト5のグラブル・フォロワー1枚を場に出してよい。\nこれが最終上限解放したとき、コスト2：自分のデッキの上5枚を見る。その中から、「これと同名を除く元のコスト5のグラブル・フォロワー」1枚を場に出してよい。残りを好きな順にデッキの下に置く。",
         "keywords": ["最終上限解放可能"],
         "expansion": "CP05",
-        "image_url": "CP05-090.jpg",
+        "image_url": "CP05-090_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115370504626602494"
@@ -932,7 +968,7 @@
         "evolves_to": ["CP05-094"],
         "evolved_from": [],
         "mentioned_from": ["CP05-104"],
-        "image_url": "CP05-093.jpg",
+        "image_url": "CP05-093_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://www.youtube.com/watch?v=iIrzY2DEiZ8"
@@ -953,7 +989,7 @@
         "evolves_to": [],
         "evolved_from": ["CP05-093"],
         "mentioned_from": ["CP05-104"],
-        "image_url": "CP05-094.jpg",
+        "image_url": "CP05-094_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://www.youtube.com/watch?v=iIrzY2DEiZ8"
@@ -971,7 +1007,7 @@
         "text": "【守護】\n自分のエンドフェイズが来たとき、自分のリーダーは体力+1する。自分の場の元のコスト5のグラブル・フォロワーが3体以上なら、代わりに体力+3する。\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それを消滅させる。『光晶のエレメント』1枚をEXエリアに置く。",
         "keywords": ["守護","ファンファーレ"],
         "expansion": "CP05",
-        "image_url": "CP05-095.jpg",
+        "image_url": "CP05-095_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114281055033471025"
@@ -989,7 +1025,7 @@
         "text": "【ファンファーレ】自分のデッキの上1枚を公開する。光属性・カードを公開したなら、自分のPP最大値を+1する。\n【起動】これを墓場に置く：『光晶のエレメント』1枚をEXエリアに置く。1枚引く。この能力は自分の場の元のコスト5のグラブル・フォロワーが3体以上なら使える。",
         "keywords": ["ファンファーレ","起動"],
         "expansion": "CP05",
-        "image_url": "CP05-096.png",
+        "image_url": "CP05-096_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://dorasuta.jp/column/detail?aid=11568"
@@ -1009,7 +1045,7 @@
         "expansion": "CP05",
         "evolves_to": ["CP05-098"],
         "evolved_from": [],
-        "image_url": "CP05-097.jpg",
+        "image_url": "CP05-097_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114283398353359223"
@@ -1029,7 +1065,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-097"],
-        "image_url": "CP05-098.jpg",
+        "image_url": "CP05-098_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114283398353359223"
@@ -1047,7 +1083,7 @@
         "text": "【守護】（これが場に出たときか、自分のエンドフェイズにこれをアクトできる。相手は、アクト状態の【守護】を持つフォロワー以外を攻撃できない）\n【ファンファーレ】これは攻撃力+X/体力+Xする。Xは「自分のPP最大値」である。",
         "keywords": ["守護","ファンファーレ"],
         "expansion": "CP05",
-        "image_url": "CP05-099.png",
+        "image_url": "CP05-099_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://dorasuta.jp/column/detail?aid=11568"
@@ -1069,7 +1105,7 @@
         "evolved_from": [],
         "mentions": ["CP05-T10"],
         "mentions_tokens": ["CP05-T10"],
-        "image_url": "CP05-101.jpg",
+        "image_url": "CP05-101_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113903392028545038"
@@ -1089,7 +1125,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-101"],
-        "image_url": "CP05-102.jpg",
+        "image_url": "CP05-102_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113903392028545038"
@@ -1109,7 +1145,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-T10"],
         "mentions_tokens": ["CP05-T10"],
-        "image_url": "CP05-103.png",
+        "image_url": "CP05-103_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://gamewith.jp/shadowverse-wb/585655"
@@ -1128,7 +1164,7 @@
         "keywords": ["クイック"],
         "expansion": "CP05",
         "mentions": ["CP05-093","CP05-094"],
-        "image_url": "CP05-104.jpg",
+        "image_url": "CP05-104_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114285856920092871"
@@ -1148,7 +1184,7 @@
         "expansion": "CP05",
         "evolves_to": ["CP05-106"],
         "evolved_from": [],
-        "image_url": "CP05-105.jpg",
+        "image_url": "CP05-105_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115373070550794266"
@@ -1168,7 +1204,7 @@
         "expansion": "CP05",
         "evolves_to": [],
         "evolved_from": ["CP05-105"],
-        "image_url": "CP05-106.jpg",
+        "image_url": "CP05-106_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115373070550794266"
@@ -1189,7 +1225,7 @@
         "mentions": ["CP05-T15"],
         "mentions_tokens": ["CP05-T15"],
         "mentioned_from": ["CP05-108"],
-        "image_url": "CP05-107.jpg",
+        "image_url": "CP05-107_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "LG",
         "source_url": "https://twitter.com/shadowverse_ev/status/2113902375190876388"
@@ -1210,7 +1246,7 @@
         "mentions": ["CP05-107"],
         "evolves_to": ["CP05-109"],
         "evolved_from": [],
-        "image_url": "CP05-108.jpg",
+        "image_url": "CP05-108_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114288435834060937"
@@ -1232,7 +1268,7 @@
         "mentions_tokens": ["CP05-T15"],
         "evolves_to": [],
         "evolved_from": ["CP05-108"],
-        "image_url": "CP05-109.jpg",
+        "image_url": "CP05-109_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2114288435834060937"
@@ -1250,7 +1286,7 @@
         "text": "【最終上限解放可能】\n【ファンファーレ】自分のデッキの上3枚を見る。その中から、グラブル・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
         "keywords": ["ファンファーレ","最終上限解放可能"],
         "expansion": "CP05",
-        "image_url": "CP05-110.png",
+        "image_url": "CP05-110_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "GR",
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -1270,7 +1306,7 @@
         "expansion": "CP05",
         "mentions": ["CP05-T10"],
         "mentions_tokens": ["CP05-T10"],
-        "image_url": "CP05-111.jpg",
+        "image_url": "CP05-111_official.jpg",
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115375625183887722"
@@ -1392,7 +1428,7 @@
         "keywords": [],
         "expansion": "CP05",
         "mentioned_from": ["CP05-041"],
-        "image_url": "CP05-T08.jpg",
+        "image_url": "CP05-T08_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
@@ -1411,7 +1447,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-013","CP05-014","CP05-048","CP05-067","CP05-T06"],
-        "image_url": "CP05-T09.png",
+        "image_url": "CP05-T09_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"
@@ -1430,7 +1466,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-008","CP05-052","CP05-101","CP05-103","CP05-111","CP05-T03"],
-        "image_url": "CP05-T10.jpg",
+        "image_url": "CP05-T10_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://www.gamer.ne.jp/news/202610310002/"
@@ -1449,7 +1485,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-045","CP05-046","CP05-T05"],
-        "image_url": "CP05-T11.jpg",
+        "image_url": "CP05-T11_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://www.gamer.ne.jp/news/202610310002/"
@@ -1468,7 +1504,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-018","CP05-T04"],
-        "image_url": "CP05-T12.png",
+        "image_url": "CP05-T12_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://shadowverse-evolve.com/cp05_cardarchive/"
@@ -1487,7 +1523,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-021","CP05-035","CP05-070","CP05-093","CP05-095","CP05-096","CP05-097","CP05-098","CP05-104"],
-        "image_url": "CP05-T13.png",
+        "image_url": "CP05-T13_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://shadowverse-evolve.com/cp05_cardarchive/"
@@ -1506,7 +1542,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-065"],
-        "image_url": "CP05-T14.png",
+        "image_url": "CP05-T14_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://shadowverse-evolve.com/cp05_cardarchive/"
@@ -1525,7 +1561,7 @@
         "keywords": ["起動","最終上限解放可能"],
         "expansion": "CP05",
         "mentioned_from": ["CP05-041","CP05-107","CP05-109"],
-        "image_url": "CP05-T15.png",
+        "image_url": "CP05-T15_official.jpg",
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://www.youtube.com/watch?v=L3RCc4OlgZU"

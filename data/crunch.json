@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "expansions": [
     {
       "expansion": "CP05",
@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 65,
-      "n_layouts": 8225,
+      "revealed_count": 67,
+      "n_layouts": 5890,
       "unique": false,
       "classes": [
         "エルフ",
@@ -221,7 +221,9 @@
             {
               "num": 20,
               "cardno": "CP05-020",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-020",
+              "kind": "base"
             },
             {
               "num": 21,
@@ -238,8 +240,8 @@
               "kind": "evolve"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
+          "revealed_count": 3,
+          "confirmed_count": 0,
           "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
@@ -545,7 +547,9 @@
             {
               "num": 54,
               "cardno": "CP05-054",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-054",
+              "kind": "base"
             },
             {
               "num": 55,
@@ -569,11 +573,11 @@
               "kind": "evolve"
             }
           ],
-          "revealed_count": 3,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
