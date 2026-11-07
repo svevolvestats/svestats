@@ -348,6 +348,24 @@
         "source_url": "https://www.gamer.ne.jp/news/202610310002/"
     },
     {
+        "oracle_id": "CP05-030",
+        "name": "氷心の覇王・アグロヴァル",
+        "class": "ロイヤル",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","水属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 6,
+        "atk": 5,
+        "hp": 5,
+        "text": "【ファンファーレ】相手の場のフォロワーすべてに「自分の墓場の【クイック】【起動】能力を持つフォロワーの枚数」と同じダメージ。\n【クイック】【起動】コスト3手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それを破壊する。",
+        "keywords": ["ファンファーレ","クイック","起動"],
+        "expansion": "CP05",
+        "image_url": "CP05-030.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "SR",
+        "source_url": "https://dengekionline.com/article/202611/92939"
+    },
+    {
         "oracle_id": "CP05-031",
         "name": "花開く筋肉・フィオリト",
         "class": "ロイヤル",
@@ -526,6 +544,24 @@
         "source_url": "https://twitter.com/shadowverse_ev/status/2114650827390677084"
     },
     {
+        "oracle_id": "CP05-043",
+        "name": "空慕う帰還者・カシウス",
+        "class": "ウィッチ",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","水属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 4,
+        "atk": 3,
+        "hp": 3,
+        "text": "【ファンファーレ】1枚引く。自分の墓場の【クイック】【起動】能力を持つフォロワーが7枚以上なら、自分のPPを3回復する。\n【クイック】【起動】コスト1手札のこれを捨てる：自分のデッキの上3枚を見る。その中から、【クイック】【起動】能力を持つフォロワー1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
+        "keywords": ["ファンファーレ","クイック","起動"],
+        "expansion": "CP05",
+        "image_url": "CP05-043.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "GR",
+        "source_url": "https://dengekionline.com/article/202611/92939"
+    },
+    {
         "oracle_id": "CP05-044",
         "name": "コロッサス・マグナ",
         "class": "ウィッチ",
@@ -586,6 +622,26 @@
         "release_date": "2026-11-27",
         "rarity": "SR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2116820063743549871"
+    },
+    {
+        "oracle_id": "CP05-047",
+        "name": "楽隠居の元国王・フォリア",
+        "class": "ウィッチ",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","水属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 4,
+        "atk": 3,
+        "hp": 5,
+        "text": "【ファンファーレ】自分の墓場の【クイック】【起動】能力を持つフォロワーが7枚以上なら、『ハクタク』1体を場に出す。\n【クイック】【起動】コスト0：このターン、次に自分が【クイック】【起動】能力をプレイする際、コストを-1する。この能力は1ターンに1回使える。",
+        "keywords": ["ファンファーレ","クイック","起動"],
+        "expansion": "CP05",
+        "mentions": ["CP05-T07"],
+        "mentions_tokens": ["CP05-T07"],
+        "image_url": "CP05-047.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "SR",
+        "source_url": "https://dengekionline.com/article/202611/92939"
     },
     {
         "oracle_id": "CP05-048",
@@ -1413,6 +1469,25 @@
         "release_date": "2026-11-27",
         "rarity": null,
         "source_url": "https://hjweb.jp/article/2875802/"
+    },
+    {
+        "oracle_id": "CP05-T07",
+        "name": "ハクタク",
+        "class": "ウィッチ",
+        "card_type": ["フォロワー","トークン"],
+        "tribe": ["グラブル","水属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 4,
+        "atk": 4,
+        "hp": 6,
+        "text": "【突進】【指定攻撃】【守護】（【指定攻撃】を持つフォロワーは、スタンド状態のフォロワーを攻撃できる）\n【クイック】【起動】コスト1：自分のリーダーは体力+2する。この能力は1ターンに1回使える。",
+        "keywords": ["突進","指定攻撃","守護","クイック","起動"],
+        "expansion": "CP05",
+        "mentioned_from": ["CP05-047"],
+        "image_url": "CP05-T07.jpg",
+        "release_date": "2026-11-27",
+        "rarity": null,
+        "source_url": "https://dengekionline.com/article/202611/92939"
     },
     {
         "oracle_id": "CP05-T08",
