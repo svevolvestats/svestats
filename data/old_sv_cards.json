@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2212,
+ "in_evolve": 2214,
  "match_breakdown": {
-  "exact": 2192,
-  "null": 2649,
+  "exact": 2194,
+  "null": 2647,
   "alias": 19,
   "normalized": 1
  },
@@ -84825,9 +84825,9 @@
      "vo_119331010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-047",
+   "matched_by": "exact",
    "name_en": "Pholia, Retired Sovereign",
    "expansion_en": "Eternal Awakening"
   },
@@ -159070,9 +159070,9 @@
      "vo_900331070_5.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T07",
+   "matched_by": "exact",
    "name_en": "Bai Ze",
    "expansion_en": "Token"
   },
