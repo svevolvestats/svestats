@@ -27,7 +27,7 @@ function ogImgUrl(path) {
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-function injectOG(html, { title, description, imageUrl, pageUrl }) {
+function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   let out = html;
   out = out.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`);
   out = out.replace(
@@ -41,6 +41,14 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     `$1${descEscaped}$2`
   );
   if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  if (description) {
+    out = out.replace(/(<meta name="description" content=")[\s\S]*?(")/, `$1${descEscaped}$2`);
+  }
+  if (canonical) {
+    out = out.replace(/<link rel="canonical"[^>]*>/g, "");
+    out = out.replace("</head>", `  <link rel="canonical" href="${escapeHtml(canonical)}" />
+</head>`);
+  }
   out = out.replace(/<meta property="og:url"[^>]*>/g, "");
   out = out.replace(/<meta property="og:image"[^>]*>/g, "");
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");

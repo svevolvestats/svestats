@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /mypage
+Disallow: /organizer
+Disallow: /event/
+Disallow: /simulator
+Disallow: /column-editor
+Disallow: /my-columns
+Disallow: /migrate
+
+Sitemap: https://svestats.cc/sitemap.xml

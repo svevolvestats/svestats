@@ -27,7 +27,7 @@ function ogImgUrl(path) {
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-function injectOG(html, { title, description, imageUrl, pageUrl }) {
+function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   let out = html;
   out = out.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`);
   out = out.replace(
@@ -41,6 +41,14 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     `$1${descEscaped}$2`
   );
   if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  if (description) {
+    out = out.replace(/(<meta name="description" content=")[\s\S]*?(")/, `$1${descEscaped}$2`);
+  }
+  if (canonical) {
+    out = out.replace(/<link rel="canonical"[^>]*>/g, "");
+    out = out.replace("</head>", `  <link rel="canonical" href="${escapeHtml(canonical)}" />
+</head>`);
+  }
   out = out.replace(/<meta property="og:url"[^>]*>/g, "");
   out = out.replace(/<meta property="og:image"[^>]*>/g, "");
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
@@ -52,6 +60,15 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
   out = out.replace("</head>", `  ${extra}
 </head>`);
   return out;
+}
+async function serveNoindex(context) {
+  const origin = new URL(context.request.url).origin;
+  const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+  const html = (await indexRes.text()).replace("</head>", '  <meta name="robots" content="noindex" />\n</head>');
+  return new Response(html, {
+    status: 404,
+    headers: { "Content-Type": "text/html;charset=UTF-8", "Cache-Control": "public, max-age=30" }
+  });
 }
 async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin;
@@ -72,6 +89,8 @@ async function serveWithOG(context, ogProps) {
 }
 
 // archetype/[id].js
+var NotFound = class extends Error {
+};
 async function onRequest(context) {
   const { params, request } = context;
   if (!isCrawler(request)) return serveIndex(context);
@@ -90,7 +109,14 @@ async function onRequest(context) {
       fetchJson(`${origin}/data/og/card_img.json`)
     ]);
     const arch = meta.archetypes?.find((a) => a.id === archId);
-    if (!arch) throw new Error("not found");
+    if (!arch) {
+      if (!period && !recap && !trio) {
+        const map = await fetchJson(`${origin}/data/og/arch_period.json`);
+        const p2 = map[archId];
+        if (p2) return Response.redirect(`${origin}/archetype/${encodeURIComponent(archId)}?period=${encodeURIComponent(p2)}`, 301);
+      }
+      throw new NotFound();
+    }
     const imageUrl = ogImgUrl((arch.top_cards || []).map((n) => cardImg[n]).find(Boolean));
     const archName = arch.name || archId;
     const p = meta.period ?? {};
@@ -108,8 +134,9 @@ async function onRequest(context) {
     const teamPct = meta.total_teams ? ((arch.count ?? 0) / meta.total_teams * 100).toFixed(2) : "0.00";
     const desc = trio ? `\u30C1\u30FC\u30E0: ${arch.count ?? 0}/${meta.total_teams ?? 0}(${teamPct}%) | \u512A\u52DD\u30C1\u30FC\u30E0\u5185: ${arch.winner ?? 0}` : `\u512A\u52DD: ${arch.winner ?? 0}\u56DE(${winPct}%) | ${totalLabel}: ${arch.count ?? 0}\u56DE(${top8Pct}%)`;
     const pageUrl = trio ? `${origin}/archetype/${archId}?trio=${trio}` : recap ? `${origin}/archetype/${archId}?recap=${recap}` : period ? `${origin}/archetype/${archId}?period=${encodeURIComponent(period)}` : `${origin}/archetype/${archId}`;
-    return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl });
-  } catch {
+    return await serveWithOG(context, { title, description: desc, imageUrl, pageUrl, canonical: pageUrl });
+  } catch (e) {
+    if (e instanceof NotFound) return serveNoindex(context);
     return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
   }
 }

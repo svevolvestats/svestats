@@ -26,7 +26,7 @@ function ogShard(id) {
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-function injectOG(html, { title, description, imageUrl, pageUrl }) {
+function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   let out = html;
   out = out.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`);
   out = out.replace(
@@ -40,6 +40,14 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     `$1${descEscaped}$2`
   );
   if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  if (description) {
+    out = out.replace(/(<meta name="description" content=")[\s\S]*?(")/, `$1${descEscaped}$2`);
+  }
+  if (canonical) {
+    out = out.replace(/<link rel="canonical"[^>]*>/g, "");
+    out = out.replace("</head>", `  <link rel="canonical" href="${escapeHtml(canonical)}" />
+</head>`);
+  }
   out = out.replace(/<meta property="og:url"[^>]*>/g, "");
   out = out.replace(/<meta property="og:image"[^>]*>/g, "");
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
@@ -51,6 +59,15 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
   out = out.replace("</head>", `  ${extra}
 </head>`);
   return out;
+}
+async function serveNoindex(context) {
+  const origin = new URL(context.request.url).origin;
+  const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+  const html = (await indexRes.text()).replace("</head>", '  <meta name="robots" content="noindex" />\n</head>');
+  return new Response(html, {
+    status: 404,
+    headers: { "Content-Type": "text/html;charset=UTF-8", "Cache-Control": "public, max-age=30" }
+  });
 }
 async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin;
@@ -76,16 +93,24 @@ async function onRequest(context) {
   const cardId = decodeURIComponent(params.id);
   const origin = new URL(request.url).origin;
   if (!isCrawler(request)) return serveIndex(context);
+  let shard;
   try {
-    const shard = await fetchJson(`${origin}/data/og/cards/${ogShard(cardId)}.json`);
-    const hit = shard[cardId.toLowerCase()];
-    if (!hit) throw new Error("not found");
-    const [name, desc, imageUrl] = hit;
+    shard = await fetchJson(`${origin}/data/og/cards/${ogShard(cardId)}.json`);
+  } catch (e) {
+    if (e instanceof SyntaxError || /→ 404$/.test(e?.message || "")) return serveNoindex(context);
+    return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+  }
+  const hit = shard[cardId.toLowerCase()];
+  if (!hit) return serveNoindex(context);
+  const [name, desc, imageUrl, oracleId] = hit;
+  const canonical = `${origin}/card/${oracleId || cardId}`;
+  try {
     return await serveWithOG(context, {
       title: `${name} | \u30A8\u30DC\u30EB\u30F4\u7D71\u8A08\u5C40`,
       description: desc,
       imageUrl,
-      pageUrl: `${origin}/card/${cardId}`
+      pageUrl: canonical,
+      canonical
     });
   } catch {
     return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));

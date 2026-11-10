@@ -23,7 +23,7 @@ function serveIndex(context) {
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-function injectOG(html, { title, description, imageUrl, pageUrl }) {
+function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   let out = html;
   out = out.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`);
   out = out.replace(
@@ -37,6 +37,14 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     `$1${descEscaped}$2`
   );
   if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  if (description) {
+    out = out.replace(/(<meta name="description" content=")[\s\S]*?(")/, `$1${descEscaped}$2`);
+  }
+  if (canonical) {
+    out = out.replace(/<link rel="canonical"[^>]*>/g, "");
+    out = out.replace("</head>", `  <link rel="canonical" href="${escapeHtml(canonical)}" />
+</head>`);
+  }
   out = out.replace(/<meta property="og:url"[^>]*>/g, "");
   out = out.replace(/<meta property="og:image"[^>]*>/g, "");
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
@@ -48,6 +56,15 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
   out = out.replace("</head>", `  ${extra}
 </head>`);
   return out;
+}
+async function serveNoindex(context) {
+  const origin = new URL(context.request.url).origin;
+  const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+  const html = (await indexRes.text()).replace("</head>", '  <meta name="robots" content="noindex" />\n</head>');
+  return new Response(html, {
+    status: 404,
+    headers: { "Content-Type": "text/html;charset=UTF-8", "Cache-Control": "public, max-age=30" }
+  });
 }
 async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin;
@@ -79,7 +96,7 @@ async function onRequest(context) {
   try {
     const venues = await fetchJson(`${origin}/data/og/venues_global.json`);
     const hit = venues[id];
-    if (!hit) throw new Error("not found");
+    if (!hit) return await serveNoindex(context);
     const [venueName, cityAddress, countryId] = hit;
     const addr = [cityAddress, COUNTRY_NAME[countryId] || null].filter(Boolean).join(", ");
     const description = addr ? `${addr} \u2014 Shadowverse: Evolve` : "Shadowverse: Evolve";
