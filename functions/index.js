@@ -42,8 +42,10 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
-    imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
-    imageUrl ? `<meta name="twitter:image" content="${imageUrl}" />` : ""
+    // imageUrl is built from URL params on some routes (?period=, ?event=, ?s=),
+    // so it must be escaped like every other attribute value here.
+    imageUrl ? `<meta property="og:image" content="${escapeHtml(imageUrl)}" />` : "",
+    imageUrl ? `<meta name="twitter:image" content="${escapeHtml(imageUrl)}" />` : ""
   ].filter(Boolean).join("\n  ");
   out = out.replace("</head>", `  ${extra}
 </head>`);
@@ -55,7 +57,8 @@ async function onRequest(context) {
   const { request, env } = context;
   const url = new URL(request.url);
   const origin = url.origin;
-  const periodParam = url.searchParams.get("period");
+  const rawPeriod = url.searchParams.get("period");
+  const periodParam = rawPeriod && /^\d{4}-\d{2}-\d{2}~\d{4}-\d{2}-\d{2}$/.test(rawPeriod) ? rawPeriod : null;
   try {
     const dataBase = periodParam ? `${origin}/data/archetypes/${periodParam}` : `${origin}/data`;
     const meta = await fetchJson(`${dataBase}/meta.json`);

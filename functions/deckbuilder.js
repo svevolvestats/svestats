@@ -29,8 +29,10 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
-    imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
-    imageUrl ? `<meta name="twitter:image" content="${imageUrl}" />` : ""
+    // imageUrl is built from URL params on some routes (?period=, ?event=, ?s=),
+    // so it must be escaped like every other attribute value here.
+    imageUrl ? `<meta property="og:image" content="${escapeHtml(imageUrl)}" />` : "",
+    imageUrl ? `<meta name="twitter:image" content="${escapeHtml(imageUrl)}" />` : ""
   ].filter(Boolean).join("\n  ");
   out = out.replace("</head>", `  ${extra}
 </head>`);
@@ -102,8 +104,10 @@ var DEFAULT_OG = {
 };
 async function onRequest(context) {
   const url = new URL(context.request.url);
-  const s = url.searchParams.get("s");
-  const d = url.searchParams.get("d");
+  const rawS = url.searchParams.get("s");
+  const rawD = url.searchParams.get("d");
+  const s = rawS && /^[0-9A-Za-z]{1,32}$/.test(rawS) ? rawS : null;
+  const d = rawD && /^[A-Za-z0-9_\-+/=]+$/.test(rawD) ? rawD : null;
   if (!s && !d) {
     return serveWithOG(context, { ...DEFAULT_OG, pageUrl: `${url.origin}/deckbuilder` });
   }

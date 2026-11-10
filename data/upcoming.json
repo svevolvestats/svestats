@@ -875,6 +875,24 @@
         "source_url": "https://twitter.com/shadowverse_ev/status/2113902588030844982"
     },
     {
+        "oracle_id": "CP05-060",
+        "name": "天穿の銃槍騎・ラスティナ",
+        "class": "ドラゴン",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","土属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 3,
+        "atk": 1,
+        "hp": 5,
+        "text": "これが上限解放したとき、相手の場のフォロワー1体を選ぶ。それにXダメージ。Xは「自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーの枚数」である。Xが4以上なら、それのリーダーに2ダメージ。\n【ファンファーレ】1枚引く。自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+        "keywords": ["ファンファーレ"],
+        "expansion": "CP05",
+        "image_url": "CP05-060.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "GR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2120079089176653962"
+    },
+    {
         "oracle_id": "CP05-065",
         "name": "メグの親友・まりっぺ",
         "class": "ドラゴン",
@@ -952,6 +970,24 @@
         "release_date": "2026-11-27",
         "rarity": "BR",
         "source_url": "https://twitter.com/shadowverse_ev/status/2115005974746730731"
+    },
+    {
+        "oracle_id": "CP05-069",
+        "name": "灰白の豹・アイル",
+        "class": "ドラゴン",
+        "card_type": ["フォロワー"],
+        "tribe": ["グラブル","土属性"],
+        "title": "グランブルーファンタジー",
+        "cost": 2,
+        "atk": 3,
+        "hp": 2,
+        "text": "【突進】\n【攻撃時】1枚引く。\n【ファンファーレ】自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上なら、これは攻撃力+2して、【指定攻撃】を持つ。",
+        "keywords": ["突進","攻撃時","ファンファーレ","指定攻撃"],
+        "expansion": "CP05",
+        "image_url": "CP05-069.jpg",
+        "release_date": "2026-11-27",
+        "rarity": "BR",
+        "source_url": "https://twitter.com/shadowverse_ev/status/2120081576172367938"
     },
     {
         "oracle_id": "CP05-070",

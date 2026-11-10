@@ -13,12 +13,16 @@ var MIGRATE_KEYS = [
 function safePath(raw) {
   if (typeof raw !== "string") return "/";
   if (!raw.startsWith("/") || raw.startsWith("//")) return "/";
+  if (/[\\\u0000-\u001f]/.test(raw)) return "/";
   return raw;
 }
+function jsLiteral(value) {
+  return JSON.stringify(value).replace(/</g, "\\u003c").replace(/>/g, "\\u003e").replace(/&/g, "\\u0026").split(String.fromCharCode(8232)).join("\\u2028").split(String.fromCharCode(8233)).join("\\u2029");
+}
 function bootstrap(payloadB64, path) {
-  const keys = JSON.stringify(MIGRATE_KEYS);
-  const p = JSON.stringify(payloadB64);
-  const dest = JSON.stringify(path);
+  const keys = jsLiteral(MIGRATE_KEYS);
+  const p = jsLiteral(payloadB64);
+  const dest = jsLiteral(path);
   return `<!doctype html><html><head><meta charset="utf-8"><title></title></head><body><script>
 (function(){
   var dest=${dest};

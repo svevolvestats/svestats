@@ -42,8 +42,10 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
-    imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
-    imageUrl ? `<meta name="twitter:image" content="${imageUrl}" />` : ""
+    // imageUrl is built from URL params on some routes (?period=, ?event=, ?s=),
+    // so it must be escaped like every other attribute value here.
+    imageUrl ? `<meta property="og:image" content="${escapeHtml(imageUrl)}" />` : "",
+    imageUrl ? `<meta name="twitter:image" content="${escapeHtml(imageUrl)}" />` : ""
   ].filter(Boolean).join("\n  ");
   out = out.replace("</head>", `  ${extra}
 </head>`);
@@ -80,7 +82,8 @@ async function onRequest(context) {
   const { request, env } = context;
   const url = new URL(request.url);
   const origin = url.origin;
-  const eventId = url.searchParams.get("event");
+  const rawEvent = url.searchParams.get("event");
+  const eventId = rawEvent && /^[0-9_]{1,40}$/.test(rawEvent) ? rawEvent : null;
   try {
     const merged = [
       ...await loadIndex(origin, "recap", "kojin"),

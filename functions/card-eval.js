@@ -47,8 +47,10 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
-    imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
-    imageUrl ? `<meta name="twitter:image" content="${imageUrl}" />` : ""
+    // imageUrl is built from URL params on some routes (?period=, ?event=, ?s=),
+    // so it must be escaped like every other attribute value here.
+    imageUrl ? `<meta property="og:image" content="${escapeHtml(imageUrl)}" />` : "",
+    imageUrl ? `<meta name="twitter:image" content="${escapeHtml(imageUrl)}" />` : ""
   ].filter(Boolean).join("\n  ");
   out = out.replace("</head>", `  ${extra}
 </head>`);
