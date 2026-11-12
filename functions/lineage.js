@@ -66,9 +66,18 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
 async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin;
   const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
-  const html = await indexRes.text();
-  return new Response(injectOG(html, ogProps), {
+  let html = await indexRes.text();
+  if (!ogProps.defaultOG) html = injectOG(html, ogProps);
+  const extraHeaders = {};
+  if (ogProps.noindex) {
+    const robots = ogProps.noindex === "follow" ? "noindex" : "noindex, nofollow";
+    html = html.replace("</head>", `  <meta name="robots" content="${robots}" />
+</head>`);
+    extraHeaders["X-Robots-Tag"] = robots;
+  }
+  return new Response(html, {
     headers: {
+      ...extraHeaders,
       "Content-Type": "text/html;charset=UTF-8",
       // Keep this short. The HTML names hashed asset files, so a stale copy asks
       // for chunks a deploy already replaced -> 404 -> the error screen, and the
@@ -194,11 +203,13 @@ async function onRequest(context) {
         if (head) imageUrl = await repCardImage(origin, head);
       }
       const eraCanon = single ? sel.end.code : `${sel.start.code}~${sel.end.code}`;
+      const eraUrl = `${origin}/lineage?view=era&era=${encodeURIComponent(eraCanon)}`;
       return await serveWithOG(context, {
         title: title2,
         description: truncate(desc2),
         imageUrl,
-        pageUrl: `${origin}/lineage?view=era&era=${encodeURIComponent(eraCanon)}`
+        pageUrl: eraUrl,
+        canonical: eraUrl
       });
     }
     const present = new Set(Object.values(nodes).map((n) => n.class));
@@ -221,6 +232,7 @@ async function onRequest(context) {
     if (archParam) params.set("archetype", archParam);
     const qs = params.toString();
     const pageUrl = `${origin}/lineage${qs ? `?${qs}` : ""}`;
+    const canonical = `${origin}/lineage${cls ? `?class=${encodeURIComponent(cls)}` : ""}`;
     if (!cls) {
       const desc2 = [
         DEFAULT_DESC,
@@ -230,7 +242,8 @@ async function onRequest(context) {
       return await serveWithOG(context, {
         title: DEFAULT_TITLE,
         description: truncate(desc2),
-        pageUrl
+        pageUrl,
+        canonical
       });
     }
     const label = clsLabel(cls);
@@ -240,7 +253,7 @@ async function onRequest(context) {
       span ? `\uFF08${span}\u30FB${clsPeriods.length}\u671F\u9593\uFF09` : "",
       topStr ? `\u3002\u76F4\u8FD1: ${topStr}` : ""
     ].join("");
-    return await serveWithOG(context, { title, description: truncate(desc), pageUrl });
+    return await serveWithOG(context, { title, description: truncate(desc), pageUrl, canonical });
   } catch {
     return await serveWithOG(context, {
       title: DEFAULT_TITLE,

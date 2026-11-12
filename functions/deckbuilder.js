@@ -41,9 +41,18 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
 async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin;
   const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
-  const html = await indexRes.text();
-  return new Response(injectOG(html, ogProps), {
+  let html = await indexRes.text();
+  if (!ogProps.defaultOG) html = injectOG(html, ogProps);
+  const extraHeaders = {};
+  if (ogProps.noindex) {
+    const robots = ogProps.noindex === "follow" ? "noindex" : "noindex, nofollow";
+    html = html.replace("</head>", `  <meta name="robots" content="${robots}" />
+</head>`);
+    extraHeaders["X-Robots-Tag"] = robots;
+  }
+  return new Response(html, {
     headers: {
+      ...extraHeaders,
       "Content-Type": "text/html;charset=UTF-8",
       // Keep this short. The HTML names hashed asset files, so a stale copy asks
       // for chunks a deploy already replaced -> 404 -> the error screen, and the
@@ -108,16 +117,23 @@ async function onRequest(context) {
   const rawD = url.searchParams.get("d");
   const s = rawS && /^[0-9A-Za-z]{1,32}$/.test(rawS) ? rawS : null;
   const d = rawD && /^[A-Za-z0-9_\-+/=]+$/.test(rawD) ? rawD : null;
+  const noindex = url.search.length > 1 ? "follow" : false;
   if (!s && !d) {
-    return serveWithOG(context, { ...DEFAULT_OG, pageUrl: `${url.origin}/deckbuilder` });
+    return serveWithOG(context, {
+      ...DEFAULT_OG,
+      pageUrl: `${url.origin}/deckbuilder`,
+      noindex,
+      canonical: noindex ? void 0 : `${url.origin}/deckbuilder`
+    });
   }
   const data = s ? await fetchSharedDeck(s) : await decodeDeckParam(d);
   if (!data) {
-    return serveWithOG(context, { ...DEFAULT_OG, pageUrl: url.href });
+    return serveWithOG(context, { ...DEFAULT_OG, pageUrl: url.href, noindex });
   }
   const ogProps = buildDeckOG(data, url.href);
   const paramKey = s ? `s=${s}` : `d=${d}`;
   ogProps.imageUrl = `${url.origin}/api/og/deck?${paramKey}`;
+  ogProps.noindex = noindex;
   return serveWithOG(context, ogProps);
 }
 export {
