@@ -1,0 +1,1 @@
+import{v as i}from"./index-84nWpjaH.js";import{f as r}from"./fetchJson-Fm0FtYAK.js";const c="非公認",n={};function f(t="sve"){return n[t]||(n[t]=r(`${i}/api/community-events?game=${t}`,{init:{signal:AbortSignal.timeout(4e3)}}).then(o=>Array.isArray(o)?o:[]).catch(()=>[])),n[t]}export{c as C,f as l};
