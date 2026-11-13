@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 76,
-      "n_layouts": 2558,
+      "revealed_count": 80,
+      "n_layouts": 719,
       "unique": false,
       "classes": [
         "エルフ",
@@ -404,22 +404,26 @@
             {
               "num": 39,
               "cardno": "CP05-039",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-039",
+              "kind": "base"
             },
             {
               "num": 40,
               "cardno": "CP05-040",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-040",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ウィッチ|GR": {
           "class": "ウィッチ",
@@ -458,7 +462,7 @@
           "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -892,22 +896,26 @@
             {
               "num": 91,
               "cardno": "CP05-091",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-091",
+              "kind": "base"
             },
             {
               "num": 92,
               "cardno": "CP05-092",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-092",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ビショップ|GR": {
           "class": "ビショップ",
@@ -946,7 +954,7 @@
           "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
