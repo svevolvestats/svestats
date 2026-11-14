@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2220,
+ "in_evolve": 2223,
  "match_breakdown": {
-  "exact": 2200,
-  "null": 2641,
+  "exact": 2203,
+  "null": 2638,
   "alias": 19,
   "normalized": 1
  },
@@ -42329,9 +42329,9 @@
      "vo_109141010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-005",
+   "matched_by": "exact",
    "name_en": "Korwa, Ravishing Designer",
    "expansion_en": "Brigade of the Sky"
   },
@@ -43615,9 +43615,9 @@
      "vo_109431010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-064",
+   "matched_by": "exact",
    "name_en": "True Dragon Scathacha",
    "expansion_en": "Brigade of the Sky"
   },
@@ -155059,9 +155059,9 @@
      "vo_900144040_1.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-T02",
+   "matched_by": "exact",
    "name_en": "Fil",
    "expansion_en": "Token"
   },
