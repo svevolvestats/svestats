@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 83,
-      "n_layouts": 559,
+      "revealed_count": 87,
+      "n_layouts": 128,
       "unique": false,
       "classes": [
         "エルフ",
@@ -262,12 +262,16 @@
             {
               "num": 23,
               "cardno": "CP05-023",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-023",
+              "kind": "base"
             },
             {
               "num": 24,
               "cardno": "CP05-024",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-024",
+              "kind": "evolve"
             },
             {
               "num": 25,
@@ -284,14 +288,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|SR": {
           "class": "ロイヤル",
@@ -300,12 +304,16 @@
             {
               "num": 27,
               "cardno": "CP05-027",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-027",
+              "kind": "base"
             },
             {
               "num": 28,
               "cardno": "CP05-028",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-028",
+              "kind": "evolve"
             },
             {
               "num": 29,
@@ -322,14 +330,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 2,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ロイヤル|BR": {
           "class": "ロイヤル",
@@ -749,12 +757,12 @@
             {
               "num": 74,
               "cardno": "CP05-074",
-              "status": "estimated"
+              "status": "confirmed"
             }
           ],
           "revealed_count": 0,
-          "confirmed_count": 1,
-          "estimated_count": 3,
+          "confirmed_count": 2,
+          "estimated_count": 2,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
