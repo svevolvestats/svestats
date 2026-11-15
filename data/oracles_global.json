@@ -7,6 +7,10 @@
   "card_type": [
    "Leader"
   ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
   "kind": "leader",
   "format": null,
   "keywords": [],
@@ -16,6 +20,7 @@
   "prints": [
    {
     "cardno": "BP03-LDS01EN",
+    "expansion": "BP03",
     "img": "BP03/BP03-LDⓈ01EN.webp",
     "illustrator": "Design: TOMETA OHARA / Illustration: MITSUKI KOYOI",
     "set_name": "Booster Set #3 “Flame of Lævateinn”",
@@ -23,6 +28,7 @@
    },
    {
     "cardno": "PR-041EN",
+    "expansion": "PR",
     "img": "PR/PR-041EN.webp",
     "illustrator": "Design: TOMETA OHARA / Illustration: MITSUKI KOYOI",
     "set_name": "Promo Cards"
@@ -31,162 +37,19 @@
   "release_date": "2024-02-02"
  },
  {
-  "oracle_id": "CP03-LD07EN",
-  "name": "Leon Soryu",
-  "class": "エルフ",
-  "class_en": "Forestcraft",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "title": "Cardfight!! Vanguard",
-  "img": "CP03/CP03-LD07EN.webp",
-  "prints": [
-   {
-    "cardno": "CP03-LD07EN",
-    "img": "CP03/CP03-LD07EN.webp",
-    "set_name": "Crossover Set \"Cardfight!! Vanguard\"",
-    "release_date": "2025-08-15"
-   }
-  ],
-  "release_date": "2025-08-15"
- },
- {
-  "oracle_id": "CP03-LD08EN",
-  "name": "Aichi Sendou",
-  "class": "ロイヤル",
-  "class_en": "Swordcraft",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "title": "Cardfight!! Vanguard",
-  "img": "CP03/CP03-LD08EN.webp",
-  "prints": [
-   {
-    "cardno": "CP03-LD08EN",
-    "img": "CP03/CP03-LD08EN.webp",
-    "set_name": "Crossover Set \"Cardfight!! Vanguard\"",
-    "release_date": "2025-08-15"
-   }
-  ],
-  "release_date": "2025-08-15"
- },
- {
-  "oracle_id": "CP03-LD09EN",
-  "name": "Asaka Narumi",
-  "class": "ウィッチ",
-  "class_en": "Runecraft",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "title": "Cardfight!! Vanguard",
-  "img": "CP03/CP03-LD09EN.webp",
-  "prints": [
-   {
-    "cardno": "CP03-LD09EN",
-    "img": "CP03/CP03-LD09EN.webp",
-    "set_name": "Crossover Set \"Cardfight!! Vanguard\"",
-    "release_date": "2025-08-15"
-   }
-  ],
-  "release_date": "2025-08-15"
- },
- {
-  "oracle_id": "CP03-LD10EN",
-  "name": "Toshiki Kai",
-  "class": "ドラゴン",
-  "class_en": "Dragoncraft",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "title": "Cardfight!! Vanguard",
-  "img": "CP03/CP03-LD10EN.webp",
-  "prints": [
-   {
-    "cardno": "CP03-LD10EN",
-    "img": "CP03/CP03-LD10EN.webp",
-    "set_name": "Crossover Set \"Cardfight!! Vanguard\"",
-    "release_date": "2025-08-15"
-   }
-  ],
-  "release_date": "2025-08-15"
- },
- {
-  "oracle_id": "CP03-LD11EN",
-  "name": "Ren Suzugamori",
-  "class": "ナイトメア",
-  "class_en": "Abysscraft",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "title": "Cardfight!! Vanguard",
-  "img": "CP03/CP03-LD11EN.webp",
-  "prints": [
-   {
-    "cardno": "CP03-LD11EN",
-    "img": "CP03/CP03-LD11EN.webp",
-    "set_name": "Crossover Set \"Cardfight!! Vanguard\"",
-    "release_date": "2025-08-15"
-   }
-  ],
-  "release_date": "2025-08-15"
- },
- {
-  "oracle_id": "CP03-LD12EN",
-  "name": "Misaki Tokura",
-  "class": "ビショップ",
-  "class_en": "Havencraft",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "title": "Cardfight!! Vanguard",
-  "img": "CP03/CP03-LD12EN.webp",
-  "prints": [
-   {
-    "cardno": "CP03-LD12EN",
-    "img": "CP03/CP03-LD12EN.webp",
-    "set_name": "Crossover Set \"Cardfight!! Vanguard\"",
-    "release_date": "2025-08-15"
-   }
-  ],
-  "release_date": "2025-08-15"
- },
- {
   "oracle_id": "GFB01a-001EN",
   "name": "Magnolia, Battlefield Muse",
   "class": "ロイヤル",
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -207,6 +70,7 @@
   "prints": [
    {
     "cardno": "GFB01a-001EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-001EN.webp",
     "rarity": "LG",
     "illustrator": "TEDDY",
@@ -225,6 +89,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 2,
@@ -240,6 +109,7 @@
   "prints": [
    {
     "cardno": "GFB01a-002EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-002EN.webp",
     "rarity": "LG",
     "illustrator": "TEDDY",
@@ -256,6 +126,13 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -274,6 +151,7 @@
   "prints": [
    {
     "cardno": "GFB01a-003EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-003EN.webp",
     "rarity": "LG",
     "illustrator": "InHyuk Lee",
@@ -292,6 +170,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 9,
@@ -305,6 +188,7 @@
   "prints": [
    {
     "cardno": "GFB01a-004EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-004EN.webp",
     "rarity": "LG",
     "illustrator": "InHyuk Lee",
@@ -321,6 +205,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -339,6 +229,7 @@
   "prints": [
    {
     "cardno": "GFB01a-005EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-005EN.webp",
     "rarity": "LG",
     "illustrator": "Ryosuke Aiba (CyDesignation)",
@@ -355,6 +246,13 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ラストワード"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -373,6 +271,7 @@
   "prints": [
    {
     "cardno": "GFB01a-006EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-006EN.webp",
     "rarity": "LG",
     "illustrator": "SEMSEI",
@@ -391,6 +290,13 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [
+   "ラストワード"
+  ],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 6,
@@ -406,6 +312,7 @@
   "prints": [
    {
     "cardno": "GFB01a-007EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-007EN.webp",
     "rarity": "LG",
     "illustrator": "SEMSEI",
@@ -423,6 +330,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 8,
@@ -439,6 +352,7 @@
   "prints": [
    {
     "cardno": "GFB01a-008EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-008EN.webp",
     "rarity": "LG",
     "illustrator": "Ryosuke Aiba (CyDesignation)",
@@ -447,6 +361,7 @@
    },
    {
     "cardno": "GFB01d-008EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-008EN.webp",
     "rarity": "LG",
     "illustrator": "Ryosuke Aiba (CyDesignation)",
@@ -464,6 +379,12 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [
+   "クイック"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -479,6 +400,7 @@
   "prints": [
    {
     "cardno": "GFB01a-016EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-016EN.webp",
     "rarity": "GR",
     "illustrator": "InHyuk Lee",
@@ -496,6 +418,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 2,
@@ -512,6 +440,7 @@
   "prints": [
    {
     "cardno": "GFB01a-017EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-017EN.webp",
     "rarity": "GR",
     "illustrator": "Tomoyo Asatani",
@@ -530,6 +459,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -543,6 +477,7 @@
   "prints": [
    {
     "cardno": "GFB01a-018EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-018EN.webp",
     "rarity": "GR",
     "illustrator": "Tomoyo Asatani",
@@ -560,6 +495,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -576,6 +517,7 @@
   "prints": [
    {
     "cardno": "GFB01a-019EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-019EN.webp",
     "rarity": "GR",
     "illustrator": "Sainosuke",
@@ -593,6 +535,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 4,
@@ -609,6 +557,7 @@
   "prints": [
    {
     "cardno": "GFB01a-020EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-020EN.webp",
     "rarity": "GR",
     "illustrator": "R20",
@@ -626,6 +575,12 @@
   "card_type": [
    "Amulet"
   ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [
+   "クイック"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -642,6 +597,7 @@
   "prints": [
    {
     "cardno": "GFB01a-021EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-021EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -657,6 +613,12 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -674,6 +636,7 @@
   "prints": [
    {
     "cardno": "GFB01a-022EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-022EN.webp",
     "rarity": "GR",
     "illustrator": "Mushimaro",
@@ -682,6 +645,7 @@
    },
    {
     "cardno": "GFB01d-026EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-026EN.webp",
     "rarity": "GR",
     "illustrator": "Mushimaro",
@@ -698,6 +662,13 @@
   "class_en": "Neutral",
   "card_type": [
    "Amulet"
+  ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [
+   "ファンファーレ",
+   "クイック"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -716,6 +687,7 @@
   "prints": [
    {
     "cardno": "GFB01a-023EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-023EN.webp",
     "rarity": "GR",
     "illustrator": "qiangzi",
@@ -724,6 +696,7 @@
    },
    {
     "cardno": "GFB01b-025EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-025EN.webp",
     "rarity": "GR",
     "illustrator": "qiangzi",
@@ -732,6 +705,7 @@
    },
    {
     "cardno": "PR-137EN",
+    "expansion": "PR",
     "img": "PR/PR-137EN.webp",
     "rarity": "PR",
     "illustrator": "qiangzi",
@@ -748,6 +722,10 @@
   "card_type": [
    "Leader"
   ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
   "kind": "leader",
   "format": null,
   "keywords": [],
@@ -757,6 +735,7 @@
   "prints": [
    {
     "cardno": "GFB01a-LD01EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01a-LD01EN.webp",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
     "release_date": "2024-07-19"
@@ -772,6 +751,10 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 7,
@@ -788,6 +771,7 @@
   "prints": [
    {
     "cardno": "GFB01b-001EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-001EN.webp",
     "rarity": "LG",
     "illustrator": "Nadare",
@@ -806,6 +790,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 10,
@@ -821,6 +810,7 @@
   "prints": [
    {
     "cardno": "GFB01b-002EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-002EN.webp",
     "rarity": "LG",
     "illustrator": "Nadare",
@@ -837,6 +827,13 @@
   "class_en": "Runecraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -857,6 +854,7 @@
   "prints": [
    {
     "cardno": "GFB01b-003EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-003EN.webp",
     "rarity": "LG",
     "illustrator": "AOGIRI",
@@ -875,6 +873,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 7,
@@ -890,6 +893,7 @@
   "prints": [
    {
     "cardno": "GFB01b-004EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-004EN.webp",
     "rarity": "LG",
     "illustrator": "AOGIRI",
@@ -907,6 +911,10 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 7,
@@ -923,6 +931,7 @@
   "prints": [
    {
     "cardno": "GFB01b-005EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-005EN.webp",
     "rarity": "LG",
     "illustrator": "Oben Dogenzaka",
@@ -939,6 +948,12 @@
   "class_en": "Runecraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -957,6 +972,7 @@
   "prints": [
    {
     "cardno": "GFB01b-006EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-006EN.webp",
     "rarity": "LG",
     "illustrator": "Shishizaru",
@@ -975,6 +991,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 3,
@@ -989,6 +1010,7 @@
   "prints": [
    {
     "cardno": "GFB01b-007EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-007EN.webp",
     "rarity": "LG",
     "illustrator": "Shishizaru",
@@ -1005,6 +1027,12 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1024,6 +1052,7 @@
   "prints": [
    {
     "cardno": "GFB01b-008EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-008EN.webp",
     "rarity": "LG",
     "illustrator": "Mushimaro",
@@ -1032,6 +1061,7 @@
    },
    {
     "cardno": "GFB01c-008EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-008EN.webp",
     "rarity": "LG",
     "illustrator": "Mushimaro",
@@ -1048,6 +1078,13 @@
   "class_en": "Runecraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1066,6 +1103,7 @@
   "prints": [
    {
     "cardno": "GFB01b-018EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-018EN.webp",
     "rarity": "GR",
     "illustrator": "Yoshiku",
@@ -1084,6 +1122,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 3,
@@ -1097,6 +1140,7 @@
   "prints": [
    {
     "cardno": "GFB01b-019EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-019EN.webp",
     "rarity": "GR",
     "illustrator": "Yoshiku",
@@ -1114,6 +1158,10 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -1127,6 +1175,7 @@
   "prints": [
    {
     "cardno": "GFB01b-020EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-020EN.webp",
     "rarity": "GR",
     "illustrator": "Tatsuyaki",
@@ -1144,6 +1193,10 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 8,
@@ -1156,6 +1209,7 @@
   "prints": [
    {
     "cardno": "GFB01b-021EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-021EN.webp",
     "rarity": "GR",
     "illustrator": "SEMSEI",
@@ -1164,6 +1218,7 @@
    },
    {
     "cardno": "PR-219EN",
+    "expansion": "PR",
     "img": "PR/PR-219EN.webp",
     "rarity": "PR",
     "illustrator": "SEMSEI",
@@ -1179,6 +1234,12 @@
   "class_en": "Runecraft",
   "card_type": [
    "Amulet"
+  ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1197,6 +1258,7 @@
   "prints": [
    {
     "cardno": "GFB01b-022EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-022EN.webp",
     "rarity": "GR",
     "illustrator": "Oben Dogenzaka",
@@ -1214,6 +1276,12 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [
+   "クイック"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 4,
@@ -1228,6 +1296,7 @@
   "prints": [
    {
     "cardno": "GFB01b-023EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-023EN.webp",
     "rarity": "GR",
     "illustrator": "Tatsuyaki",
@@ -1236,6 +1305,7 @@
    },
    {
     "cardno": "PR-138EN",
+    "expansion": "PR",
     "img": "PR/PR-138EN.webp",
     "rarity": "PR",
     "illustrator": "Tatsuyaki",
@@ -1252,6 +1322,10 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 5,
@@ -1267,6 +1341,7 @@
   "prints": [
    {
     "cardno": "GFB01b-024EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-024EN.webp",
     "rarity": "GR",
     "illustrator": "Mushimaro",
@@ -1275,6 +1350,7 @@
    },
    {
     "cardno": "GFB01c-025EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-025EN.webp",
     "rarity": "GR",
     "illustrator": "Mushimaro",
@@ -1292,6 +1368,10 @@
   "card_type": [
    "Leader"
   ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
   "kind": "leader",
   "format": null,
   "keywords": [],
@@ -1301,6 +1381,7 @@
   "prints": [
    {
     "cardno": "GFB01b-LD01EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01b-LD01EN.webp",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
     "release_date": "2024-07-19"
@@ -1315,6 +1396,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1333,6 +1421,7 @@
   "prints": [
    {
     "cardno": "GFB01c-001EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-001EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -1350,6 +1439,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -1363,6 +1457,7 @@
   "prints": [
    {
     "cardno": "GFB01c-002EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-002EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -1378,6 +1473,12 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1397,6 +1498,7 @@
   "prints": [
    {
     "cardno": "GFB01c-003EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-003EN.webp",
     "rarity": "LG",
     "illustrator": "Yuu Fujiki",
@@ -1415,6 +1517,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 7,
@@ -1429,6 +1536,7 @@
   "prints": [
    {
     "cardno": "GFB01c-004EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-004EN.webp",
     "rarity": "LG",
     "illustrator": "Yuu Fujiki",
@@ -1446,6 +1554,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 6,
@@ -1462,6 +1576,7 @@
   "prints": [
    {
     "cardno": "GFB01c-005EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-005EN.webp",
     "rarity": "LG",
     "illustrator": "hualu",
@@ -1480,6 +1595,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 7,
@@ -1493,6 +1613,7 @@
   "prints": [
    {
     "cardno": "GFB01c-006EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-006EN.webp",
     "rarity": "LG",
     "illustrator": "hualu",
@@ -1501,6 +1622,7 @@
    },
    {
     "cardno": "PR-220EN",
+    "expansion": "PR",
     "img": "PR/PR-220EN.webp",
     "rarity": "PR",
     "illustrator": "hualu",
@@ -1517,6 +1639,10 @@
   "card_type": [
    "Amulet"
   ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 1,
@@ -1533,6 +1659,7 @@
   "prints": [
    {
     "cardno": "GFB01c-007EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-007EN.webp",
     "rarity": "LG",
     "illustrator": "HIDA KEIJI",
@@ -1549,6 +1676,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1567,6 +1701,7 @@
   "prints": [
    {
     "cardno": "GFB01c-018EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-018EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -1584,6 +1719,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -1597,6 +1737,7 @@
   "prints": [
    {
     "cardno": "GFB01c-019EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-019EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -1612,6 +1753,12 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1630,6 +1777,7 @@
   "prints": [
    {
     "cardno": "GFB01c-020EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-020EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -1646,6 +1794,10 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 5,
@@ -1658,6 +1810,7 @@
   "prints": [
    {
     "cardno": "GFB01c-021EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-021EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -1674,6 +1827,12 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [
+   "クイック"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -1688,6 +1847,7 @@
   "prints": [
    {
     "cardno": "GFB01c-022EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-022EN.webp",
     "rarity": "GR",
     "illustrator": "Budi",
@@ -1705,6 +1865,12 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [
+   "クイック"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 1,
@@ -1719,6 +1885,7 @@
   "prints": [
    {
     "cardno": "GFB01c-023EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-023EN.webp",
     "rarity": "GR",
     "illustrator": "qi ming",
@@ -1736,6 +1903,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ラストワード"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 4,
@@ -1752,6 +1925,7 @@
   "prints": [
    {
     "cardno": "GFB01c-024EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-024EN.webp",
     "rarity": "GR",
     "illustrator": "Soji Hisakata",
@@ -1760,6 +1934,7 @@
    },
    {
     "cardno": "GFB01d-025EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-025EN.webp",
     "rarity": "GR",
     "illustrator": "Soji Hisakata",
@@ -1777,6 +1952,10 @@
   "card_type": [
    "Leader"
   ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
   "kind": "leader",
   "format": null,
   "keywords": [],
@@ -1786,6 +1965,7 @@
   "prints": [
    {
     "cardno": "GFB01c-LD01EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01c-LD01EN.webp",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
     "release_date": "2024-07-19"
@@ -1800,6 +1980,13 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1819,6 +2006,7 @@
   "prints": [
    {
     "cardno": "GFB01d-001EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-001EN.webp",
     "rarity": "LG",
     "illustrator": "Nijihara",
@@ -1837,6 +2025,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 2,
@@ -1851,6 +2044,7 @@
   "prints": [
    {
     "cardno": "GFB01d-002EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-002EN.webp",
     "rarity": "LG",
     "illustrator": "Nijihara",
@@ -1867,6 +2061,13 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1886,6 +2087,7 @@
   "prints": [
    {
     "cardno": "GFB01d-003EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-003EN.webp",
     "rarity": "LG",
     "illustrator": "Mstk",
@@ -1904,6 +2106,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 6,
@@ -1918,6 +2125,7 @@
   "prints": [
    {
     "cardno": "GFB01d-004EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-004EN.webp",
     "rarity": "LG",
     "illustrator": "Mstk",
@@ -1934,6 +2142,12 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1954,6 +2168,7 @@
   "prints": [
    {
     "cardno": "GFB01d-005EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-005EN.webp",
     "rarity": "LG",
     "illustrator": "Kazashino",
@@ -1970,6 +2185,13 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -1990,6 +2212,7 @@
   "prints": [
    {
     "cardno": "GFB01d-006EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-006EN.webp",
     "rarity": "LG",
     "illustrator": "Nejita",
@@ -2008,6 +2231,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 2,
@@ -2023,6 +2251,7 @@
   "prints": [
    {
     "cardno": "GFB01d-007EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-007EN.webp",
     "rarity": "LG",
     "illustrator": "Nejita",
@@ -2039,6 +2268,12 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2057,6 +2292,7 @@
   "prints": [
    {
     "cardno": "GFB01d-019EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-019EN.webp",
     "rarity": "GR",
     "illustrator": "Tricky Agura",
@@ -2075,6 +2311,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -2089,6 +2330,7 @@
   "prints": [
    {
     "cardno": "GFB01d-020EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-020EN.webp",
     "rarity": "GR",
     "illustrator": "Tricky Agura",
@@ -2106,6 +2348,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 2,
@@ -2122,6 +2370,7 @@
   "prints": [
    {
     "cardno": "GFB01d-021EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-021EN.webp",
     "rarity": "GR",
     "illustrator": "sime",
@@ -2138,6 +2387,12 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2156,6 +2411,7 @@
   "prints": [
    {
     "cardno": "GFB01d-022EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-022EN.webp",
     "rarity": "GR",
     "illustrator": "Akira Miyazaki",
@@ -2173,6 +2429,12 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [
+   "クイック"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 5,
@@ -2187,6 +2449,7 @@
   "prints": [
    {
     "cardno": "GFB01d-023EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-023EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
@@ -2202,6 +2465,13 @@
   "class_en": "Havencraft",
   "card_type": [
    "Amulet"
+  ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [
+   "ファンファーレ",
+   "クイック"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2221,9 +2491,39 @@
   "prints": [
    {
     "cardno": "GFB01d-024EN",
+    "expansion": "GFB01",
     "img": "GFB01/GFB01d-024EN.webp",
     "rarity": "GR",
     "illustrator": "Kouta Nagamori",
+    "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
+    "release_date": "2024-07-19"
+   }
+  ],
+  "release_date": "2024-07-19"
+ },
+ {
+  "oracle_id": "GFB01d-LD01EN",
+  "name": "Nadia, Eagle Eye",
+  "class": "ビショップ",
+  "class_en": "Havencraft",
+  "card_type": [
+   "Leader"
+  ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
+  "kind": "leader",
+  "format": null,
+  "keywords": [],
+  "text": "",
+  "trait_en": [],
+  "img": "GFB01/GFB01d-LD01EN.webp",
+  "prints": [
+   {
+    "cardno": "GFB01d-LD01EN",
+    "expansion": "GFB01",
+    "img": "GFB01/GFB01d-LD01EN.webp",
     "set_name": "Gloryfinder Bundle #1 “Guide to Glory”",
     "release_date": "2024-07-19"
    }
@@ -2237,6 +2537,12 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ラストワード"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2254,6 +2560,7 @@
   "prints": [
    {
     "cardno": "GFD01-001EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-001EN.webp",
     "rarity": "LG",
     "illustrator": "Tsune-kun",
@@ -2270,6 +2577,13 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2289,6 +2603,7 @@
   "prints": [
    {
     "cardno": "GFD01-002EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-002EN.webp",
     "rarity": "LG",
     "illustrator": "Soji Hisakata",
@@ -2307,6 +2622,13 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [
+   "ラストワード"
+  ],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -2323,6 +2645,7 @@
   "prints": [
    {
     "cardno": "GFD01-003EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-003EN.webp",
     "rarity": "LG",
     "illustrator": "Soji Hisakata",
@@ -2339,6 +2662,13 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2358,6 +2688,7 @@
   "prints": [
    {
     "cardno": "GFD01-004EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-004EN.webp",
     "rarity": "LG",
     "illustrator": "Kazashino",
@@ -2376,6 +2707,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -2390,6 +2726,7 @@
   "prints": [
    {
     "cardno": "GFD01-005EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-005EN.webp",
     "rarity": "LG",
     "illustrator": "Kazashino",
@@ -2406,6 +2743,13 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2424,6 +2768,7 @@
   "prints": [
    {
     "cardno": "GFD01-006EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-006EN.webp",
     "rarity": "LG",
     "illustrator": "Nejita",
@@ -2442,6 +2787,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 10,
@@ -2455,6 +2805,7 @@
   "prints": [
    {
     "cardno": "GFD01-007EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-007EN.webp",
     "rarity": "LG",
     "illustrator": "Nejita",
@@ -2471,6 +2822,13 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ",
+   "ラストワード"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2489,6 +2847,7 @@
   "prints": [
    {
     "cardno": "GFD01-008EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-008EN.webp",
     "rarity": "LG",
     "illustrator": "Ryosuke Aiba (CyDesignation)",
@@ -2505,6 +2864,13 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2524,6 +2890,7 @@
   "prints": [
    {
     "cardno": "GFD01-018EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-018EN.webp",
     "rarity": "GR",
     "illustrator": "Kouta Nagamori",
@@ -2542,6 +2909,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -2556,6 +2928,7 @@
   "prints": [
    {
     "cardno": "GFD01-019EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-019EN.webp",
     "rarity": "GR",
     "illustrator": "Kouta Nagamori",
@@ -2572,6 +2945,12 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2591,6 +2970,7 @@
   "prints": [
    {
     "cardno": "GFD01-020EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-020EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Starter Deck \"Luxheart Legends\"",
@@ -2607,6 +2987,10 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -2619,6 +3003,7 @@
   "prints": [
    {
     "cardno": "GFD01-021EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-021EN.webp",
     "rarity": "GR",
     "illustrator": "anchobi",
@@ -2636,6 +3021,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -2652,6 +3043,7 @@
   "prints": [
    {
     "cardno": "GFD01-022EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-022EN.webp",
     "rarity": "GR",
     "illustrator": "ezusuke",
@@ -2668,6 +3060,13 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2687,6 +3086,7 @@
   "prints": [
    {
     "cardno": "GFD01-023EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-023EN.webp",
     "rarity": "GR",
     "illustrator": "Tatsuyaki",
@@ -2705,6 +3105,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 2,
@@ -2719,6 +3124,7 @@
   "prints": [
    {
     "cardno": "GFD01-024EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-024EN.webp",
     "rarity": "GR",
     "illustrator": "Tatsuyaki",
@@ -2736,6 +3142,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 4,
@@ -2752,6 +3164,7 @@
   "prints": [
    {
     "cardno": "GFD01-025EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-025EN.webp",
     "rarity": "GR",
     "illustrator": "Yoko Tsukamoto",
@@ -2770,6 +3183,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -2783,6 +3201,7 @@
   "prints": [
    {
     "cardno": "GFD01-026EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-026EN.webp",
     "rarity": "GR",
     "illustrator": "Yoko Tsukamoto",
@@ -2800,6 +3219,12 @@
   "card_type": [
    "Amulet"
   ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -2816,6 +3241,7 @@
   "prints": [
    {
     "cardno": "GFD01-027EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-027EN.webp",
     "rarity": "GR",
     "illustrator": "Akefumi",
@@ -2833,6 +3259,10 @@
   "card_type": [
    "Leader"
   ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
   "kind": "leader",
   "format": null,
   "keywords": [],
@@ -2842,6 +3272,7 @@
   "prints": [
    {
     "cardno": "GFD01-LD01EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-LD01EN.webp",
     "illustrator": "hikaru",
     "set_name": "Gloryfinder Starter Deck \"Luxheart Legends\"",
@@ -2859,6 +3290,11 @@
    "Follower",
    "Token"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "トークン"
+  ],
+  "keywords_jp": [],
   "kind": "token",
   "format": "gloryfinder",
   "cost": 0,
@@ -2873,6 +3309,7 @@
   "prints": [
    {
     "cardno": "GFD01-T01EN",
+    "expansion": "GFD01",
     "img": "GFD01/GFD01-T01EN.webp",
     "illustrator": "Ishibashi Yosuke",
     "set_name": "Gloryfinder Starter Deck \"Luxheart Legends\"",
@@ -2888,6 +3325,12 @@
   "class_en": "Dragoncraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2905,6 +3348,7 @@
   "prints": [
    {
     "cardno": "GFD02-001EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-001EN.webp",
     "rarity": "LG",
     "illustrator": "InHyuk Lee",
@@ -2923,6 +3367,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 6,
@@ -2936,6 +3385,7 @@
   "prints": [
    {
     "cardno": "GFD02-002EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-002EN.webp",
     "rarity": "LG",
     "illustrator": "InHyuk Lee",
@@ -2952,6 +3402,13 @@
   "class_en": "Dragoncraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -2970,6 +3427,7 @@
   "prints": [
    {
     "cardno": "GFD02-003EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-003EN.webp",
     "rarity": "LG",
     "illustrator": "Ponzu",
@@ -2988,6 +3446,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 2,
@@ -3001,6 +3464,7 @@
   "prints": [
    {
     "cardno": "GFD02-004EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-004EN.webp",
     "rarity": "LG",
     "illustrator": "Ponzu",
@@ -3017,6 +3481,13 @@
   "class_en": "Dragoncraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3035,6 +3506,7 @@
   "prints": [
    {
     "cardno": "GFD02-005EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-005EN.webp",
     "rarity": "LG",
     "illustrator": "Kazashino",
@@ -3053,6 +3525,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -3066,6 +3543,7 @@
   "prints": [
    {
     "cardno": "GFD02-006EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-006EN.webp",
     "rarity": "LG",
     "illustrator": "Kazashino",
@@ -3083,6 +3561,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 5,
@@ -3099,6 +3583,7 @@
   "prints": [
    {
     "cardno": "GFD02-007EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-007EN.webp",
     "rarity": "LG",
     "illustrator": "Nejita",
@@ -3116,6 +3601,10 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 4,
@@ -3130,6 +3619,7 @@
   "prints": [
    {
     "cardno": "GFD02-008EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-008EN.webp",
     "rarity": "LG",
     "illustrator": "Soji Hisakata",
@@ -3146,6 +3636,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3164,6 +3660,7 @@
   "prints": [
    {
     "cardno": "GFD02-019EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-019EN.webp",
     "rarity": "GR",
     "illustrator": "Kouta Nagamori",
@@ -3180,6 +3677,13 @@
   "class_en": "Dragoncraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3199,6 +3703,7 @@
   "prints": [
    {
     "cardno": "GFD02-020EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-020EN.webp",
     "rarity": "GR",
     "illustrator": "Soji Hisakata",
@@ -3217,6 +3722,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -3231,6 +3741,7 @@
   "prints": [
    {
     "cardno": "GFD02-021EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-021EN.webp",
     "rarity": "GR",
     "illustrator": "Soji Hisakata",
@@ -3247,6 +3758,13 @@
   "class_en": "Dragoncraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ",
+   "ラストワード"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3265,6 +3783,7 @@
   "prints": [
    {
     "cardno": "GFD02-022EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-022EN.webp",
     "rarity": "GR",
     "illustrator": "Tomoyo Asatani",
@@ -3282,6 +3801,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 4,
@@ -3298,6 +3823,7 @@
   "prints": [
    {
     "cardno": "GFD02-023EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-023EN.webp",
     "rarity": "GR",
     "illustrator": "Nijihayashi",
@@ -3315,6 +3841,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 9,
@@ -3331,6 +3863,7 @@
   "prints": [
    {
     "cardno": "GFD02-024EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-024EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Starter Deck \"Treacherous Ambitions\"",
@@ -3346,6 +3879,12 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3363,6 +3902,7 @@
   "prints": [
    {
     "cardno": "GFD02-025EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-025EN.webp",
     "rarity": "GR",
     "illustrator": "WEI@W",
@@ -3381,6 +3921,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -3394,6 +3939,7 @@
   "prints": [
    {
     "cardno": "GFD02-026EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-026EN.webp",
     "rarity": "GR",
     "illustrator": "WEI@W",
@@ -3411,6 +3957,12 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
+  ],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 2,
@@ -3427,6 +3979,7 @@
   "prints": [
    {
     "cardno": "GFD02-027EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-027EN.webp",
     "rarity": "GR",
     "illustrator": "TEDDY",
@@ -3445,6 +3998,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 3,
@@ -3458,6 +4016,7 @@
   "prints": [
    {
     "cardno": "GFD02-028EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-028EN.webp",
     "rarity": "GR",
     "illustrator": "TEDDY",
@@ -3475,6 +4034,10 @@
   "card_type": [
    "Leader"
   ],
+  "card_type_jp": [
+   "リーダー"
+  ],
+  "keywords_jp": [],
   "kind": "leader",
   "format": null,
   "keywords": [],
@@ -3484,6 +4047,7 @@
   "prints": [
    {
     "cardno": "GFD02-LD01EN",
+    "expansion": "GFD02",
     "img": "GFD02/GFD02-LD01EN.webp",
     "illustrator": "qiangzi",
     "set_name": "Gloryfinder Starter Deck \"Treacherous Ambitions\"",
@@ -3499,6 +4063,12 @@
   "class_en": "Forestcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3516,6 +4086,7 @@
   "prints": [
    {
     "cardno": "GFE01-001EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-001EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3531,6 +4102,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 3,
@@ -3546,6 +4122,7 @@
   "prints": [
    {
     "cardno": "GFE01-002EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-002EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3559,6 +4136,13 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3577,6 +4161,7 @@
   "prints": [
    {
     "cardno": "GFE01-003EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-003EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3592,6 +4177,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 3,
@@ -3605,6 +4195,7 @@
   "prints": [
    {
     "cardno": "GFE01-004EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-004EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3618,6 +4209,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3635,6 +4232,7 @@
   "prints": [
    {
     "cardno": "GFE01-005EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-005EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3650,6 +4248,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -3663,6 +4266,7 @@
   "prints": [
    {
     "cardno": "GFE01-006EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-006EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3676,6 +4280,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3693,6 +4303,7 @@
   "prints": [
    {
     "cardno": "GFE01-007EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-007EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3708,6 +4319,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -3721,6 +4337,7 @@
   "prints": [
    {
     "cardno": "GFE01-008EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-008EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3734,6 +4351,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3751,6 +4374,7 @@
   "prints": [
    {
     "cardno": "GFE01-009EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-009EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3765,6 +4389,10 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 5,
@@ -3777,6 +4405,7 @@
   "prints": [
    {
     "cardno": "GFE01-010EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-010EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3790,6 +4419,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3807,6 +4442,7 @@
   "prints": [
    {
     "cardno": "GFE01-011EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-011EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3822,6 +4458,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -3835,6 +4476,7 @@
   "prints": [
    {
     "cardno": "GFE01-012EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-012EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3848,6 +4490,12 @@
   "class_en": "Swordcraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3865,6 +4513,7 @@
   "prints": [
    {
     "cardno": "GFE01-013EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-013EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3879,6 +4528,10 @@
   "card_type": [
    "Spell"
   ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 2,
@@ -3891,6 +4544,7 @@
   "prints": [
    {
     "cardno": "GFE01-014EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-014EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3904,6 +4558,12 @@
   "class_en": "Havencraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3922,6 +4582,7 @@
   "prints": [
    {
     "cardno": "GFE01-015EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-015EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3935,6 +4596,13 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -3953,6 +4621,7 @@
   "prints": [
    {
     "cardno": "GFE01-016EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-016EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3967,6 +4636,13 @@
   "card_type": [
    "Follower",
    "Evolved"
+  ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [
+   "進化"
   ],
   "kind": "evolved",
   "format": "gloryfinder",
@@ -3983,6 +4659,7 @@
   "prints": [
    {
     "cardno": "GFE01-017EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-017EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -3996,6 +4673,13 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4014,6 +4698,7 @@
   "prints": [
    {
     "cardno": "GFE01-018EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-018EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -4029,6 +4714,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 2,
@@ -4042,6 +4732,7 @@
   "prints": [
    {
     "cardno": "GFE01-019EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-019EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -4055,6 +4746,12 @@
   "class_en": "Neutral",
   "card_type": [
    "Amulet"
+  ],
+  "card_type_jp": [
+   "アミュレット"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4072,6 +4769,7 @@
   "prints": [
    {
     "cardno": "GFE01-020EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-020EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 1"
@@ -4086,6 +4784,13 @@
   "card_type": [
    "Follower",
    "Token"
+  ],
+  "card_type_jp": [
+   "フォロワー",
+   "トークン"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "token",
   "format": "gloryfinder",
@@ -4104,6 +4809,7 @@
   "prints": [
    {
     "cardno": "GFE01-T01EN",
+    "expansion": "GFE01",
     "img": "GFE01/GFE01-T01EN.webp",
     "set_name": "Gloryfinder Events Vol. 1"
    }
@@ -4116,6 +4822,13 @@
   "class_en": "Runecraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ラストワード"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4135,6 +4848,7 @@
   "prints": [
    {
     "cardno": "GFE02-001EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-001EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4149,6 +4863,13 @@
   "card_type": [
    "Follower",
    "Evolved"
+  ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [
+   "ラストワード"
   ],
   "kind": "evolved",
   "format": "gloryfinder",
@@ -4166,6 +4887,7 @@
   "prints": [
    {
     "cardno": "GFE02-002EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-002EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4179,6 +4901,12 @@
   "class_en": "Dragoncraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4196,6 +4924,7 @@
   "prints": [
    {
     "cardno": "GFE02-003EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-003EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4209,6 +4938,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4228,6 +4964,7 @@
   "prints": [
    {
     "cardno": "GFE02-004EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-004EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4243,6 +4980,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 8,
@@ -4257,6 +4999,7 @@
   "prints": [
    {
     "cardno": "GFE02-005EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-005EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4270,6 +5013,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4288,6 +5038,7 @@
   "prints": [
    {
     "cardno": "GFE02-006EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-006EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4303,6 +5054,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 6,
@@ -4316,6 +5072,7 @@
   "prints": [
    {
     "cardno": "GFE02-007EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-007EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4329,6 +5086,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4348,6 +5112,7 @@
   "prints": [
    {
     "cardno": "GFE02-008EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-008EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4363,6 +5128,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 5,
@@ -4377,6 +5147,7 @@
   "prints": [
    {
     "cardno": "GFE02-009EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-009EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4390,6 +5161,12 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4410,6 +5187,7 @@
   "prints": [
    {
     "cardno": "GFE02-010EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-010EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4424,6 +5202,10 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 3,
@@ -4440,6 +5222,7 @@
   "prints": [
    {
     "cardno": "GFE02-011EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-011EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4453,6 +5236,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4471,6 +5261,7 @@
   "prints": [
    {
     "cardno": "GFE02-012EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-012EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4486,6 +5277,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 3,
@@ -4499,6 +5295,7 @@
   "prints": [
    {
     "cardno": "GFE02-013EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-013EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4512,6 +5309,13 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4531,6 +5335,7 @@
   "prints": [
    {
     "cardno": "GFE02-014EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-014EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4546,6 +5351,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 6,
@@ -4560,6 +5370,7 @@
   "prints": [
    {
     "cardno": "GFE02-015EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-015EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4573,6 +5384,12 @@
   "class_en": "Abysscraft",
   "card_type": [
    "Spell"
+  ],
+  "card_type_jp": [
+   "スペル"
+  ],
+  "keywords_jp": [
+   "クイック"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4588,6 +5405,7 @@
   "prints": [
    {
     "cardno": "GFE02-016EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-016EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4601,6 +5419,12 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4618,6 +5442,7 @@
   "prints": [
    {
     "cardno": "GFE02-017EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-017EN.webp",
     "rarity": "LG",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4631,6 +5456,13 @@
   "class_en": "Neutral",
   "card_type": [
    "Follower"
+  ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [
+   "進化",
+   "ファンファーレ"
   ],
   "kind": "base",
   "format": "gloryfinder",
@@ -4649,6 +5481,7 @@
   "prints": [
    {
     "cardno": "GFE02-018EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-018EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4664,6 +5497,11 @@
    "Follower",
    "Evolved"
   ],
+  "card_type_jp": [
+   "フォロワー",
+   "エボルヴ"
+  ],
+  "keywords_jp": [],
   "kind": "evolved",
   "format": "gloryfinder",
   "atk": 4,
@@ -4677,6 +5515,7 @@
   "prints": [
    {
     "cardno": "GFE02-019EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-019EN.webp",
     "rarity": "GR",
     "set_name": "Gloryfinder Events Vol. 2"
@@ -4691,6 +5530,10 @@
   "card_type": [
    "Follower"
   ],
+  "card_type_jp": [
+   "フォロワー"
+  ],
+  "keywords_jp": [],
   "kind": "base",
   "format": "gloryfinder",
   "cost": 2,
@@ -4705,30 +5548,9 @@
   "prints": [
    {
     "cardno": "GFE02-020EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-020EN.webp",
     "rarity": "GR",
-    "set_name": "Gloryfinder Events Vol. 2"
-   }
-  ]
- },
- {
-  "oracle_id": "GFE02-LD01EN",
-  "name": "Dreizehn",
-  "class": "ニュートラル",
-  "class_en": "Neutral",
-  "card_type": [
-   "Leader"
-  ],
-  "kind": "leader",
-  "format": null,
-  "keywords": [],
-  "text": "",
-  "trait_en": [],
-  "img": "GFE02/GFE02-LD01EN.webp",
-  "prints": [
-   {
-    "cardno": "GFE02-LD01EN",
-    "img": "GFE02/GFE02-LD01EN.webp",
     "set_name": "Gloryfinder Events Vol. 2"
    }
   ]
@@ -4741,6 +5563,13 @@
   "card_type": [
    "Follower",
    "Token"
+  ],
+  "card_type_jp": [
+   "フォロワー",
+   "トークン"
+  ],
+  "keywords_jp": [
+   "ラストワード"
   ],
   "kind": "token",
   "format": "gloryfinder",
@@ -4759,6 +5588,7 @@
   "prints": [
    {
     "cardno": "GFE02-T01EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-T01EN.webp",
     "set_name": "Gloryfinder Events Vol. 2"
    }
@@ -4772,6 +5602,13 @@
   "card_type": [
    "Follower",
    "Token"
+  ],
+  "card_type_jp": [
+   "フォロワー",
+   "トークン"
+  ],
+  "keywords_jp": [
+   "ラストワード"
   ],
   "kind": "token",
   "format": "gloryfinder",
@@ -4790,6 +5627,7 @@
   "prints": [
    {
     "cardno": "GFE02-T02EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-T02EN.webp",
     "set_name": "Gloryfinder Events Vol. 2"
    }
@@ -4803,6 +5641,13 @@
   "card_type": [
    "Follower",
    "Token"
+  ],
+  "card_type_jp": [
+   "フォロワー",
+   "トークン"
+  ],
+  "keywords_jp": [
+   "ラストワード"
   ],
   "kind": "token",
   "format": "gloryfinder",
@@ -4821,6 +5666,7 @@
   "prints": [
    {
     "cardno": "GFE02-T03EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-T03EN.webp",
     "set_name": "Gloryfinder Events Vol. 2"
    }
@@ -4835,6 +5681,11 @@
    "Amulet",
    "Token"
   ],
+  "card_type_jp": [
+   "アミュレット",
+   "トークン"
+  ],
+  "keywords_jp": [],
   "kind": "token",
   "format": "gloryfinder",
   "cost": 5,
@@ -4848,6 +5699,7 @@
   "prints": [
    {
     "cardno": "GFE02-T04EN",
+    "expansion": "GFE02",
     "img": "GFE02/GFE02-T04EN.webp",
     "set_name": "Gloryfinder Events Vol. 2"
    }
