@@ -1,0 +1,40 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of IDs to merge. class/rep_card/name are informational.",
+      "sources": [],
+      "class": "",
+      "rep_card": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "source": "6f5dc5",
+      "rules": [
+        {
+          "required": ["滅屍の執行者・ミロエル"],
+          "name": "ミロエルナイトメア"
+        },
+        {
+          "required": [],
+          "name": "NCナイトメア"
+        }
+      ]
+    },
+    {
+      "source": "3f7ce5",
+      "rules": [
+        {
+          "required": ["禁牙の執行者・ドラズエル"],
+          "name": "八獄ドラゴン"
+        },
+        {
+          "required": [],
+          "name": "ドラゴニュートドラゴン"
+        }
+      ]
+    }
+  ]
+}
