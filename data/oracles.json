@@ -20222,7 +20222,9 @@
     "oracle_id": "BP04-026",
     "is_dual_face": false,
     "name": "旋風刃",
-    "alt_names": [],
+    "alt_names": [
+      "騎士の旋風"
+    ],
     "class": "ロイヤル",
     "card_type": [
       "スペル"
@@ -20238,41 +20240,7 @@
     "keywords": [],
     "canonical_print": "BP04-026",
     "prints": [
-      "BP04-026"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "薄雲ねず",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-027",
-    "is_dual_face": false,
-    "name": "騎士の旋風",
-    "alt_names": [],
-    "class": "ロイヤル",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "指揮官"
-    ],
-    "title": null,
-    "cost": 3,
-    "atk": null,
-    "hp": null,
-    "text": "自分の指揮官・フォロワー1体を選ぶ。相手のフォロワーすべてに「それの攻撃力」と同じダメージ。",
-    "keywords": [],
-    "canonical_print": "BP04-027",
-    "prints": [
+      "BP04-026",
       "BP04-027"
     ],
     "evolves_to": [],
@@ -20283,7 +20251,7 @@
     "mentions_tokens": [],
     "mentions_by_name_contains": [],
     "mentioned_from": [],
-    "illustrator": "",
+    "illustrator": "薄雲ねず",
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 30
@@ -21123,7 +21091,9 @@
     "oracle_id": "BP04-049",
     "is_dual_face": false,
     "name": "精神統一",
-    "alt_names": [],
+    "alt_names": [
+      "忠義の発揮"
+    ],
     "class": "ウィッチ",
     "card_type": [
       "スペル"
@@ -21142,6 +21112,7 @@
     "canonical_print": "BP04-049",
     "prints": [
       "BP04-049",
+      "BP04-050",
       "EBD02-014"
     ],
     "evolves_to": [],
@@ -21153,43 +21124,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "ナダレ",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-050",
-    "is_dual_face": false,
-    "name": "忠義の発揮",
-    "alt_names": [],
-    "class": "ウィッチ",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "魔法使い"
-    ],
-    "title": null,
-    "cost": 3,
-    "atk": null,
-    "hp": null,
-    "text": "自分のリーダーは体力+3する。1枚引く。【土の秘術】代わりに2枚。",
-    "keywords": [
-      "土の秘術"
-    ],
-    "canonical_print": "BP04-050",
-    "prints": [
-      "BP04-050"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 30
@@ -21786,7 +21720,9 @@
     "oracle_id": "BP04-066",
     "is_dual_face": false,
     "name": "ライトニングブラスト",
-    "alt_names": [],
+    "alt_names": [
+      "紅蓮の反逆"
+    ],
     "class": "ドラゴン",
     "card_type": [
       "スペル"
@@ -21805,6 +21741,7 @@
     "canonical_print": "BP04-066",
     "prints": [
       "BP04-066",
+      "BP04-067",
       "BP04-P18"
     ],
     "evolves_to": [],
@@ -21816,43 +21753,6 @@
     "mentions_by_name_contains": [],
     "mentioned_from": [],
     "illustrator": "齊名",
-    "legal_status": null,
-    "crossover_legal_status": null,
-    "min_price": 30
-  },
-  {
-    "oracle_id": "BP04-067",
-    "is_dual_face": false,
-    "name": "紅蓮の反逆",
-    "alt_names": [],
-    "class": "ドラゴン",
-    "card_type": [
-      "スペル"
-    ],
-    "tribe": [
-      "竜族"
-    ],
-    "title": null,
-    "cost": 5,
-    "atk": null,
-    "hp": null,
-    "text": "【クイック】\nこれをプレイする際、コストを+5してよい。\n相手のフォロワー1体を選ぶ。それを消滅させる。コストを+5したなら、それを消滅させる代わりに相手のフォロワーすべてを消滅させる。",
-    "keywords": [
-      "クイック"
-    ],
-    "canonical_print": "BP04-067",
-    "prints": [
-      "BP04-067"
-    ],
-    "evolves_to": [],
-    "evolved_from": [],
-    "advance_forms": [],
-    "advance_base": null,
-    "mentions": [],
-    "mentions_tokens": [],
-    "mentions_by_name_contains": [],
-    "mentioned_from": [],
-    "illustrator": "",
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 30
