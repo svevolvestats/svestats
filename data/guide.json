@@ -4,8 +4,117 @@
   "end": "2026-11-15"
  },
  "total_decks": 408,
- "median_cost": null,
- "budget": [],
+ "median_cost": 17714,
+ "budget": [
+  {
+   "id": "6187e8",
+   "name": "妖精エルフ",
+   "class": "エルフ",
+   "cost": 10072,
+   "count": 9,
+   "winner": 0,
+   "share": 0.0221,
+   "win_share": 0.0,
+   "min": {
+    "cost": 6830,
+    "deck_id": "GQ6KN",
+    "date": "2026-11-15",
+    "rank": 8,
+    "player": "信者",
+    "friend_code": "QMMCL"
+   }
+  },
+  {
+   "id": "319c51",
+   "name": "宴楽ロイヤル",
+   "class": "ロイヤル",
+   "cost": 11650,
+   "count": 12,
+   "winner": 0,
+   "share": 0.0294,
+   "win_share": 0.0,
+   "min": {
+    "cost": 10990,
+    "deck_id": "2R1W7A",
+    "date": "2026-11-15",
+    "rank": 3,
+    "player": "鮭",
+    "friend_code": "HOVJN"
+   }
+  },
+  {
+   "id": "3a1fad",
+   "name": "宴楽ナイトメア",
+   "class": "ナイトメア",
+   "cost": 12055,
+   "count": 17,
+   "winner": 1,
+   "share": 0.0417,
+   "win_share": 0.0192,
+   "min": {
+    "cost": 10500,
+    "deck_id": "12X9NC",
+    "date": "2026-11-14",
+    "rank": 2,
+    "player": "立",
+    "friend_code": "BOLRM"
+   }
+  },
+  {
+   "id": "587ba8",
+   "name": "八獄ウィッチ",
+   "class": "ウィッチ",
+   "cost": 12978,
+   "count": 24,
+   "winner": 3,
+   "share": 0.0588,
+   "win_share": 0.0577,
+   "min": {
+    "cost": 10990,
+    "deck_id": "2L5DUQ",
+    "date": "2026-11-14",
+    "rank": 3,
+    "player": "柚ノ木ルコト",
+    "friend_code": "MGBTF"
+   }
+  },
+  {
+   "id": "32231b",
+   "name": "ゴブリンナイトメア",
+   "class": "ナイトメア",
+   "cost": 15068,
+   "count": 39,
+   "winner": 4,
+   "share": 0.0956,
+   "win_share": 0.0769,
+   "min": {
+    "cost": 6790,
+    "deck_id": "16FRCG",
+    "date": "2026-11-03",
+    "rank": 6,
+    "player": "koo",
+    "friend_code": "NTTWX"
+   }
+  },
+  {
+   "id": "ecee38",
+   "name": "レヴィオンロイヤル",
+   "class": "ロイヤル",
+   "cost": 17714,
+   "count": 91,
+   "winner": 13,
+   "share": 0.223,
+   "win_share": 0.25,
+   "min": {
+    "cost": 12080,
+    "deck_id": "WZXU8",
+    "date": "2026-11-03",
+    "rank": 4,
+    "player": "床鰻の信者　イサミ　リン",
+    "friend_code": "RPYIN"
+   }
+  }
+ ],
  "starters": [
   {
    "code": "EBD01",
