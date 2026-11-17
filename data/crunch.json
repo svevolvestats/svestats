@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 90,
-      "n_layouts": 46,
+      "revealed_count": 93,
+      "n_layouts": 16,
       "unique": false,
       "classes": [
         "エルフ",
@@ -147,14 +147,16 @@
             {
               "num": 12,
               "cardno": "CP05-012",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-012",
+              "kind": "base"
             }
           ],
-          "revealed_count": 3,
+          "revealed_count": 4,
           "confirmed_count": 0,
-          "estimated_count": 1,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -516,7 +518,7 @@
           "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -528,12 +530,16 @@
             {
               "num": 49,
               "cardno": "CP05-049",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-049",
+              "kind": "base"
             },
             {
               "num": 50,
               "cardno": "CP05-050",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-050",
+              "kind": "evolve"
             },
             {
               "num": 51,
@@ -557,14 +563,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 5,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 5,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ドラゴン|LG": {
           "class": "ドラゴン",
