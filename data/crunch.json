@@ -20,8 +20,8 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 93,
-      "n_layouts": 16,
+      "revealed_count": 97,
+      "n_layouts": 3,
       "unique": false,
       "classes": [
         "エルフ",
@@ -651,7 +651,7 @@
           "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -663,12 +663,16 @@
             {
               "num": 62,
               "cardno": "CP05-062",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-062",
+              "kind": "base"
             },
             {
               "num": 63,
               "cardno": "CP05-063",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-063",
+              "kind": "evolve"
             },
             {
               "num": 64,
@@ -685,14 +689,14 @@
               "kind": "base"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 1,
-          "estimated_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
+          "estimated_count": 0,
           "size": 4,
-          "size_status": "estimated",
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ドラゴン|BR": {
           "class": "ドラゴン",
@@ -732,13 +736,20 @@
               "status": "revealed",
               "oracle_id": "CP05-070",
               "kind": "base"
+            },
+            {
+              "num": 71,
+              "cardno": "CP05-071",
+              "status": "revealed",
+              "oracle_id": "CP05-071",
+              "kind": "base"
             }
           ],
-          "revealed_count": 5,
+          "revealed_count": 6,
           "confirmed_count": 0,
           "estimated_count": 0,
-          "size": 5,
-          "size_status": "estimated",
+          "size": 6,
+          "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
           "evolve_revealed": 1
@@ -748,14 +759,11 @@
           "rarity": "LG",
           "slots": [
             {
-              "num": 71,
-              "cardno": "CP05-071",
-              "status": "estimated"
-            },
-            {
               "num": 72,
               "cardno": "CP05-072",
-              "status": "estimated"
+              "status": "revealed",
+              "oracle_id": "CP05-072",
+              "kind": "base"
             },
             {
               "num": 73,
@@ -768,11 +776,16 @@
               "num": 74,
               "cardno": "CP05-074",
               "status": "confirmed"
+            },
+            {
+              "num": 75,
+              "cardno": "CP05-075",
+              "status": "confirmed"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 1,
-          "estimated_count": 2,
+          "revealed_count": 2,
+          "confirmed_count": 2,
+          "estimated_count": 0,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -784,11 +797,6 @@
           "rarity": "GR",
           "slots": [
             {
-              "num": 75,
-              "cardno": "CP05-075",
-              "status": "estimated"
-            },
-            {
               "num": 76,
               "cardno": "CP05-076",
               "status": "estimated"
@@ -796,7 +804,7 @@
             {
               "num": 77,
               "cardno": "CP05-077",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 78,
@@ -804,11 +812,16 @@
               "status": "revealed",
               "oracle_id": "CP05-078",
               "kind": "base"
+            },
+            {
+              "num": 79,
+              "cardno": "CP05-079",
+              "status": "confirmed"
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 0,
-          "estimated_count": 3,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -820,11 +833,6 @@
           "rarity": "SR",
           "slots": [
             {
-              "num": 79,
-              "cardno": "CP05-079",
-              "status": "estimated"
-            },
-            {
               "num": 80,
               "cardno": "CP05-080",
               "status": "estimated"
@@ -832,7 +840,7 @@
             {
               "num": 81,
               "cardno": "CP05-081",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 82,
@@ -840,11 +848,16 @@
               "status": "revealed",
               "oracle_id": "CP05-082",
               "kind": "base"
+            },
+            {
+              "num": 83,
+              "cardno": "CP05-083",
+              "status": "confirmed"
             }
           ],
           "revealed_count": 1,
-          "confirmed_count": 0,
-          "estimated_count": 3,
+          "confirmed_count": 2,
+          "estimated_count": 1,
           "size": 4,
           "size_status": "estimated",
           "advance": 0,
@@ -856,11 +869,6 @@
           "rarity": "BR",
           "slots": [
             {
-              "num": 83,
-              "cardno": "CP05-083",
-              "status": "estimated"
-            },
-            {
               "num": 84,
               "cardno": "CP05-084",
               "status": "estimated"
@@ -868,7 +876,7 @@
             {
               "num": 85,
               "cardno": "CP05-085",
-              "status": "estimated"
+              "status": "confirmed"
             },
             {
               "num": 86,
@@ -891,9 +899,9 @@
             }
           ],
           "revealed_count": 2,
-          "confirmed_count": 1,
-          "estimated_count": 3,
-          "size": 6,
+          "confirmed_count": 2,
+          "estimated_count": 1,
+          "size": 5,
           "size_status": "estimated",
           "advance": 0,
           "evolve_pred": 1,
