@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2231,
+ "in_evolve": 2233,
  "match_breakdown": {
-  "exact": 2211,
-  "null": 2630,
+  "exact": 2213,
+  "null": 2628,
   "alias": 19,
   "normalized": 1
  },
@@ -44199,9 +44199,9 @@
      "vo_109541010_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-076",
+   "matched_by": "exact",
    "name_en": "Ferry, Spirit Maiden",
    "expansion_en": "Brigade of the Sky"
   },
@@ -86006,9 +86006,9 @@
      "vo_800543020_1.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-079",
+   "matched_by": "exact",
    "name_en": "Celeste Omega",
    "expansion_en": "Eternal Awakening"
   },
