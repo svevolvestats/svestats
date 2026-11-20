@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2233,
+ "in_evolve": 2234,
  "match_breakdown": {
-  "exact": 2213,
-  "null": 2628,
+  "exact": 2214,
+  "null": 2627,
   "alias": 19,
   "normalized": 1
  },
@@ -84502,9 +84502,9 @@
      "vo_119241020_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-019",
+   "matched_by": "exact",
    "name_en": "Seofon, Star Sword Sovereign",
    "expansion_en": "Eternal Awakening"
   },
