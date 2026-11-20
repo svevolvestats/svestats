@@ -20,7 +20,7 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 101,
+      "revealed_count": 106,
       "n_layouts": 1,
       "unique": true,
       "classes": [
@@ -60,22 +60,26 @@
             {
               "num": 3,
               "cardno": "CP05-003",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-003",
+              "kind": "base"
             },
             {
               "num": 4,
               "cardno": "CP05-004",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-004",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 2,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "エルフ|GR": {
           "class": "エルフ",
@@ -224,7 +228,9 @@
             {
               "num": 19,
               "cardno": "CP05-019",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-019",
+              "kind": "base"
             },
             {
               "num": 20,
@@ -248,8 +254,8 @@
               "kind": "evolve"
             }
           ],
-          "revealed_count": 3,
-          "confirmed_count": 1,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
@@ -775,22 +781,26 @@
             {
               "num": 74,
               "cardno": "CP05-074",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-074",
+              "kind": "base"
             },
             {
               "num": 75,
               "cardno": "CP05-075",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-075",
+              "kind": "evolve"
             }
           ],
-          "revealed_count": 2,
-          "confirmed_count": 2,
+          "revealed_count": 4,
+          "confirmed_count": 0,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ナイトメア|GR": {
           "class": "ナイトメア",
