@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-21",
   "expansions": [
     {
       "expansion": "CP05",
       "name": "コラボパック「グランブルーファンタジー」",
       "release_date": "2026-11-27",
-      "card_eval": false,
+      "card_eval": true,
+      "eval_group": "attribute",
       "totals": {
         "LG": 27,
         "GR": 27,
@@ -20,7 +21,7 @@
         "SR": 25,
         "BR": 32
       },
-      "revealed_count": 106,
+      "revealed_count": 108,
       "n_layouts": 1,
       "unique": true,
       "classes": [
@@ -851,12 +852,16 @@
             {
               "num": 80,
               "cardno": "CP05-080",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-080",
+              "kind": "base"
             },
             {
               "num": 81,
               "cardno": "CP05-081",
-              "status": "confirmed"
+              "status": "revealed",
+              "oracle_id": "CP05-081",
+              "kind": "evolve"
             },
             {
               "num": 82,
@@ -871,14 +876,14 @@
               "status": "confirmed"
             }
           ],
-          "revealed_count": 1,
-          "confirmed_count": 3,
+          "revealed_count": 3,
+          "confirmed_count": 1,
           "estimated_count": 0,
           "size": 4,
           "size_status": "confirmed",
           "advance": 0,
           "evolve_pred": 1,
-          "evolve_revealed": 0
+          "evolve_revealed": 1
         },
         "ナイトメア|BR": {
           "class": "ナイトメア",
@@ -1302,6 +1307,7 @@
       "name": "ブースターパック「オーバー・ザ・カラミティ」",
       "release_date": "2026-10-02",
       "card_eval": true,
+      "eval_group": "class",
       "totals": {
         "LG": 29,
         "GR": 26,
@@ -2648,6 +2654,7 @@
       "name": "ブースターパック「Academy Royale」",
       "release_date": "2026-07-31",
       "card_eval": true,
+      "eval_group": "class",
       "totals": {
         "LG": 28,
         "GR": 26,
