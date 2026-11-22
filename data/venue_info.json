@@ -195,7 +195,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 500
+        "organizer_id": 500,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -887,7 +888,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1458
+        "organizer_id": 1458,
+        "participants": 4
       },
       {
         "date": "2026-11-21",
@@ -895,7 +897,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1458
+        "organizer_id": 1458,
+        "participants": 4
       },
       {
         "date": "2026-11-23",
@@ -1593,7 +1596,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 26
+        "organizer_id": 26,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -1601,7 +1605,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 26
+        "organizer_id": 26,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -1721,8 +1726,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0952977388",
-      "hours": "［月・木・金］18:00〜22:00 / ［土・日・祝］13:00〜22:00",
-      "holiday": "火・水"
+      "hours": "［月・木・金］18:00〜22:00 / ［土・日］13:00〜22:00",
+      "holiday": "火・水 祝"
     }
   },
   "BRAVE HEARTS(ﾌﾞﾚｲﾌﾞﾊｰﾂ)": {
@@ -1799,7 +1804,8 @@
         "time": "04:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 331
+        "organizer_id": 331,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -1823,8 +1829,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0952977388",
-      "hours": "［月・木・金］18:00〜22:00 / ［土・日・祝］13:00〜22:00",
-      "holiday": "火・水"
+      "hours": "［月・木・金］18:00〜22:00 / ［土・日］13:00〜22:00",
+      "holiday": "火・水 祝"
     }
   },
   "BUSHIROAD TCG SHOP GiGO イオンモール津田沼 South": {
@@ -2003,7 +2009,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 202
+        "organizer_id": 202,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -2059,8 +2066,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0546257580",
-      "hours": "［月・木・金・土・日・祝］11:00〜21:30",
-      "holiday": "火・水"
+      "hours": "［月・火・金］14:00〜21:30 / ［土・日・祝］11:00〜21:30",
+      "holiday": "水・木"
     }
   },
   "Bee本舗　福岡天神店": {
@@ -2450,7 +2457,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 946
+        "organizer_id": 946,
+        "participants": 1
       },
       {
         "date": "2026-11-19",
@@ -2458,7 +2466,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 946
+        "organizer_id": 946,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -3256,7 +3265,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1221
+        "organizer_id": 1221,
+        "participants": 0
       },
       {
         "date": "2026-12-01",
@@ -3700,7 +3710,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 166
+        "organizer_id": 166,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -3708,7 +3719,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 166
+        "organizer_id": 166,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -3848,12 +3860,23 @@
         "game_title_id": 6
       },
       {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "07:30",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 488,
+        "participants": 2,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-11-21",
         "type": "クロスオーバーショップ大会",
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 488
+        "organizer_id": 488,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -4100,7 +4123,8 @@
         "time": "02:00",
         "name": "【トリオバトル】11月開催 Championship (2026)",
         "series_id": 3512,
-        "organizer_id": 548
+        "organizer_id": 548,
+        "participants": 11
       },
       {
         "date": "2026-11-17",
@@ -4108,7 +4132,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 548
+        "organizer_id": 548,
+        "participants": 7
       },
       {
         "date": "2026-11-24",
@@ -4262,7 +4287,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 602
+        "organizer_id": 602,
+        "participants": 8
       },
       {
         "date": "2026-11-20",
@@ -4270,7 +4296,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 602
+        "organizer_id": 602,
+        "participants": 7
       },
       {
         "date": "2026-11-24",
@@ -4591,7 +4618,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 130
+        "organizer_id": 130,
+        "participants": 2
       },
       {
         "date": "2026-11-15",
@@ -4599,7 +4627,8 @@
         "time": "05:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 130
+        "organizer_id": 130,
+        "participants": 6
       },
       {
         "date": "2026-11-18",
@@ -4607,7 +4636,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 130
+        "organizer_id": 130,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -5121,7 +5151,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 20
+        "organizer_id": 20,
+        "participants": 4
       },
       {
         "date": "2026-11-15",
@@ -5129,7 +5160,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 20
+        "organizer_id": 20,
+        "participants": 6
       },
       {
         "date": "2026-11-22",
@@ -5461,7 +5493,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 717
+        "organizer_id": 717,
+        "participants": 5
       },
       {
         "date": "2026-11-25",
@@ -5754,7 +5787,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 449
+        "organizer_id": 449,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -5762,7 +5796,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 449
+        "organizer_id": 449,
+        "participants": 2
       },
       {
         "date": "2026-11-27",
@@ -6113,7 +6148,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 936
+        "organizer_id": 936,
+        "participants": 1
       },
       {
         "date": "2026-11-17",
@@ -6121,7 +6157,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 936
+        "organizer_id": 936,
+        "participants": 4
       },
       {
         "date": "2026-11-24",
@@ -6437,7 +6474,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1268
+        "organizer_id": 1268,
+        "participants": 2
       },
       {
         "date": "2026-11-18",
@@ -6445,7 +6483,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1268
+        "organizer_id": 1268,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -6940,7 +6979,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 186
+        "organizer_id": 186,
+        "participants": 8
       },
       {
         "date": "2026-11-21",
@@ -6948,7 +6988,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 186
+        "organizer_id": 186,
+        "participants": 4
       },
       {
         "date": "2026-11-27",
@@ -7194,7 +7235,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 506
+        "organizer_id": 506,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -7267,7 +7309,7 @@
   },
   "GENKIぶらくり丁店": {
     "pref_code": 30,
-    "address": "和歌山市雑賀町59",
+    "address": "和歌山市雑賀町 59 元気ビル1F",
     "lat": 34.233755,
     "lng": 135.1772843,
     "last_cs": null,
@@ -7406,7 +7448,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0734227338",
-      "hours": "［月・火・水・木・金・土・日・祝］10:00〜22:00",
+      "hours": "［月］10:00〜20:00 / ［火・水・木・金・土・日・祝］10:00〜22:00",
       "holiday": "年中無休"
     }
   },
@@ -7615,7 +7657,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 553
+        "organizer_id": 553,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -7675,16 +7718,16 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0757464139",
-      "hours": "平日12〜20時\n休日10〜19時",
+      "hours": "平日12~20時\n土曜、祝日10~20時\n日曜、祝日10~19時",
       "holiday": "なし",
       "url": "http://dragon777.jp/"
     }
   },
   "GIRAFULL 広島ドンキ店": {
     "pref_code": 34,
-    "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
-    "lat": 34.3911897,
-    "lng": 132.4622531,
+    "address": "広島市中区紙屋町1ｰ4-7　ライラックⅡ2階",
+    "lat": 34.3937386,
+    "lng": 132.4587202,
     "upcoming": [
       {
         "date": "2026-09-03",
@@ -7793,7 +7836,13 @@
         "name": "10月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3445,
         "organizer_id": 940,
-        "participants": 2
+        "participants": 2,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-10-10",
@@ -7802,7 +7851,13 @@
         "name": "【個人戦】10月開催 Championship (2026)",
         "series_id": 3446,
         "organizer_id": 940,
-        "participants": 20
+        "participants": 20,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-10-14",
@@ -7811,7 +7866,13 @@
         "name": "10月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3445,
         "organizer_id": 940,
-        "participants": 4
+        "participants": 4,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-10-21",
@@ -7820,7 +7881,13 @@
         "name": "10月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3445,
         "organizer_id": 940,
-        "participants": 3
+        "participants": 3,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-10-28",
@@ -7829,7 +7896,13 @@
         "name": "10月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3445,
         "organizer_id": 940,
-        "participants": 5
+        "participants": 5,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-11-04",
@@ -7838,7 +7911,13 @@
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
         "organizer_id": 940,
-        "participants": 3
+        "participants": 3,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-11-07",
@@ -7847,7 +7926,13 @@
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
         "organizer_id": 940,
-        "participants": 20
+        "participants": 20,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-11-11",
@@ -7856,7 +7941,13 @@
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
         "organizer_id": 940,
-        "participants": 2
+        "participants": 2,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-11-18",
@@ -7864,7 +7955,14 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 940
+        "organizer_id": 940,
+        "participants": 0,
+        "place": {
+          "address": "広島市中区新天地5-3　ドン.キホーテ広島八丁堀店5F",
+          "pref_code": 34,
+          "lat": 34.3911897,
+          "lng": 132.4622531
+        }
       },
       {
         "date": "2026-11-25",
@@ -7896,13 +7994,7 @@
         "time": "02:00",
         "name": "【個人戦】12月開催 Championship (2026)",
         "series_id": 3600,
-        "organizer_id": 940,
-        "place": {
-          "address": "広島市中区紙屋町1丁目4-7 ライラックⅡ2階",
-          "pref_code": 34,
-          "lat": 34.3937244,
-          "lng": 132.4587531
-        }
+        "organizer_id": 940
       },
       {
         "date": "2026-12-09",
@@ -8063,7 +8155,8 @@
         "time": "02:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 1317
+        "organizer_id": 1317,
+        "participants": 20
       },
       {
         "date": "2026-11-17",
@@ -8071,7 +8164,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1317
+        "organizer_id": 1317,
+        "participants": 7
       },
       {
         "date": "2026-11-24",
@@ -8124,8 +8218,8 @@
     ],
     "_last_seen": "2026-12-22",
     "last_cs": {
-      "date": "2026-10-04",
-      "participants": 24
+      "date": "2026-11-15",
+      "participants": 20
     },
     "organizer_id": 1317,
     "_addr_src": "shop",
@@ -8336,7 +8430,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1094
+        "organizer_id": 1094,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -8344,7 +8439,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1094
+        "organizer_id": 1094,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -8668,7 +8764,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 183
+        "organizer_id": 183,
+        "participants": 1
       },
       {
         "date": "2026-11-19",
@@ -8676,7 +8773,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 183
+        "organizer_id": 183,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -9054,7 +9152,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 789
+        "organizer_id": 789,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -9062,7 +9161,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 789
+        "organizer_id": 789,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -9581,6 +9681,26 @@
         "game_title_id": 6
       },
       {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 699,
+        "participants": 2,
+        "game_title_id": 6
+      },
+      {
+        "date": "2026-11-15",
+        "type": "クロスオーバーショップ大会",
+        "time": "09:00",
+        "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
+        "series_id": 3509,
+        "organizer_id": 699,
+        "participants": 2,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-11-22",
         "type": "ショップ大会",
         "time": "08:00",
@@ -9970,7 +10090,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 88
+        "organizer_id": 88,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -9978,7 +10099,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 88
+        "organizer_id": 88,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -10307,7 +10429,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1036
+        "organizer_id": 1036,
+        "participants": 1
       },
       {
         "date": "2026-11-20",
@@ -10315,7 +10438,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1036
+        "organizer_id": 1036,
+        "participants": 3
       },
       {
         "date": "2026-11-27",
@@ -10769,7 +10893,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 427
+        "organizer_id": 427,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -11103,7 +11228,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 198
+        "organizer_id": 198,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -11408,7 +11534,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 534
+        "organizer_id": 534,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -11708,7 +11835,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 848
+        "organizer_id": 848,
+        "participants": 1
       },
       {
         "date": "2026-11-20",
@@ -11716,7 +11844,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 848
+        "organizer_id": 848,
+        "participants": 1
       },
       {
         "date": "2026-11-25",
@@ -11942,7 +12071,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 910
+        "organizer_id": 910,
+        "participants": 2
       },
       {
         "date": "2026-11-27",
@@ -12169,7 +12299,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 241
+        "organizer_id": 241,
+        "participants": 8
       },
       {
         "date": "2026-11-28",
@@ -12384,7 +12515,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1122
+        "organizer_id": 1122,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -12558,7 +12690,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 689
+        "organizer_id": 689,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -13075,7 +13208,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1224
+        "organizer_id": 1224,
+        "participants": 3
       },
       {
         "date": "2026-11-19",
@@ -13083,7 +13217,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1224
+        "organizer_id": 1224,
+        "participants": 3
       },
       {
         "date": "2026-11-28",
@@ -13231,7 +13366,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1403
+        "organizer_id": 1403,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -13652,7 +13788,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1162
+        "organizer_id": 1162,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -13660,7 +13797,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1162
+        "organizer_id": 1162,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -14192,7 +14330,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1149
+        "organizer_id": 1149,
+        "participants": 3
       },
       {
         "date": "2026-11-24",
@@ -14347,7 +14486,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1253
+        "organizer_id": 1253,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -14474,7 +14614,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1290
+        "organizer_id": 1290,
+        "participants": 2
       },
       {
         "date": "2026-12-02",
@@ -14796,7 +14937,8 @@
         "time": "02:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 1081
+        "organizer_id": 1081,
+        "participants": 7
       }
     ],
     "_last_seen": "2026-11-21",
@@ -14931,7 +15073,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 963
+        "organizer_id": 963,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -15268,8 +15411,8 @@
   "TSUTAYA加須店": {
     "pref_code": 11,
     "address": "加須市下高柳1-29　ビバモール加須",
-    "lat": 36.110314,
-    "lng": 139.609435,
+    "lat": 36.1102142,
+    "lng": 139.6095965,
     "last_cs": null,
     "upcoming": [],
     "_last_seen": "2024-12-14",
@@ -15419,7 +15562,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 938
+        "organizer_id": 938,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -15652,7 +15796,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 815
+        "organizer_id": 815,
+        "participants": 0
       },
       {
         "date": "2026-12-01",
@@ -15794,7 +15939,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1615
+        "organizer_id": 1615,
+        "participants": 4
       },
       {
         "date": "2026-11-25",
@@ -16170,7 +16316,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0193641202",
-      "hours": "［月・火・水・木・金・土・日・祝］12:00〜21:00",
+      "hours": "［月・火・水・木・日・祝］12:00〜21:00 / ［金・土］12:00〜24:00",
       "holiday": "年中無休",
       "url": "https://store-tsutaya.tsite.jp/store/detail?storeId=0409"
     }
@@ -16481,7 +16627,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1467
+        "organizer_id": 1467,
+        "participants": 1
       },
       {
         "date": "2026-11-19",
@@ -16489,7 +16636,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1467
+        "organizer_id": 1467,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -16605,7 +16753,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0839336033",
-      "hours": "全日9:00~22:00"
+      "hours": "全日9:00~24:00"
     }
   },
   "TSUTAYA山陽店": {
@@ -16763,7 +16911,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 756
+        "organizer_id": 756,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -16910,7 +17059,8 @@
         "time": "04:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 823
+        "organizer_id": 823,
+        "participants": 18
       },
       {
         "date": "2026-12-20",
@@ -16932,8 +17082,8 @@
     "_last_seen": "2026-12-26",
     "organizer_id": 823,
     "last_cs": {
-      "date": "2026-10-11",
-      "participants": 21
+      "date": "2026-11-15",
+      "participants": 18
     },
     "_addr_src": "shop",
     "shop_info": {
@@ -17175,7 +17325,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 837
+        "organizer_id": 837,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -17223,6 +17374,14 @@
         "time": "08:30",
         "name": "12月度「グランブルーファンタジー」限定構築大会(2026)",
         "series_id": 3596,
+        "organizer_id": 837
+      },
+      {
+        "date": "2026-12-16",
+        "type": "CS",
+        "time": "05:00",
+        "name": "【個人戦】12月開催 Championship (2026)",
+        "series_id": 3600,
         "organizer_id": 837
       },
       {
@@ -17400,7 +17559,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1189
+        "organizer_id": 1189,
+        "participants": 3
       },
       {
         "date": "2026-11-22",
@@ -17650,7 +17810,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 733
+        "organizer_id": 733,
+        "participants": 2
       },
       {
         "date": "2026-11-29",
@@ -17743,7 +17904,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 993
+        "organizer_id": 993,
+        "participants": 1
       },
       {
         "date": "2026-12-06",
@@ -17956,7 +18118,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1018
+        "organizer_id": 1018,
+        "participants": 0
       },
       {
         "date": "2026-11-29",
@@ -18075,7 +18238,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1586
+        "organizer_id": 1586,
+        "participants": 6
       },
       {
         "date": "2026-12-15",
@@ -18123,7 +18287,8 @@
         "time": "04:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 933
+        "organizer_id": 933,
+        "participants": 15
       },
       {
         "date": "2026-12-29",
@@ -18142,8 +18307,8 @@
     ],
     "_last_seen": "2026-12-29",
     "last_cs": {
-      "date": "2026-10-15",
-      "participants": 24
+      "date": "2026-11-16",
+      "participants": 15
     },
     "organizer_id": 933,
     "_addr_src": "shop",
@@ -18508,7 +18673,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1614
+        "organizer_id": 1614,
+        "participants": 0
       },
       {
         "date": "2026-11-30",
@@ -18594,7 +18760,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 870
+        "organizer_id": 870,
+        "participants": 0
       },
       {
         "date": "2026-12-03",
@@ -18955,7 +19122,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1069
+        "organizer_id": 1069,
+        "participants": 4
       },
       {
         "date": "2026-11-21",
@@ -18963,7 +19131,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1069
+        "organizer_id": 1069,
+        "participants": 9
       },
       {
         "date": "2026-11-23",
@@ -19358,7 +19527,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 348
+        "organizer_id": 348,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -19366,7 +19536,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 348
+        "organizer_id": 348,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -19728,7 +19899,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1573
+        "organizer_id": 1573,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -19736,7 +19908,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1573
+        "organizer_id": 1573,
+        "participants": 4
       },
       {
         "date": "2026-11-25",
@@ -20670,7 +20843,8 @@
         "time": "03:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 127
+        "organizer_id": 127,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -20678,7 +20852,8 @@
         "time": "03:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 127
+        "organizer_id": 127,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -20913,7 +21088,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 19
+        "organizer_id": 19,
+        "participants": 4
       },
       {
         "date": "2026-11-27",
@@ -21195,7 +21371,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 674
+        "organizer_id": 674,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -21203,7 +21380,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 674
+        "organizer_id": 674,
+        "participants": 2
       },
       {
         "date": "2026-11-23",
@@ -21545,8 +21723,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "05012582525",
-      "hours": "［金・土・日・祝］12:00〜21:00",
-      "holiday": "月〜木"
+      "hours": "［土・日・祝］12:00〜21:00",
+      "holiday": "月〜金"
     }
   },
   "かまくらや": {
@@ -21759,7 +21937,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 338
+        "organizer_id": 338,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -21767,7 +21946,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 338
+        "organizer_id": 338,
+        "participants": 2
       },
       {
         "date": "2026-11-28",
@@ -22067,7 +22247,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 414
+        "organizer_id": 414,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -22075,7 +22256,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 414
+        "organizer_id": 414,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -22434,7 +22616,8 @@
         "time": "03:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 122
+        "organizer_id": 122,
+        "participants": 2
       },
       {
         "date": "2026-11-15",
@@ -22442,7 +22625,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 122
+        "organizer_id": 122,
+        "participants": 3
       },
       {
         "date": "2026-11-22",
@@ -22689,7 +22873,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 107
+        "organizer_id": 107,
+        "participants": 10
       },
       {
         "date": "2026-11-28",
@@ -22816,7 +23001,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 766
+        "organizer_id": 766,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -22971,7 +23157,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 140
+        "organizer_id": 140,
+        "participants": 2
       },
       {
         "date": "2026-11-28",
@@ -23084,8 +23271,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0822417967",
-      "hours": "［月・火・水・木・金・土・日・祝］10:00〜19:00",
-      "holiday": "年中無休",
+      "hours": "［月・火・木・金・土・日・祝］10:00〜19:00",
+      "holiday": "水",
       "url": "http://homepage1.nifty.com/hatoya~toy"
     }
   },
@@ -23299,7 +23486,8 @@
         "time": "05:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 216
+        "organizer_id": 216,
+        "participants": 6
       },
       {
         "date": "2026-11-21",
@@ -23307,7 +23495,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 216
+        "organizer_id": 216,
+        "participants": 6
       },
       {
         "date": "2026-11-28",
@@ -23634,7 +23823,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1355
+        "organizer_id": 1355,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -23642,7 +23832,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1355
+        "organizer_id": 1355,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -23931,7 +24122,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 159
+        "organizer_id": 159,
+        "participants": 10
       },
       {
         "date": "2026-11-21",
@@ -23939,7 +24131,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 159
+        "organizer_id": 159,
+        "participants": 8
       },
       {
         "date": "2026-11-27",
@@ -24388,7 +24581,8 @@
         "time": "05:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 299
+        "organizer_id": 299,
+        "participants": 7
       },
       {
         "date": "2026-11-21",
@@ -24396,7 +24590,8 @@
         "time": "06:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 299
+        "organizer_id": 299,
+        "participants": 7
       },
       {
         "date": "2026-11-22",
@@ -24732,7 +24927,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1269
+        "organizer_id": 1269,
+        "participants": 1
       },
       {
         "date": "2026-11-21",
@@ -24740,7 +24936,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1269
+        "organizer_id": 1269,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -24857,7 +25054,7 @@
     "shop_info": {
       "phone": "07040369985",
       "hours": "［月・火・水・木・金］16:00〜20:00 / ［土・日・祝］13:00〜20:00",
-      "holiday": "年中無休",
+      "holiday": "なし",
       "url": "https://twitter.com/LLC307282719329"
     }
   },
@@ -25053,7 +25250,8 @@
         "time": "01:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 80
+        "organizer_id": 80,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -25061,7 +25259,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 80
+        "organizer_id": 80,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -25381,7 +25580,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1284
+        "organizer_id": 1284,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -25389,7 +25589,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1284
+        "organizer_id": 1284,
+        "participants": 5
       },
       {
         "date": "2026-11-23",
@@ -25745,7 +25946,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 685
+        "organizer_id": 685,
+        "participants": 3
       },
       {
         "date": "2026-11-16",
@@ -25753,7 +25955,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 685
+        "organizer_id": 685,
+        "participants": 4
       },
       {
         "date": "2026-11-23",
@@ -25886,7 +26089,7 @@
     "shop_info": {
       "phone": "0522423711",
       "hours": "［月・火・水・木・金］13:00〜21:00 / ［土・日・祝］11:00〜20:00",
-      "holiday": "年中無休",
+      "holiday": "不定休",
       "url": "http://tcg-advantage.com"
     }
   },
@@ -26127,7 +26330,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 493
+        "organizer_id": 493,
+        "participants": 1
       },
       {
         "date": "2026-11-18",
@@ -26135,7 +26339,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 493
+        "organizer_id": 493,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -26251,8 +26456,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0582626575",
-      "hours": "［月・火・水・木・金］12:00〜20:00",
-      "holiday": "土・日 祝"
+      "hours": "［月・火・水・木・金］12:00〜20:00 / ［土・日・祝］11:00〜20:00",
+      "holiday": "不定休"
     }
   },
   "アメニティードリームなんば2号店": {
@@ -26357,7 +26562,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 134
+        "organizer_id": 134,
+        "participants": 4
       },
       {
         "date": "2026-11-24",
@@ -26625,7 +26831,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 395
+        "organizer_id": 395,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -26887,7 +27094,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 290
+        "organizer_id": 290,
+        "participants": 4
       },
       {
         "date": "2026-11-19",
@@ -26895,7 +27103,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 290
+        "organizer_id": 290,
+        "participants": 1
       },
       {
         "date": "2026-11-25",
@@ -27080,7 +27289,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 305
+        "organizer_id": 305,
+        "participants": 3
       },
       {
         "date": "2026-11-22",
@@ -27313,7 +27523,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 63
+        "organizer_id": 63,
+        "participants": 5
       },
       {
         "date": "2026-12-03",
@@ -27460,7 +27671,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 50
+        "organizer_id": 50,
+        "participants": 2
       },
       {
         "date": "2026-11-28",
@@ -27682,7 +27894,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 44
+        "organizer_id": 44,
+        "participants": 3
       },
       {
         "date": "2026-11-25",
@@ -27877,7 +28090,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0853230040",
-      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜22:00",
+      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜21:00",
       "holiday": "年中無休",
       "url": "http://www.arion-group.jp/"
     }
@@ -28123,7 +28336,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 138
+        "organizer_id": 138,
+        "participants": 7
       },
       {
         "date": "2026-12-05",
@@ -28211,7 +28425,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 188
+        "organizer_id": 188,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -28351,7 +28566,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 151
+        "organizer_id": 151,
+        "participants": 1
       },
       {
         "date": "2026-11-30",
@@ -28615,7 +28831,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 146
+        "organizer_id": 146,
+        "participants": 1
       },
       {
         "date": "2026-11-23",
@@ -28854,7 +29071,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 71
+        "organizer_id": 71,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -29109,7 +29327,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 36
+        "organizer_id": 36,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -29141,7 +29360,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0442766156",
-      "hours": "［月・火・水・木・金・土］12:00〜20:00 / ［日・祝］11:00〜19:00",
+      "hours": "［月・火・水・木・金］12:00〜20:00 / ［土］11:00〜20:00 / ［日・祝］11:00〜19:00",
       "holiday": "年中無休",
       "url": "https://www.yellowsubmarine.co.jp/"
     }
@@ -29264,7 +29483,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 831
+        "organizer_id": 831,
+        "participants": 9
       },
       {
         "date": "2026-11-23",
@@ -29648,7 +29868,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 185
+        "organizer_id": 185,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -29656,7 +29877,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 185
+        "organizer_id": 185,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -29954,7 +30176,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 276
+        "organizer_id": 276,
+        "participants": 5
       },
       {
         "date": "2026-11-22",
@@ -30151,7 +30374,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 324
+        "organizer_id": 324,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -30306,7 +30530,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1076
+        "organizer_id": 1076,
+        "participants": 6
       },
       {
         "date": "2026-11-28",
@@ -30858,7 +31083,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 595
+        "organizer_id": 595,
+        "participants": 1
       },
       {
         "date": "2026-11-24",
@@ -31140,7 +31366,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1016
+        "organizer_id": 1016,
+        "participants": 2
       },
       {
         "date": "2026-11-18",
@@ -31148,7 +31375,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1016
+        "organizer_id": 1016,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -31609,7 +31837,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 33
+        "organizer_id": 33,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -31617,7 +31846,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 33
+        "organizer_id": 33,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -31857,7 +32087,8 @@
         "time": "02:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1282
+        "organizer_id": 1282,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -31865,7 +32096,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1282
+        "organizer_id": 1282,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -31984,7 +32216,7 @@
     "organizer_id": 1282,
     "_addr_src": "shop",
     "shop_info": {
-      "phone": "0768231566",
+      "phone": "08029575333",
       "hours": "［水・木］14:00〜21:00 / ［金・土・日・祝］10:00〜21:00",
       "holiday": "月・火",
       "url": "https://ameblo.jp/cardua-tsubata/"
@@ -32200,7 +32432,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1133
+        "organizer_id": 1133,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -32208,7 +32441,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1133
+        "organizer_id": 1133,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -32516,7 +32750,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 378
+        "organizer_id": 378,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -32524,7 +32759,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 378
+        "organizer_id": 378,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -32840,7 +33076,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 28
+        "organizer_id": 28,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -32848,7 +33085,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 28
+        "organizer_id": 28,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -32952,7 +33190,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0270265455",
-      "hours": "［月・火・水・木・金］19:00〜21:00 / ［土・日・祝］13:00〜21:00",
+      "hours": "［月・火・水・木・金・祝］19:00〜21:00 / ［土・日］13:00〜21:00",
       "holiday": "不定休"
     }
   },
@@ -33067,7 +33305,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 174
+        "organizer_id": 174,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -33334,7 +33573,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 141
+        "organizer_id": 141,
+        "participants": 0
       },
       {
         "date": "2026-11-16",
@@ -33342,7 +33582,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 141
+        "organizer_id": 141,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -33677,7 +33918,8 @@
         "time": "02:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 160
+        "organizer_id": 160,
+        "participants": 8
       },
       {
         "date": "2026-11-18",
@@ -33685,7 +33927,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 160
+        "organizer_id": 160,
+        "participants": 3
       },
       {
         "date": "2026-11-21",
@@ -33693,7 +33936,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 160
+        "organizer_id": 160,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -33794,7 +34038,7 @@
     ],
     "_last_seen": "2026-12-30",
     "last_cs": {
-      "date": "2026-10-11",
+      "date": "2026-11-15",
       "participants": 8
     },
     "organizer_id": 160,
@@ -33970,8 +34214,8 @@
   "カードゲームショップ オレタン 岡山本店": {
     "pref_code": 33,
     "address": "岡山市北区北長瀬表町2-17-80　ブランチ岡山北長瀬内",
-    "lat": 34.6526831,
-    "lng": 133.887513,
+    "lat": 34.6525462,
+    "lng": 133.8884,
     "upcoming": [
       {
         "date": "2026-09-04",
@@ -34071,8 +34315,8 @@
   "カードゲームショップ オレタン岡山本店": {
     "pref_code": 33,
     "address": "岡山市北区北長瀬表町2-17-80　ブランチ岡山北長瀬内",
-    "lat": 34.6526831,
-    "lng": 133.887513,
+    "lat": 34.6525462,
+    "lng": 133.8884,
     "last_cs": null,
     "upcoming": [
       {
@@ -34121,7 +34365,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0563656000",
-      "hours": "［月・火・水・木・金・土・日・祝］10:00〜22:00",
+      "hours": "［月・火・水・木・金］12:00〜22:00 / ［土・日・祝］10:00〜22:00",
       "holiday": "年中無休"
     }
   },
@@ -34158,7 +34402,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1008
+        "organizer_id": 1008,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -34312,7 +34557,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 465
+        "organizer_id": 465,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -34510,7 +34756,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 714
+        "organizer_id": 714,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -34518,7 +34765,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 714
+        "organizer_id": 714,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -34605,7 +34853,7 @@
   },
   "カードショップ もののふ": {
     "pref_code": 23,
-    "address": "名古屋市天白区野並3-197　スライプ野並1F",
+    "address": "名古屋市天白区野並3-197　スライブ野並1F",
     "lat": 35.1027709,
     "lng": 136.9564716,
     "upcoming": [
@@ -34875,7 +35123,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1652
+        "organizer_id": 1652,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -34937,7 +35186,7 @@
   },
   "カードショップ サード": {
     "pref_code": 1,
-    "address": "砂川市東一条北2-1-1-27　中央市場内",
+    "address": "砂川市東1条北2丁目1-1-27 中央市場内",
     "lat": 43.4919327,
     "lng": 141.907803,
     "upcoming": [
@@ -35174,7 +35423,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0125527733",
-      "hours": "［月・火・水・木・金］15:00〜22:00 / ［土］10:00〜25:00 / ［日・祝］10:00〜23:00",
+      "hours": "［月・火・水・木・金］15:00〜22:00 / ［土］10:00〜25:00 / ［日］10:00〜23:00 / ［祝］12:00〜22:00",
       "holiday": "年中無休"
     }
   },
@@ -35318,7 +35567,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 486
+        "organizer_id": 486,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -35560,7 +35810,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 692
+        "organizer_id": 692,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -35568,7 +35819,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 692
+        "organizer_id": 692,
+        "participants": 2
       },
       {
         "date": "2026-11-27",
@@ -36211,7 +36463,8 @@
         "time": "02:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1052
+        "organizer_id": 1052,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -36389,7 +36642,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 558
+        "organizer_id": 558,
+        "participants": 3
       },
       {
         "date": "2026-11-22",
@@ -36445,7 +36699,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0157512036",
-      "hours": "［月・水・木］13:00〜20:00 / ［金］13:00〜21:00 / ［土］12:00〜21:00 / ［日・祝］12:00〜20:00",
+      "hours": "［月・水・木・祝］13:00〜20:00 / ［金］13:00〜21:00 / ［土］12:00〜21:00 / ［日］12:00〜20:00",
       "holiday": "火"
     }
   },
@@ -36659,7 +36913,8 @@
         "time": "03:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 309
+        "organizer_id": 309,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -36667,7 +36922,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 309
+        "organizer_id": 309,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -36985,7 +37241,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 191
+        "organizer_id": 191,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -36993,7 +37250,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 191
+        "organizer_id": 191,
+        "participants": 1
       },
       {
         "date": "2026-11-25",
@@ -37347,7 +37605,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 906
+        "organizer_id": 906,
+        "participants": 0
       },
       {
         "date": "2026-11-17",
@@ -37355,7 +37614,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 906
+        "organizer_id": 906,
+        "participants": 1
       },
       {
         "date": "2026-11-23",
@@ -37566,7 +37826,7 @@
     "organizer_id": 376,
     "_addr_src": "shop",
     "shop_info": {
-      "phone": "0166316656",
+      "phone": "07090558863",
       "hours": "［月・水・木・金］14:00〜20:30 / ［土・日・祝］12:00〜20:30",
       "holiday": "火",
       "url": "http://www.sanred.shop-pro.jp"
@@ -37772,7 +38032,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 545
+        "organizer_id": 545,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -37780,7 +38041,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 545
+        "organizer_id": 545,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -37890,7 +38152,7 @@
   },
   "カードショップ　アスタリスク": {
     "pref_code": 36,
-    "address": "徳島市徳島町城内6-72　スタンダードビル1F",
+    "address": "徳島市徳島町城内6-72　スタンダードビル(旧ハヤシビル2）1F",
     "lat": 34.0779622,
     "lng": 134.5493412,
     "upcoming": [
@@ -38089,7 +38351,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1043
+        "organizer_id": 1043,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -38097,7 +38360,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1043
+        "organizer_id": 1043,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -38217,7 +38481,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0886359194",
-      "hours": "［木・金］16:00〜20:00 / ［土・日・祝］11:00〜20:00",
+      "hours": "［木・金］16:00〜20:00 / ［土］11:00〜21:00 / ［日・祝］11:00〜20:00",
       "holiday": "月〜水"
     }
   },
@@ -38395,7 +38659,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 594
+        "organizer_id": 594,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -38403,7 +38668,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 594
+        "organizer_id": 594,
+        "participants": 3
       },
       {
         "date": "2026-11-27",
@@ -38489,7 +38755,7 @@
   },
   "カードショップ　サード": {
     "pref_code": 1,
-    "address": "砂川市東一条北2-1-1-27　中央市場内",
+    "address": "砂川市東1条北2丁目1-1-27 中央市場内",
     "lat": 43.4919327,
     "lng": 141.907803,
     "last_cs": null,
@@ -38535,12 +38801,23 @@
         "game_title_id": 6
       },
       {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "09:30",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 431,
+        "participants": 0,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-11-21",
         "type": "クロスオーバーショップ大会",
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 431
+        "organizer_id": 431,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -38652,7 +38929,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0125527733",
-      "hours": "［月・火・水・木・金］15:00〜22:00 / ［土］10:00〜25:00 / ［日・祝］10:00〜23:00",
+      "hours": "［月・火・水・木・金］15:00〜22:00 / ［土］10:00〜25:00 / ［日］10:00〜23:00 / ［祝］12:00〜22:00",
       "holiday": "年中無休"
     }
   },
@@ -38875,7 +39152,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 218
+        "organizer_id": 218,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -38883,7 +39161,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 218
+        "organizer_id": 218,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -39035,7 +39314,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 376
+        "organizer_id": 376,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -39082,7 +39362,7 @@
     "organizer_id": 376,
     "_addr_src": "shop",
     "shop_info": {
-      "phone": "0166316656",
+      "phone": "07090558863",
       "hours": "［月・水・木・金］14:00〜20:30 / ［土・日・祝］12:00〜20:30",
       "holiday": "火",
       "url": "http://www.sanred.shop-pro.jp"
@@ -39263,7 +39543,7 @@
   },
   "カードショップもののふ": {
     "pref_code": 23,
-    "address": "名古屋市天白区野並3-197　スライプ野並1F",
+    "address": "名古屋市天白区野並3-197　スライブ野並1F",
     "lat": 35.1027709,
     "lng": 136.9564716,
     "last_cs": null,
@@ -39294,7 +39574,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 511
+        "organizer_id": 511,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -39595,7 +39876,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1138
+        "organizer_id": 1138,
+        "participants": 2
       },
       {
         "date": "2026-11-19",
@@ -39603,7 +39885,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1138
+        "organizer_id": 1138,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -39926,7 +40209,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1058
+        "organizer_id": 1058,
+        "participants": 0
       },
       {
         "date": "2026-11-16",
@@ -39934,7 +40218,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1058
+        "organizer_id": 1058,
+        "participants": 1
       },
       {
         "date": "2026-11-23",
@@ -40243,7 +40528,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 178
+        "organizer_id": 178,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -40251,7 +40537,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 178
+        "organizer_id": 178,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -40629,7 +40916,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 18
+        "organizer_id": 18,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -40637,7 +40925,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 18
+        "organizer_id": 18,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -40924,7 +41213,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1095
+        "organizer_id": 1095,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -40932,7 +41222,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1095
+        "organizer_id": 1095,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -41249,7 +41540,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 366
+        "organizer_id": 366,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -41257,7 +41549,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 366
+        "organizer_id": 366,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -41521,7 +41814,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 559
+        "organizer_id": 559,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -41529,7 +41823,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 559
+        "organizer_id": 559,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -41756,7 +42051,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1007
+        "organizer_id": 1007,
+        "participants": 19
       },
       {
         "date": "2026-11-28",
@@ -42033,7 +42329,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 525
+        "organizer_id": 525,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -42041,7 +42338,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 525
+        "organizer_id": 525,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -42477,7 +42775,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 917
+        "organizer_id": 917,
+        "participants": 1
       },
       {
         "date": "2026-11-27",
@@ -42562,7 +42861,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 323
+        "organizer_id": 323,
+        "participants": 5
       },
       {
         "date": "2026-11-28",
@@ -42787,7 +43087,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 483
+        "organizer_id": 483,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -42795,7 +43096,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 483
+        "organizer_id": 483,
+        "participants": 4
       },
       {
         "date": "2026-11-26",
@@ -43061,7 +43363,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 797
+        "organizer_id": 797,
+        "participants": 1
       },
       {
         "date": "2026-11-15",
@@ -43069,7 +43372,8 @@
         "time": "03:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 797
+        "organizer_id": 797,
+        "participants": 4
       },
       {
         "date": "2026-11-21",
@@ -43077,7 +43381,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 797
+        "organizer_id": 797,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -43302,7 +43607,8 @@
         "time": "05:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 1084
+        "organizer_id": 1084,
+        "participants": 14
       },
       {
         "date": "2026-11-20",
@@ -43310,7 +43616,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1084
+        "organizer_id": 1084,
+        "participants": 2
       },
       {
         "date": "2026-11-27",
@@ -43363,8 +43670,8 @@
     ],
     "_last_seen": "2026-12-25",
     "last_cs": {
-      "date": "2026-10-25",
-      "participants": 15
+      "date": "2026-11-15",
+      "participants": 12
     },
     "organizer_id": 1084,
     "_addr_src": "shop",
@@ -43561,7 +43868,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 536
+        "organizer_id": 536,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -43857,7 +44165,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 592
+        "organizer_id": 592,
+        "participants": 1
       },
       {
         "date": "2026-11-21",
@@ -43865,7 +44174,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 592
+        "organizer_id": 592,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -44121,7 +44431,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 698
+        "organizer_id": 698,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -44273,7 +44584,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 845
+        "organizer_id": 845,
+        "participants": 5
       },
       {
         "date": "2026-11-28",
@@ -44553,7 +44865,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 804
+        "organizer_id": 804,
+        "participants": 13
       },
       {
         "date": "2026-11-28",
@@ -44755,7 +45068,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 462
+        "organizer_id": 462,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -44763,7 +45077,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 462
+        "organizer_id": 462,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -44851,8 +45166,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0669144894",
-      "hours": "［月・水・木・金］15:00〜20:00",
-      "holiday": "火・土・日 祝",
+      "hours": "［月・水・木・金］15:00〜22:00 / ［土］13:00〜22:00 / ［日・祝］11:00〜21:00",
+      "holiday": "火",
       "url": "http://www4.-hp-ez.com/hp/cardfestival/page7"
     }
   },
@@ -44967,7 +45282,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 668
+        "organizer_id": 668,
+        "participants": 2
       },
       {
         "date": "2026-11-28",
@@ -45453,7 +45769,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1195
+        "organizer_id": 1195,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -45461,7 +45778,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1195
+        "organizer_id": 1195,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -45565,8 +45883,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0532309223",
-      "hours": "［金］18:00〜21:00 / ［日・祝］13:00〜19:00",
-      "holiday": "月〜木・土",
+      "hours": "［金］18:00〜21:00 / ［日］13:00〜19:00",
+      "holiday": "月〜木・土 祝",
       "url": "https://cardhobbycrouton.com/"
     }
   },
@@ -45913,7 +46231,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 555
+        "organizer_id": 555,
+        "participants": 6
       },
       {
         "date": "2026-11-27",
@@ -46098,6 +46417,16 @@
         "series_id": 3510,
         "organizer_id": 1039,
         "participants": 1,
+        "game_title_id": 6
+      },
+      {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 1039,
+        "participants": 2,
         "game_title_id": 6
       },
       {
@@ -46338,7 +46667,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1141
+        "organizer_id": 1141,
+        "participants": 2
       },
       {
         "date": "2026-11-24",
@@ -46590,7 +46920,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 849
+        "organizer_id": 849,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -46777,7 +47108,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 492
+        "organizer_id": 492,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -46891,7 +47223,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1564
+        "organizer_id": 1564,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -47117,7 +47450,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1280
+        "organizer_id": 1280,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -47369,7 +47703,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1380
+        "organizer_id": 1380,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -47377,7 +47712,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1380
+        "organizer_id": 1380,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -47481,7 +47817,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0584719617",
-      "hours": "［月・火・水・木・金］13:00〜21:00 / ［土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木・金・祝］13:00〜21:00 / ［土・日］10:00〜21:00",
       "holiday": "年中無休"
     }
   },
@@ -47730,7 +48066,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 333
+        "organizer_id": 333,
+        "participants": 14
       },
       {
         "date": "2026-11-27",
@@ -47972,7 +48309,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 277
+        "organizer_id": 277,
+        "participants": 5
       },
       {
         "date": "2026-11-24",
@@ -48175,7 +48513,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 633
+        "organizer_id": 633,
+        "participants": 8
       },
       {
         "date": "2026-11-15",
@@ -48183,7 +48522,8 @@
         "time": "06:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 633
+        "organizer_id": 633,
+        "participants": 14
       },
       {
         "date": "2026-11-22",
@@ -48268,8 +48608,8 @@
     ],
     "_last_seen": "2026-12-30",
     "last_cs": {
-      "date": "2026-10-11",
-      "participants": 16
+      "date": "2026-11-15",
+      "participants": 14
     },
     "organizer_id": 633,
     "_addr_src": "shop",
@@ -48400,7 +48740,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 177
+        "organizer_id": 177,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -48706,7 +49047,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 386
+        "organizer_id": 386,
+        "participants": 7
       },
       {
         "date": "2026-11-21",
@@ -48714,7 +49056,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 386
+        "organizer_id": 386,
+        "participants": 7
       },
       {
         "date": "2026-11-21",
@@ -48722,7 +49065,8 @@
         "time": "03:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 386
+        "organizer_id": 386,
+        "participants": 22
       },
       {
         "date": "2026-11-27",
@@ -48832,8 +49176,8 @@
     "_last_seen": "2026-12-26",
     "organizer_id": 386,
     "last_cs": {
-      "date": "2026-10-17",
-      "participants": 23
+      "date": "2026-11-21",
+      "participants": 22
     },
     "_addr_src": "shop",
     "shop_info": {
@@ -48954,7 +49298,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 731
+        "organizer_id": 731,
+        "participants": 6
       },
       {
         "date": "2026-11-28",
@@ -49046,7 +49391,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0362852630",
-      "hours": "［月・火・水・木・金・土・日・祝］11:00〜20:00",
+      "hours": "［月・火・水・木・金］11:00〜20:00 / ［土・日・祝］10:00〜20:00",
       "holiday": "年中無休",
       "url": "https://www.c-labo.jp/shop/akibagema/"
     }
@@ -49132,7 +49477,7 @@
   },
   "カードラボ　博多マルイ店": {
     "pref_code": 40,
-    "address": "福岡市博多区博多駅中央街9-1 7階",
+    "address": "福岡市博多区博多駅中央街9-1 博多マルイ7階",
     "lat": 33.5888254,
     "lng": 130.4193965,
     "last_cs": null,
@@ -49142,7 +49487,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0927105655",
-      "hours": "［月・火・水・木・金］10:00〜21:00 / ［土・日・祝］10:00〜20:00",
+      "hours": "［月・火・水・木・金・土・日・祝］10:00〜21:00",
       "holiday": "年中無休"
     }
   },
@@ -49186,7 +49531,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 644
+        "organizer_id": 644,
+        "participants": 2
       },
       {
         "date": "2026-12-01",
@@ -49573,7 +49919,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 588
+        "organizer_id": 588,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -49855,7 +50202,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 623
+        "organizer_id": 623,
+        "participants": 0
       },
       {
         "date": "2026-12-04",
@@ -50083,7 +50431,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1068
+        "organizer_id": 1068,
+        "participants": 3
       },
       {
         "date": "2026-11-23",
@@ -50257,7 +50606,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 117
+        "organizer_id": 117,
+        "participants": 2
       },
       {
         "date": "2026-11-23",
@@ -50492,7 +50842,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 115
+        "organizer_id": 115,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -50500,7 +50851,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 115
+        "organizer_id": 115,
+        "participants": 6
       },
       {
         "date": "2026-11-27",
@@ -50792,7 +51144,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 23
+        "organizer_id": 23,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -50800,7 +51153,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 23
+        "organizer_id": 23,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -51192,7 +51546,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 204
+        "organizer_id": 204,
+        "participants": 3
       },
       {
         "date": "2026-11-21",
@@ -51200,7 +51555,8 @@
         "time": "03:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 204
+        "organizer_id": 204,
+        "participants": 19
       },
       {
         "date": "2026-11-28",
@@ -51549,7 +51905,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1231
+        "organizer_id": 1231,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -51557,7 +51914,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1231
+        "organizer_id": 1231,
+        "participants": 5
       },
       {
         "date": "2026-11-22",
@@ -51754,7 +52112,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 255
+        "organizer_id": 255,
+        "participants": 6
       },
       {
         "date": "2026-12-02",
@@ -52097,7 +52456,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 315
+        "organizer_id": 315,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -52105,7 +52465,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 315
+        "organizer_id": 315,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -52687,7 +53048,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 485
+        "organizer_id": 485,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -52695,7 +53057,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 485
+        "organizer_id": 485,
+        "participants": 2
       },
       {
         "date": "2026-11-26",
@@ -52856,7 +53219,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 100
+        "organizer_id": 100,
+        "participants": 4
       },
       {
         "date": "2026-11-20",
@@ -52864,7 +53228,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 100
+        "organizer_id": 100,
+        "participants": 6
       },
       {
         "date": "2026-11-27",
@@ -53200,7 +53565,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 442
+        "organizer_id": 442,
+        "participants": 1
       },
       {
         "date": "2026-11-19",
@@ -53208,7 +53574,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 442
+        "organizer_id": 442,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -53554,7 +53921,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1114
+        "organizer_id": 1114,
+        "participants": 6
       },
       {
         "date": "2026-11-18",
@@ -53562,7 +53930,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1114
+        "organizer_id": 1114,
+        "participants": 7
       },
       {
         "date": "2026-11-22",
@@ -53888,7 +54257,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 129
+        "organizer_id": 129,
+        "participants": 5
       },
       {
         "date": "2026-11-21",
@@ -53896,7 +54266,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 129
+        "organizer_id": 129,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -54128,7 +54499,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 211
+        "organizer_id": 211,
+        "participants": 5
       },
       {
         "date": "2026-11-30",
@@ -54326,7 +54698,8 @@
         "time": "02:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 538
+        "organizer_id": 538,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -54349,8 +54722,8 @@
   "コミかる　伊勢崎店": {
     "pref_code": 10,
     "address": "伊勢崎市宮子町3420-8",
-    "lat": 36.330665,
-    "lng": 139.160296,
+    "lat": 36.3305301,
+    "lng": 139.1604535,
     "upcoming": [
       {
         "date": "2026-09-01",
@@ -54616,7 +54989,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0270619966",
-      "hours": "［月・火・水・木］12:00〜21:00 / ［金・土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木・祝］12:00〜21:00 / ［金］12:00〜24:00 / ［土・日］10:00〜21:00",
       "holiday": "年中無休"
     }
   },
@@ -54730,7 +55103,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 394
+        "organizer_id": 394,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -54802,8 +55176,8 @@
   "コミかる伊勢崎店": {
     "pref_code": 10,
     "address": "伊勢崎市宮子町3420-8",
-    "lat": 36.330665,
-    "lng": 139.160296,
+    "lat": 36.3305301,
+    "lng": 139.1604535,
     "last_cs": null,
     "upcoming": [
       {
@@ -54852,7 +55226,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 807
+        "organizer_id": 807,
+        "participants": 4
       },
       {
         "date": "2026-11-19",
@@ -54860,7 +55235,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 807
+        "organizer_id": 807,
+        "participants": 4
       },
       {
         "date": "2026-11-24",
@@ -54980,7 +55356,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0270619966",
-      "hours": "［月・火・水・木］12:00〜21:00 / ［金・土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木・祝］12:00〜21:00 / ［金］12:00〜24:00 / ［土・日］10:00〜21:00",
       "holiday": "年中無休"
     }
   },
@@ -55109,7 +55485,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0272335390",
-      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木・金・祝］12:00〜21:00 / ［土・日］10:00〜21:00",
       "holiday": "年中無休",
       "url": "http://www.comicaldo.com"
     }
@@ -55243,7 +55619,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 205
+        "organizer_id": 205,
+        "participants": 4
       },
       {
         "date": "2026-11-27",
@@ -55348,7 +55725,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 27
+        "organizer_id": 27,
+        "participants": 3
       },
       {
         "date": "2026-11-23",
@@ -55404,7 +55782,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0272335390",
-      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木・金・祝］12:00〜21:00 / ［土・日］10:00〜21:00",
       "holiday": "年中無休",
       "url": "http://www.comicaldo.com"
     }
@@ -55520,7 +55898,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 289
+        "organizer_id": 289,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -56086,7 +56465,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 124
+        "organizer_id": 124,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -56094,7 +56474,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 124
+        "organizer_id": 124,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -56286,9 +56667,9 @@
   },
   "サンホビーアンクル": {
     "pref_code": 3,
-    "address": "遠野市中央通り5-5",
-    "lat": 39.3303147,
-    "lng": 141.5302274,
+    "address": "遠野市中央通り5番5号",
+    "lat": 39.3302586,
+    "lng": 141.5300201,
     "last_cs": null,
     "upcoming": [],
     "_last_seen": "2025-08-10",
@@ -56439,7 +56820,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1037
+        "organizer_id": 1037,
+        "participants": 2
       },
       {
         "date": "2026-11-24",
@@ -56775,7 +57157,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 275
+        "organizer_id": 275,
+        "participants": 8
       },
       {
         "date": "2026-11-23",
@@ -57046,7 +57429,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 142
+        "organizer_id": 142,
+        "participants": 4
       },
       {
         "date": "2026-11-25",
@@ -57378,7 +57762,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 158
+        "organizer_id": 158,
+        "participants": 1
       },
       {
         "date": "2026-11-15",
@@ -57386,7 +57771,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 158
+        "organizer_id": 158,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -58051,7 +58437,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1214
+        "organizer_id": 1214,
+        "participants": 2
       },
       {
         "date": "2026-11-15",
@@ -58059,7 +58446,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1214
+        "organizer_id": 1214,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -58179,7 +58567,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0463744080",
-      "hours": "［月・火・水・木・金・土・日・祝］11:00〜20:00",
+      "hours": "［月・火・水］12:00〜20:00 / ［木・金］12:00〜21:00 / ［土・日・祝］11:00〜20:00",
       "holiday": "不定休"
     }
   },
@@ -58467,7 +58855,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 329
+        "organizer_id": 329,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -58475,7 +58864,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 329
+        "organizer_id": 329,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -58801,7 +59191,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 528
+        "organizer_id": 528,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -58809,7 +59200,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 528
+        "organizer_id": 528,
+        "participants": 1
       },
       {
         "date": "2026-11-25",
@@ -59099,7 +59491,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1423
+        "organizer_id": 1423,
+        "participants": 0
       },
       {
         "date": "2026-11-17",
@@ -59107,7 +59500,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1423
+        "organizer_id": 1423,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -59379,7 +59773,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 790
+        "organizer_id": 790,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -59541,7 +59936,8 @@
         "time": "01:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 24
+        "organizer_id": 24,
+        "participants": 3
       },
       {
         "date": "2026-11-15",
@@ -59549,7 +59945,8 @@
         "time": "02:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 24
+        "organizer_id": 24,
+        "participants": 5
       },
       {
         "date": "2026-11-22",
@@ -59767,7 +60164,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 21
+        "organizer_id": 21,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -60068,7 +60466,7 @@
     "organizer_id": 430,
     "_addr_src": "shop",
     "shop_info": {
-      "phone": "0768234646",
+      "phone": "0768231566",
       "hours": "［水・木・金］13:00〜19:00 / ［土・日・祝］10:00〜19:00",
       "holiday": "月・火",
       "url": "http://www.lococom.jp/mt/pony/"
@@ -60198,7 +60596,7 @@
     "organizer_id": 430,
     "_addr_src": "shop",
     "shop_info": {
-      "phone": "0768234646",
+      "phone": "0768231566",
       "hours": "［水・木・金］13:00〜19:00 / ［土・日・祝］10:00〜19:00",
       "holiday": "月・火",
       "url": "http://www.lococom.jp/mt/pony/"
@@ -60331,7 +60729,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 430
+        "organizer_id": 430,
+        "participants": 1
       },
       {
         "date": "2026-11-18",
@@ -60339,7 +60738,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 430
+        "organizer_id": 430,
+        "participants": 1
       },
       {
         "date": "2026-11-25",
@@ -60362,7 +60762,7 @@
     "organizer_id": 430,
     "_addr_src": "shop",
     "shop_info": {
-      "phone": "0768234646",
+      "phone": "0768231566",
       "hours": "［水・木・金］13:00〜19:00 / ［土・日・祝］10:00〜19:00",
       "holiday": "月・火",
       "url": "http://www.lococom.jp/mt/pony/"
@@ -60626,7 +61026,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1182
+        "organizer_id": 1182,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -60951,7 +61352,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 425
+        "organizer_id": 425,
+        "participants": 0
       },
       {
         "date": "2026-11-18",
@@ -60959,7 +61361,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 425
+        "organizer_id": 425,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -61375,7 +61778,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 168
+        "organizer_id": 168,
+        "participants": 1
       },
       {
         "date": "2026-11-15",
@@ -61383,7 +61787,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 168
+        "organizer_id": 168,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -61508,7 +61913,7 @@
   },
   "トレカショップKCC": {
     "pref_code": 11,
-    "address": "春日部市中央1-9-4　高元ビル3FA",
+    "address": "春日部市中央1-9-4　高元ビル3F-A",
     "lat": 35.979431,
     "lng": 139.7508863,
     "upcoming": [
@@ -61715,7 +62120,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 723
+        "organizer_id": 723,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -61723,7 +62129,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 723
+        "organizer_id": 723,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -61956,7 +62363,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 706
+        "organizer_id": 706,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -62233,7 +62641,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 821
+        "organizer_id": 821,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -62241,7 +62650,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 821
+        "organizer_id": 821,
+        "participants": 2
       },
       {
         "date": "2026-11-23",
@@ -62699,7 +63109,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 372
+        "organizer_id": 372,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -62730,8 +63141,8 @@
   "トレカショップぽよんまる": {
     "pref_code": 11,
     "address": "新座市東北2-31-6　第一福島ビル5FA",
-    "lat": 35.8210569,
-    "lng": 139.5738065,
+    "lat": 35.8210489,
+    "lng": 139.5737827,
     "upcoming": [
       {
         "date": "2026-09-01",
@@ -62978,7 +63389,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1183
+        "organizer_id": 1183,
+        "participants": 5
       },
       {
         "date": "2026-11-21",
@@ -62986,7 +63398,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1183
+        "organizer_id": 1183,
+        "participants": 12
       },
       {
         "date": "2026-11-21",
@@ -63001,7 +63414,8 @@
           "lat": 35.823555,
           "lng": 139.574921,
           "geocoded": true
-        }
+        },
+        "participants": 35
       },
       {
         "date": "2026-11-24",
@@ -63134,8 +63548,8 @@
     "_last_seen": "2026-12-29",
     "organizer_id": 1183,
     "last_cs": {
-      "date": "2026-10-12",
-      "participants": 47
+      "date": "2026-11-21",
+      "participants": 32
     },
     "_addr_src": "shop",
     "shop_info": {
@@ -63167,7 +63581,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 254
+        "organizer_id": 254,
+        "participants": 5
       },
       {
         "date": "2026-11-28",
@@ -63268,12 +63683,23 @@
         "game_title_id": 6
       },
       {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "10:00",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 165,
+        "participants": 1,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-11-20",
         "type": "クロスオーバーショップ大会",
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 165
+        "organizer_id": 165,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -63501,7 +63927,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1151
+        "organizer_id": 1151,
+        "participants": 8
       },
       {
         "date": "2026-11-27",
@@ -63569,7 +63996,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0727447110",
-      "hours": "［月・火・水・木・金］14:00〜21:30 / ［土・日・祝］11:00〜21:30",
+      "hours": "［月・火・水・木・金・祝］14:00〜21:30 / ［土・日］11:00〜21:30",
       "holiday": "年中無休"
     }
   },
@@ -63800,7 +64227,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0667537367",
-      "hours": "［月・火・水・木・金］10:00〜21:30 / ［土・日・祝］12:00〜21:30",
+      "hours": "［月・火・水・木・金］12:00〜21:30 / ［土・日・祝］10:00〜21:30",
       "holiday": "年中無休"
     }
   },
@@ -63870,7 +64297,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1125
+        "organizer_id": 1125,
+        "participants": 6
       },
       {
         "date": "2026-11-20",
@@ -63878,7 +64306,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1125
+        "organizer_id": 1125,
+        "participants": 2
       },
       {
         "date": "2026-11-24",
@@ -63966,7 +64395,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0667537367",
-      "hours": "［月・火・水・木・金］10:00〜21:30 / ［土・日・祝］12:00〜21:30",
+      "hours": "［月・火・水・木・金］12:00〜21:30 / ［土・日・祝］10:00〜21:30",
       "holiday": "年中無休"
     }
   },
@@ -64081,8 +64510,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0795232125",
-      "hours": "平日14:00~20:00\n休日10:00~20:00",
-      "holiday": "火・水"
+      "hours": "木・金　14時～19時\n土・日　10時～19時",
+      "holiday": "月曜日・火曜日・水曜日"
     }
   },
   "トレカタウン西院店": {
@@ -64240,7 +64669,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 681
+        "organizer_id": 681,
+        "participants": 6
       },
       {
         "date": "2026-11-22",
@@ -64442,7 +64872,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1432
+        "organizer_id": 1432,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -64674,7 +65105,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 655
+        "organizer_id": 655,
+        "participants": 1
       },
       {
         "date": "2026-11-24",
@@ -64845,7 +65277,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 697
+        "organizer_id": 697,
+        "participants": 10
       },
       {
         "date": "2026-11-28",
@@ -64910,7 +65343,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0177181280",
-      "hours": "［月・火・水・木・金］12:00〜20:30 / ［土・日・祝］10:00〜20:30",
+      "hours": "［月・火・水・木・金］13:00〜20:00 / ［土・日・祝］10:00〜20:00",
       "holiday": "年中無休"
     }
   },
@@ -65108,7 +65541,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 554
+        "organizer_id": 554,
+        "participants": 2
       },
       {
         "date": "2026-11-25",
@@ -65206,7 +65640,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0453164605",
-      "hours": "［月・火・水・木・金・土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木］11:00〜21:00 / ［金・土・日・祝］10:00〜21:00",
       "holiday": "年中無休",
       "url": "http://www.furul.net/shop/"
     }
@@ -65402,7 +65836,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 678
+        "organizer_id": 678,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -65410,7 +65845,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 678
+        "organizer_id": 678,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -65583,7 +66019,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0525260538",
-      "hours": "［月・火・水・木・金］12:00〜20:00 / ［土・日・祝］10:00〜20:00",
+      "hours": "［月・火・水・木・金・祝］13:00〜21:00 / ［土・日］10:00〜21:00",
       "holiday": "年中無休"
     }
   },
@@ -65713,7 +66149,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 322
+        "organizer_id": 322,
+        "participants": 7
       },
       {
         "date": "2026-11-28",
@@ -66176,7 +66613,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1598
+        "organizer_id": 1598,
+        "participants": 0
       },
       {
         "date": "2026-11-17",
@@ -66184,7 +66622,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1598
+        "organizer_id": 1598,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -66224,8 +66663,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0962851214",
-      "hours": "［月・火・水・木］14:00〜23:00 / ［土・日・祝］12:00〜24:00",
-      "holiday": "金"
+      "hours": "［月・火・水・木］14:00〜23:00 / ［金・土・日・祝］12:00〜23:00",
+      "holiday": "不定休"
     }
   },
   "トレカ＆玩具SHOP エクシリア": {
@@ -66439,7 +66878,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 680
+        "organizer_id": 680,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -66447,7 +66887,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 680
+        "organizer_id": 680,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -66685,7 +67126,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1447
+        "organizer_id": 1447,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -66693,7 +67135,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1447
+        "organizer_id": 1447,
+        "participants": 1
       },
       {
         "date": "2026-11-23",
@@ -67022,7 +67465,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 96
+        "organizer_id": 96,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -67030,7 +67474,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 96
+        "organizer_id": 96,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -67158,8 +67603,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0542521748",
-      "hours": "［金］15:00〜22:00 / ［土・日・祝］11:00〜20:00",
-      "holiday": "月〜木"
+      "hours": "［金］15:00〜22:00 / ［土・日］11:00〜20:00",
+      "holiday": "月〜木 祝"
     }
   },
   "トレーディングカードゲームショップ193 大須店": {
@@ -67570,7 +68015,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1482
+        "organizer_id": 1482,
+        "participants": 3
       },
       {
         "date": "2026-11-19",
@@ -67578,7 +68024,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1482
+        "organizer_id": 1482,
+        "participants": 3
       },
       {
         "date": "2026-11-25",
@@ -67703,7 +68150,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 606
+        "organizer_id": 606,
+        "participants": 4
       },
       {
         "date": "2026-11-22",
@@ -67866,7 +68314,8 @@
         "time": "03:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 761
+        "organizer_id": 761,
+        "participants": 10
       },
       {
         "date": "2026-11-22",
@@ -68165,7 +68614,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 750
+        "organizer_id": 750,
+        "participants": 3
       },
       {
         "date": "2026-11-20",
@@ -68173,7 +68623,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 750
+        "organizer_id": 750,
+        "participants": 3
       },
       {
         "date": "2026-11-25",
@@ -68284,8 +68735,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0975744668",
-      "hours": "［月・火・水・木・金］16:00〜22:00 / ［土・日・祝］10:00〜20:00",
-      "holiday": "年中無休",
+      "hours": "［水・木・金］16:00〜22:00 / ［土・日・祝］10:00〜20:00",
+      "holiday": "月・火",
       "url": "http://soccer.real-tomato.main.jp"
     }
   },
@@ -68618,7 +69069,8 @@
         "time": "03:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 239
+        "organizer_id": 239,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -68626,7 +69078,8 @@
         "time": "04:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 239
+        "organizer_id": 239,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -68739,7 +69192,10 @@
     "address": "高崎市八島町46-1-5F",
     "lat": 36.3231608,
     "lng": 139.011267,
-    "last_cs": null,
+    "last_cs": {
+      "date": "2026-11-15",
+      "participants": 12
+    },
     "upcoming": [
       {
         "date": "2026-12-19",
@@ -68888,7 +69344,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 799
+        "organizer_id": 799,
+        "participants": 9
       },
       {
         "date": "2026-11-21",
@@ -68896,7 +69353,8 @@
         "time": "04:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 799
+        "organizer_id": 799,
+        "participants": 28
       },
       {
         "date": "2026-11-26",
@@ -68949,14 +69407,14 @@
     ],
     "_last_seen": "2026-12-24",
     "last_cs": {
-      "date": "2026-10-10",
+      "date": "2026-11-21",
       "participants": 28
     },
     "organizer_id": 799,
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0474098175",
-      "hours": "［月・火・水・木・金］12:00〜22:00 / ［土・日・祝］11:00〜22:00",
+      "hours": "［月・火・水・木・金］14:00〜22:00 / ［土・日・祝］11:00〜22:00",
       "holiday": "年中無休",
       "url": "https://bato-loco.com/1824info/"
     }
@@ -69072,7 +69530,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1153
+        "organizer_id": 1153,
+        "participants": 3
       },
       {
         "date": "2026-11-25",
@@ -69402,7 +69861,7 @@
   },
   "トーナメントセンターバトロコ富山駅前": {
     "pref_code": 16,
-    "address": "富山市桜町1-1-1",
+    "address": "富山市桜町1-1-1　エスタ3F",
     "lat": 36.7007928,
     "lng": 137.2141569,
     "upcoming": [
@@ -69502,7 +69961,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1102
+        "organizer_id": 1102,
+        "participants": 2
       },
       {
         "date": "2026-11-29",
@@ -69688,7 +70148,8 @@
         "time": "03:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 677
+        "organizer_id": 677,
+        "participants": 18
       },
       {
         "date": "2026-11-18",
@@ -69696,7 +70157,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 677
+        "organizer_id": 677,
+        "participants": 3
       },
       {
         "date": "2026-11-25",
@@ -69757,8 +70219,8 @@
     ],
     "_last_seen": "2026-12-30",
     "last_cs": {
-      "date": "2026-10-04",
-      "participants": 14
+      "date": "2026-11-15",
+      "participants": 18
     },
     "organizer_id": 677,
     "_addr_src": "shop",
@@ -70136,6 +70598,16 @@
         "game_title_id": 6
       },
       {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "09:30",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 964,
+        "participants": 5,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-11-28",
         "type": "CS",
         "time": "07:00",
@@ -70328,7 +70800,8 @@
         "time": "02:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1156
+        "organizer_id": 1156,
+        "participants": 11
       },
       {
         "date": "2026-11-22",
@@ -70645,7 +71118,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 744
+        "organizer_id": 744,
+        "participants": 1
       },
       {
         "date": "2026-11-20",
@@ -70653,7 +71127,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 744
+        "organizer_id": 744,
+        "participants": 3
       },
       {
         "date": "2026-11-27",
@@ -70888,7 +71363,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 639
+        "organizer_id": 639,
+        "participants": 4
       },
       {
         "date": "2026-11-23",
@@ -70998,7 +71474,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0471632377",
-      "hours": "［月・火・水・木・金］12:00〜22:00 / ［土・日・祝］10:00〜22:00",
+      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜21:00",
       "holiday": "年中無休",
       "url": "http://www.vidaway.co.jp/"
     }
@@ -71218,7 +71694,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1103
+        "organizer_id": 1103,
+        "participants": 2
       },
       {
         "date": "2026-11-23",
@@ -71562,7 +72039,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1050
+        "organizer_id": 1050,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -71570,7 +72048,8 @@
         "time": "05:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 1050
+        "organizer_id": 1050,
+        "participants": 9
       },
       {
         "date": "2026-11-25",
@@ -71623,8 +72102,8 @@
     ],
     "_last_seen": "2026-12-26",
     "last_cs": {
-      "date": "2026-10-31",
-      "participants": 14
+      "date": "2026-11-21",
+      "participants": 9
     },
     "organizer_id": 1050,
     "_addr_src": "shop",
@@ -71665,7 +72144,8 @@
         "time": "04:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 779
+        "organizer_id": 779,
+        "participants": 12
       }
     ],
     "_last_seen": "2026-11-15",
@@ -71813,7 +72293,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 243
+        "organizer_id": 243,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -72002,7 +72483,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 365
+        "organizer_id": 365,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -72193,7 +72675,8 @@
         "time": "06:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 745
+        "organizer_id": 745,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -72467,7 +72950,8 @@
         "time": "02:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 446
+        "organizer_id": 446,
+        "participants": 14
       },
       {
         "date": "2026-11-16",
@@ -72475,7 +72959,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 446
+        "organizer_id": 446,
+        "participants": 0
       },
       {
         "date": "2026-11-17",
@@ -72483,7 +72968,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 446
+        "organizer_id": 446,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -72608,8 +73094,8 @@
     ],
     "_last_seen": "2026-12-29",
     "last_cs": {
-      "date": "2026-10-18",
-      "participants": 15
+      "date": "2026-11-15",
+      "participants": 14
     },
     "organizer_id": 446,
     "_addr_src": "shop",
@@ -72692,7 +73178,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0785996080",
-      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜21:00",
+      "hours": "［月・火・水・木・金］12:00〜20:00 / ［土］10:00〜20:00 / ［日・祝］10:00〜19:30",
       "holiday": "年中無休",
       "url": "http://dragon777.jp/"
     }
@@ -72825,7 +73311,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 851
+        "organizer_id": 851,
+        "participants": 7
       },
       {
         "date": "2026-11-26",
@@ -73078,7 +73565,8 @@
         "time": "06:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 300
+        "organizer_id": 300,
+        "participants": 8
       },
       {
         "date": "2026-11-28",
@@ -73386,7 +73874,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 154
+        "organizer_id": 154,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -73394,7 +73883,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 154
+        "organizer_id": 154,
+        "participants": 3
       },
       {
         "date": "2026-11-24",
@@ -73508,7 +73998,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0727551117",
-      "hours": "［月］14:00〜21:00 / ［火・水・金］11:00〜21:00 / ［土・日・祝］10:30〜21:00",
+      "hours": "［月・火・水・金］16:00〜21:00 / ［土］12:00〜21:00 / ［日］10:30〜20:00 / ［祝］15:00〜21:00",
       "holiday": "木",
       "url": "http://tocage.jp/shop/58/"
     }
@@ -73618,7 +74108,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1131
+        "organizer_id": 1131,
+        "participants": 4
       },
       {
         "date": "2026-12-05",
@@ -74072,7 +74563,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 480
+        "organizer_id": 480,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -74080,7 +74572,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 480
+        "organizer_id": 480,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -74235,7 +74728,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1239
+        "organizer_id": 1239,
+        "participants": 5
       },
       {
         "date": "2026-11-25",
@@ -74568,7 +75062,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 346
+        "organizer_id": 346,
+        "participants": 7
       },
       {
         "date": "2026-11-20",
@@ -74576,7 +75071,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 346
+        "organizer_id": 346,
+        "participants": 3
       },
       {
         "date": "2026-11-24",
@@ -74692,7 +75188,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0567973430",
-      "hours": "［月・火・水・木・金・土・日・祝］12:00〜22:00",
+      "hours": "［月・火・水・金・土・日・祝］12:00〜22:00 / ［木］17:00〜22:00",
       "holiday": "年中無休"
     }
   },
@@ -74837,7 +75333,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 652
+        "organizer_id": 652,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -75239,7 +75736,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 704
+        "organizer_id": 704,
+        "participants": 5
       },
       {
         "date": "2026-11-27",
@@ -75616,7 +76114,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 152
+        "organizer_id": 152,
+        "participants": 0
       },
       {
         "date": "2026-11-20",
@@ -75624,7 +76123,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 152
+        "organizer_id": 152,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -75989,7 +76489,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 415
+        "organizer_id": 415,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -75997,7 +76498,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 415
+        "organizer_id": 415,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -76334,7 +76836,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 153
+        "organizer_id": 153,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -76342,7 +76845,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 153
+        "organizer_id": 153,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -76612,7 +77116,8 @@
           "pref_code": 23,
           "lat": 35.1106146,
           "lng": 136.7268016
-        }
+        },
+        "participants": 15
       },
       {
         "date": "2026-11-28",
@@ -76892,7 +77397,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 52
+        "organizer_id": 52,
+        "participants": 1
       },
       {
         "date": "2026-11-20",
@@ -76900,7 +77406,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 52
+        "organizer_id": 52,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -77341,7 +77848,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 57
+        "organizer_id": 57,
+        "participants": 7
       },
       {
         "date": "2026-11-24",
@@ -77479,7 +77987,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1177
+        "organizer_id": 1177,
+        "participants": 7
       },
       {
         "date": "2026-12-25",
@@ -77603,7 +78112,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 62
+        "organizer_id": 62,
+        "participants": 9
       },
       {
         "date": "2026-11-23",
@@ -77709,7 +78219,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0354682652",
-      "hours": "［月・火・水・木・金・土・日・祝］11:00〜21:00",
+      "hours": "［月・火・水・木・金］13:00〜21:00 / ［土・日・祝］11:00〜21:00",
       "holiday": "年中無休",
       "url": "http://www.fullcomp.jp/"
     }
@@ -77825,7 +78335,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1026
+        "organizer_id": 1026,
+        "participants": 3
       },
       {
         "date": "2026-11-30",
@@ -78048,7 +78559,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1642
+        "organizer_id": 1642,
+        "participants": 1
       },
       {
         "date": "2026-11-21",
@@ -78056,7 +78568,8 @@
         "time": "02:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1642
+        "organizer_id": 1642,
+        "participants": 6
       },
       {
         "date": "2026-11-26",
@@ -78228,7 +78741,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1009
+        "organizer_id": 1009,
+        "participants": 5
       },
       {
         "date": "2026-12-03",
@@ -78596,7 +79110,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 763
+        "organizer_id": 763,
+        "participants": 3
       },
       {
         "date": "2026-11-19",
@@ -78604,7 +79119,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 763
+        "organizer_id": 763,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -78777,7 +79293,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 941
+        "organizer_id": 941,
+        "participants": 0
       },
       {
         "date": "2026-11-24",
@@ -79363,7 +79880,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1170
+        "organizer_id": 1170,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -79674,7 +80192,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1473
+        "organizer_id": 1473,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -79682,7 +80201,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1473
+        "organizer_id": 1473,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -79953,7 +80473,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1302
+        "organizer_id": 1302,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -80227,7 +80748,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 925
+        "organizer_id": 925,
+        "participants": 6
       },
       {
         "date": "2026-11-21",
@@ -80235,7 +80757,8 @@
         "time": "02:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 925
+        "organizer_id": 925,
+        "participants": 13
       },
       {
         "date": "2026-11-27",
@@ -80288,8 +80811,8 @@
     ],
     "_last_seen": "2026-12-25",
     "last_cs": {
-      "date": "2026-10-17",
-      "participants": 21
+      "date": "2026-11-21",
+      "participants": 13
     },
     "organizer_id": 925,
     "_addr_src": "shop",
@@ -80481,7 +81004,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 860
+        "organizer_id": 860,
+        "participants": 6
       },
       {
         "date": "2026-11-15",
@@ -80489,7 +81013,8 @@
         "time": "01:30",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 860
+        "organizer_id": 860,
+        "participants": 18
       },
       {
         "date": "2026-11-15",
@@ -80497,7 +81022,8 @@
         "time": "06:00",
         "name": "※北海道エリア限定【個人戦】11月開催 Championship (2026)",
         "series_id": 3580,
-        "organizer_id": 860
+        "organizer_id": 860,
+        "participants": 17
       },
       {
         "date": "2026-11-19",
@@ -80505,7 +81031,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 860
+        "organizer_id": 860,
+        "participants": 3
       },
       {
         "date": "2026-11-28",
@@ -80566,8 +81093,8 @@
     ],
     "_last_seen": "2026-12-24",
     "last_cs": {
-      "date": "2026-10-18",
-      "participants": 16
+      "date": "2026-11-15",
+      "participants": 17
     },
     "organizer_id": 860,
     "_addr_src": "shop",
@@ -80668,7 +81195,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1229
+        "organizer_id": 1229,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -80878,7 +81406,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0473340298",
-      "hours": "［月・水・木・金・土・日・祝］10:00〜25:00",
+      "hours": "［月・水・木・金・土・日・祝］10:00〜24:00",
       "holiday": "火",
       "url": "http://www.booksatoo.com"
     }
@@ -80908,6 +81436,16 @@
         "series_id": 3510,
         "organizer_id": 358,
         "participants": 5,
+        "game_title_id": 6
+      },
+      {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "10:00",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 358,
+        "participants": 1,
         "game_title_id": 6
       },
       {
@@ -80972,7 +81510,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0473340298",
-      "hours": "［月・水・木・金・土・日・祝］10:00〜25:00",
+      "hours": "［月・水・木・金・土・日・祝］10:00〜24:00",
       "holiday": "火",
       "url": "http://www.booksatoo.com"
     }
@@ -81484,7 +82022,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 626
+        "organizer_id": 626,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -81492,7 +82031,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 626
+        "organizer_id": 626,
+        "participants": 0
       },
       {
         "date": "2026-12-05",
@@ -81626,7 +82166,8 @@
         "time": "07:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 294
+        "organizer_id": 294,
+        "participants": 0
       },
       {
         "date": "2026-11-29",
@@ -81959,7 +82500,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 321
+        "organizer_id": 321,
+        "participants": 1
       },
       {
         "date": "2026-11-19",
@@ -81967,7 +82509,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 321
+        "organizer_id": 321,
+        "participants": 3
       },
       {
         "date": "2026-11-25",
@@ -82177,7 +82720,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 509
+        "organizer_id": 509,
+        "participants": 1
       },
       {
         "date": "2026-11-29",
@@ -82521,7 +83065,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 738
+        "organizer_id": 738,
+        "participants": 5
       },
       {
         "date": "2026-11-24",
@@ -82574,6 +83119,15 @@
       "url": "http://www.preyz.com"
     }
   },
+  "プロジェクトコアあべの店": {
+    "pref_code": 27,
+    "address": "大阪市阿倍野区天王寺町南2-1-12　シティアーク天王寺1A",
+    "lat": 34.6442664,
+    "lng": 135.5219378,
+    "last_cs": null,
+    "upcoming": [],
+    "_last_seen": "2026-07-01"
+  },
   "プロジェクトコア阿倍野店": {
     "pref_code": 27,
     "address": "大阪市阿倍野区天王寺町南2-1-12　シティアーク天王寺1A",
@@ -82590,7 +83144,7 @@
     "shop_info": {
       "phone": "0667139700",
       "hours": "平日12:00～21:00\n休日10:00～21:00",
-      "holiday": "なし",
+      "holiday": "水曜日・木曜日",
       "url": "http://www.projectcore.co.jp/"
     }
   },
@@ -82773,7 +83327,8 @@
         "time": "07:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 1584
+        "organizer_id": 1584,
+        "participants": 10
       },
       {
         "date": "2026-11-15",
@@ -82781,7 +83336,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1584
+        "organizer_id": 1584,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -82789,7 +83345,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1584
+        "organizer_id": 1584,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -82858,14 +83415,14 @@
     ],
     "_last_seen": "2026-12-27",
     "last_cs": {
-      "date": "2026-10-18",
-      "participants": 14
+      "date": "2026-11-15",
+      "participants": 10
     },
     "organizer_id": 1584,
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0834343900",
-      "hours": "［月・火・水・木・金］14:00〜20:00 / ［土・日・祝］11:00〜20:00",
+      "hours": "［月・火・水・木・金・祝］13:00〜19:00 / ［土・日］11:00〜19:00",
       "holiday": "年中無休"
     }
   },
@@ -83101,7 +83658,8 @@
         "time": "01:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 794
+        "organizer_id": 794,
+        "participants": 0
       },
       {
         "date": "2026-11-16",
@@ -83109,7 +83667,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 794
+        "organizer_id": 794,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -83359,7 +83918,7 @@
     "shop_info": {
       "phone": "0748764039",
       "hours": "［月・火・水・木・金］15:00〜22:00 / ［土・祝］09:00〜22:00",
-      "holiday": "日"
+      "holiday": "日・不定休"
     }
   },
   "ホビーショップネオ": {
@@ -83502,7 +84061,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 163
+        "organizer_id": 163,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -83861,7 +84421,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 308
+        "organizer_id": 308,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -83869,7 +84430,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 308
+        "organizer_id": 308,
+        "participants": 2
       },
       {
         "date": "2026-11-26",
@@ -83894,7 +84456,7 @@
     "shop_info": {
       "phone": "0748764039",
       "hours": "［月・火・水・木・金］15:00〜22:00 / ［土・祝］09:00〜22:00",
-      "holiday": "日"
+      "holiday": "日・不定休"
     }
   },
   "ホビーステーション 仙台駅前店": {
@@ -84305,7 +84867,10 @@
     "address": "名古屋市中区大須3-31-2　マルフジビル1～2F",
     "lat": 35.1585516,
     "lng": 136.905244,
-    "last_cs": null,
+    "last_cs": {
+      "date": "2026-11-15",
+      "participants": 21
+    },
     "upcoming": [
       {
         "date": "2026-11-16",
@@ -84809,7 +85374,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 13
+        "organizer_id": 13,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -85251,7 +85817,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 113
+        "organizer_id": 113,
+        "participants": 3
       },
       {
         "date": "2026-11-23",
@@ -85296,7 +85863,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0524857337",
-      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］10:00〜20:00",
+      "hours": "［月・火・水・木・金］12:00〜21:00 / ［土・日・祝］11:00〜20:00",
       "holiday": "年中無休"
     }
   },
@@ -85646,7 +86213,8 @@
         "time": "03:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 600
+        "organizer_id": 600,
+        "participants": 21
       },
       {
         "date": "2026-11-16",
@@ -85654,7 +86222,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 600
+        "organizer_id": 600,
+        "participants": 3
       },
       {
         "date": "2026-11-22",
@@ -86051,7 +86620,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 98
+        "organizer_id": 98,
+        "participants": 3
       },
       {
         "date": "2026-11-23",
@@ -86481,7 +87051,8 @@
         "time": "05:00",
         "name": "【個人戦】11月開催 Championship (2026)",
         "series_id": 3511,
-        "organizer_id": 550
+        "organizer_id": 550,
+        "participants": 26
       },
       {
         "date": "2026-11-17",
@@ -86489,7 +87060,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 550
+        "organizer_id": 550,
+        "participants": 4
       },
       {
         "date": "2026-11-20",
@@ -86497,7 +87069,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 550
+        "organizer_id": 550,
+        "participants": 3
       },
       {
         "date": "2026-11-24",
@@ -86614,8 +87187,8 @@
     ],
     "_last_seen": "2026-12-25",
     "last_cs": {
-      "date": "2026-10-18",
-      "participants": 26
+      "date": "2026-11-15",
+      "participants": 24
     },
     "organizer_id": 550,
     "_addr_src": "shop",
@@ -86897,7 +87470,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 150
+        "organizer_id": 150,
+        "participants": 1
       },
       {
         "date": "2026-11-15",
@@ -86905,7 +87479,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 150
+        "organizer_id": 150,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -87222,7 +87797,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 288
+        "organizer_id": 288,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -87230,7 +87806,8 @@
         "time": "05:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 288
+        "organizer_id": 288,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -87531,7 +88108,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 368
+        "organizer_id": 368,
+        "participants": 4
       },
       {
         "date": "2026-11-27",
@@ -87868,7 +88446,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1420
+        "organizer_id": 1420,
+        "participants": 3
       },
       {
         "date": "2026-11-21",
@@ -87876,7 +88455,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1420
+        "organizer_id": 1420,
+        "participants": 4
       },
       {
         "date": "2026-11-28",
@@ -88322,7 +88902,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 161
+        "organizer_id": 161,
+        "participants": 2
       },
       {
         "date": "2026-11-18",
@@ -88330,7 +88911,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 161
+        "organizer_id": 161,
+        "participants": 2
       },
       {
         "date": "2026-11-23",
@@ -88655,7 +89237,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 242
+        "organizer_id": 242,
+        "participants": 4
       },
       {
         "date": "2026-11-22",
@@ -88878,6 +89461,16 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
+        "organizer_id": 544,
+        "participants": 2,
+        "game_title_id": 6
+      },
+      {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "08:00",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
         "organizer_id": 544,
         "participants": 2,
         "game_title_id": 6
@@ -89119,7 +89712,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1294
+        "organizer_id": 1294,
+        "participants": 2
       },
       {
         "date": "2026-11-21",
@@ -89127,7 +89721,8 @@
         "time": "02:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1294
+        "organizer_id": 1294,
+        "participants": 1
       },
       {
         "date": "2026-11-28",
@@ -89243,7 +89838,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0853228339",
-      "hours": "［月・火・水・木・金・土・日・祝］09:00〜22:00",
+      "hours": "［月・火・水・木・祝］10:00〜19:00 / ［金］10:00〜20:00 / ［土・日］09:00〜20:00",
       "holiday": "年中無休",
       "url": "http://wwwi.imaibooks.co.jp/book/"
     }
@@ -89271,7 +89866,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 662
+        "organizer_id": 662,
+        "participants": 0
       },
       {
         "date": "2026-12-05",
@@ -89295,7 +89891,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0853228339",
-      "hours": "［月・火・水・木・金・土・日・祝］09:00〜22:00",
+      "hours": "［月・火・水・木・祝］10:00〜19:00 / ［金］10:00〜20:00 / ［土・日］09:00〜20:00",
       "holiday": "年中無休",
       "url": "http://wwwi.imaibooks.co.jp/book/"
     }
@@ -89489,7 +90085,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 92
+        "organizer_id": 92,
+        "participants": 4
       },
       {
         "date": "2026-11-26",
@@ -89664,7 +90261,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 484
+        "organizer_id": 484,
+        "participants": 4
       },
       {
         "date": "2026-11-27",
@@ -89991,7 +90589,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1405
+        "organizer_id": 1405,
+        "participants": 0
       },
       {
         "date": "2026-11-16",
@@ -89999,7 +90598,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1405
+        "organizer_id": 1405,
+        "participants": 6
       },
       {
         "date": "2026-11-22",
@@ -90374,7 +90974,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 881
+        "organizer_id": 881,
+        "participants": 10
       },
       {
         "date": "2026-11-25",
@@ -90590,7 +91191,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 886
+        "organizer_id": 886,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -90983,7 +91585,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 312
+        "organizer_id": 312,
+        "participants": 6
       },
       {
         "date": "2026-11-23",
@@ -91214,7 +91817,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 227
+        "organizer_id": 227,
+        "participants": 3
       },
       {
         "date": "2026-11-23",
@@ -91431,7 +92035,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 119
+        "organizer_id": 119,
+        "participants": 1
       },
       {
         "date": "2026-11-26",
@@ -91694,7 +92299,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 382
+        "organizer_id": 382,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -91817,7 +92423,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 180
+        "organizer_id": 180,
+        "participants": 1
       },
       {
         "date": "2026-11-27",
@@ -91833,8 +92440,8 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0822417967",
-      "hours": "［月・火・水・木・金・土・日・祝］10:00〜19:00",
-      "holiday": "年中無休",
+      "hours": "［月・火・木・金・土・日・祝］10:00〜19:00",
+      "holiday": "水",
       "url": "http://homepage1.nifty.com/hatoya~toy"
     }
   },
@@ -92048,7 +92655,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 172
+        "organizer_id": 172,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -92056,7 +92664,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 172
+        "organizer_id": 172,
+        "participants": 0
       },
       {
         "date": "2026-11-26",
@@ -92221,7 +92830,8 @@
         "time": "03:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 369
+        "organizer_id": 369,
+        "participants": 5
       },
       {
         "date": "2026-12-05",
@@ -92346,7 +92956,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1031
+        "organizer_id": 1031,
+        "participants": 1
       },
       {
         "date": "2026-12-04",
@@ -92378,7 +92989,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0188464775",
-      "hours": "［月・水・木・金・祝］10:30〜22:00 / ［土・日］10:00〜22:00",
+      "hours": "［月・水・木・金・祝］10:30〜21:00 / ［土・日］10:00〜22:00",
       "holiday": "火"
     }
   },
@@ -92558,7 +93169,8 @@
         "time": "05:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 876
+        "organizer_id": 876,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -92566,7 +93178,8 @@
         "time": "07:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 876
+        "organizer_id": 876,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -92671,7 +93284,7 @@
     "shop_info": {
       "phone": "0828725070",
       "hours": "［月・火・水・木・金］10:00〜15:00 / ［土・日・祝］10:00〜17:00",
-      "holiday": "年中無休"
+      "holiday": "不定休"
     }
   },
   "福福トレカ 秋葉原店": {
@@ -92839,7 +93452,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 877
+        "organizer_id": 877,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -92847,7 +93461,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 877
+        "organizer_id": 877,
+        "participants": 3
       },
       {
         "date": "2026-11-27",
@@ -93137,7 +93752,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 42
+        "organizer_id": 42,
+        "participants": 4
       },
       {
         "date": "2026-11-19",
@@ -93145,7 +93761,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 42
+        "organizer_id": 42,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -93503,7 +94120,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 752
+        "organizer_id": 752,
+        "participants": 5
       },
       {
         "date": "2026-11-21",
@@ -93511,7 +94129,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 752
+        "organizer_id": 752,
+        "participants": 7
       },
       {
         "date": "2026-11-22",
@@ -93809,7 +94428,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 210
+        "organizer_id": 210,
+        "participants": 9
       },
       {
         "date": "2026-11-22",
@@ -94080,7 +94700,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 1429
+        "organizer_id": 1429,
+        "participants": 2
       },
       {
         "date": "2026-11-17",
@@ -94088,7 +94709,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 1429
+        "organizer_id": 1429,
+        "participants": 1
       },
       {
         "date": "2026-11-23",
@@ -94406,7 +95028,8 @@
         "time": "04:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 233
+        "organizer_id": 233,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -94414,7 +95037,8 @@
         "time": "05:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 233
+        "organizer_id": 233,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -94722,7 +95346,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 732
+        "organizer_id": 732,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -94975,7 +95600,8 @@
         "time": "06:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 55
+        "organizer_id": 55,
+        "participants": 0
       },
       {
         "date": "2026-11-19",
@@ -94983,7 +95609,8 @@
         "time": "08:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 55
+        "organizer_id": 55,
+        "participants": 0
       },
       {
         "date": "2026-11-23",
@@ -95247,7 +95874,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 79
+        "organizer_id": 79,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -95255,7 +95883,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 79
+        "organizer_id": 79,
+        "participants": 1
       },
       {
         "date": "2026-11-22",
@@ -95478,7 +96107,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 638
+        "organizer_id": 638,
+        "participants": 9
       },
       {
         "date": "2026-11-22",
@@ -95649,7 +96279,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 719
+        "organizer_id": 719,
+        "participants": 0
       },
       {
         "date": "2026-11-27",
@@ -95918,7 +96549,8 @@
         "time": "09:30",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 878
+        "organizer_id": 878,
+        "participants": 2
       },
       {
         "date": "2026-11-20",
@@ -95926,7 +96558,8 @@
         "time": "11:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 878
+        "organizer_id": 878,
+        "participants": 2
       },
       {
         "date": "2026-11-27",
@@ -96163,7 +96796,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 49
+        "organizer_id": 49,
+        "participants": 5
       },
       {
         "date": "2026-11-27",
@@ -96415,12 +97049,23 @@
         "game_title_id": 6
       },
       {
+        "date": "2026-11-15",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
+        "series_id": 3510,
+        "organizer_id": 524,
+        "participants": 0,
+        "game_title_id": 6
+      },
+      {
         "date": "2026-11-21",
         "type": "クロスオーバーショップ大会",
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 524
+        "organizer_id": 524,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
@@ -96637,7 +97282,8 @@
           "lat": 35.537739,
           "lng": 139.683014,
           "geocoded": true
-        }
+        },
+        "participants": 25
       },
       {
         "date": "2026-11-17",
@@ -96645,7 +97291,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 954
+        "organizer_id": 954,
+        "participants": 1
       },
       {
         "date": "2026-11-24",
@@ -96722,8 +97369,8 @@
     "_last_seen": "2026-12-29",
     "organizer_id": 954,
     "last_cs": {
-      "date": "2026-10-31",
-      "participants": 36
+      "date": "2026-11-15",
+      "participants": 20
     },
     "_addr_src": "shop",
     "shop_info": {
@@ -96942,7 +97589,8 @@
         "time": "01:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 353
+        "organizer_id": 353,
+        "participants": 0
       },
       {
         "date": "2026-11-21",
@@ -96950,7 +97598,8 @@
         "time": "02:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 353
+        "organizer_id": 353,
+        "participants": 0
       },
       {
         "date": "2026-11-28",
@@ -97165,7 +97814,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 187
+        "organizer_id": 187,
+        "participants": 0
       },
       {
         "date": "2026-11-25",
@@ -97278,7 +97928,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 924
+        "organizer_id": 924,
+        "participants": 1
       },
       {
         "date": "2026-12-14",
@@ -97514,7 +98165,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 189
+        "organizer_id": 189,
+        "participants": 4
       },
       {
         "date": "2026-11-20",
@@ -97522,7 +98174,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 189
+        "organizer_id": 189,
+        "participants": 2
       },
       {
         "date": "2026-11-22",
@@ -97561,7 +98214,7 @@
   },
   "ＧＥＮＫＩぶらくり丁": {
     "pref_code": 30,
-    "address": "和歌山市雑賀町59",
+    "address": "和歌山市雑賀町 59 元気ビル1F",
     "lat": 34.233755,
     "lng": 135.1772843,
     "upcoming": [
@@ -97759,7 +98412,8 @@
         "time": "10:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 149
+        "organizer_id": 149,
+        "participants": 1
       },
       {
         "date": "2026-11-19",
@@ -97767,7 +98421,8 @@
         "time": "09:00",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 149
+        "organizer_id": 149,
+        "participants": 1
       },
       {
         "date": "2026-11-23",
@@ -97799,7 +98454,7 @@
     "_addr_src": "shop",
     "shop_info": {
       "phone": "0734227338",
-      "hours": "［月・火・水・木・金・土・日・祝］10:00〜22:00",
+      "hours": "［月］10:00〜20:00 / ［火・水・木・金・土・日・祝］10:00〜22:00",
       "holiday": "年中無休"
     }
   },
@@ -98022,7 +98677,8 @@
         "time": "08:00",
         "name": "11月度 Shadowverse EVOLVE クロスオーバーショップ大会(2026)",
         "series_id": 3509,
-        "organizer_id": 131
+        "organizer_id": 131,
+        "participants": 0
       },
       {
         "date": "2026-11-15",
@@ -98030,7 +98686,8 @@
         "time": "10:30",
         "name": "11月度 Shadowverse EVOLVEショップ大会(2026)",
         "series_id": 3510,
-        "organizer_id": 131
+        "organizer_id": 131,
+        "participants": 0
       },
       {
         "date": "2026-11-22",
