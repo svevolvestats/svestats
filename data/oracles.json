@@ -19596,7 +19596,8 @@
     "canonical_print": "BP04-010",
     "prints": [
       "BP04-010",
-      "BP04-P02"
+      "BP04-P02",
+      "PR-653"
     ],
     "evolves_to": [
       "BP04-011"
@@ -19639,7 +19640,8 @@
     "canonical_print": "BP04-011",
     "prints": [
       "BP04-011",
-      "BP04-P03"
+      "BP04-P03",
+      "PR-654"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -59060,6 +59062,7 @@
     "canonical_print": "BP11-059",
     "prints": [
       "BP11-059",
+      "PR-649",
       "SD08-012"
     ],
     "evolves_to": [
@@ -79375,7 +79378,8 @@
     "canonical_print": "BP15-045",
     "prints": [
       "BP15-045",
-      "BP15-P09"
+      "BP15-P09",
+      "PR-628"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -80851,7 +80855,8 @@
     "prints": [
       "BP15-080",
       "BP15-P17",
-      "BP22-R11"
+      "BP22-R11",
+      "PR-650"
     ],
     "evolves_to": [
       "BP15-081"
@@ -80895,7 +80900,8 @@
     "prints": [
       "BP15-081",
       "BP15-P18",
-      "BP22-R12"
+      "BP22-R12",
+      "PR-651"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -84006,7 +84012,8 @@
     ],
     "canonical_print": "BP16-007",
     "prints": [
-      "BP16-007"
+      "BP16-007",
+      "PR-626"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -108714,6 +108721,7 @@
     ],
     "canonical_print": "SD08-011",
     "prints": [
+      "PR-652",
       "SD08-011"
     ],
     "evolves_to": [],
@@ -148240,7 +148248,8 @@
     "canonical_print": "BP21-091",
     "prints": [
       "BP21-091",
-      "BP21-SL21"
+      "BP21-SL21",
+      "PR-647"
     ],
     "evolves_to": [
       "BP21-092"
@@ -148284,7 +148293,8 @@
     "canonical_print": "BP21-092",
     "prints": [
       "BP21-092",
-      "BP21-SL22"
+      "BP21-SL22",
+      "PR-648"
     ],
     "evolves_to": [],
     "evolved_from": [
@@ -154362,7 +154372,8 @@
     ],
     "canonical_print": "BP22-103",
     "prints": [
-      "BP22-103"
+      "BP22-103",
+      "PR-627"
     ],
     "evolves_to": [],
     "evolved_from": [],
@@ -155103,5 +155114,5999 @@
     "legal_status": null,
     "crossover_legal_status": null,
     "min_price": 30
+  },
+  {
+    "oracle_id": "CP05-001",
+    "is_dual_face": false,
+    "name": "魔眼の狩人・ソーン",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 3,
+    "hp": 3,
+    "text": "これをプレイする際、場の元のコスト5のグラブル・フォロワー2体をアクト：コストを-5する。\n【最終上限解放可能】\nこれが上限解放したとき、2枚引く。自分の手札1枚を捨てる。\nこれが最終上限解放したとき、これは【疾走】を持つ。",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "CP05-001",
+    "prints": [
+      "CP05-001",
+      "CP05-GBF01",
+      "CP05-SL01",
+      "CP05-U01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-002",
+    "is_dual_face": false,
+    "name": "調和の舞手・ユエル＆ソシエ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【ファンファーレ】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それに3ダメージ。それのリーダーに3ダメージ。\n【クイック】【起動】コスト1手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それに4ダメージ。この能力はこのターン、自分が他の【クイック】【起動】能力をプレイしていたなら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-002",
+    "prints": [
+      "CP05-002",
+      "CP05-GBF02",
+      "CP05-SL02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-003",
+    "is_dual_face": false,
+    "name": "風の理・イーウィヤ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】『風晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-003",
+    "prints": [
+      "CP05-003",
+      "CP05-GBF03",
+      "CP05-SL03"
+    ],
+    "evolves_to": [
+      "CP05-004"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-004",
+    "is_dual_face": false,
+    "name": "風の理・イーウィヤ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】『風晶のエレメント』1枚をEXエリアに置く。1枚引く。\n【超進化時】『ヒヒイロカネ』1枚をEXエリアに置く。1枚引く。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "CP05-004",
+    "prints": [
+      "CP05-004",
+      "CP05-GBF04",
+      "CP05-SL04",
+      "CP05-U02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-003"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12",
+      "CP05-T15"
+    ],
+    "mentions_tokens": [
+      "CP05-T12",
+      "CP05-T15"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-005",
+    "is_dual_face": false,
+    "name": "絢爛の紡ぎ手・コルワ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n自分のエンドフェイズが来たとき、このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、『フィル』1枚をEXエリアに置く。\n【ファンファーレ】『風晶のエレメント』1枚をEXエリアに置く。\n―――――――――――――――\n『フィル』エルフグラブル・風属性・スペルコスト0自分の場のグラブル・フォロワー1体を選ぶ。それは攻撃力+2/体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-005",
+    "prints": [
+      "CP05-005",
+      "CP05-GBF05",
+      "CP05-P01"
+    ],
+    "evolves_to": [
+      "CP05-006"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T02",
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T02",
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-006",
+    "is_dual_face": false,
+    "name": "絢爛の紡ぎ手・コルワ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分のエンドフェイズが来たとき、このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、『フィル』1枚をEXエリアに置く。\n【進化時】自分のデッキから元のコスト1の風属性・カード1枚を探し、手札に加える。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-006",
+    "prints": [
+      "CP05-006",
+      "CP05-GBF06",
+      "CP05-P02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-005"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T02"
+    ],
+    "mentions_tokens": [
+      "CP05-T02"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-007",
+    "is_dual_face": false,
+    "name": "奮励の儁秀・シルヴァ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 7,
+    "atk": 5,
+    "hp": 5,
+    "text": "【疾走】\nこれが上限解放したとき、自分の墓場の【クイック】【起動】能力を持つフォロワーを元のコストの合計が6以下になるように2枚まで選ぶ。それを場に出す。\n【クイック】【起動】コスト2手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それに4ダメージ。",
+    "keywords": [
+      "クイック",
+      "起動",
+      "疾走"
+    ],
+    "canonical_print": "CP05-007",
+    "prints": [
+      "CP05-007",
+      "CP05-GBF07",
+      "CP05-P03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-008",
+    "is_dual_face": false,
+    "name": "虹色の弓使い・クピタン",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 0,
+    "hp": 4,
+    "text": "【ファンファーレ】『水晶のエレメント』1枚をEXエリアに置く。\n【クイック】【起動】これをアクト：相手の場のフォロワー1体を選ぶ。それに1ダメージ。自分の墓場の【クイック】【起動】能力を持つフォロワーが7枚以上なら、代わりに7ダメージ。それのリーダーに2ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-008",
+    "prints": [
+      "CP05-008",
+      "CP05-GBF08",
+      "CP05-P04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T10"
+    ],
+    "mentions_tokens": [
+      "CP05-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-009",
+    "is_dual_face": false,
+    "name": "清新なる銃設計士・ククル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分の墓場の【クイック】【起動】能力を持つフォロワーが7枚以上なら、『ガンパウダーミキサー・クムユ』1体を場に出す。\n【クイック】【起動】コスト1手札のこれを捨てる：相手のリーダーすべてに2ダメージ。\n―――――――――――――――\n『ガンパウダーミキサー・クムユ』エルフグラブル・土属性・フォロワーコスト3攻撃力3/体力2【突進】【指定攻撃】【ラストワード】相手のリーダーすべてに2ダメージ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "クイック",
+      "起動",
+      "ラストワード",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "CP05-009",
+    "prints": [
+      "CP05-009",
+      "CP05-GBF09",
+      "CP05-P05"
+    ],
+    "evolves_to": [
+      "CP05-010"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T01"
+    ],
+    "mentions_tokens": [
+      "CP05-T01"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-010",
+    "is_dual_face": false,
+    "name": "清新なる銃設計士・ククル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-010",
+    "prints": [
+      "CP05-010",
+      "CP05-GBF10",
+      "CP05-P06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-009"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-011",
+    "is_dual_face": false,
+    "name": "天禀の射手・メーテラ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "これが上限解放したとき、相手の場のフォロワー1体を選ぶ。それに5ダメージ。\n自分のエンドフェイズが来たとき、このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、相手のリーダーすべてに5ダメージ。",
+    "keywords": [],
+    "canonical_print": "CP05-011",
+    "prints": [
+      "CP05-011",
+      "CP05-GBF11",
+      "CP05-P07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-012",
+    "is_dual_face": false,
+    "name": "美粧の乙女・クロエ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【ファンファーレ】手札の闇属性・カード1枚を捨てる：1枚引く。\n【起動】これをアクト：自分の墓場の闇属性・カード1枚を選ぶ。それをデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "CP05-012",
+    "prints": [
+      "CP05-012",
+      "CP05-GBF12",
+      "CP05-P08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-013",
+    "is_dual_face": false,
+    "name": "緋焔の踊り子・アンスリア",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の火属性・カード3枚を公開：『火晶のエレメント』1枚をEXエリアに置く。自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-013",
+    "prints": [
+      "CP05-013",
+      "CP05-P09"
+    ],
+    "evolves_to": [
+      "CP05-014"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T09"
+    ],
+    "mentions_tokens": [
+      "CP05-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-014",
+    "is_dual_face": false,
+    "name": "緋焔の踊り子・アンスリア",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに3ダメージ。『火晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-014",
+    "prints": [
+      "CP05-014",
+      "CP05-P10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-013"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T09"
+    ],
+    "mentions_tokens": [
+      "CP05-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-015",
+    "is_dual_face": false,
+    "name": "フォレストレンジャー・ウェルダー",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 2,
+    "hp": 1,
+    "text": "自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上である限り、これは【突進】と「【攻撃時】『土晶のエレメント』1枚をEXエリアに置く」を持つ。\n【ファンファーレ】『土晶のエレメント』1枚をEXエリアに置く。自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+    "keywords": [
+      "ファンファーレ",
+      "突進",
+      "攻撃時"
+    ],
+    "canonical_print": "CP05-015",
+    "prints": [
+      "CP05-015",
+      "CP05-P11"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T11"
+    ],
+    "mentions_tokens": [
+      "CP05-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-016",
+    "is_dual_face": false,
+    "name": "愛憎の舞手・コウ＆ヨウ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 7,
+    "atk": 7,
+    "hp": 6,
+    "text": "【突進】【指定攻撃】\n【攻撃時】自分のデッキの上1枚を公開する。公開したカードが元のコスト5のグラブル・フォロワーなら、それを場に出す。公開したカードが元のコスト5のグラブル・フォロワーでないなら、それを手札に加える。",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "攻撃時"
+    ],
+    "canonical_print": "CP05-016",
+    "prints": [
+      "CP05-016",
+      "CP05-P12"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-017",
+    "is_dual_face": false,
+    "name": "カワイイ花マル・マナマル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 1,
+    "hp": 1,
+    "text": "これが上限解放したとき、手札の闇属性・カード1枚を捨てる：1枚引く。\n自分のエンドフェイズが来たとき、相手の場のフォロワー1体を選ぶ。このターン、自分の手札の闇属性・カードを捨てていたなら、それに2ダメージ。それのリーダーに1ダメージ。",
+    "keywords": [],
+    "canonical_print": "CP05-017",
+    "prints": [
+      "CP05-017",
+      "CP05-P13"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-018",
+    "is_dual_face": false,
+    "name": "箒星",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、コストを-Xする。Xは「このターン中に自分の場のフォロワーが上限解放や最終上限解放をした回数」である。\n相手の場のフォロワー1体を選ぶ。それに4ダメージ。『風晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [],
+    "canonical_print": "CP05-018",
+    "prints": [
+      "CP05-018",
+      "CP05-P14",
+      "PR-629"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-019",
+    "is_dual_face": false,
+    "name": "天星剣王・シエテ",
+    "alt_names": [
+      "十天衆の頭目・シエテ"
+    ],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 3,
+    "hp": 3,
+    "text": "【最終上限解放可能】\nこれが上限解放したとき、2枚引く。自分の手札1枚をデッキの下に置く。\nこれが最終上限解放したとき、自分のデッキから元のコスト2以下のフォロワーをカード名が異なるように2枚まで探し、場に出す。",
+    "keywords": [],
+    "canonical_print": "CP05-019",
+    "prints": [
+      "CP05-019",
+      "CP05-GBF13",
+      "CP05-SL05",
+      "CP05-U03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-020",
+    "is_dual_face": false,
+    "name": "刀神・オクトー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 8,
+    "atk": 5,
+    "hp": 5,
+    "text": "これをプレイする際、自分のエボルヴデッキの表向きの土属性・エボルヴフォロワー2枚につき、コストを-2する。\n【最終上限解放可能】\nこれが上限解放したとき、これは【突進】【指定攻撃】を持つ。\nこれが最終上限解放したとき、コスト1：相手の場のフォロワー1体を選ぶ。それを破壊する。それのリーダーに3ダメージ。",
+    "keywords": [
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "CP05-020",
+    "prints": [
+      "CP05-020",
+      "CP05-GBF14",
+      "CP05-SL06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-021",
+    "is_dual_face": false,
+    "name": "光の理・ル・オー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】『光晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-021",
+    "prints": [
+      "CP05-021",
+      "CP05-GBF15",
+      "CP05-SL07"
+    ],
+    "evolves_to": [
+      "CP05-022"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-022",
+    "is_dual_face": false,
+    "name": "光の理・ル・オー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】自分の墓場の元のコスト5のグラブル・フォロワー1枚を選ぶ。それを場に出す。\n【超進化時】これは【オーラ】と「相手の場の【疾走】を持つフォロワーが攻撃したとき、それは攻撃力-5する」を持つ。",
+    "keywords": [
+      "進化時",
+      "超進化時",
+      "オーラ",
+      "疾走"
+    ],
+    "canonical_print": "CP05-022",
+    "prints": [
+      "CP05-022",
+      "CP05-GBF16",
+      "CP05-SL08",
+      "CP05-U04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-021"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-023",
+    "is_dual_face": false,
+    "name": "揺らぎの斬姫・ナルメア",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【必殺】\n【ファンファーレ】手札のグラブル・カード1枚を捨てる：『風晶のエレメント』1枚か『闇晶のエレメント』1枚をEXエリアに置く。1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "必殺"
+    ],
+    "canonical_print": "CP05-023",
+    "prints": [
+      "CP05-023",
+      "CP05-GBF17",
+      "CP05-P15"
+    ],
+    "evolves_to": [
+      "CP05-024"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12",
+      "CP05-T14"
+    ],
+    "mentions_tokens": [
+      "CP05-T12",
+      "CP05-T14"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-024",
+    "is_dual_face": false,
+    "name": "揺らぎの斬姫・ナルメア",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【必殺】\n【進化時】相手の場のフォロワー1体を選ぶ。それに4ダメージ。『ヒヒイロカネ』1枚をEXエリアに置く。",
+    "keywords": [
+      "必殺",
+      "進化時"
+    ],
+    "canonical_print": "CP05-024",
+    "prints": [
+      "CP05-024",
+      "CP05-GBF18",
+      "CP05-P16"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-023"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T15"
+    ],
+    "mentions_tokens": [
+      "CP05-T15"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-025",
+    "is_dual_face": false,
+    "name": "真紅の穿光・ゼタ",
+    "alt_names": [
+      "真紅と群青・ゼタ＆ベアトリクス"
+    ],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【疾走】【最終上限解放可能】\nこれが上限解放したとき、これは「【攻撃時】相手の場のフォロワー1体を選ぶ。それに5ダメージ」を持つ。\nこれが最終上限解放したとき、これは「【攻撃時】相手の場のフォロワーすべてに2ダメージ」を持つ。",
+    "keywords": [
+      "疾走",
+      "攻撃時"
+    ],
+    "canonical_print": "CP05-025",
+    "prints": [
+      "CP05-025",
+      "CP05-GBF19",
+      "CP05-P17",
+      "PR-644"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-029"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-026",
+    "is_dual_face": false,
+    "name": "ドラゴンナイツ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性",
+      "水属性",
+      "風属性",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、コストを+2してよい。\n下記から2つまでチョイスする。コストを+2したなら、代わりに4つまで。\n【1】『俊英の双剣士・ランスロット』1体を場に出す。【2】『不撓不屈の騎士・ヴェイン』1体を場に出す。【3】『竜殺しの騎士・ジークフリート』1体を場に出す。【4】『炎帝・パーシヴァル』1体を場に出す。",
+    "keywords": [],
+    "canonical_print": "CP05-026",
+    "prints": [
+      "CP05-026",
+      "CP05-P18"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T03",
+      "CP05-T04",
+      "CP05-T05",
+      "CP05-T06"
+    ],
+    "mentions_tokens": [
+      "CP05-T03",
+      "CP05-T04",
+      "CP05-T05",
+      "CP05-T06"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-027",
+    "is_dual_face": false,
+    "name": "サムライドリーマー・ミリン",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n自分のエンドフェイズが来たとき、このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、相手のリーダーすべてに2ダメージ。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "CP05-027",
+    "prints": [
+      "CP05-027",
+      "CP05-GBF20",
+      "CP05-P19"
+    ],
+    "evolves_to": [
+      "CP05-028"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-028",
+    "is_dual_face": false,
+    "name": "サムライドリーマー・ミリン",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "自分のエンドフェイズが来たとき、このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、相手のリーダーすべてに2ダメージ。\n【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。これが上限解放していたなら、代わりに4ダメージ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-028",
+    "prints": [
+      "CP05-028",
+      "CP05-GBF21",
+      "CP05-P20"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-027"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-029",
+    "is_dual_face": false,
+    "name": "不滅の群青・ベアトリクス",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 6,
+    "atk": 2,
+    "hp": 2,
+    "text": "【疾走】\nこれが上限解放したとき、下記から1つチョイスする。【1】自分のデッキから『真紅の穿光・ゼタ』1枚を探し、場に出す。【2】自分のPPを4回復する。",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "CP05-029",
+    "prints": [
+      "CP05-029",
+      "CP05-GBF22",
+      "CP05-P21"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-025"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-030",
+    "is_dual_face": false,
+    "name": "氷心の覇王・アグロヴァル",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 6,
+    "atk": 5,
+    "hp": 5,
+    "text": "【ファンファーレ】相手の場のフォロワーすべてに「自分の墓場の【クイック】【起動】能力を持つフォロワーの枚数」と同じダメージ。\n【クイック】【起動】コスト3手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それを破壊する。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-030",
+    "prints": [
+      "CP05-030",
+      "CP05-GBF23",
+      "CP05-P22"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-031",
+    "is_dual_face": false,
+    "name": "花開く筋肉・フィオリト",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【進化】コスト0：これは進化する。この能力は自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上なら使える。\n【守護】\n【ファンファーレ】『土晶のエレメント』1枚をEXエリアに置く。自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "CP05-031",
+    "prints": [
+      "CP05-031",
+      "CP05-P23"
+    ],
+    "evolves_to": [
+      "CP05-032"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T11"
+    ],
+    "mentions_tokens": [
+      "CP05-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-032",
+    "is_dual_face": false,
+    "name": "花開く筋肉・フィオリト",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 4,
+    "hp": 6,
+    "text": "【指定攻撃】【必殺】【守護】（【必殺】を持つフォロワーと交戦した相手のフォロワーは、ダメージを与え合ったあと破壊される）",
+    "keywords": [
+      "指定攻撃",
+      "必殺",
+      "守護"
+    ],
+    "canonical_print": "CP05-032",
+    "prints": [
+      "CP05-032",
+      "CP05-P24"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-031"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-033",
+    "is_dual_face": false,
+    "name": "眠れる輝竜・アーサー",
+    "alt_names": [
+      "決意の輝竜・アーサー"
+    ],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 1,
+    "hp": 2,
+    "text": "このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、これは【突進】【指定攻撃】【必殺】を持つ。\n【ファンファーレ】自分の場に『眠れる獅子・モルドレッド』がいないなら、自分のデッキから『眠れる獅子・モルドレッド』1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "突進",
+      "指定攻撃",
+      "必殺"
+    ],
+    "canonical_print": "CP05-033",
+    "prints": [
+      "CP05-033",
+      "CP05-P25",
+      "PR-630"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-034"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-034"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-034",
+    "is_dual_face": false,
+    "name": "眠れる獅子・モルドレッド",
+    "alt_names": [
+      "迷夢の獅子・モルドレッド"
+    ],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 1,
+    "text": "このターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら、これは【疾走】を持つ。\n【ファンファーレ】自分の場に『眠れる輝竜・アーサー』がいないなら、自分のデッキから『眠れる輝竜・アーサー』1枚を探し、場に出す。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "CP05-034",
+    "prints": [
+      "CP05-034",
+      "CP05-P26",
+      "PR-631"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-033"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-033"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-035",
+    "is_dual_face": false,
+    "name": "燃え滾る闘志・フェザー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【突進】【守護】（【突進】を持つフォロワーは、場に出たターンから相手のフォロワーを攻撃できる）\n【ファンファーレ】『光晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ",
+      "突進",
+      "守護"
+    ],
+    "canonical_print": "CP05-035",
+    "prints": [
+      "CP05-035",
+      "CP05-P27"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-036",
+    "is_dual_face": false,
+    "name": "信念の蹴撃・ランドル",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 2,
+    "hp": 1,
+    "text": "これをプレイする際、コストを-Xする。Xは「このターン中に自分の場のフォロワーが上限解放や最終上限解放をした回数」である。\n【疾走】\n自分のエンドフェイズが来たとき、これを手札に戻す。",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "CP05-036",
+    "prints": [
+      "CP05-036",
+      "CP05-P28"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-037",
+    "is_dual_face": false,
+    "name": "魔弾の射手・エッセル",
+    "alt_names": [
+      "閃弾の姉弟・エッセル＆カトル"
+    ],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 2,
+    "hp": 4,
+    "text": "これを自分の手札から公開したとき、相手の場のフォロワー1体を選ぶ。それに1ダメージ。\n【最終上限解放可能】\nこれが上限解放したとき、相手の場のフォロワー1体を選ぶ。それに4ダメージ。\nこれが最終上限解放したとき、自分の場の元のコスト3以下のフォロワー1体を選ぶ。それは【疾走】を持つ。",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "CP05-037",
+    "prints": [
+      "CP05-037",
+      "CP05-GBF24",
+      "CP05-SL09",
+      "CP05-U05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-038",
+    "is_dual_face": false,
+    "name": "閃耀の双剣・カトル",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 2,
+    "text": "【最終上限解放可能】\nこれが上限解放したとき、相手の場のフォロワー1体を選ぶ。それに4ダメージ。\nこれが最終上限解放したとき、相手のリーダーすべてに4ダメージ。\n【クイック】【起動】コスト3手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それに4ダメージ。1枚引く。",
+    "keywords": [
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-038",
+    "prints": [
+      "CP05-038",
+      "CP05-GBF25",
+      "CP05-SL10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-039",
+    "is_dual_face": false,
+    "name": "水の理・ワムデュス",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 1,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のデッキの上3枚を見る。その中から、【クイック】を持つスペルや【クイック】【起動】能力を持つフォロワー2枚まで公開して手札に加えてよい。残りを墓場に置く。\n【クイック】【起動】コスト1手札のこれを捨てる：相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-039",
+    "prints": [
+      "CP05-039",
+      "CP05-GBF26",
+      "CP05-SL11"
+    ],
+    "evolves_to": [
+      "CP05-040"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-040",
+    "is_dual_face": false,
+    "name": "水の理・ワムデュス",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 2,
+    "hp": 4,
+    "text": "自分のエンドフェイズが来たとき、自分のPPを3回復する。\n【超進化時】これは「これが場にいる限り、自分が【クイック】を持つスペルや【クイック】【起動】能力を持つフォロワーや【クイック】【起動】能力をプレイする際、コストを-1する」を持つ。",
+    "keywords": [
+      "クイック",
+      "起動",
+      "超進化時"
+    ],
+    "canonical_print": "CP05-040",
+    "prints": [
+      "CP05-040",
+      "CP05-GBF27",
+      "CP05-SL12",
+      "CP05-U06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-039"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-041",
+    "is_dual_face": false,
+    "name": "開闢の錬金術師・カリオストロ",
+    "alt_names": [
+      "天才美少女錬金術師・カリオストロ"
+    ],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のPP最大値が7以上なら、『アルス・マグナ』1枚と『ヒヒイロカネ』1枚をEXエリアに置く。\n【起動】これをアクト手札のグラブル・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n―――――――――――――――\n『アルス・マグナ』ウィッチグラブル・土属性・光属性・闇属性・スペルコスト1相手の場のフォロワー1体を選ぶ。それとそれのリーダーに2ダメージ。自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "CP05-041",
+    "prints": [
+      "CP05-041",
+      "CP05-GBF28",
+      "CP05-P29",
+      "PR-635"
+    ],
+    "evolves_to": [
+      "CP05-042"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T08",
+      "CP05-T15"
+    ],
+    "mentions_tokens": [
+      "CP05-T08",
+      "CP05-T15"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-042",
+    "is_dual_face": false,
+    "name": "開闢の錬金術師・カリオストロ",
+    "alt_names": [
+      "天才美少女錬金術師・カリオストロ"
+    ],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【起動】これをアクト手札のグラブル・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに2ダメージ。",
+    "keywords": [
+      "起動",
+      "進化時"
+    ],
+    "canonical_print": "CP05-042",
+    "prints": [
+      "CP05-042",
+      "CP05-GBF29",
+      "CP05-P30",
+      "PR-636"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-041"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-043",
+    "is_dual_face": false,
+    "name": "空慕う帰還者・カシウス",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【ファンファーレ】1枚引く。自分の墓場の【クイック】【起動】能力を持つフォロワーが7枚以上なら、自分のPPを3回復する。\n【クイック】【起動】コスト1手札のこれを捨てる：自分のデッキの上3枚を見る。その中から、【クイック】【起動】能力を持つフォロワー1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-043",
+    "prints": [
+      "CP05-043",
+      "CP05-GBF30",
+      "CP05-P31"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-044",
+    "is_dual_face": false,
+    "name": "コロッサス・マグナ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それに2ダメージ。\n【起動】コスト1これをアクト手札の火属性・カード1枚を公開：相手の場のフォロワー1体を選ぶ。それに1ダメージ。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "CP05-044",
+    "prints": [
+      "CP05-044",
+      "CP05-P32"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-045",
+    "is_dual_face": false,
+    "name": "神託の妖童・アルルメイヤ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】『土晶のエレメント』1枚をEXエリアに置く。自分のリーダーは体力+2する。自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-045",
+    "prints": [
+      "CP05-045",
+      "CP05-GBF31",
+      "CP05-P33"
+    ],
+    "evolves_to": [
+      "CP05-046"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T11"
+    ],
+    "mentions_tokens": [
+      "CP05-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-046",
+    "is_dual_face": false,
+    "name": "神託の妖童・アルルメイヤ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化時】相手の場のフォロワー1体を選ぶ。それに「自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーの枚数」と同じダメージ。『土晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-046",
+    "prints": [
+      "CP05-046",
+      "CP05-GBF32",
+      "CP05-P34"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-045"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T11"
+    ],
+    "mentions_tokens": [
+      "CP05-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-047",
+    "is_dual_face": false,
+    "name": "楽隠居の元国王・フォリア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 3,
+    "hp": 5,
+    "text": "【ファンファーレ】自分の墓場の【クイック】【起動】能力を持つフォロワーが7枚以上なら、『ハクタク』1体を場に出す。\n【クイック】【起動】コスト0：このターン、次に自分が【クイック】【起動】能力をプレイする際、コストを-1する。この能力は1ターンに1回使える。\n―――――――――――――――\n『ハクタク』ウィッチグラブル・水属性・フォロワーコスト4攻撃力4/体力6【突進】【指定攻撃】【守護】【クイック】【起動】コスト1：自分のリーダーは体力+2する。この能力は1ターンに1回使える。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動",
+      "突進",
+      "指定攻撃",
+      "守護"
+    ],
+    "canonical_print": "CP05-047",
+    "prints": [
+      "CP05-047",
+      "CP05-GBF33",
+      "CP05-P35"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T07"
+    ],
+    "mentions_tokens": [
+      "CP05-T07"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-048",
+    "is_dual_face": false,
+    "name": "アルケミック・フレア",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "これを自分の手札から公開したとき、『火晶のエレメント』1枚をEXエリアに置く。\n相手の場のフォロワー1体を選ぶ。それに4ダメージ。『火晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [],
+    "canonical_print": "CP05-048",
+    "prints": [
+      "CP05-048",
+      "CP05-P36",
+      "PR-622"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T09"
+    ],
+    "mentions_tokens": [
+      "CP05-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-049",
+    "is_dual_face": false,
+    "name": "妄想少女A・ルナール",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト2：これは進化する。\nこれが上限解放したとき、自分の墓場のグラブル・フォロワー1枚を選ぶ。それを手札に加える。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "CP05-049",
+    "prints": [
+      "CP05-049",
+      "CP05-P37"
+    ],
+    "evolves_to": [
+      "CP05-050"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-050",
+    "is_dual_face": false,
+    "name": "妄想少女A・ルナール",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "これが上限解放したとき、自分の墓場のグラブル・フォロワー1枚を選ぶ。それを手札に加える。\n【進化時】自分の場の他のグラブル・フォロワー1体を選ぶ。自分のデッキから「それと同名のカード」1枚を探し、場に出す。それは「自分のエンドフェイズが来たとき、これは消滅する」を持つ。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-050",
+    "prints": [
+      "CP05-050",
+      "CP05-P38"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-049"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-051",
+    "is_dual_face": false,
+    "name": "炎獄の葬送者・エルモート",
+    "alt_names": [
+      "懐旧の送り火・エルモート"
+    ],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "これが上限解放したとき、相手のリーダーすべてに1ダメージ。\n【ファンファーレ】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それに3ダメージ。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-051",
+    "prints": [
+      "CP05-051",
+      "CP05-P39",
+      "PR-632"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-052",
+    "is_dual_face": false,
+    "name": "報恩の技師・アイザック",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【ファンファーレ】『水晶のエレメント』1枚をEXエリアに置く。\n【クイック】【起動】これをアクト：自分のデッキの上1枚を見る。それを墓場に置いてよい。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動"
+    ],
+    "canonical_print": "CP05-052",
+    "prints": [
+      "CP05-052",
+      "CP05-P40"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T10"
+    ],
+    "mentions_tokens": [
+      "CP05-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-053",
+    "is_dual_face": false,
+    "name": "アルス･グローリア",
+    "alt_names": [
+      "アルス・グローリア"
+    ],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "自分のデッキの上4枚を見る。その中から、土属性・カードか光属性・カードか闇属性・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [],
+    "canonical_print": "CP05-053",
+    "prints": [
+      "CP05-053",
+      "CP05-P41",
+      "PR-623"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-054",
+    "is_dual_face": false,
+    "name": "怪力乱神・サラーサ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【最終上限解放可能】\nこれが上限解放したとき、自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー2枚まで表向きにしてよい。\nこれが最終上限解放したとき、相手のリーダーすべてと相手の場のフォロワーすべてに「自分のエボルヴデッキの表向きの土属性・エボルヴフォロワー」2枚につき1ダメージ。",
+    "keywords": [],
+    "canonical_print": "CP05-054",
+    "prints": [
+      "CP05-054",
+      "CP05-GBF34",
+      "CP05-SL13"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-055",
+    "is_dual_face": false,
+    "name": "大いなる調停者・ゾーイ",
+    "alt_names": [
+      "世界の味方・ゾーイ"
+    ],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "【最終上限解放可能】\nこれが上限解放したとき、相手の場のフォロワー1体を選ぶ。それに5ダメージ。自分のPP最大値を+1する。\nこれが最終上限解放したとき、コスト1：自分の場の他の元のコスト5のグラブル・フォロワーすべては攻撃力+2/体力+2する。",
+    "keywords": [],
+    "canonical_print": "CP05-055",
+    "prints": [
+      "CP05-055",
+      "CP05-GBF35",
+      "CP05-SL14",
+      "CP05-U07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-070"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-056",
+    "is_dual_face": false,
+    "name": "炎の理・ウィルナス",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のデッキの上1枚を見る。その中から、火属性・カード1枚を公開して手札に加えてよい。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-056",
+    "prints": [
+      "CP05-056",
+      "CP05-GBF36",
+      "CP05-SL15"
+    ],
+    "evolves_to": [
+      "CP05-057"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-057",
+    "is_dual_face": false,
+    "name": "炎の理・ウィルナス",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 5,
+    "hp": 5,
+    "text": "【進化時】手札の火属性・カードX枚を公開：相手の場のフォロワー2体まで選ぶ。それにXダメージを割りふる。\n【超進化時】手札の火属性・カードX枚を公開：相手の場のフォロワー1体を選ぶ。それとそれのリーダーにXダメージ。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "CP05-057",
+    "prints": [
+      "CP05-057",
+      "CP05-GBF37",
+      "CP05-SL16",
+      "CP05-U08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-056"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-058",
+    "is_dual_face": false,
+    "name": "どこにでもいるフツーの女の子・メグ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】手札の闇属性・カード1枚を捨てる：1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-058",
+    "prints": [
+      "CP05-058",
+      "CP05-GBF38",
+      "CP05-P42"
+    ],
+    "evolves_to": [
+      "CP05-059"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-065"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-059",
+    "is_dual_face": false,
+    "name": "どこにでもいるフツーの女の子・メグ",
+    "alt_names": [
+      "休暇の猛者・メグ＆まりっぺ"
+    ],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】自分の墓場の「これと同名を除く元のコスト2以下の闇属性・フォロワー」1枚を選ぶ。それを場に出す。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-059",
+    "prints": [
+      "CP05-059",
+      "CP05-GBF39",
+      "CP05-P43",
+      "PR-645"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-058"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-065"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-060",
+    "is_dual_face": false,
+    "name": "天穿の銃槍騎・ラスティナ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 1,
+    "hp": 5,
+    "text": "これが上限解放したとき、相手の場のフォロワー1体を選ぶ。それにXダメージ。Xは「自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーの枚数」である。Xが4以上なら、それのリーダーに2ダメージ。\n【ファンファーレ】1枚引く。自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-060",
+    "prints": [
+      "CP05-060",
+      "CP05-GBF40",
+      "CP05-P44"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-061",
+    "is_dual_face": false,
+    "name": "ティアマト・マグナ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】『風晶のエレメント』2枚をEXエリアに置く。\n【起動】これをアクト墓場に置く：自分のデッキの上1枚を見る。その中から、風属性・カード1枚を公開して手札に加えてよい。この能力はこのターン、自分の場のフォロワーが上限解放や最終上限解放を合わせて3回以上していたなら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "CP05-061",
+    "prints": [
+      "CP05-061",
+      "CP05-P45"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-062",
+    "is_dual_face": false,
+    "name": "純朴の鋼体・ムゲン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "CP05-062",
+    "prints": [
+      "CP05-062",
+      "CP05-GBF41",
+      "CP05-P46"
+    ],
+    "evolves_to": [
+      "CP05-063"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-063",
+    "is_dual_face": false,
+    "name": "純朴の鋼体・ムゲン",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 6,
+    "hp": 6,
+    "text": "【進化時】相手の場のフォロワー2体まで選ぶ。それを破壊する。『光晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-063",
+    "prints": [
+      "CP05-063",
+      "CP05-GBF42",
+      "CP05-P47"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-062"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-064",
+    "is_dual_face": false,
+    "name": "護国真龍・スカーサハ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "これをプレイする際、コストを-Xする。Xは「このターン中に自分の場のフォロワーが上限解放や最終上限解放をした回数」である。\n【ファンファーレ】『風晶のエレメント』1枚をEXエリアに置く。1枚引く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-064",
+    "prints": [
+      "CP05-064",
+      "CP05-GBF43",
+      "CP05-P48"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-065",
+    "is_dual_face": false,
+    "name": "メグの親友・まりっぺ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "自分の闇属性・カードの能力によってこれを自分の手札から捨てたとき、『闇晶のエレメント』1枚をEXエリアに置く。1枚引く。\n【ファンファーレ】『闇晶のエレメント』1枚をEXエリアに置く。自分の場に『どこにでもいるフツーの女の子・メグ』がいるなら、自分のリーダーは体力+2する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-065",
+    "prints": [
+      "CP05-065",
+      "CP05-GBF44",
+      "CP05-P49"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T14",
+      "CP05-058",
+      "CP05-059"
+    ],
+    "mentions_tokens": [
+      "CP05-T14"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-066",
+    "is_dual_face": false,
+    "name": "灼脚の麗姫・アリーザ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のデッキの上1枚を見る。その中から、火属性・カード1枚を公開して手札に加えてよい。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-066",
+    "prints": [
+      "CP05-066",
+      "CP05-P50"
+    ],
+    "evolves_to": [
+      "CP05-067"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-067",
+    "is_dual_face": false,
+    "name": "灼脚の麗姫・アリーザ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【攻撃時】『火晶のエレメント』1枚をEXエリアに置く。\n【進化時】相手の場のフォロワー1体を選ぶ。それをアクトする。",
+    "keywords": [
+      "攻撃時",
+      "進化時"
+    ],
+    "canonical_print": "CP05-067",
+    "prints": [
+      "CP05-067",
+      "CP05-P51"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-066"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T09"
+    ],
+    "mentions_tokens": [
+      "CP05-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-068",
+    "is_dual_face": false,
+    "name": "古今独歩の大拳豪・ガンダゴウザ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 7,
+    "atk": 6,
+    "hp": 5,
+    "text": "これを自分の手札から公開したとき、自分の場の火属性・フォロワー1体を選ぶ。それは【突進】【指定攻撃】を持つ。\n【突進】【指定攻撃】\n【攻撃時】手札の火属性・カード3枚を公開：相手の場のフォロワー1体を選ぶ。それとそれのリーダーに6ダメージ。",
+    "keywords": [
+      "突進",
+      "指定攻撃",
+      "攻撃時"
+    ],
+    "canonical_print": "CP05-068",
+    "prints": [
+      "CP05-068",
+      "CP05-P52"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-069",
+    "is_dual_face": false,
+    "name": "灰白の豹・アイル",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 2,
+    "text": "【突進】\n【攻撃時】1枚引く。\n【ファンファーレ】自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上なら、これは攻撃力+2して、【指定攻撃】を持つ。",
+    "keywords": [
+      "ファンファーレ",
+      "突進",
+      "攻撃時",
+      "指定攻撃"
+    ],
+    "canonical_print": "CP05-069",
+    "prints": [
+      "CP05-069",
+      "CP05-P53"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-070",
+    "is_dual_face": false,
+    "name": "オンリー･ワン･ウィッシュ",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": null,
+    "hp": null,
+    "text": "自分のデッキの上1枚を公開する。光属性・カードを公開したなら、『光晶のエレメント』1枚をEXエリアに置く。自分のPP最大値を+1する。自分のPP最大値が10なら、自分のデッキから『大いなる調停者・ゾーイ』1枚を探し、手札に加える。",
+    "keywords": [],
+    "canonical_print": "CP05-070",
+    "prints": [
+      "CP05-070",
+      "CP05-P54"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13",
+      "CP05-055"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-071",
+    "is_dual_face": false,
+    "name": "アルバコア",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】相手の場のカード1枚を選ぶ。それを破壊する。\n【起動】これをアクト墓場に置く：『闇晶のエレメント』1枚をEXエリアに置く。1枚引く。この能力はこのターン、自分の手札の闇属性・カードを捨てていたなら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "CP05-071",
+    "prints": [
+      "CP05-071",
+      "CP05-P55"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T14"
+    ],
+    "mentions_tokens": [
+      "CP05-T14"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-072",
+    "is_dual_face": false,
+    "name": "神狼・シス",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 6,
+    "atk": 3,
+    "hp": 2,
+    "text": "自分のターン中、自分の闇属性・カードの能力によってこれを自分の手札から捨てたとき、コスト3：これを場に出す。\n【最終上限解放可能】\nこれが上限解放したとき、これは【疾走】を持つ。\nこれが最終上限解放したとき、コスト2：自分のデッキから『神狼・シス』1枚を探し、場に出す。",
+    "keywords": [
+      "疾走"
+    ],
+    "canonical_print": "CP05-072",
+    "prints": [
+      "CP05-072",
+      "CP05-GBF45",
+      "CP05-SL17"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-073",
+    "is_dual_face": false,
+    "name": "繊細の魔奏者・ニオ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【最終上限解放可能】\nこれが上限解放したとき、相手の場のフォロワー1体を選ぶ。それは攻撃力-1/体力-1する。\nこれが最終上限解放したとき、相手の場のフォロワー1体を選ぶ。それは攻撃力-2/体力-2する。",
+    "keywords": [],
+    "canonical_print": "CP05-073",
+    "prints": [
+      "CP05-073",
+      "CP05-GBF46",
+      "CP05-SL18"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-074",
+    "is_dual_face": false,
+    "name": "闇の理・フェディエル",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n自分が手札の闇属性・カード1枚を捨てたとき、相手のリーダーすべてと相手の場のフォロワーすべてに1ダメージ。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "CP05-074",
+    "prints": [
+      "CP05-074",
+      "CP05-GBF47",
+      "CP05-SL19"
+    ],
+    "evolves_to": [
+      "CP05-075"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-075",
+    "is_dual_face": false,
+    "name": "闇の理・フェディエル",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "自分が手札の闇属性・カード1枚を捨てたとき、相手のリーダーすべてと相手の場のフォロワーすべてに1ダメージ。\n【進化時】手札2枚を捨てる：2枚引く。\n【超進化時】自分の墓場の「これと同名を除くカード」をカード名が異なるように2枚まで選ぶ。それを手札に加える。自分の手札1枚を捨てる。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "CP05-075",
+    "prints": [
+      "CP05-075",
+      "CP05-GBF48",
+      "CP05-SL20",
+      "CP05-U09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-074"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-076",
+    "is_dual_face": false,
+    "name": "幽想の少女・フェリ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "自分のターン中、自分の闇属性・カードの能力によってこれを自分の手札から捨てたとき、これを場に出す。\n【進化】コスト1：これは進化する。\n【最終上限解放可能】\nこれが最終上限解放したとき、コスト3：自分の場の他の闇属性・フォロワー2体まで選ぶ。それをスタンドする。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "CP05-076",
+    "prints": [
+      "CP05-076",
+      "CP05-GBF49",
+      "CP05-P56"
+    ],
+    "evolves_to": [
+      "CP05-077"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-077",
+    "is_dual_face": false,
+    "name": "幽想の少女・フェリ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【最終上限解放可能】\nこれが最終上限解放したとき、コスト3：自分の場の他の闇属性・フォロワー2体まで選ぶ。それをスタンドする。\n【進化時】1枚引く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-077",
+    "prints": [
+      "CP05-077",
+      "CP05-GBF50",
+      "CP05-P57"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-076"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-078",
+    "is_dual_face": false,
+    "name": "生滅の技巧・ネハン",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 2,
+    "hp": 3,
+    "text": "【ファンファーレ】自分のデッキの上5枚を見る。その中から、「これと同名を除く元のコスト5のグラブル・フォロワー」1枚を場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-078",
+    "prints": [
+      "CP05-078",
+      "CP05-GBF51",
+      "CP05-P58"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-079",
+    "is_dual_face": false,
+    "name": "セレスト・マグナ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "ターンごとに1回、自分が手札の闇属性・カードを捨てたとき、相手の場のフォロワー1体を選ぶ。それに1ダメージ。\n【起動】これをアクト手札の闇属性・カード1枚を捨てる：自分のデッキの上1枚を見る。それをデッキの下に置いてよい。",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-079",
+    "prints": [
+      "CP05-079",
+      "CP05-P59"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-080",
+    "is_dual_face": false,
+    "name": "降魔の操者・ダヌア",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。",
+    "keywords": [
+      "進化"
+    ],
+    "canonical_print": "CP05-080",
+    "prints": [
+      "CP05-080",
+      "CP05-GBF52",
+      "CP05-P60"
+    ],
+    "evolves_to": [
+      "CP05-081"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-081",
+    "is_dual_face": false,
+    "name": "降魔の操者・ダヌア",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】自分のデッキから元のコスト5のグラブル・フォロワー1枚を探し、手札に加える。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-081",
+    "prints": [
+      "CP05-081",
+      "CP05-GBF53",
+      "CP05-P61"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-080"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-082",
+    "is_dual_face": false,
+    "name": "冥闇の剛刃・バザラガ",
+    "alt_names": [
+      "不屈の鋭刃・バザラガ"
+    ],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 7,
+    "atk": 4,
+    "hp": 7,
+    "text": "自分の闇属性・カードの能力によってこれを自分の手札から捨てたとき、コスト1：相手の場のフォロワー1体を選ぶ。それに3ダメージ。\nこれが上限解放したとき、これは「【ラストワード】これを場に出す」を持つ。\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それを破壊する。",
+    "keywords": [
+      "ラストワード",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-082",
+    "prints": [
+      "CP05-082",
+      "CP05-GBF54",
+      "CP05-P62",
+      "PR-637"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-083",
+    "is_dual_face": false,
+    "name": "コラプション",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": null,
+    "hp": null,
+    "text": "これをプレイする際、追加コストとして手札の闇属性・カード1枚を捨てる。（追加コストを支払わなければプレイできない）\n場のフォロワーすべてに5ダメージ。相手のリーダーすべてに2ダメージ。",
+    "keywords": [],
+    "canonical_print": "CP05-083",
+    "prints": [
+      "CP05-083",
+      "CP05-P63"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-084",
+    "is_dual_face": false,
+    "name": "心眼の双葬女・レディ・グレイ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 0,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ドレイン】(【ドレイン】を持つフォロワーが攻撃して与えたダメージと同じだけ、自分のリーダーは体力を+する)\n自分が手札の闇属性・カード1枚を捨てたとき、これは攻撃力+1する。\n【ファンファーレ】『闇晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "ドレイン"
+    ],
+    "canonical_print": "CP05-084",
+    "prints": [
+      "CP05-084",
+      "CP05-P64"
+    ],
+    "evolves_to": [
+      "CP05-085"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T14"
+    ],
+    "mentions_tokens": [
+      "CP05-T14"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-085",
+    "is_dual_face": false,
+    "name": "心眼の双葬女・レディ・グレイ",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【ドレイン】\n自分が手札の闇属性・カード1枚を捨てたとき、これは攻撃力+1する。\n【進化時】手札の闇属性・カード1枚を捨てる：1枚引く。",
+    "keywords": [
+      "ドレイン",
+      "進化時"
+    ],
+    "canonical_print": "CP05-085",
+    "prints": [
+      "CP05-085",
+      "CP05-P65"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-084"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-086",
+    "is_dual_face": false,
+    "name": "自由を駆ける漢・スカル",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上である限り、これは【疾走】を持つ。\n【ファンファーレ】自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "CP05-086",
+    "prints": [
+      "CP05-086",
+      "CP05-P66"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-087",
+    "is_dual_face": false,
+    "name": "エーヴィヒ・カメラート",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【クイック】\n手札の闇属性・カード1枚を捨てる：『闇晶のエレメント』2枚をEXエリアに置く。1枚引く。",
+    "keywords": [
+      "クイック"
+    ],
+    "canonical_print": "CP05-087",
+    "prints": [
+      "CP05-087",
+      "CP05-P67"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T14"
+    ],
+    "mentions_tokens": [
+      "CP05-T14"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-088",
+    "is_dual_face": false,
+    "name": "ストーン・ブレイク",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【クイック】\n下記から1つチョイスする。【1】相手の場のフォロワー1体を選ぶ。それに2ダメージ。【2】手札の闇属性・カード1枚を捨てる：相手の場のフォロワー1体を選ぶ。それに3ダメージ。それのリーダーに1ダメージ。",
+    "keywords": [
+      "クイック"
+    ],
+    "canonical_print": "CP05-088",
+    "prints": [
+      "CP05-088",
+      "CP05-P68"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-089",
+    "is_dual_face": false,
+    "name": "開眼者・ウーノ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【守護】【最終上限解放可能】\nこれが上限解放したとき、1枚引く。自分の手札1枚を捨てる。\nこれが最終上限解放したとき、相手の場のフォロワー1体を選ぶ。それに4ダメージ。\n【クイック】【起動】コスト1これをアクト：自分のリーダーは体力+1する。",
+    "keywords": [
+      "クイック",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "CP05-089",
+    "prints": [
+      "CP05-089",
+      "CP05-GBF55",
+      "CP05-SL21"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-090",
+    "is_dual_face": false,
+    "name": "魔導の申し子・フュンフ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "十天衆",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 2,
+    "hp": 3,
+    "text": "【最終上限解放可能】\nこれが上限解放したとき、自分の手札の元のコスト5のグラブル・フォロワー1枚を場に出してよい。\nこれが最終上限解放したとき、コスト2：自分のデッキの上5枚を見る。その中から、「これと同名を除く元のコスト5のグラブル・フォロワー」1枚を場に出してよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [],
+    "canonical_print": "CP05-090",
+    "prints": [
+      "CP05-090",
+      "CP05-GBF56",
+      "CP05-SL22"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-091",
+    "is_dual_face": false,
+    "name": "土の理・ガレヲン",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分のエボルヴデッキの裏向きの土属性・エボルヴフォロワー1枚を表向きにしてよい。自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーが4枚以上なら、1枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-091",
+    "prints": [
+      "CP05-091",
+      "CP05-GBF57",
+      "CP05-SL23"
+    ],
+    "evolves_to": [
+      "CP05-092"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-092",
+    "is_dual_face": false,
+    "name": "土の理・ガレヲン",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "六竜",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化時】自分のデッキの上4枚を見る。その中から、グラブル・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。\n【超進化時】『土晶のエレメント』X枚をEXエリアに置く。自分のリーダーは体力+Xする。Xは「自分のエボルヴデッキの表向きの土属性・エボルヴフォロワーの枚数の半分（端数切り上げ）」である。",
+    "keywords": [
+      "進化時",
+      "超進化時"
+    ],
+    "canonical_print": "CP05-092",
+    "prints": [
+      "CP05-092",
+      "CP05-GBF58",
+      "CP05-SL24",
+      "CP05-U10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-091"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T11"
+    ],
+    "mentions_tokens": [
+      "CP05-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-093",
+    "is_dual_face": false,
+    "name": "狂恋の華鎧・ヴィーラ",
+    "alt_names": [
+      "威容なる星晶騎士・ヴィーラ"
+    ],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n自分のPP最大値が7以上である限り、これが受けるダメージを-1する。\n【ファンファーレ】『光晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "CP05-093",
+    "prints": [
+      "CP05-093",
+      "CP05-GBF59",
+      "CP05-P69",
+      "PR-638"
+    ],
+    "evolves_to": [
+      "CP05-094"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-104"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-094",
+    "is_dual_face": false,
+    "name": "狂恋の華鎧・ヴィーラ",
+    "alt_names": [
+      "威容なる星晶騎士・ヴィーラ",
+      "誓約の騎士・ヴィーラ＆カタリナ"
+    ],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 4,
+    "text": "【守護】\n自分のPP最大値が7以上である限り、これが受けるダメージを-1する。\n【進化時】相手の場のフォロワー1体を選ぶ。自分のデッキの上3枚を公開する。それに「これによって公開した光属性・カードの枚数」と同じダメージ。公開したカードの中から、1枚を手札に加える。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "守護",
+      "進化時"
+    ],
+    "canonical_print": "CP05-094",
+    "prints": [
+      "CP05-094",
+      "CP05-GBF60",
+      "CP05-P70",
+      "CP05-SP01",
+      "CP05-SSP01a",
+      "CP05-SSP01b",
+      "PR-639"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-093"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-104"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-095",
+    "is_dual_face": false,
+    "name": "七宝石の姫・レ・フィーエ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 3,
+    "hp": 5,
+    "text": "【守護】\n自分のエンドフェイズが来たとき、自分のリーダーは体力+1する。自分の場の元のコスト5のグラブル・フォロワーが3体以上なら、代わりに体力+3する。\n【ファンファーレ】相手の場のフォロワー1体を選ぶ。それを消滅させる。『光晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "CP05-095",
+    "prints": [
+      "CP05-095",
+      "CP05-GBF61",
+      "CP05-P71"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-096",
+    "is_dual_face": false,
+    "name": "シュヴァリエ・マグナ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "アミュレット"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": null,
+    "hp": null,
+    "text": "【ファンファーレ】自分のデッキの上1枚を公開する。光属性・カードを公開したなら、自分のPP最大値を+1する。\n【起動】これをアクト墓場に置く：『光晶のエレメント』1枚をEXエリアに置く。1枚引く。この能力は自分の場の元のコスト5のグラブル・フォロワーが3体以上なら使える。",
+    "keywords": [
+      "ファンファーレ",
+      "起動"
+    ],
+    "canonical_print": "CP05-096",
+    "prints": [
+      "CP05-096",
+      "CP05-P72"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-097",
+    "is_dual_face": false,
+    "name": "魔杖の外科医・ティコ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】『光晶のエレメント』1枚をEXエリアに置く。自分の場に元のコスト5のグラブル・フォロワーがいるなら、自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-097",
+    "prints": [
+      "CP05-097",
+      "CP05-GBF62",
+      "CP05-P73"
+    ],
+    "evolves_to": [
+      "CP05-098"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-098",
+    "is_dual_face": false,
+    "name": "魔杖の外科医・ティコ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】『光晶のエレメント』1枚をEXエリアに置く。自分の場に元のコスト5のグラブル・フォロワーがいるなら、自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-098",
+    "prints": [
+      "CP05-098",
+      "CP05-GBF63",
+      "CP05-P74"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-097"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-099",
+    "is_dual_face": false,
+    "name": "星界の艇人・ノア",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 1,
+    "hp": 1,
+    "text": "【守護】（これが場に出たときか、自分のエンドフェイズにこれをアクトできる。相手は、アクト状態の【守護】を持つフォロワー以外を攻撃できない）\n【ファンファーレ】これは攻撃力+X/体力+Xする。Xは「自分のPP最大値」である。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "CP05-099",
+    "prints": [
+      "CP05-099",
+      "CP05-GBF64",
+      "CP05-P75"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-100",
+    "is_dual_face": false,
+    "name": "天象の風・ペトラ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 2,
+    "text": "【ファンファーレ】相手の場のフォロワー1体を選ぶ。それは次のそれのプレイヤーのスタートフェイズにスタンドしない。『風晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-100",
+    "prints": [
+      "CP05-100",
+      "CP05-GBF65",
+      "CP05-P76"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-101",
+    "is_dual_face": false,
+    "name": "星跡の巡礼者・ソフィア",
+    "alt_names": [
+      "ゼエン教の僧侶・ソフィア"
+    ],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 3,
+    "hp": 3,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】『水晶のエレメント』1枚をEXエリアに置く。\n【クイック】【起動】コスト3手札のこれを捨てる：2枚引く。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "クイック",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "CP05-101",
+    "prints": [
+      "CP05-101",
+      "CP05-P77",
+      "PR-633"
+    ],
+    "evolves_to": [
+      "CP05-102"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T10"
+    ],
+    "mentions_tokens": [
+      "CP05-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-102",
+    "is_dual_face": false,
+    "name": "星跡の巡礼者・ソフィア",
+    "alt_names": [
+      "ゼエン教の僧侶・ソフィア"
+    ],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 4,
+    "hp": 4,
+    "text": "【守護】（これが場に出たときか、自分のエンドフェイズにこれをアクトできる。相手は、アクト状態の【守護】を持つフォロワー以外を攻撃できない）\n【進化時】自分のデッキから元のコスト3以下の【クイック】【起動】能力を持つフォロワー1枚を探し、場に出す。",
+    "keywords": [
+      "クイック",
+      "起動",
+      "守護",
+      "進化時"
+    ],
+    "canonical_print": "CP05-102",
+    "prints": [
+      "CP05-102",
+      "CP05-P78",
+      "PR-634"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-101"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-103",
+    "is_dual_face": false,
+    "name": "英雄幻視・トルー",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 1,
+    "hp": 3,
+    "text": "【守護】\n【ファンファーレ】『水晶のエレメント』1枚をEXエリアに置く。1枚引く。\n【クイック】【起動】これをアクト：『水晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "CP05-103",
+    "prints": [
+      "CP05-103",
+      "CP05-P79"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T10"
+    ],
+    "mentions_tokens": [
+      "CP05-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-104",
+    "is_dual_face": false,
+    "name": "アフェクション・オース",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "スペル"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "【クイック】\n相手の場のフォロワー1体を選ぶ。それに2ダメージ。『光晶のエレメント』1枚をEXエリアに置く。自分の手札の元のコスト5のグラブル・フォロワー1枚を捨ててよい。そうしたなら、自分のデッキから『狂恋の華鎧・ヴィーラ』1枚を探し、手札に加える。",
+    "keywords": [
+      "クイック"
+    ],
+    "canonical_print": "CP05-104",
+    "prints": [
+      "CP05-104",
+      "CP05-P80"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T13",
+      "CP05-093",
+      "CP05-094"
+    ],
+    "mentions_tokens": [
+      "CP05-T13"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-105",
+    "is_dual_face": false,
+    "name": "天司長の後継・サンダルフォン",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 4,
+    "hp": 4,
+    "text": "【進化】コスト1：これは進化する。\n【守護】\n【ファンファーレ】相手の場のフォロワー2体まで選ぶ。それに2ダメージ。相手のリーダーすべてに2ダメージ。自分のSEPが0なら、これは進化する。自分のリーダーは体力+2する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "CP05-105",
+    "prints": [
+      "CP05-105",
+      "CP05-GBF66",
+      "CP05-SL25"
+    ],
+    "evolves_to": [
+      "CP05-106"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-106",
+    "is_dual_face": false,
+    "name": "天司長の後継・サンダルフォン",
+    "alt_names": [
+      "幻想の一時・サンダルフォン＆ルシフェル"
+    ],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 5,
+    "atk": 5,
+    "hp": 5,
+    "text": "【守護】\n【進化時】相手の場のフォロワー2体まで選ぶ。それに2ダメージ。相手のリーダーすべてに2ダメージ。自分の場の元のコスト5のグラブル・フォロワーが3体以上なら、選んだフォロワーに2ダメージ。相手のリーダーすべてに2ダメージ。",
+    "keywords": [
+      "守護",
+      "進化時"
+    ],
+    "canonical_print": "CP05-106",
+    "prints": [
+      "CP05-106",
+      "CP05-GBF67",
+      "CP05-SL26",
+      "CP05-SP02",
+      "CP05-SSP02a",
+      "CP05-SSP02b"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-105"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-107",
+    "is_dual_face": false,
+    "name": "グラン＆ジータ",
+    "alt_names": [
+      "レリックバスター・グラン＆ジータ",
+      "十天衆を総べし者・グラン＆ジータ"
+    ],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "全属性",
+      "火属性",
+      "水属性",
+      "土属性",
+      "風属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 2,
+    "atk": 2,
+    "hp": 3,
+    "text": "これが上限解放したとき、コスト3：相手の場のフォロワー1体を選ぶ。それに4ダメージ。それのリーダーに2ダメージ。『ヒヒイロカネ』1枚をEXエリアに置く。\n【ファンファーレ】手札のグラブル・カード1枚を捨てる：2枚引く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-107",
+    "prints": [
+      "CP05-107",
+      "CP05-GBF68",
+      "CP05-SL27",
+      "CP05-U11",
+      "PR-646"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T15"
+    ],
+    "mentions_tokens": [
+      "CP05-T15"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-108"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-108",
+    "is_dual_face": false,
+    "name": "小さき赤き竜・ビィ",
+    "alt_names": [
+      "愛すべき相棒・ビィ"
+    ],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "全属性",
+      "火属性",
+      "水属性",
+      "土属性",
+      "風属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【進化】コスト1：これは進化する。\n【ファンファーレ】自分の場に『グラン＆ジータ』がいるなら、これは進化する。",
+    "keywords": [
+      "進化",
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-108",
+    "prints": [
+      "CP05-108",
+      "CP05-GBF69",
+      "CP05-P81",
+      "PR-641"
+    ],
+    "evolves_to": [
+      "CP05-109"
+    ],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-107"
+    ],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-109",
+    "is_dual_face": false,
+    "name": "小さき赤き竜・ビィ",
+    "alt_names": [
+      "愛すべき相棒・ビィ"
+    ],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー",
+      "エボルヴ"
+    ],
+    "tribe": [
+      "グラブル",
+      "全属性",
+      "火属性",
+      "水属性",
+      "土属性",
+      "風属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 2,
+    "hp": 2,
+    "text": "【進化時】『ヒヒイロカネ』1枚をEXエリアに置く。",
+    "keywords": [
+      "進化時"
+    ],
+    "canonical_print": "CP05-109",
+    "prints": [
+      "CP05-109",
+      "CP05-GBF70",
+      "CP05-P82",
+      "PR-642"
+    ],
+    "evolves_to": [],
+    "evolved_from": [
+      "CP05-108"
+    ],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T15"
+    ],
+    "mentions_tokens": [
+      "CP05-T15"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-110",
+    "is_dual_face": false,
+    "name": "蒼の少女・ルリア",
+    "alt_names": [
+      "空の命運を握る少女・ルリア"
+    ],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "全属性",
+      "火属性",
+      "水属性",
+      "土属性",
+      "風属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": 1,
+    "hp": 1,
+    "text": "【最終上限解放可能】\n【ファンファーレ】自分のデッキの上3枚を見る。その中から、グラブル・カード1枚を公開して手札に加えてよい。残りを好きな順にデッキの下に置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-110",
+    "prints": [
+      "CP05-110",
+      "CP05-GBF71",
+      "CP05-P83",
+      "PR-643"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-111",
+    "is_dual_face": false,
+    "name": "蒼天の守護騎士・カタリナ",
+    "alt_names": [
+      "空駆ける庇護者・カタリナ"
+    ],
+    "class": "ニュートラル",
+    "card_type": [
+      "フォロワー"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 2,
+    "hp": 3,
+    "text": "【守護】\n【ファンファーレ】自分のデッキから元のコスト1の【クイック】【起動】能力を持つフォロワー1枚を探し、場に出す。『水晶のエレメント』1枚をEXエリアに置く。\n【クイック】【起動】コスト1手札のこれを捨てる：『水晶のエレメント』1枚をEXエリアに置く。1枚引く。",
+    "keywords": [
+      "ファンファーレ",
+      "クイック",
+      "起動",
+      "守護"
+    ],
+    "canonical_print": "CP05-111",
+    "prints": [
+      "CP05-111",
+      "CP05-GBF72",
+      "CP05-P84",
+      "PR-640"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T10"
+    ],
+    "mentions_tokens": [
+      "CP05-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T01",
+    "is_dual_face": false,
+    "name": "ガンパウダーミキサー・クムユ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 2,
+    "text": "【突進】【指定攻撃】（【指定攻撃】を持つフォロワーは、スタンド状態のフォロワーを攻撃できる）\n【ラストワード】相手のリーダーすべてに2ダメージ。",
+    "keywords": [
+      "ラストワード",
+      "突進",
+      "指定攻撃"
+    ],
+    "canonical_print": "CP05-T01",
+    "prints": [
+      "CP05-GBF73",
+      "CP05-P85",
+      "CP05-T01"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-009"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T02",
+    "is_dual_face": false,
+    "name": "フィル",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "スペル",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 0,
+    "atk": null,
+    "hp": null,
+    "text": "自分の場のグラブル・フォロワー1体を選ぶ。それは攻撃力+2/体力+2する。",
+    "keywords": [],
+    "canonical_print": "CP05-T02",
+    "prints": [
+      "CP05-P86",
+      "CP05-T02"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-005",
+      "CP05-006"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T03",
+    "is_dual_face": false,
+    "name": "俊英の双剣士・ランスロット",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 3,
+    "text": "【疾走】（【疾走】を持つフォロワーは、場に出たターンから攻撃できる）\n【ファンファーレ】『水晶のエレメント』1枚をEXエリアに置く。1枚引く。自分の手札1枚を捨てる。",
+    "keywords": [
+      "ファンファーレ",
+      "疾走"
+    ],
+    "canonical_print": "CP05-T03",
+    "prints": [
+      "CP05-GBF74",
+      "CP05-P87",
+      "CP05-T03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T10"
+    ],
+    "mentions_tokens": [
+      "CP05-T10"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-026"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T04",
+    "is_dual_face": false,
+    "name": "不撓不屈の騎士・ヴェイン",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 2,
+    "hp": 5,
+    "text": "【ファンファーレ】『風晶のエレメント』1枚をEXエリアに置く。自分のリーダーは体力+3する。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-T04",
+    "prints": [
+      "CP05-GBF75",
+      "CP05-P88",
+      "CP05-T04"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T12"
+    ],
+    "mentions_tokens": [
+      "CP05-T12"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-026"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T05",
+    "is_dual_face": false,
+    "name": "竜殺しの騎士・ジークフリート",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 3,
+    "hp": 4,
+    "text": "【守護】（これが場に出たときか、自分のエンドフェイズにこれをアクトできる。相手は、アクト状態の【守護】を持つフォロワー以外を攻撃できない）\n【ファンファーレ】相手の場のアクト状態のフォロワー1体を選ぶ。それを破壊する。『土晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ",
+      "守護"
+    ],
+    "canonical_print": "CP05-T05",
+    "prints": [
+      "CP05-GBF76",
+      "CP05-P89",
+      "CP05-T05"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T11"
+    ],
+    "mentions_tokens": [
+      "CP05-T11"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-026"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T06",
+    "is_dual_face": false,
+    "name": "炎帝・パーシヴァル",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 3,
+    "atk": 4,
+    "hp": 3,
+    "text": "【ファンファーレ】相手の場のフォロワー1体を選ぶ。それに4ダメージ。『火晶のエレメント』1枚をEXエリアに置く。",
+    "keywords": [
+      "ファンファーレ"
+    ],
+    "canonical_print": "CP05-T06",
+    "prints": [
+      "CP05-GBF77",
+      "CP05-P90",
+      "CP05-T06"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [
+      "CP05-T09"
+    ],
+    "mentions_tokens": [
+      "CP05-T09"
+    ],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-026"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T07",
+    "is_dual_face": false,
+    "name": "ハクタク",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "フォロワー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 4,
+    "atk": 4,
+    "hp": 6,
+    "text": "【突進】【指定攻撃】【守護】（【指定攻撃】を持つフォロワーは、スタンド状態のフォロワーを攻撃できる）\n【クイック】【起動】コスト1：自分のリーダーは体力+2する。この能力は1ターンに1回使える。",
+    "keywords": [
+      "クイック",
+      "起動",
+      "突進",
+      "指定攻撃",
+      "守護"
+    ],
+    "canonical_print": "CP05-T07",
+    "prints": [
+      "CP05-GBF78",
+      "CP05-P91",
+      "CP05-T07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-047"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T08",
+    "is_dual_face": false,
+    "name": "アルス・マグナ",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "スペル",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性",
+      "光属性",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": 1,
+    "atk": null,
+    "hp": null,
+    "text": "相手の場のフォロワー1体を選ぶ。それとそれのリーダーに2ダメージ。自分のリーダーは体力+2する。",
+    "keywords": [],
+    "canonical_print": "CP05-T08",
+    "prints": [
+      "CP05-P92",
+      "CP05-T08"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-041"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T09",
+    "is_dual_face": false,
+    "name": "火晶のエレメント",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "火属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の火属性・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持ち、上限解放していたなら、代わりに最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T09",
+    "prints": [
+      "CP05-P93",
+      "CP05-T09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-013",
+      "CP05-014",
+      "CP05-048",
+      "CP05-067",
+      "CP05-T06"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T10",
+    "is_dual_face": false,
+    "name": "水晶のエレメント",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "水属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の水属性・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持ち、上限解放していたなら、代わりに最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T10",
+    "prints": [
+      "CP05-P94",
+      "CP05-T10"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-008",
+      "CP05-052",
+      "CP05-101",
+      "CP05-103",
+      "CP05-111",
+      "CP05-T03"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T11",
+    "is_dual_face": false,
+    "name": "土晶のエレメント",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "土属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の土属性・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持ち、上限解放していたなら、代わりに最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T11",
+    "prints": [
+      "CP05-P95",
+      "CP05-T11"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-015",
+      "CP05-031",
+      "CP05-045",
+      "CP05-046",
+      "CP05-092",
+      "CP05-T05"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T12",
+    "is_dual_face": false,
+    "name": "風晶のエレメント",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "風属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の風属性・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持ち、上限解放していたなら、代わりに最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T12",
+    "prints": [
+      "CP05-P96",
+      "CP05-T12"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-003",
+      "CP05-004",
+      "CP05-005",
+      "CP05-018",
+      "CP05-023",
+      "CP05-061",
+      "CP05-064",
+      "CP05-100",
+      "CP05-T04"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T13",
+    "is_dual_face": false,
+    "name": "光晶のエレメント",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "光属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の光属性・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持ち、上限解放していたなら、代わりに最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T13",
+    "prints": [
+      "CP05-P97",
+      "CP05-T13"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-021",
+      "CP05-035",
+      "CP05-063",
+      "CP05-070",
+      "CP05-093",
+      "CP05-095",
+      "CP05-096",
+      "CP05-097",
+      "CP05-098",
+      "CP05-104"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T14",
+    "is_dual_face": false,
+    "name": "闇晶のエレメント",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル",
+      "闇属性"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場の闇属性・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持ち、上限解放していたなら、代わりに最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T14",
+    "prints": [
+      "CP05-P98",
+      "CP05-T14"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-023",
+      "CP05-065",
+      "CP05-071",
+      "CP05-084",
+      "CP05-087"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-T15",
+    "is_dual_face": false,
+    "name": "ヒヒイロカネ",
+    "alt_names": [],
+    "class": "ニュートラル",
+    "card_type": [
+      "トレジャー",
+      "トークン"
+    ],
+    "tribe": [
+      "グラブル"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "【起動】コスト0：自分の場のグラブル・フォロワー1体を選ぶ。それは上限解放する。それが【最終上限解放可能】を持つなら、さらにそれは最終上限解放する。（EXエリアのこれを、選んだフォロワーの下に置くことで、上限解放や最終上限解放できる。上限解放したフォロワーは攻撃力+1され、最終上限解放したフォロワーは攻撃力+1/体力+1される）",
+    "keywords": [
+      "起動"
+    ],
+    "canonical_print": "CP05-T15",
+    "prints": [
+      "CP05-P99",
+      "CP05-T15"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [
+      "CP05-004",
+      "CP05-024",
+      "CP05-041",
+      "CP05-107",
+      "CP05-109"
+    ],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD01",
+    "is_dual_face": false,
+    "name": "六竜の『翠』・イーウィヤ",
+    "alt_names": [],
+    "class": "エルフ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD01",
+    "prints": [
+      "CP05-LD01",
+      "PR-659"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD02",
+    "is_dual_face": false,
+    "name": "六竜の『白』・ル・オー",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD02",
+    "prints": [
+      "CP05-LD02",
+      "PR-660"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD03",
+    "is_dual_face": false,
+    "name": "快活の団長・シャルロッテ",
+    "alt_names": [],
+    "class": "ロイヤル",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD03",
+    "prints": [
+      "CP05-LD03"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD04",
+    "is_dual_face": false,
+    "name": "六竜の『碧』・ワムデュス",
+    "alt_names": [],
+    "class": "ウィッチ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD04",
+    "prints": [
+      "CP05-LD04",
+      "PR-661"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD05",
+    "is_dual_face": false,
+    "name": "六竜の『朱』・ウィルナス",
+    "alt_names": [],
+    "class": "ドラゴン",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD05",
+    "prints": [
+      "CP05-LD05",
+      "PR-662"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD06",
+    "is_dual_face": false,
+    "name": "六竜の『黒』・フェディエル",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD06",
+    "prints": [
+      "CP05-LD06",
+      "PR-663"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD07",
+    "is_dual_face": false,
+    "name": "詭弁を弄する堕天司・ベリアル",
+    "alt_names": [],
+    "class": "ナイトメア",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD07",
+    "prints": [
+      "CP05-LD07"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD08",
+    "is_dual_face": false,
+    "name": "六竜の『金』・ガレヲン",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD08",
+    "prints": [
+      "CP05-LD08",
+      "PR-664"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "CP05-LD09",
+    "is_dual_face": false,
+    "name": "水上の巫女・サラ",
+    "alt_names": [],
+    "class": "ビショップ",
+    "card_type": [
+      "リーダー"
+    ],
+    "tribe": [
+      "-"
+    ],
+    "title": "グランブルーファンタジー",
+    "cost": null,
+    "atk": null,
+    "hp": null,
+    "text": "",
+    "keywords": [],
+    "canonical_print": "CP05-LD09",
+    "prints": [
+      "CP05-LD09"
+    ],
+    "evolves_to": [],
+    "evolved_from": [],
+    "advance_forms": [],
+    "advance_base": null,
+    "mentions": [],
+    "mentions_tokens": [],
+    "mentions_by_name_contains": [],
+    "mentioned_from": [],
+    "illustrator": "",
+    "legal_status": null,
+    "crossover_legal_status": null,
+    "min_price": null
   }
 ]

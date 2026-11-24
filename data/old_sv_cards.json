@@ -2,10 +2,10 @@
  "generated_at": "2026-07-15",
  "source": "svgdb.me",
  "count": 4861,
- "in_evolve": 2236,
+ "in_evolve": 2237,
  "match_breakdown": {
-  "exact": 2216,
-  "null": 2625,
+  "exact": 2217,
+  "null": 2624,
   "alias": 19,
   "normalized": 1
  },
@@ -153529,9 +153529,9 @@
      "vo_900041140_4.mp3"
     ]
    },
-   "in_evolve": false,
-   "evolve_oracle_id": null,
-   "matched_by": null,
+   "in_evolve": true,
+   "evolve_oracle_id": "CP05-107",
+   "matched_by": "exact",
    "name_en": "Gran & Djeeta, Eternal Heroes",
    "expansion_en": "Token"
   },
