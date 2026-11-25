@@ -69,7 +69,8 @@ async function onRequest(context) {
     const pageUrl = periodParam ? `${origin}/?period=${encodeURIComponent(periodParam)}` : origin;
     const indexRes = await env.ASSETS.fetch(new Request(`${origin}/index.html`));
     const html = await indexRes.text();
-    return new Response(injectOG(html, { title, description: "", imageUrl, pageUrl }), {
+    const canonical = periodParam ? pageUrl : `${origin}/`;
+    return new Response(injectOG(html, { title, description: "", imageUrl, pageUrl, canonical }), {
       headers: {
         "Content-Type": "text/html;charset=UTF-8",
         // same reasoning as _shared.js serveWithOG: stale HTML points at asset
