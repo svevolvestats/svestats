@@ -1,1 +1,0 @@
-import{r as a,y as o,as as f}from"./index-BeVDza3z.js";function l(s,u,t=null){const[e,n]=a.useState(()=>{if(!s)return u;const r=o(s,null,{session:!0});return r&&r.scope===t?r.value:u});return a.useEffect(()=>{s&&f(s,{scope:t,value:e},{session:!0})},[s,t,e]),[e,n]}export{l as u};
