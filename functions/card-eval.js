@@ -13,6 +13,9 @@ async function fetchJson(url) {
   }));
   return JSON.parse(text);
 }
+function ogShard(id) {
+  return id.toLowerCase().split("-")[0].replace(/[^a-z0-9]/g, "") || "_";
+}
 function upcomingCardImageUrl(card) {
   if (!card?.image_url) return null;
   return `${R2_BASE}/images/upcoming/${card.image_url}`;
@@ -117,6 +120,14 @@ function pickExpansion(crunch, expParam) {
   open.sort((a, b) => (b.release_date || "").localeCompare(a.release_date || ""));
   return open[0] || null;
 }
+async function releasedImage(origin, exp, re) {
+  const slots = Object.values(exp.cells || {}).flatMap((cell) => (cell.slots || []).map((s) => ({ ...s, rarity: cell.rarity }))).filter((s) => s.status === "revealed" && s.kind === "base" && re.test(s.oracle_id || ""));
+  const slot = slots.find((s) => s.rarity === "LG") || slots[0];
+  if (!slot) return null;
+  const id = slot.oracle_id;
+  const shard = await fetchJson(`${origin}/data/og/cards/${ogShard(id)}.json`).catch(() => null);
+  return shard?.[id.toLowerCase()]?.[2] || null;
+}
 async function onRequest(context) {
   const url = new URL(context.request.url);
   const origin = url.origin;
@@ -136,7 +147,8 @@ async function onRequest(context) {
     const re = numRe(exp.expansion);
     const revealed = (upcoming || []).filter((c) => re.test(c.oracle_id || "") && c.rarity && c.image_url && !c.reprint_of && !c.evolved_from);
     const pick = revealed.find((c) => c.rarity === "LG") || revealed[0];
-    const imageUrl = pick ? upcomingCardImageUrl(pick) : null;
+    let imageUrl = pick ? upcomingCardImageUrl(pick) : null;
+    if (!imageUrl) imageUrl = await releasedImage(origin, exp, re);
     return await serveWithOG(context, { title, description, pageUrl, imageUrl });
   } catch {
     return await serveWithOG(context, { title, description: fallbackDesc, pageUrl });
