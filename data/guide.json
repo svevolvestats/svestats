@@ -1,120 +1,11 @@
 {
  "period": {
   "start": "2026-11-02",
-  "end": "2026-11-15"
+  "end": "2026-11-26"
  },
- "total_decks": 408,
- "median_cost": 15841,
- "budget": [
-  {
-   "id": "6187e8",
-   "name": "妖精エルフ",
-   "class": "エルフ",
-   "cost": 10059,
-   "count": 9,
-   "winner": 0,
-   "share": 0.0221,
-   "win_share": 0.0,
-   "min": {
-    "cost": 6830,
-    "deck_id": "GQ6KN",
-    "date": "2026-11-15",
-    "rank": 8,
-    "player": "信者",
-    "friend_code": "QMMCL"
-   }
-  },
-  {
-   "id": "319c51",
-   "name": "宴楽ロイヤル",
-   "class": "ロイヤル",
-   "cost": 11650,
-   "count": 12,
-   "winner": 0,
-   "share": 0.0294,
-   "win_share": 0.0,
-   "min": {
-    "cost": 10990,
-    "deck_id": "2R1W7A",
-    "date": "2026-11-15",
-    "rank": 3,
-    "player": "鮭",
-    "friend_code": "HOVJN"
-   }
-  },
-  {
-   "id": "3a1fad",
-   "name": "宴楽ナイトメア",
-   "class": "ナイトメア",
-   "cost": 11914,
-   "count": 17,
-   "winner": 1,
-   "share": 0.0417,
-   "win_share": 0.0192,
-   "min": {
-    "cost": 10100,
-    "deck_id": "12X9NC",
-    "date": "2026-11-14",
-    "rank": 2,
-    "player": "立",
-    "friend_code": "BOLRM"
-   }
-  },
-  {
-   "id": "587ba8",
-   "name": "八獄ウィッチ",
-   "class": "ウィッチ",
-   "cost": 13578,
-   "count": 24,
-   "winner": 3,
-   "share": 0.0588,
-   "win_share": 0.0577,
-   "min": {
-    "cost": 11590,
-    "deck_id": "2L5DUQ",
-    "date": "2026-11-14",
-    "rank": 3,
-    "player": "柚ノ木ルコト",
-    "friend_code": "MGBTF"
-   }
-  },
-  {
-   "id": "32231b",
-   "name": "ゴブリンナイトメア",
-   "class": "ナイトメア",
-   "cost": 14744,
-   "count": 39,
-   "winner": 4,
-   "share": 0.0956,
-   "win_share": 0.0769,
-   "min": {
-    "cost": 6430,
-    "deck_id": "16FRCG",
-    "date": "2026-11-03",
-    "rank": 6,
-    "player": "koo",
-    "friend_code": "NTTWX"
-   }
-  },
-  {
-   "id": "ecee38",
-   "name": "レヴィオンロイヤル",
-   "class": "ロイヤル",
-   "cost": 15841,
-   "count": 91,
-   "winner": 13,
-   "share": 0.223,
-   "win_share": 0.25,
-   "min": {
-    "cost": 11480,
-    "deck_id": "WZXU8",
-    "date": "2026-11-03",
-    "rank": 4,
-    "player": "床鰻の信者　イサミ　リン",
-    "friend_code": "RPYIN"
-   }
-  }
- ],
+ "total_decks": 588,
+ "median_cost": null,
+ "budget": [],
  "starters": [
   {
    "code": "EBD01",
@@ -133,13 +24,13 @@
    },
    "matches": [
     {
-     "id": "6187e8",
+     "id": "4fa573",
      "name": "妖精エルフ",
      "class": "エルフ",
-     "coverage": 0.411,
-     "kinds": 12,
-     "count": 9,
-     "winner": 0,
+     "coverage": 0.404,
+     "kinds": 13,
+     "count": 17,
+     "winner": 2,
      "key_card": "自然の妖精姫・アリア"
     }
    ]
@@ -172,28 +63,38 @@
    "kinds": 24,
    "cover": {
     "expansion": "EBD03",
-    "image_url": "ebd03-011.webp",
-    "cardno": "EBD03-011",
-    "name": "デッドペナルティ"
+    "image_url": "ebd03-007.webp",
+    "cardno": "EBD03-007",
+    "name": "ストレイホロウ・イルガンノ"
    },
    "matches": [
     {
-     "id": "ec778a",
+     "id": "0e5d10",
      "name": "NCナイトメア",
      "class": "ナイトメア",
-     "coverage": 0.451,
-     "kinds": 10,
+     "coverage": 0.613,
+     "kinds": 12,
+     "count": 4,
+     "winner": 1,
+     "key_card": "ストレイホロウ・イルガンノ"
+    },
+    {
+     "id": "04c778",
+     "name": "コントロールナイトメア",
+     "class": "ナイトメア",
+     "coverage": 0.336,
+     "kinds": 8,
      "count": 3,
      "winner": 0,
      "key_card": "デッドペナルティ"
     },
     {
-     "id": "1d7d92",
+     "id": "89a9f2",
      "name": "ミロエルナイトメア",
      "class": "ナイトメア",
-     "coverage": 0.217,
+     "coverage": 0.212,
      "kinds": 4,
-     "count": 3,
+     "count": 4,
      "winner": 0,
      "key_card": "デッドペナルティ"
     }
@@ -216,13 +117,23 @@
    },
    "matches": [
     {
-     "id": "50764f",
+     "id": "b1e8d9",
      "name": "コントロールビショップ",
      "class": "ビショップ",
-     "coverage": 0.406,
+     "coverage": 0.425,
      "kinds": 9,
-     "count": 4,
+     "count": 7,
      "winner": 1,
+     "key_card": "ダークオファリング"
+    },
+    {
+     "id": "feb942",
+     "name": "クレストビショップ",
+     "class": "ビショップ",
+     "coverage": 0.183,
+     "kinds": 4,
+     "count": 3,
+     "winner": 0,
      "key_card": "ダークオファリング"
     }
    ]
@@ -244,13 +155,13 @@
    },
    "matches": [
     {
-     "id": "ecee38",
+     "id": "fe5069",
      "name": "レヴィオンロイヤル",
      "class": "ロイヤル",
-     "coverage": 0.633,
-     "kinds": 12,
-     "count": 91,
-     "winner": 13,
+     "coverage": 0.634,
+     "kinds": 13,
+     "count": 134,
+     "winner": 22,
      "key_card": "レヴィオンの魔術師・ミイム"
     }
    ]
@@ -266,11 +177,22 @@
    "kinds": 18,
    "cover": {
     "expansion": "SD08",
-    "image_url": "sd08-001.webp",
-    "cardno": "SD08-001",
-    "name": "覇道の竜翼・フォルテ"
+    "image_url": "sd08-017.webp",
+    "cardno": "SD08-017",
+    "name": "オーブキャンサー"
    },
-   "matches": []
+   "matches": [
+    {
+     "id": "2d7e80",
+     "name": "7ドラゴン",
+     "class": "ドラゴン",
+     "coverage": 0.497,
+     "kinds": 10,
+     "count": 4,
+     "winner": 0,
+     "key_card": "オーブキャンサー"
+    }
+   ]
   },
   {
    "code": "CSD03A",
@@ -324,13 +246,13 @@
    },
    "matches": [
     {
-     "id": "a74f3e",
+     "id": "e9b692",
      "name": "学院ウィッチ",
      "class": "ウィッチ",
-     "coverage": 0.268,
+     "coverage": 0.267,
      "kinds": 5,
-     "count": 46,
-     "winner": 6,
+     "count": 55,
+     "winner": 8,
      "key_card": "魔術の始祖・マナリア"
     }
    ]

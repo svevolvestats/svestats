@@ -1,0 +1,46 @@
+{
+  "auto_splits": [],
+  "merges": [
+    {
+      "sources": ["27fc68", "99c762"],
+      "name": "レヴィオンロイヤル"
+    }
+  ],
+  "splits": [
+    {
+      "source": "5c60d9",
+      "rules": [
+        {"required": ["全識の六銘伝・シンラ"], "name": "透京ロイヤル"},
+        {"required": [], "name": "アグロロイヤル"}
+      ]
+    },
+    {
+      "source": "4acfa4",
+      "rules": [
+        {"required": ["遊猟の咎人・アンテマリア"], "name": "八獄ドラゴン"},
+        {"required": [], "name": "ドラゴニュートドラゴン"}
+      ]
+    },
+    {
+      "source": "23cdce",
+      "rules": [
+        {"required": ["混融の継承者・シャム＝ナクア"], "name": "チョイスナイトメア"},
+        {"required": [], "name": "コントロールナイトメア"}
+      ]
+    },
+    {
+      "source": "3532f0",
+      "rules": [
+        {"required": ["ゴールドシップ"], "name": "ゴルシビショップ"},
+        {"required": [], "name": "アグロビショップ"}
+      ]
+    },
+    {
+      "source": "1b7a8f",
+      "rules": [
+        {"required": ["マチカネフクキタル"], "name": "ランプウマ娘"},
+        {"required": [], "name": "横並びウマ娘"}
+      ]
+    }
+  ]
+}

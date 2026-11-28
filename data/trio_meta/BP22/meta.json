@@ -1,6 +1,6 @@
 {
   "context": "BP22",
-  "ref_period": "2026-11-02~2026-11-15",
+  "ref_period": "2026-11-02~2026-11-26",
   "total_decks": 168,
   "total_teams": 56,
   "total_winners": 21,
@@ -10,8 +10,8 @@
   "end_date": "2026-11-26",
   "archetypes": [
     {
-      "id": "9b11cf5d",
-      "source_id": "876545",
+      "id": "f7539b42",
+      "source_id": "e79924",
       "name": "侮蔑ドラゴン",
       "class": "ドラゴン",
       "count": 32,
@@ -27,8 +27,8 @@
       "top8_finish": 32
     },
     {
-      "id": "3763899e",
-      "source_id": "ecee38",
+      "id": "a6cadcc1",
+      "source_id": "fe5069",
       "name": "レヴィオンロイヤル",
       "class": "ロイヤル",
       "count": 32,
@@ -44,8 +44,8 @@
       "top8_finish": 32
     },
     {
-      "id": "a7adf55a",
-      "source_id": "ef27fb",
+      "id": "f8c2d7b8",
+      "source_id": "f2d3fc",
       "name": "守護ビショップ",
       "class": "ビショップ",
       "count": 14,
@@ -61,8 +61,8 @@
       "top8_finish": 14
     },
     {
-      "id": "e9376883",
-      "source_id": "a74f3e",
+      "id": "dad6426a",
+      "source_id": "e9b692",
       "name": "学院ウィッチ",
       "class": "ウィッチ",
       "count": 10,
@@ -78,8 +78,8 @@
       "top8_finish": 10
     },
     {
-      "id": "dca3d660",
-      "source_id": "3a1fad",
+      "id": "d24fcc7f",
+      "source_id": "75161d",
       "name": "宴楽ナイトメア",
       "class": "ナイトメア",
       "count": 9,
@@ -95,8 +95,8 @@
       "top8_finish": 9
     },
     {
-      "id": "8e803ee4",
-      "source_id": "32231b",
+      "id": "9fc01e6a",
+      "source_id": "99ed4f",
       "name": "ゴブリンナイトメア",
       "class": "ナイトメア",
       "count": 9,
@@ -112,8 +112,8 @@
       "top8_finish": 9
     },
     {
-      "id": "4448cd3d",
-      "source_id": "587ba8",
+      "id": "6aacd3fe",
+      "source_id": "e4937d",
       "name": "八獄ウィッチ",
       "class": "ウィッチ",
       "count": 8,
@@ -129,8 +129,8 @@
       "top8_finish": 8
     },
     {
-      "id": "b2856032",
-      "source_id": "319c51",
+      "id": "84d6e8a7",
+      "source_id": "f9c4be",
       "name": "宴楽ロイヤル",
       "class": "ロイヤル",
       "count": 6,
@@ -146,25 +146,25 @@
       "top8_finish": 6
     },
     {
-      "id": "cb4823ad",
-      "source_id": "f1b247",
+      "id": "52d1bbcd",
+      "source_id": "8f58c3",
       "name": "人形エルフ",
       "class": "エルフ",
-      "count": 6,
+      "count": 5,
       "winner": 0,
       "finalist": 0,
-      "top8_share": 0.0357,
+      "top8_share": 0.0298,
       "win_share": 0.0,
       "top_cards": [
-        "パペットインヴァース",
         "プロシードハート・オーキス",
-        "ジャンク"
+        "ジャンク",
+        "人形の支配者・リーアム"
       ],
-      "top8_finish": 6
+      "top8_finish": 5
     },
     {
-      "id": "757104ff",
-      "source_id": "9ff2f0",
+      "id": "59598ab9",
+      "source_id": "ff0be5",
       "name": "横並びウマ娘",
       "class": "ウマ娘 プリティーダービー",
       "count": 5,
@@ -180,8 +180,8 @@
       "top8_finish": 5
     },
     {
-      "id": "bc3c0eb4",
-      "source_id": "ce481a",
+      "id": "0b422617",
+      "source_id": "a07f15",
       "name": "アイドルウィッチ",
       "class": "ウィッチ",
       "count": 4,
@@ -197,8 +197,8 @@
       "top8_finish": 4
     },
     {
-      "id": "0a8967ca",
-      "source_id": "e681a7",
+      "id": "4325fb98",
+      "source_id": "1ed6a2",
       "name": "狩人エルフ",
       "class": "エルフ",
       "count": 4,
@@ -214,8 +214,8 @@
       "top8_finish": 4
     },
     {
-      "id": "72cc9e2a",
-      "source_id": "1adbff",
+      "id": "968200ca",
+      "source_id": "60b9ea",
       "name": "2コスナイトメア",
       "class": "ナイトメア",
       "count": 4,
@@ -231,8 +231,8 @@
       "top8_finish": 4
     },
     {
-      "id": "4453d2e8",
-      "source_id": "d46af4",
+      "id": "65f7b341",
+      "source_id": "4a4129",
       "name": "スペルプリコネ",
       "class": "プリンセスコネクト！Re:Dive",
       "count": 4,
@@ -248,8 +248,8 @@
       "top8_finish": 4
     },
     {
-      "id": "c5d8f597",
-      "source_id": "b856a4",
+      "id": "e3f86eb9",
+      "source_id": "251d00",
       "name": "透京ウィッチ",
       "class": "ウィッチ",
       "count": 3,
@@ -265,8 +265,8 @@
       "top8_finish": 3
     },
     {
-      "id": "45b1c4b5",
-      "source_id": "6187e8",
+      "id": "053eaa25",
+      "source_id": "4fa573",
       "name": "妖精エルフ",
       "class": "エルフ",
       "count": 3,
@@ -282,8 +282,25 @@
       "top8_finish": 3
     },
     {
-      "id": "0b484c12",
-      "source_id": "ec778a",
+      "id": "3adbad8b",
+      "source_id": "e03494",
+      "name": "コンボエルフ",
+      "class": "エルフ",
+      "count": 2,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0119,
+      "win_share": 0.0,
+      "top_cards": [
+        "マドロスエルフ",
+        "不思議な青空・アリス",
+        "爆砕の傭兵・フィーナ"
+      ],
+      "top8_finish": 2
+    },
+    {
+      "id": "e4355f72",
+      "source_id": "0e5d10",
       "name": "NCナイトメア",
       "class": "ナイトメア",
       "count": 2,
@@ -299,8 +316,8 @@
       "top8_finish": 2
     },
     {
-      "id": "826993f1",
-      "source_id": "d7a892",
+      "id": "77528993",
+      "source_id": "3ad383",
       "name": "アグロビショップ",
       "class": "ビショップ",
       "count": 2,
@@ -334,8 +351,8 @@
       "ref_period": "2026-10-05~2026-10-18"
     },
     {
-      "id": "7f8ec944",
-      "source_id": "d60f06",
+      "id": "7a62443e",
+      "source_id": "9492c5",
       "name": "海洋ドラゴン",
       "class": "ドラゴン",
       "count": 1,
@@ -351,8 +368,8 @@
       "top8_finish": 1
     },
     {
-      "id": "6b1b30b0",
-      "source_id": "80f19a",
+      "id": "e2f3c5ac",
+      "source_id": "94983e",
       "name": "八獄ドラゴン",
       "class": "ドラゴン",
       "count": 1,
@@ -368,8 +385,8 @@
       "top8_finish": 1
     },
     {
-      "id": "ca4cce67",
-      "source_id": "1da58d",
+      "id": "fe9f318a",
+      "source_id": "28a7e3",
       "name": "天使ロイヤル",
       "class": "ロイヤル",
       "count": 1,
@@ -385,26 +402,8 @@
       "top8_finish": 1
     },
     {
-      "id": "3e3da4c0",
-      "source_id": "1373ac",
-      "name": "エルフ（〔渚の花嫁〕新田美波・不思議な青空・アリス）",
-      "class": "エルフ",
-      "count": 1,
-      "winner": 0,
-      "finalist": 1,
-      "top8_share": 0.006,
-      "win_share": 0.0,
-      "top_cards": [
-        "〔渚の花嫁〕新田美波",
-        "不思議な青空・アリス",
-        "人形の少女・オーキス"
-      ],
-      "top8_finish": 1,
-      "ref_period": "2026-10-19~2026-11-01"
-    },
-    {
-      "id": "efdbc729",
-      "source_id": "279e93",
+      "id": "ce17f99b",
+      "source_id": "d00f0e",
       "name": "墓場エルフ",
       "class": "エルフ",
       "count": 1,
@@ -438,9 +437,9 @@
       "ref_period": "2026-10-19~2026-11-01"
     },
     {
-      "id": "88f16490",
-      "source_id": "667096",
-      "name": "ナイトメア（混融の継承者・シャム＝ナクア・絶叫と愛絶の顕現・ルルナイ＆ヴァーナレク）",
+      "id": "80e95075",
+      "source_id": "00100b",
+      "name": "チョイスナイトメア",
       "class": "ナイトメア",
       "count": 1,
       "winner": 0,
@@ -452,8 +451,7 @@
         "絶叫と愛絶の顕現・ルルナイ＆ヴァーナレク",
         "叫喚と憎悪"
       ],
-      "top8_finish": 1,
-      "ref_period": "2026-09-14~2026-10-01"
+      "top8_finish": 1
     },
     {
       "id": "4f5abb78",
@@ -474,8 +472,8 @@
       "ref_period": "2026-10-19~2026-11-01"
     },
     {
-      "id": "8ddfafc7",
-      "source_id": "50764f",
+      "id": "419d0f32",
+      "source_id": "b1e8d9",
       "name": "コントロールビショップ",
       "class": "ビショップ",
       "count": 1,
